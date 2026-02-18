@@ -5,7 +5,6 @@ permalink: /u_2point/
 nav: false
 
 toc:
- - name: Applied Knowledge
  - name: Avenger
  - name: Boundless Chakra
  - name: Bruiser
