@@ -7,7 +7,7 @@ first_name: Anchorsify
 middle_name:
 last_name: 
 email: takun.masuko@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: > # the ">" symbol means to ignore newlines until "footer_text:" 
   A homebrew game system set in the world of Naruto.
 footer_text: >
 keywords: jekyll, jekyll-theme, Naruto, Naruto RP, RP, Roleplay, Homebrew, Persistent World, Naruto PW  # add your own keywords or leave empty
