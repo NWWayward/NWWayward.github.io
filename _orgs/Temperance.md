@@ -399,7 +399,7 @@ Any Katon or Doton technique can be converted to Yoton as a Chakra +5, Speed +0 
  - Yoton may increase Corrosion to a maximum of CHA/5
  - Yoton's damage is reduced by 50% less from Blocking, normally to 0.
  - Yoton-Converted Katon gain +1 to their Base Speed per Rank, and +1d* to their Damage per Rank (E = 1, D = 2, etc).
- - Yoton-Converted Katon do not inflict Ignite. Non-Environmenral Yoton Converted Katon instead inflict Stun equal to the Ignite they would have inflicted.
+ - Yoton-Converted Katon do not inflict Ignite. Non-Environmental Yoton Converted Katon instead inflict Stun equal to the Ignite they would have inflicted.
  - Yoton-Converted Doton that would inflict Immobilize instead inflict Ignite equal to the Immobilize they would have applied. This ignite fades normally, even if the immobilize would have a different duration. For environmental effects that apply an Immobilize Penalty in the area, this ignite is applied again once per consecutive 20 IC they stay within the effected area, after taking damage from ignite that IC (if applicable).
  - 
 Yoton-converted Doton does not remove Gallons of water from the battlefield.
