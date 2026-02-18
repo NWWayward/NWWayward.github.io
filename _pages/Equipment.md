@@ -417,7 +417,6 @@ You may also drop a flash bomb when Dodging as a Speed +4 Link.  Used in this wa
  -  Cost: 50 Ryo
  - Tags: Consumable
 
-
 ##### Lantern
 An iron lantern with a shutter. It needs oil to keep burning. Mirrors inside of the casing help shape the light. It can also be turned off by closing the shutter, but this swallows the light and will need to be relit.
 
