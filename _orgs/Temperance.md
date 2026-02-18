@@ -6,6 +6,7 @@ nav: false
 
 toc:
  - name: Hozuki (Primal Sea)
+ - name: Hitori (Summer)
  - name: Monkasei (Primal Earth, Noble)
  - name: Senju (Spring, Noble)
  - name: Terumi (Autumn, Noble)
@@ -80,6 +81,63 @@ Putting their hydration into practical, but less-extreme use, a Hozuki can force
  - Tags: Preparation
 
 Effects: This increases your Physical Damage Bonus by X, to a maximum of CHA/30. This bonus is doubled against inanimate objects, up to and including ninjutsu-made walls, such as Earth Shore Return, though it never is doubled against people.  This technique’s effects are suppressed whenever you liquify via the Hydration technique, and this cannot be used while Suika no Jutsu is active.
+
+## Hitori (Summer)
+Originally, the Hitori and the Temperance were enemies. They were so powerful, that they felt they did not require a Kyosha. However, as the chakra suppressing power of the Way of Sun and Moon threatened them, they needed to find people who would protect them, and fast. Unfortunately, they burned most of their bridges, and were reluctant to ally with the Temperance, but after being shown their kindness and generosity, accepted their friendship.
+
+**Hitori begin with 1 less Unique Point.**
+ 
+Hitori begin with Elemental Aptitude for Fire and Wind ninjutsu, along with the first rank of Elemental Affinity: Shakuton, which includes Katon and Fuuton.
+
+#### -=[ Shakuton - Scorch Release ]=-  
+Combining Fire and Wind chakra results in the advanced nature of ‘Scorch Release’; as the name suggests, it involves using extreme heat as a weapon, with powerful users being able to reduce opponents to ash or evaporate the liquid inside their body, sapping away their strength.
+
+Any Katon or Fuuton technique can be converted to Shakuton as a Chakra +5, Speed +0 link, with the following changes:   
+ - Deal 75% normal damage, but can not be blocked
+ - They gain +CHA/30 to their Accuracy
+ - Inflict a Dehydration status of severity (1 per Rank of the jutsu) + CHA / (90 - 10*Rank). In other words, for an E-Rank this is 1+CHA/80, for a D-Rank it is 2+CHA/70, and so on, up to 5+CHA/40 for A-rank techniques
+ - Shakuton can increase a victim’s Dehydration status up to a maximum of 3+(CHA/8)
+ - Shakuton can not inflict Burns or Ignite
+ - Fuuton converted to Shakuton may not be used with a Fan.
+ - Any Ignite a technique would normally inflict instead adds +5% to Wounding per severity of Ignite
+ - Any jutsu converted with an inherent bonus to Wounding instead applies a Stun of (Wounding Bonus%)/20, rounded down
+ - Shakuton techniques can not be reduced below Speed 5, after all other modifications
+
+ Shakuton is weak to Suiton, and strong against Fuuton and Doton
+
+###### --( Dehydration )--
+This is a Status Effect, applied on hit. Every point of Dehydration applies a -1 penalty to the victim’s Stamina rolls, and lowers the victim’s Physical Damage Bonus by 0.3.  Dehydrate stacks fully with itself; Dehydration 3 added to Dehydration 2 makes a single Dehydrate 5 status, which applies a -5 to Stamina, and a -1.5 to their PDB.  Dehydrate from the same source (person) stacks fully with itself; if you suffer Dehydrate from different people, only the highest severity applies.
+
+There is one exception: Dehydrate’s Stamina penalty does not stack with Burns, and if you happen to be suffering from both status effects, you take the higher of the two, rather than both, to Stamina rolls: If you were suffering from Dehydration 2, and received a Burns 3, your Stamina penalty would be -3, and your PDB penalty would be -0.6. If you then cleared your Burns status, the Stamina penalty would lower to -2.  
+
+Any effects which reduce Stamina penalties reduce the severity of your Dehydration by the same amount. However, unlike Burns, Dehydrate is not cleared when failing a fatigue roll, and instead it is only reduced by half (rounding up) of its original value.
+
+Outside of battle, this status effect goes away at a rate of one per minute.
+
+#### --( Kasou no Jutsu - Cremation Technique )--  
+You focus your chakra on a victim, and simply light them ablaze.
+
+ - Type: Shakuton Ninjutsu, Rank C
+ - Chakra: 20
+ - Range: CHA/2
+ - Speed: 15
+ - Special: X Ignite + Special
+
+Effects: This technique ignores the normal rule that Shakuton can not inflict Ignite; X is the victim’s Dehydration status (and thus, if you use it on someone without it, this technique has no effect), and does enjoy Shakuton’s typical +CHA/40 Accuracy.  Your target’s Dehydrate status is removed (after applying the Ignite) if they pass a status roll; if they fail, then their Dehydrate status is instead only lowered by half, rounding up.
+
+In addition to the Ignite, your target suffers a penalty to their Resistance equal to X, which doesn't go away until the Ignite itself does.
+
+#### -- ( Sabaku no Keshin - Incarnation of Desert )--
+You project your chakra out across the battlefield, with devastating results.  The temperature rises, plants begin to wilt and wither, and hopefully nothing nearby is particularly combustible.
+
+ - Type: Shakuton Ninjutsu, Rank B
+ - Chakra: 30
+ - Upkeep: 6
+ - Speed: 16
+ - Area: Ninjutsu Damage Bonus * 2
+ - Tags: Area of Effect, Environmental
+
+Effects: Everyone within the range except you has their Dehydrate status increased by 1+(CHA/50) when you activate this technique, and every 10 IC afterward, so long as you maintain its Upkeep.  Anyone within the area (which moves with you) with a Dehydration status (again, except you) takes a penalty to their Chakra Exhaustion rolls equal to their Dehydrate status, and has their Ninjutsu Damage Bonus lowered by 0.3 per point of Dehydration they have; this penalty remains until they leave the area (or remove their Dehydration status).
 
 ## Monkasei (Primal Earth, Noble)
 The Monkasei and the Senju are shapers of Earth. They were one of the original founders of the Temperance and built all of their temples within the Mountaintops. Dedicated to making the world a better place, they often make battlefields a living nightmare to fight in. Once the Hitori joined the Temperance, it was not long before the war needed to stop because their combination left crippling losses to all sides but their own. [This clan is Noble]
