@@ -1,7 +1,7 @@
 ---
 layout: distill
 permalink: /Temperance/
-title: The Way of Sun and Moon
+title: The Temperance
 nav: false
 
 toc:
