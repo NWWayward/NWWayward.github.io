@@ -572,7 +572,7 @@ If you choose to use a technique against which their reaction is invalid (such a
 
 Techniques with a Delay can be used normally after declaring Foresight, but Foresight does not prevent or negate the Delay, meaning in all cases their defensive response would be invalid (because of the Delay itself), and Foresight would not benefit the action any further after the Delay is finished and the action resolves (though it would still incerease its Fatigue cost(s)).  Techniques with a final Seal Speed greater than the rank of the jutsu used with it (E = 1, D = 2, etc) that you use Foresight with prevent you from using Principle of Motion (or effects which act like it, such as Tactician) to reduce when you next act, until your next non-interrupt action.
 
-## Yamanaka (Moon)
+## Yamanaka (Sun)
 With people working together to understand Ninshu, it was only a matter of time before the Yamanaka clan would be recognized as masters of the mind and soul. They are revered as seekers and messengers of truth, and were even contracted by other Kyosha for their interrogative abilities. As invaluable members of the Way of Sun and Moon, they represent the Light of Truth.
 
 #### --( Sasayaki Kantoku no Jutsu - Whispering Oversight Technique )--
