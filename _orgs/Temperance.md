@@ -468,12 +468,12 @@ The Raikoga believe that the uniting of paths and clans will lead to the degrada
 #### -–( Kiryu - Energy Flow )–-
 The cornerstone of the Yotsuki Clan's power, this cloak absorbs elemental energy from attacks or the environment, granting resilience and adapting its properties to reflect the absorbed element. The user glows faintly with the hue of the absorbed chakra, striking an imposing figure in combat. This technique is the foundation for all subsequent Elemental Cloak abilities.
 
-Type: Ninjutsu, Rank D
-Speed: 10
-Chakra: 15
-Upkeep: 5
-Special: If you have Affinity with all active Elements, -3 Upkeep
-Tags: Preparation, Nintaijutsu
+ - Type: Ninjutsu, Rank D
+ - Speed: 10
+ - Chakra: 15
+ - Upkeep: 5
+ - Special: If you have Affinity with all active Elements, -3 Upkeep
+ - Tags: Preparation, Nintaijutsu
 
 Effects:  Select one element you have Aptitude for when you activate this technique: Your body becomes attuned to that element while you maintain it, causing an aura of that element to wreathe their body, protecting and empowering them.  You become immune to all non-environmental Status Effects from that element, reduce damage taken from that element by 25%, and cause your unarmed attacks to be considered the element chosen for the purposes of elemental interactions, as well as a bonus based on your chosen element:
 
