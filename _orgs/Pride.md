@@ -494,12 +494,6 @@ If you wish, you may suppress activation of these modifications. Suppressing any
 ## Kairaishi
 Of course, while there were sword smiths, there were also armourers. Skilled carpenters and craftsmen that had the idea of ‘Wait a second, what if the armor fought itself?’ But originally, it wasn’t that simple. The Kairaishi’s story begins far before that, when they were simply a nomadic tribe that made these warriors as tools to construct their settlements and harvest their crops. It wasn’t until they had to defend themselves that they were designed to be weapons. In the beginning, it was seen as sacrilege and now it’s just required. The Kairaishi joined the pride so that perhaps one day their weapons would only need to be tools once more.
 
-Not actually a clan at all, Kairaishi is a term reserved for those in Suna who embrace a specific method of fighting: manipulation of weaponized puppets.
-
-Learning to do so takes years of training, and with the exception of a handful of geniuses every few generations takes up almost all of one's free time during their academy years. Most puppeteers learn everything they know being mentored by a master of the art, who will typically take only one student at a time.
-
-One of the greatest assets of puppeteers is their ability to essentially multiply their forces on the battlefield. A skilled puppeteer can control several human-sized puppets at once, potentially tipping the numbers in their side's favor.
-
 **Kairaishi begin with 1 less Unique Point.**
 
 #### --( Kugutsu Henge no Jutsu - Puppet Transformation Technique )--
