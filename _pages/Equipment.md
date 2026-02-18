@@ -136,6 +136,20 @@ Originating from a small island off the shore of fire country, the tonfa began a
 - Speed: 10
 - Special: +1 to Parry, and you can parry unarmed attacks with a Tonfa.  You may block weapon attacks and reduce their damage by 50% (rather than the normal 25%), though after doing so three times, the Tonfa breaks.
 
+###### Tsubasa (Large, Blunt, Fan, Polearm, Two-Handed, Umbrella)
+This complicated weapon looks like a lance with a sail attached to it. In a slick movement, the shinobi fits a brace around their chest and pulls a cord to deploy a sort of fan that allows them to glide. Though in it's lance form, it has it's own uses.
+
+ - Cost: 600 Ryo
+ - Stamina: 19
+ - Damage: 14d12
+ - Accuracy: -3
+ - Speed: 20
+ - Special: You may Block as a Speed 6 Interrupt with a Tsubasa; when used this way, both you and the Tsubasa take the (reduced, by blocking) damage from the attack. Tsubasas have 500 Durability; once it has taken that much daamge, it breaks.  Villages do not bother to repair broken weapons (and will not replace or repair them if bought with Savings), but can repair them if they have Durability remaining.
+
+ While Mounted, moving while you attack with the Tsubasa has no accuracy penalty, since you are using it as a Lance.  Stationary attacks still have the penalty. If your attack's final Speed is 20 or higher, you gain +150% Wounding to attacks made with this weapon.
+
+ While falling, you can deploy the sail as a Speed 6 action which will allow you to slow your fall sufficiently to avoid taking any damage or injuries from it, regardless of height. 
+
 ###### Umbrella (Blunt)
 Yes, umbrellas. Ones used in combat are reinforced with metal or hard wood, making them semi-decent bludgeoning weapons, and most have a sharp, pointed tip added at the end.
 
@@ -320,6 +334,19 @@ A large bow, generally bigger than its wielder at six feet or so high. The upper
 - Speed: 20
 - Special: The bow uses double your damage bonus. Using a bow always takes two hands. You may take a Speed 10 Aim action which gives the attack +4 Accuracy. You may Aim up to twice for a single attack. If you have to take any action which requires movement (including dodging), you lose the benefits of your aim.
 
+##### Bow, Recurve Hunting
+Shinobi really never saw a purpose for shooting a bow quickly because of how much stamina was required for the draw. Plus, they weren't looking at killing a target in several shots, but rather, one big shot and ending the fight quickly. This bow is designed for hunting, but with the horses used in the warring states era, the tactics evolved to incorporate these bows to specifically be used on the backs of horses. A small bow with a tight string, although with less range, they fire several shots with terrifying precision.
+
+ - Cost: 300 Ryo
+ - Stamina: 10
+ - Damage: (STR/6) dice; dice size determined by arrow
+ - Accuracy: -2
+ - Range: STR /3
+ - Speed: 9
+ - Special: Consecutive hits against the same target cause follow-up attacks with this weapon to gain increased Wounding, gaining +20% per hit, up to a maximum of +100% (after 6 hits), which lasts until you miss a shot, perform an attack without utilizing this weapon, or use a Weapon Taijutsu with this weapon, which gains the bonus Wounding percentage to its damage, but then resets it back to +0% afterward.  Combat Acupuncture and Surgical Precision can be used with this weapon.
+
+ While Mounted, you have +2 Accuracy against unmounted targets and ignore the Mounted penalty to Accuracy.
+
 ##### Bow, Yumi
 Technically, it's called a hankyu, and kyudo practitioners would be horridly offended to hear shinobi calling all bows of this sort 'yumis'. However, ninja hardly care! The yumi is a much smaller bow, typically not more than four feet long.
 
@@ -342,6 +369,12 @@ Arrows with narrow steel tips that excel in penetrating armor and the like. Thes
 
 - Cost: 50
 - Damage: d8
+
+##### Arrow, Feather (Piercing)
+A simple arrow that is easily mass-produced and carries well through the air, but lacks the higher quality of other types that allow them to punch harder into, and sometimes through, targets.
+
+ - Cost: 10 Ryo
+ - Damage: d6
 
 ## Ninja Tools
 ##### Blank Scroll
@@ -384,6 +417,17 @@ You may also drop a flash bomb when Dodging as a Speed +4 Link.  Used in this wa
  -  Cost: 50 Ryo
  - Tags: Consumable
 
+
+##### Lantern
+An iron lantern with a shutter. It needs oil to keep burning. Mirrors inside of the casing help shape the light. It can also be turned off by closing the shutter, but this swallows the light and will need to be relit.
+
+ - Cost: 40 Ryo
+
+##### Oil Flask
+A small wooden flask of oil used to light a lantern. It can be thrown at someone as a Taijutsu attack which deals no damage but applies the Oil to them as a Speed 5 action, increasing the next Ignite they take by 1, which does not stack with repeated applications; if thrown on someone already on fire, it increases their existing Ignite status by 1 (which can be applied repeatedly). One Flask offers 4 lightings of a lantern or burnable source. However, throwing it consumes it all.
+
+ - Cost: 25 Ryo
+
 ##### Ninja Wire
 High tension 16-gauge wire. It is generally only available in ninja villages, and comes in spools with various lengths of wire.
 
@@ -397,6 +441,16 @@ You can tie someone up with ropes. If so, roll Espionage +10 to see how good you
 You can also attempt to snap the ropes using brute force. This calls for a roll of 1d20 + (Athletics /5) + (STR /10) against a target of 30, requires a Stamina 25 roll, and is done instantly, but repeated attempts cannot be made (either you're strong enough to break the ropes, or you're not).
 
  - Cost: 10 Ryo per 5 yards.
+
+##### Plague Mask
+A leather mask filtered with thatch containing herbs that are good for breathing fresh air and blocking air poisons and smoke. You will need to replace these Spice Pouches in order to keep yourself preserved. It is not air tight, and does nothing to help you breathe underwater. When wearing the mask, you have -4 to Stamina checks due to the effort required to breathe through it.
+
+ - Cost: 200 Ryo
+
+##### Spice Pouch
+Sharp smelling herbs to be put inside of a Plague Mask. They last and hardly need to be replaced. Each pouch only needs to be replaced once every 3 hours.
+
+ - Cost: 25 Ryo
 
 ##### Smoke Bomb
 Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke with an Area of 5 that applies a -6 Visiblity Penalty within its area, for 20 IC.
@@ -444,40 +498,12 @@ The vast majority of flares are projectiles, with built-in propellant. Aimed upw
  - Cost: 40 Ryo
  - Tags: Consumable
 
-##### Flashlight
-Flashlights are popular because ninja like to be able to see in low-light environments! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching.
-
-Flashlights have a battery life of about half an hour. A spare set of batteries (for another half hour of use) costs 20 Ryo, and are considered to have the 'Consumable' tag, though the Flashlight itself does not.
-
- - Cost: 40
-
-##### Glow Stick
-A transparent small (around six inches long, usually) cylinder filled with chemicals that, when mixed, glow brightly. A swift blow to the stick (usually striking it against one's knee; simply bending it with enough force will also work) will shatter the internal glass dividers, mixing the chemicals and producing a pleasing illumination.
-
-A glow stick will glow for about an hour; it cannot be turned off once activated, short of breaking it completely and letting the luminescent fluid inside it drain out (in which case you just have a glowing puddle). They're available in a variety of colors, with the most popular ones being green and blue.
-
- - Cost: 20
- - Tags: Consumable
-
 ##### Map
 A map of a given country. It's usually a really, really good for at least one person on every ninja team to have a map of any country they expect to be going through. These have only basic information about terrain, landmarks, and settlements.
 
 Maps come with scroll cases for ease and safety of transportation. A map gives a +4 bonus to any Survival rolls made in the appropriate country, within reason (they would help tracking someone, or finding shelter, but not exploring the inside of a cave).
 
  - Cost: 50 Ryo
-
-##### Oxygen Mask
-This is a small 'mask' that covers the wearer's mouth and nose, and is held in place by elastic bands which form an airtight seal. Rather than filtering air out, it has two possible fixtures (usually one on each side of the mouth) for an oxygen tank to be attached. When wearing the mask, the user has a -3 penalty to all Stamina rolls, as it takes a slight effort to breathe through it. Putting this on in combat is a Speed 5 action.
-
-Wearing an oxygen mask with at least tank attached makes the wearer immune to external suffocation penalties (being inside an unbreathable cloud would not affect them; being physically choked would) and provides a +8 bonus to Resistance rolls against statuses that would be inflicted by breathing something in (such as poison mist); the mask is not perfectly air-tight.
-
- - Cost: 200 Ryo
-
-##### Oxygen Tank
-Tanks of compressed, breathable air, usually strapped to one's back. They're basically useless by themselves, but each comes with a hose that can be attached to an oyxgen mask. Each tank provides 30 minutes of breathable air.
-
- - Cost: 100 Ryo per tank
- - Tags: Consumable
 
 #### Infiltration
 ##### Camouflage Kit
@@ -486,19 +512,6 @@ Everything you need to blend in with the environment, like a truly sneaky ninja.
 Using a kit takes 15 minutes, and is enough to conceal a person at level 3 Stealth; the stealth roll is made after they're fully hidden. The exact contents are fairly nonspecific, but regardless, each kit is good for only one use.
 
  - Cost: 150 Ryo
- - Tags: Consumable
-
-##### Camera
-Cameras are rare devices, and ones suited for use by ninja even more so. Styles vary, but they are all small, and usually handheld. However, they are large enough that they cannot be effectively concealed while in use. The exact designs may vary greatly, though Sunagakure is fond of a model worn like a circlet on the head, with the lens covering one eye.
-
-Most models include a flash that allows blurry pictures to be taken in the dark. Each image uses a single piece of film, acquired separately. Facilities to develop the film are rare, but exist in all major shinobi villages, along with trained staff who will do so overnight for urgent matters, or within a week for personal needs.
-
- - Cost: 750 Ryo
-
-##### Camera Film
-These are specially treated, light-sensitive pieces of paper. Due to the lack of standardization among models, pieces of film generally cannot be exchanged from one camera to another. These are usually stored inside the camera itself; if exposed to light before capturing an image they become useless, though afterwards there will be no effects from direct light on the paper.
-
- - Cost: 50 Ryo
  - Tags: Consumable
 
 ##### Grappling Hook
@@ -513,17 +526,6 @@ A set of small tools, easily carried in a pocket, used for opening locks in abse
 
  - Cost: 100 Ryo per +1
  - Tags: Consumable
-
-##### Ninja Comm Device
-The pinnacle of technological advancement in the ninja world, these are small wireless radios. They're typically worn as headsets with an ear insert and a microphone held suspended near the wearer's mouth. Normal comm devices can be tuned to transmit and receive on any of a dozen frequencies by the user, allowing any set of devices to be synchronized with one another. Though each village also has a few sets of specially made comm devices built to operate on "secure" frequencies, these are not typically given to shinobi on missions.
-
-Commonly used in missions that require precise coordination or infiltration, these always receive, and are touch-activated to broadcast. They have a range of half a mile.
-
-Be aware that while these are generally a secure means of communication, it's (theoretically) possible for enemies to find your frequency if you're making continual use of the comms, they know you're using them, and they're actively trying to do so.
-
-If you suffer a Major or greater Head wound while wearing a comm device, it breaks as a result of the damage. A comm device broken this way is too badly damaged to be repaired, and will need to be replaced.
-
- - Cost: 500 Ryo ; 1000 Ryo for 2-mile radius
 
 ##### Telescope
 A small pocket telescope, which telescopes out from two inches to close to six. It allows you to effectively see what's going on up to five hundred yards away, and read reasonably sized text (assuming you have clear line of sight) up to a hundred yards away. Mechanically, this means that any Awareness rolls at a distance up to its maximum (to, say, see when a guard leaves his post) have no penalty.
