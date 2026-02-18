@@ -7,7 +7,7 @@ nav: false
 toc:
  - name: Aburame (Moon)
  - name: Hyuuga (Sun, Noble)
- - name: Juuyo Suto (Sun)
+ - name: Juugo Suto (Sun)
  - name: Nara (Moon)
  - name: Niou (Moon)
  - name: Uchiha (Moon, Noble)
