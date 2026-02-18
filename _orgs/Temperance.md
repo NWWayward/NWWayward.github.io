@@ -475,8 +475,7 @@ The cornerstone of the Yotsuki Clan's power, this cloak absorbs elemental energy
  - Special: If you have Affinity with all active Elements, -3 Upkeep
  - Tags: Preparation, Nintaijutsu
 
-Effects:  Select one element you have Aptitude for when you activate this technique: Your body becomes attuned to that element while you maintain it, causing an aura of that element to wreathe their body, protecting and empowering them.  You become immune to all non-environmental Status Effects from that element, reduce damage taken from that element by 25%, and cause your unarmed attacks to be considered the element chosen for the purposes of elemental interactions, as well as a bonus based on your chosen element:
-
+Effects:  Select one element you have Aptitude for when you activate this technique. Your body becomes attuned to that element while you maintain it, causing an aura of that element to wreathe their body, protecting and empowering them.  You become immune to all non-environmental Status Effects from that element, reduce damage taken from that element by 25%, and cause your unarmed attacks to be considered the element chosen for the purposes of elemental interactions, as well as a bonus based on your chosen element:  
 
  - **Doton**:   You gain (8 + NDB) * (1 + X) Damage Reduction, and all of your non-grapple unarmed attacks that are unaffected by partial success cause the target to be knocked prone. If you attack someone who is prone, your non-grapple unarmed attacks also gain the Damage Reduction from this feature as added damage to your attack.
  - **Fuuton**:  Whenever you succeed on an unarmed parry, you deal (NDB + X) * (Parry’s final Speed) damage back to the attacker automatically, and can elect to knock them away from, or pull them toward, you (NDB + X)/2 yards.
