@@ -405,7 +405,7 @@ Azure Flame Eruption inflicts 4+X Corrosion, rather than 4.
 Within its Area, all other environmental effects are removed and replaced by sulfurous fumes. Every 10 IC that someone spends within the fumes adds a Suffocation 1 status to them.
 
 ## Yotsuki (Balance)
-The Yotsuki Clan of Kumogakure embodies the fierce spirit of the Land of Lightning, utilizing the harshest of the natural elements around them to empower their own bodies and attune themselves to the elements in ways no one else can.  While the most prolific utilization of this clan Raiton-based, Yotsuki make use of all elements.  
+The Raikoga believe that the uniting of paths and clans will lead to the degradation of their legacy and watered down traditions. Though there are some who believe that the Tribunal is a good cause for the threats that the shinobi world face. Though some of them are outcasts, they climbed the mountains and sought shelter with the Temperance Monastery. It was there they were given a warm welcome and received additional training and perspective. Although this is a sect of the Yotsuki that is no longer with the precursor lightning country, their growth through coexistence has cause them to flourish.
 
 #### -–( Kiryu - Energy Flow )–-
 The cornerstone of the Yotsuki Clan's power, this cloak absorbs elemental energy from attacks or the environment, granting resilience and adapting its properties to reflect the absorbed element. The user glows faintly with the hue of the absorbed chakra, striking an imposing figure in combat. This technique is the foundation for all subsequent Elemental Cloak abilities.
