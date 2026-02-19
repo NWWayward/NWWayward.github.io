@@ -72,3 +72,5 @@ The first time you use any specific action in a given battle, that action gains 
 You may spend 10 AP to replace an action's Accuracy (or convert its existing accuracy roll) into an accuracy roll using 2d20kh1 (roll two dice, keep the higher one) in place of 1d20. You can shout advice or instructions, or just pointers about your enemies and the battlefield, to allies, to give them an edge: as a Speed 0 action, you can switch your current place in the initiative order with a willing ally's, allowing them to act immediately and delaying your next action to the previous location of theirs. This costs 2 AP per IC away their action is, and may not be used on a stunned ally.
 
 You may spend 1 Willpower to lower the cost to 1 AP per IC for one use.
+
+*Upgrades From: Insidious*

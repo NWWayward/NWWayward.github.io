@@ -113,16 +113,6 @@ This creates an illusion that can fool a person's sight, hearing, or smell--or, 
 Effects: By default, this creates an illusion that only applies to one sense; examples would be an illusion of a curtain flapping in a breeze, or the sound of footsteps. By raising the chakra cost by 5, the illusion can apply to two senses, such as a tiger that crouches and snarls. Raising the chakra cost by 10 (to a total of 20) allows the illusion to be convincing to all three, such as a fire that flickers, crackles, and smells like burning wood. This technique's primary limitation is its scale. It can't do anything much larger than a large piece of furniture or more complicated than one person. Anyone who interacts with this illusion is allowed a Genjutsu roll to realize it's a fake, though some things can make this obviously fake, such as touching it or standing at the 'source' of the noise and realizing there's nothing there. You can control this illusion if you're in range; if not, you can set it to be essentially a looping recording.
 
 ## C-Rank
-#### --( Gosaru Tatari - Five Monkey Curse )--
-This technique interferes with the victim's ability to see, hear, smell, taste, and feel pain. Admittedly, the last one's an undesirable addition to the mix (in most circumstances), butthe technique makes up for that with its all-around usefulness.
-
- - Chakra: 22
- - Range: 25
- - Speed: 12
- - Seal Speed: 14
-
-Effects: This negates all ranks the victim has in Enhanced Hearing and Enhanced Sight, and any abilities dependant upon them (such as Blind Fighting or Genjutsu Awareness). Their reduced sensory perception allows them to ignore the penalties of any Minor wounds they may be suffering from, which also means that minor wounds will not break any other genjutsu applied to them (including this one) while this genjutsu persists.
-
 #### --( Kyousanken no Jutsu - Iron Curtain Technique )--
 The user places themself under a harmless genjutsu, which itself serves no purpose but makes it more difficult for other genjutsu to affect you normally.
 
@@ -197,6 +187,16 @@ Additionally, while any stamina or CE penalties (e.g. Minor Blunt Abdomen wound 
 Brain Destruction wounds do not break other genjutsu (as is normal), however, Brain Destruction wounds will break if they are wounded from another source, and will break themselves from repeated applications: If you use Brain Destruction on someone who already has a wound from Brain Destruction, the old wound goes away and is replaced by the new wound when affected by this technique again, which applies both from the same source, and from separate ones (multiple people can't each apply this technique to one person).
 
 ## B-Rank
+#### --( Gosaru Tatari - Five Monkey Curse )--
+This technique interferes with the victim's ability to see, hear, smell, taste, and feel pain. Admittedly, the last one's an undesirable addition to the mix (in most circumstances), butthe technique makes up for that with its all-around usefulness.
+
+- Chakra: 32
+- Range: 25
+- Speed: 18
+- Seal Speed: 16
+
+Effects: This negates all ranks the victim has in Enhanced Hearing and Enhanced Sight, and any abilities dependant upon them (such as Blind Fighting or Genjutsu Awareness). They also suffer a -2 visibility penalty (which stacks with any other visibility penalties they may have). Their reduced sensory perception allows them to ignore the penalties of any Minor wounds they may be suffering from, which also means that minor wounds will not break any other genjutsu applied to them (including this one) while this genjutsu persists.
+
 #### --( Nemurihane - Sleep Feather )--
 An advanced version of Nemuri, this causes the subject to briefly see illusory feathers drifting down around them before they succumb to sleep. It's no more useful in combat, but it can actually be used at a range, or from hiding.
 
