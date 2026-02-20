@@ -451,7 +451,7 @@ You can also attempt to snap the ropes using brute force. This calls for a roll 
  - Cost: 10 Ryo per 5 yards.
 
 ##### Plague Mask
-A leather mask filtered with thatch containing herbs that are good for breathing fresh air and blocking air poisons and smoke. You will need to replace these Spice Pouches in order to keep yourself preserved. It is not air tight, and does nothing to help you breathe underwater. When wearing the mask, you have -4 to Stamina checks due to the effort required to breathe through it.
+A leather mask filtered with thatch containing herbs that are good for breathing fresh air and blocking air poisons and smoke. You will need to replace these Spice Pouches in order to keep yourself preserved. It is not air tight, and does nothing to help you breathe underwater. When wearing the mask, you have -4 to Stamina checks due to the effort required to breathe through it.  Putting one on in combat is a Speed 5 action.
 
 Wearing an plague mask with a still-fresh spice pouch makes the wearer immune to external suffocation penalties (being inside an unbreathable cloud would not affect them; being physically choked would) and provides a +8 bonus to Resistance rolls against statuses that would be inflicted by breathing something in (such as poison mist); the mask is not perfectly air-tight.
 
