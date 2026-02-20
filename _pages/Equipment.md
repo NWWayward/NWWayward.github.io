@@ -11,6 +11,7 @@ toc:
  - name: Ranged Weapons
  - name: Ninja Tools
  - name: Poisons
+ - name: Mounts
  - name: Rank Gear
 ---
 
@@ -414,8 +415,16 @@ Flash bombs are devices which, when ignited, produce brilliant flashes of light.
 
 You may also drop a flash bomb when Dodging as a Speed +4 Link.  Used in this way, the Flash Bomb's Area is centered on (but does not affect) you, and applies its Visiblity Penalty to the attacker (modifying their attack's Accuracy accordingly), but applies only to that roll (rather than for 10 IC).
 
- -  Cost: 50 Ryo
+ - Cost: 50 Ryo
  - Tags: Consumable
+
+##### Instrument
+A wood-wind, string, or drum made of high-quality materials that are actually capable of conducting not just the sounds made with them, but chakra along with them, allowing for techniques to be carried by sound in ways they could not ordinarily be with one's voice (or chakra) alone.  In combat they follow the normal rules for handling weapons (drawing, sheathing, etc), and are **always** considered two-handed (meaning things that prevent you from using two-handed weapons, or interact with them, such as grapples or wounds, apply to them likewise).
+
+Instruments, regardless of their specific type, allow you to convert the normal Chakra cost of a Genjutsu into an equivalent Stamina cost, +5. In doing so, you remove the Seal Speed of the Genjutsu, but add its modified Seal Speed to the Genjutu's base Speed, along with an equivalent amount of Delay (Seal Speed 3 becomes +3 Speed, Delay 3).  By default, only Genjutsu with the Area of Effect tag can be converted by an Instrument in this way, though in so doing it also allows you to make your Genjutsu distinguish between allies and enemies for who it will and will not affect.
+
+ - Cost: 125 Ryo
+ - Tags: Instrument
 
 ##### Lantern
 An iron lantern with a shutter. It needs oil to keep burning. Mirrors inside of the casing help shape the light. It can also be turned off by closing the shutter, but this swallows the light and will need to be relit.
@@ -423,7 +432,7 @@ An iron lantern with a shutter. It needs oil to keep burning. Mirrors inside of 
  - Cost: 40 Ryo
 
 ##### Oil Flask
-A small wooden flask of oil used to light a lantern. It can be thrown at someone as a Taijutsu attack which deals no damage but applies the Oil to them as a Speed 5 action, increasing the next Ignite they take by 1, which does not stack with repeated applications; if thrown on someone already on fire, it increases their existing Ignite status by 1 (which can be applied repeatedly). One Flask offers 4 lightings of a lantern or burnable source. However, throwing it consumes it all.
+A small wooden flask of oil used to light a lantern. It can be thrown at someone as a Taijutsu attack, Range 10, which deals no damage but applies the Oil to them as a Speed 5 action, increasing the next Ignite they take by 1, which does not stack with repeated applications; if thrown on someone already on fire, it increases their existing Ignite status by 1 (which can be applied repeatedly). One Flask offers 4 lightings of a lantern or burnable source. However, throwing it consumes it all.
 
  - Cost: 25 Ryo
 
@@ -464,6 +473,12 @@ These pills are essentially just condensed stimulants and nutrients; taking one 
 
  - Cost: 250 Ryo
  - Tags: Consumable
+
+##### Sound Pads
+Bells on the body, Drum pads, or some other type of attachment that can be strapped to the body to create sound in some easy (but deliberate) manner. This allows you to play an Instrument while your hands are occupied (normally, they require both hands to play an Instrument). However, they do not benefit from any abilities related to Instruments, allowing for only the base effects of Instruments to be utilized.
+
+ - Cost: 75 Ryo
+ - Tags: Instrument
 
 #### Survival
 ##### Antidote
@@ -653,9 +668,17 @@ A poisonous plant known also as monkshood, the least of one’s worries are a se
 
 Effect: Your Chakra rolls and Stamina rolls each use the higher of your Chakra Exhaustion penalty and Stamina penalty. Any time you take an action with a Chakra or Stamina cost, you increase both your Chakra Exhaustion and Stamina Exhaustion penalty by the higher of (Toxicology Ranks)/10 or what that action would normally increase it by, after all other modifiers.
 
+## Mounts
+Considered convenient methods of travel for some, and trusted companions by others, mounts (by and large horses, though some opt for more exotic types) are utilized both for travel, and for mounted combat in battle.  Though ninja typically disdain being a highly-elevated target unable to move their own feet to avoid danger, there's no denying the speed and the advantages therein that mounts afford that compliments a shinobi's classical hit-and-run tactics well, though it is much harder to catch people by surprise, they remain an asset for those that opt to utilize them.  Their costs vary by their Breed, and by default Mounts must be purchased with Savings; those of Noble clans can instead opt to purchase them with Requisition, thanks in part to their higher societal standing which sees their wealth and influence enabling them to almost always have a steed for when they wish one, though it reflects poorly upon one's house to endanger or lose them with any sort of frequency, Noble or not.  Regardless of clan standing, you must have learned the 'Horse Whistle Technique' in order to purchase a Mount.
 
+While mounted, the following rules apply:
+ - While mounted, you use the Horse's movement speed, rather than your own.
+ - You take a -2 to Accuracy and Defensive rolls.
+ - Polearms do not suffer the above Accuracy penalty, and additionally have any inherent Accuracy penalties negated while mounted.
+ - Polearms used to attack unmounted target(s) while you yourself are mounted gain an Accuracy bonus equal to their normal penalty.
+ - Attacks with a Range of Melee or Touch (excepting those done by those with the Large unique, namely) require you to dismount in order to attack an unmounted target with them.
 
-
+ ( TBD with a bit more discussion with Rec. )
 
 ## Rank Gear
 #### Genin

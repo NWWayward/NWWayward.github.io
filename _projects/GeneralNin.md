@@ -298,27 +298,27 @@ Effects: After finishing this technique's handseals, some or all (your choice) o
 
 ###### Mud Clones
 - Chakra: 5 + 10/clone
-- Damage: 10d20*1 per clone
+- Damage: 10d20*1 per clone  
 Anyone hit suffers an Immobilization penalty of 2, +2 per clone. This penalty is halved (round down for the new value) every 10 IC.
 
 ###### Rock Clones
 - Chakra: 15 + 10/clone
-- Damage: 25d20*1 per clone
+- Damage: 25d20*1 per clone  
 Anyone hit suffers a Bleed status of 3/clone, and a Stun of 6/clone.
 
 ###### Lightning Clones
 - Chakra: 15, +10/clone
-- Damage: 10d20*1d4 per clone
+- Damage: 10d20*1d4 per clone  
 Anyone hit suffers a Shock 4 for 20 IC if one clone was used, along with a Paralysis 4 for 20 IC if two clones were used.
 
 ###### Water Clones
 - Chakra: 10 +10/clone
-- Damage: 8d20+100, per clone
+- Damage: 8d20+100, per clone  
 When the clones explode, they create a cloud of mist across the area which applies a -4 visibility penalty per clone. The penalty fades by 1 every 10 IC. The water used to create the clones is not added to the battlefield after the explosion.
 
 ###### Shadow
 - Damage: 15d20.open(11) per clone
-- Stun: 20+5/clone
+- Stun: 20+5/clone  
 Performing Clone Explosion with Shadow Clones has no Chakra cost.
 
 #### --( Shuriken Kage Bunshin no Jutsu - Shuriken Shadow Clone Technique )--

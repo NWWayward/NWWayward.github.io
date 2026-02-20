@@ -487,6 +487,38 @@ Ninja really do seem to have one, and no experienced shinobi will deny it, not o
 - Scale: 4
 - Limit: CHA /40
 
+##### 3. Instruments
+
+#### -=[ Bravado ]=-
+This allows your Instrument to also be capable of converting (some) General Ninjutsu the same way you could Genjutsu, allowing you to convert their normal Chakra costs into Stamina costs, following the normal rules for Instruments. Additionally, you can apply Illusion Multi-targetting to them by paying its normal cost (of 1 Willpower), affecting multiple people with those techniques at once who are within the techninique's normal Range, or NDB * 2 if it does not have a listed Range.  
+
+ - Base Cost: 20
+ - Requires: Instrumental Mastery, Chakra Control 15
+
+ ( The General Ninjutsu this can be used on:  
+ - Genjutsu Kai
+ - Temporary Paralysis
+ - Scattering One Thousand Crows
+ - Clone Great Explosion )
+
+#### -=[ Countersong ]=-
+When you opt to utilize the Genjutsu Iron Curtain not as an interrupt (or can reduce its Seal Speed to 0 in order to eliminate its Delay when used as an Interrupt), while using an Instrument, you can provide its Genjutsu Defense bonus to everyone within (NDB * 2) yards of yourself, so long as they stay within range; you choose who is affected by it when you first use it who is within range, and decide once someone comes within range whether to grant them its benefit.  This does not allow them to gain its effects twice, however.
+
+ - Base Cost: 25
+ - Requires: Instrumental Mastery
+
+#### -=[ Crescendo ]=-
+You can now convert Area of Effect Fuuton ninjutsu with an Instrument.
+
+ - Base cost: 20
+ - Requires: Bravado
+
+#### -=[ Instrumental Mastery ]=-
+You can use an Instrument to convert all types of Genjutsu, rather than just Area of Effect Genjutsu, by spending 1 point of Willpower; Those that do not have an Area instead gain one equal to their Range, and allow you to target everyone within their Area, excluding allies as you wish.
+
+ - Base Cost: 20
+ - Requires: Illusion Multi-Targetting
+
 ## Subtlety
 ##### 1. Deception
 #### -=[ Cunning ]=-

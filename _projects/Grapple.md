@@ -124,7 +124,7 @@ Effects: If you have multiple limbs locked, declare which one you are targeting 
 You throw an enemy who's grabbing you off, freeing yourself from them and injuring them in the process.
 
  - Stamina: 12 + X
- - Damage: (STR/10)d10
+ - Damage: (3 + STR/10)d10
  - Speed: 4 + X, Delay X
  - Requires: Throw
 
