@@ -957,7 +957,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (1) Your sword bypasses (SDB) Damage Reduction.  Can be taken three times.
 
 *Hilt Features*  
-(1) Immobility 1 on hit.  You can take this up to four times, which doesn't change the amount of Immobility applies, but lets it stack up to the amount of times taken.  
+(1) Immobility 2 on hit, or +1 Immobility if they already have an Immobilization penalty from this effect. You can take this up to four times, increasing the maximum amount you can stack the Immobility beyond the initial 2, by one, up to a maximum of 5 with four ranks. 
 (2) +1 to Parry rolls.  Can be taken twice.  
 (2) Your sword's dice gain .extra(die size-2).  This can be taken repeatedly, each time lowering the .extra value by 1 (from .extra(10) to .extra(9), etc), to a maximum of .extra(4).
 
