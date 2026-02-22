@@ -68,22 +68,22 @@ Next to a weapon's name are various characteristics of the weapon, useful for de
 ###### Bo Staff (Blunt, Polearm, Two-Handed)
 A weapon which sees more use in martial arts than among ninja, the bo staff is traditionally six feet long, though ninja scale their staves to their users. The bo is, essentially, a hard wooden pole, sometimes tapered at the ends.
 
-- Cost: 100 Ryo
-- Stamina: 14
-- Damage: 8d10
-- Accuracy: +1
-- Speed: 14
-- Special: Attacks from a Bo Staff do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects). You can use Unarmed Taijutsu (but not Combo taijutsu) even while wielding a Bo Staff, so long as you are not wielding any other weapons. When attacking, you may "dual wield" a Bo staff with itself by attacking with both ends allowing it to be considered to have the 'Dual' tag for the attack, but when doing you lose its Accuracy bonus. If used in this way, you do not receive the Two-handed damage bonus multiplier.
+ - Cost: 100 Ryo
+ - Stamina: 14
+ - Damage: 8d10
+ - Accuracy: +1
+ - Speed: 14
+ - Special: Attacks from a Bo Staff do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects). You can use Unarmed Taijutsu (but not Combo taijutsu) even while wielding a Bo Staff, so long as you are not wielding any other weapons. When attacking, you may "dual wield" a Bo staff with itself by attacking with both ends allowing it to be considered to have the 'Dual' tag for the attack, but when doing you lose its Accuracy bonus. If used in this way, you do not receive the Two-handed damage bonus multiplier.
 
 ###### Gunbai (Large, Blunt, Fan, Two-Handed)
 Large fans with reinforced wooden slats, these were originally used by generals to signal soldiers on battlefields. Then some ninja was looking for a way to be unique, got ahold of the idea, and, well... the usual. Though they're several feet long, these fans do (impressively) fold.
 
-- Cost: 200 Ryo
-- Stamina: 12
-- Damage: 8d12
-- Accuracy: -2
-- Speed: 12
-- Special: Blocking weapons with a Gunbai reduces their damage by 50%, rather than 25%.
+ - Cost: 200 Ryo
+ - Stamina: 12
+ - Damage: 8d12
+ - Accuracy: -2
+ - Speed: 12
+ - Special: Blocking weapons with a Gunbai reduces their damage by 50%, rather than 25%.
 
 ###### Kusari-gama (Blunt, Chain)
 A weapon that consists of an adapted kama on a narrow metal chain with a heav, typically iron, weight on one end. Some shinobi have been known to replace the kama with a heavy metal spike.
@@ -673,14 +673,108 @@ Effect: Your Chakra rolls and Stamina rolls each use the higher of your Chakra E
 ## Mounts
 Considered convenient methods of travel for some, and trusted companions by others, mounts (by and large horses, though some opt for more exotic types) are utilized both for travel, and for mounted combat in battle.  Though ninja typically disdain being a highly-elevated target unable to move their own feet to avoid danger, there's no denying the speed and the advantages therein that mounts afford that compliments a shinobi's classical hit-and-run tactics well, though it is much harder to catch people by surprise, they remain an asset for those that opt to utilize them.  Their costs vary by their Breed, and by default Mounts must be purchased with Savings; those of Noble clans can instead opt to purchase them with Requisition, thanks in part to their higher societal standing which sees their wealth and influence enabling them to almost always have a steed for when they wish one, though it reflects poorly upon one's house to endanger or lose them with any sort of frequency, Noble or not.  Regardless of clan standing, you must have learned the 'Horse Whistle Technique' in order to purchase a Mount.
 
-While mounted, the following rules apply:
- - While mounted, you use the Horse's movement speed, rather than your own.
- - You take a -2 to Accuracy and Defensive rolls.
- - Polearms do not suffer the above Accuracy penalty, and additionally have any inherent Accuracy penalties negated while mounted.
- - Polearms used to attack unmounted target(s) while you yourself are mounted gain an Accuracy bonus equal to their normal penalty.
- - Attacks with a Range of Melee or Touch (excepting those done by those with the Large unique, namely) require you to dismount in order to attack an unmounted target with them.
+A Mount that is brought to 0 HP dies immediately and Rears its rider.  If a mount you own dies, you may not re-purchase another until one month (4 OOC days) have passed, which is considered a time of grieving over the loss of the mount, reducing your maximum Willpower by 1.  This takes place whether you are a Noble or not.
 
- ( TBD with a bit more discussion with Rec. )
+While mounted, the following rules apply:
+ - While mounted, you use the Mount's movement speed, rather than your own.
+ - Mounts are immune to Knockback and effects which would forcibly move them; riders, accordingly, ignore knockback effects of one yard or less (such as Wind God's Breath), but knockbacks of greater severity will cause them to be forcibly dismounted and knocked prone as a result.
+ - Mounts do not act of their own accord whilst mounted, and act only when directed by you to, as a Speed 0 action; they understand commands well enough to go in a direction and at a pace you set, and will continue to go in that same general direction, or stop at your intended target, chosen when you act (essentially allowing you to choose to stop at an enemy or ride by them), but will only continue to go in a given direction for 5 IC, at which point it will stop until directed again.  Mounts can be commanded to move away from targets while you attack them likewise, but only for 5 IC before they need to be directed to do so again.
+ - You are considered 1 Range further away than you actually are against all unmounted targets; this means, ordinarily, any attack with a Range of 0 (unarmed attacks, those of touch range, etc) are simply impossible to perform (except for those with the Large unique).  Unmounted targets can attack you, however, so long as they have one range more than is normally needed (by attack-moving or by the range of the technique), by jumping!
+ - You can not perform Unarmed Taijutsu, Combo Taijutsu, or begin a Grapple against unmounted targets while you yourself are mounted.  They may, however, still attempt to use such jutsu against you.
+ - All non-small melee weapons gain a Range of 1 while mounted, unless they already have a listed range.
+ - You gain a +2 to Dodge while Mounted, which is lost the first time you attack in battle.
+ - You take a -2 to Accuracy while Mounted, except with Polearms, which instead gain +2 Accuracy.
+ - Melee weapon attacks while mounted have their physical damage bonus increased by +0.2 per full yard you move as part of your attack, to a maximum of +50% of your stat-based damage bonus.
+ - Area of Effect attacks which include someone who is mounted automatically includes their mount.  Mounts will automatically block all attacks aimed at them as a Speed 0 defense, and automatically pass all status effect rolls any ninjutsu would require them to make.
+ - Mounts can be attacked as any other target could be in battle.
+ - Mounts fail all genjutsu rolls, but are immune to the sleep condition in combat.  Because they are controlled by their rider, status effects beyond Immobility and Stun doesn't meaningfully impede their actions in battle; if Stunned, a mount immediately stops moving and can not be directed to move again until a number of IC equal to their Stun has worn off (they are frozen in place, essentially).
+ - Mounts movement speeds are reduced by 5% per 10% of their maximum vitality missing, but does not take with immobility penalties: you apply the higher penalty between the two.  Mounts do not take Wounds (and are accordingly immune to Medical ninjutsu which would interact with them).
+ - Mounts that are not actively being ridden understand who their owner is, but are also wary of danger.  If attacked while unmounted, they will move away from their attacker for 10 IC at their top speed toward, and then past, their owner, to put their rider between them and danger, beginning on the IC after they were attacked.  If attacked again, they will continue to flee for 10 IC at a time (refreshing their 'flee' duration if they attacked again whilst fleeing), until they reach a distance of 100 yards from their closest enemy (read: someone who has attacked them), at which point they are considered removed from the battle and may not be recalled by their rider for that combat.
+ - Mounts are flighty creatures, and though trained for battle, sometimes still get spooked.  At times they may attempt to Rear their rider, raising up and trying to force them off in order to get away from danger.  Each Mount has its own listed Rear TN, which is opposed with an Athletics roll to stay mounted.  On a failure, you are forcibly dismounted, taking a Stun 2 and knocked Prone.  The list of things that causes a Mount to rear are:
+ > When reaching 50%, and again at 0%, of the Mounts Maximum Vitality and HP
+ > When you use any Elemental Ninjutsu
+ > When your mount is Stunned
+ > When your mount is attacked with Taiyoken
+ - When you are unmounted and your mount is in battle with you, you can whistle (or otherwise direct it toward you) as a Speed 0 action, directing it to move at its top speed toward you for the next 5 IC; if it was fleeing, it begins to move toward you instead. 
+ - You can mount a.. mount, as a Speed 5 action in battle, which requires you to be within Range 2 of your mount to do so.
+ - Mounts can not enter Stealth, nor can a Rider be in Stealth while riding a mount.  You may, however, opt to dismount as part of any action that lets you Hide.
+
+#### Dismounting Attack
+While mounted, you can as part of an attack (even those you couldn't normally perform on a Mount, such as an Unarmed Taijutsu) opt to Dismount as a Speed +2 Link to your attack, granting that attack +2 to Accuracy; you can direct your mount to move as you dismount it without issue.
+
+#### Types of Mounts
+There are various breeds and qualities of mounts, which are in and of themselves status symbols as much as they are tools of war by shinobi. Below is a list of common and purchasable types, though there are some that may be more rare to find or see.
+
+All Mounts have Hit Points equal to half their listed Vitality (and like normal, their Vitality is damaged first).
+
+As a reminder: all Mounts must be purchased with Savings, unless you are from a Noble clan, in which case you may purchase them with Requisiton.
+
+##### Misaki
+The Misaki is something of a mixed breed of horse in old war-times. It’s actually a small horse. Something of a War Pony. It’s quite stout and reliable. Though higher rank shinobi have access to larger and more aggressive breeds, the Misaki is a short compact horse capable of navigating through difficult terrain and toughing out harsh conditions. They may not look like much, but you’ll find them very surprising, and while some horses have other advantages, the Misaki are there to help out there fresh shinobi out of the academy during wartime.
+
+ - Cost: 700 Ryo
+ - Vitality: 800
+ - Movement Speed: 4.0
+ - Rear TN: 20
+ - Special: Misaki ignore up to 2 Stun. They cannot be slowed under 2 yds per IC, even with Immo 10. They cannot be moved by environmental effects unless they take damage. Finally, Misaki cannot take damage from moving or Attack-moving due to them able to traverse complicated terrain and tough environments.
+
+##### Tokara
+This is a more affordable agricultural breed. It’s got longer legs and has a pretty long lifespan. These horses were bred for long hours and pulling heavy loads.
+
+ - Cost: 400 Ryo
+ - Vitality: 600
+ - Movement Speed: 5.0
+ - Rear TN: 25
+ - Special: Your horse may carry one of each item which applies a Dodge penalty for carrying a certain number of them, up to the amount allowed without penalty; in the case of Containers, it can carry two small or one additional Large Gourd.  The items (and gourd contents) can be accessed freely the mount's rider (and not by anyone else).
+
+##### Mongol
+These breeds of horses were like small tanks. They were fast, dependable, and hearty. You get many of the benefits and none of the downsides of this horse in comparison to a Genin horse.
+
+ - Cost: 1000 Ryo
+ - Vitality: 1100
+ - Movement: 6.0
+ - Rear TN: 30
+ - Requires: Chuunin, or 40 Infamy
+ - Special: This horse will not Rear when you use Elemental Ninjutsu while riding it. Furthermore, any upkeep that would apply to your legs you can apply to your Horse’s legs instead. Upon dismounting, concentration is dropped. Furthermore, attacking a dismounted target gives you an additional +1 Accuracy.
+
+##### Yonagumi
+This is the precursor breed that created the Misaki. They have longer legs and still retained the toughness in their genes. These horses were strong, and although the Misaki is a solid mixed breed that offers a lot of safe benefits, the Yonaguni is no pushover.
+
+- Cost: 900 Ryo
+- Vitality: 1300
+- Movement: 6.5
+- Rear TN: 35
+- Requires: Chuunin, or 40 Infamy
+- Special: This horse cannot be slowed below 3 yds per IC by any means, and can carry extra Equipment the same way a Tokara can.
+
+##### Ninen (Inuzuka Only)
+The Inuzuka’s prized companion grows to a size capable of carrying its human counterpart. This happens when an Inuzuka reaches Chuunin rank. Although it lacks a lot of the staying power of other Horses, it’s free. All rules for the Ninken still apply. This includes being stunned if the Inzuka is wounded.
+
+ - Cost: n/a
+ - Vitality: n/a
+ - HP: n/a
+ - Movement: Normal for a Ninken
+
+##### Marwari
+Despite the name sounding native in origin, this horse was actually shipped out from a faraway land by traveling merchants that sent these breeds back in an attempt to colonize them for shinobi use. The Marwari is graceful and very well trained. They have ears that curve upward almost like horns, and they’re fast, loyal, and very well trained.
+
+ - Cost: 2000 Ryo
+ - Vitality: 1800
+ - Movement: 8.0
+ - Rear TN: n/a
+ - Requires: Jounin, or 100 Infamy
+ - Special: The Marwari will never Rear and will not Flee when attacked; Taiyoken causes it to Flee, rather than Rear. When Stunned, it will not Rear, but will increase your own IC by 3.  Marwari reduce Immobility penalties against them by 4.
+
+##### Zorse
+An experimental crossbreed. This horse is the most dangerous of all and requires the most training. Only a Jounin is truly capable of controlling this horse’s temper. It’s fast, furious, and isn’t afraid to fight instead of run away. Be warned, it may also attack it’s allies if it’s under a lot of stress.
+
+ - Cost: 3000 Ryo
+ - Vitality: 2200
+ - Movement: 9.0
+ - Rear TN: ?
+ - Requires: Jounin, or 100 Infamy
+ - This is basically a summon and will get a stat block.
+
 
 ## Rank Gear
 #### Genin
