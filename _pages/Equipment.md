@@ -673,10 +673,9 @@ Effect: Your Chakra rolls and Stamina rolls each use the higher of your Chakra E
 ## Mounts
 Considered convenient methods of travel for some, and trusted companions by others, mounts (by and large horses, though some opt for more exotic types) are utilized both for travel, and for mounted combat in battle.  Though ninja typically disdain being a highly-elevated target unable to move their own feet to avoid danger, there's no denying the speed and the advantages therein that mounts afford that compliments a shinobi's classical hit-and-run tactics well, though it is much harder to catch people by surprise, they remain an asset for those that opt to utilize them.  Their costs vary by their Breed, and by default Mounts must be purchased with Savings; those of Noble clans can instead opt to purchase them with Requisition, thanks in part to their higher societal standing which sees their wealth and influence enabling them to almost always have a steed for when they wish one, though it reflects poorly upon one's house to endanger or lose them with any sort of frequency, Noble or not.  Regardless of clan standing, you must have learned the 'Horse Whistle Technique' in order to purchase a Mount.
 
-In battle you can mount a.. mount, as a Speed 5 action so long as you are within Range 2 of your mount. While unmounted, you can whistle or otherwise direct your mount toward you as a Speed 0 action, causing it to move at its top speed toward you for the next 5 IC; if it was fleeing, it begins to move toward you instead.  You can mount other people's mounts if they are unmounted and you elect to do so, but see Rear, below.
+In battle you can mount a.. mount, as a Speed 5 action so long as you are within Range 2 of your mount. While unmounted, you must utilize the Horse Whistle technique in order to call it to you, which will cause it to move at top speed toward you until it is at Range 0, even if it is attacked or has to go through ground-based effects (such as Caltrops) to do so. 10 IC after it reaches you, it will begin to flee if you do not mount it. You can mount other people's mounts if they are unmounted and in range, but see Rear, below.
 
-- Mounts can not enter Stealth, nor can a Rider be in Stealth while riding a mount.  You may, however, opt to dismount as part of any action that lets you Hide.
-
+Mounts can not enter Stealth, nor can a Rider be in Stealth while riding a mount.  You may, however, opt to dismount as part of any action that lets you Hide.
 
 A Mount that is brought to 0 HP dies immediately and Rears its rider.  If a mount you own dies, you may not re-purchase another until one month (4 OOC days) have passed, which is considered a time of grieving over the loss of the mount, reducing your maximum Willpower by 1.  This takes place whether you are a Noble or not.
 
@@ -750,14 +749,6 @@ This is the precursor breed that created the Misaki. They have longer legs and s
 - Rear TN: 35
 - Requires: Chuunin, or 40 Infamy
 - Special: This horse cannot be slowed below 3 yds per IC by any means, and can carry extra Equipment the same way a Tokara can.
-
-##### Ninen (Inuzuka Only)
-The Inuzuka’s prized companion grows to a size capable of carrying its human counterpart. This happens when an Inuzuka reaches Chuunin rank. Although it lacks a lot of the staying power of other Horses, it’s free. All rules for the Ninken still apply. This includes being stunned if the Inzuka is wounded.
-
- - Cost: n/a
- - Vitality: n/a
- - HP: n/a
- - Movement: Normal for a Ninken
 
 ##### Marwari
 Despite the name sounding native in origin, this horse was actually shipped out from a faraway land by traveling merchants that sent these breeds back in an attempt to colonize them for shinobi use. The Marwari is graceful and very well trained. They have ears that curve upward almost like horns, and they’re fast, loyal, and very well trained.

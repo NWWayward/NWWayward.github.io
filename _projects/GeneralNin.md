@@ -76,6 +76,14 @@ The most common and perhaps most effective method of combatting genjutsu, if one
 
 Effects: This can be done on yourself, or another willing person.  You must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). This may also be done against Area of Effect genjutsu, in which case this technique's user makes a genjutsu roll against the original roll made by whoever put the technique in place. If successful, the technique is dispelled in its entirety.
 
+#### --( Uma Kuchibue no Jutsu - Horse Whistle Technique )--
+A simple method of utilizing chakra as one whistles, there's a number of frequencies that different shinobi utilize which ensures that each rider and each mount tend to recognize their own only, though making such loud sounds may or may not attract other dangers.  For shinobi, it is a way to ensure that even after separating from their steeds, they can always find them again across nearly any distance.
+
+ - Chakra: 10
+ - Speed: 10
+
+Effects: Your mount is called to you.  Out of combat, this works to have your mount return after being separated (it being spooked and having fled a battle, exploring a cave it could not follow only to find it had wandered off to look for food, it being stolen, etc); it works flawlessly so long as it is alive and there is nothing physically restraining the mount that would keep it from returning to you (such as being in a cage).  
+
 #### --( Shunshin no Jutsu - Body Flicker Technique )--
 A high-speed movement technique which allows the user to travel incredibly distances in the blink of eye; used by a sufficiently powerful ninja, this can be mistaken for teleportation by an untrained observer.
 
