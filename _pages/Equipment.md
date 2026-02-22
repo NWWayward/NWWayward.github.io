@@ -691,11 +691,11 @@ While mounted, the following rules apply:
  - Mounts movement speeds are reduced by 5% per 10% of their maximum vitality missing, but does not take with immobility penalties: you apply the higher penalty between the two.  Mounts do not take Wounds (and are accordingly immune to Medical ninjutsu which would interact with them).
  - Mounts that are not actively being ridden understand who their owner is, but are also wary of danger.  If attacked while unmounted, they will move away from their attacker for 10 IC at their top speed toward, and then past, their owner, to put their rider between them and danger, beginning on the IC after they were attacked.  If attacked again, they will continue to flee for 10 IC at a time (refreshing their 'flee' duration if they attacked again whilst fleeing), until they reach a distance of 100 yards from their closest enemy (read: someone who has attacked them), at which point they are considered removed from the battle and may not be recalled by their rider for that combat.
  - Mounts are flighty creatures, and though trained for battle, sometimes still get spooked.  At times they may attempt to Rear their rider, raising up and trying to force them off in order to get away from danger.  Each Mount has its own listed Rear TN, which is opposed with an Athletics roll to stay mounted.  On a failure, you are forcibly dismounted, taking a Stun 2 and knocked Prone.  The list of things that causes a Mount to rear are:
- > When reaching 50%, and again at 0%, of the Mounts Maximum Vitality and HP
- > When you use any Elemental Ninjutsu
- > When your mount is Stunned
- > When your mount is attacked with Taiyoken
- - When you are unmounted and your mount is in battle with you, you can whistle (or otherwise direct it toward you) as a Speed 0 action, directing it to move at its top speed toward you for the next 5 IC; if it was fleeing, it begins to move toward you instead. 
+ > When reaching 50%, and again at 0%, of the Mounts Maximum Vitality and HP  
+ > When you use any Elemental Ninjutsu  
+ > When your mount is Stunned  
+ > When your mount is attacked with Taiyoken  
+ - When you are unmounted and your mount is in battle with you, you can whistle (or otherwise direct it toward you) as a Speed 0 action, directing it to move at its top speed toward you for the next 5 IC; if it was fleeing, it begins to move toward you instead.  
  - You can mount a.. mount, as a Speed 5 action in battle, which requires you to be within Range 2 of your mount to do so.
  - Mounts can not enter Stealth, nor can a Rider be in Stealth while riding a mount.  You may, however, opt to dismount as part of any action that lets you Hide.
 
