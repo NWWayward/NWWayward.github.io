@@ -704,7 +704,7 @@ While mounted, the following rules apply:
    - When you perform any action on a Mount that is not yours
 
 #### Dismounting Attack
-While mounted, you can as part of an attack (even those you couldn't normally perform on a Mount, such as an Unarmed Taijutsu) opt to Dismount as a Speed +2 Link to your attack, granting that attack +2 to Accuracy; you can direct your mount to move as you dismount it without issue.
+While mounted, you can as part of an attack (even those you couldn't normally perform on a Mount, such as an Unarmed Taijutsu) opt to Dismount as a Speed +2 Link to your attack, granting that attack +2 to Accuracy; you can direct your mount to move as you dismount it without issue, and can include your own attack-move distance along side that of your mount's, though you do not get the damage bonus from being mounted and attack-moving when using a Dismounting Attack.
 
 #### Types of Mounts
 There are various breeds and qualities of mounts, which are in and of themselves status symbols as much as they are tools of war by shinobi. Below is a list of common and purchasable types, though there are some that may be more rare to find or see.
@@ -775,9 +775,27 @@ An experimental crossbreed. This horse is the most dangerous of all and requires
  - Cost: 3000 Ryo
  - Vitality: 2200
  - Movement: 9.0
- - Rear TN: ?
+ - Damage Bonus: 18.0
+ - Rear TN: 50
  - Requires: Jounin, or 100 Infamy
- - This is basically a summon and will get a stat block.
+ - Special: When ridden by a Jounin, they will not Rear from using Elemental Ninjutsu.  Whenever it would otherwise Rear, Zorses join initiative (acting on the IC after the action which caused them to do so), and begin fighting your enemies alongside you.  The GM takes control of your horse and can use its abilities freely.  The Zorse may also target allies not its owner that are around it.  In order to calm a Zorse that has begun rampaging, you must use the Horse Whistle technique.  Instead of its normal effects, however, you both roll 1d20; if you roll higer than it, it allows you to regain control of it (removing it from initiative) to function as a normal mount.  If you fail, it continues to rampage.  It has the following abilities:
+
+**Retaliation** *(Speed 6)*  
+Zorses will attempt to counterattack anyone who attacks them in melee range while being ridden with Retaliation as an Interrupt counterattack, dealing 16d20 damage that inflicts Stun 4 if partial success does not apply.  This deals Blunt wounds, and uses its Riders Accuracy.
+
+**Overrun** *(Speed 12)*  
+After a successful melee attack from its rider (including a Dismounting Attack), the Zorse will likewise attack the same target (or the closest to them, if it can not reach the main target) with a Speed 12 Interrupt attack using your Accuracy -3.
+
+When Rampaging, the Zorse gains the following abilities it can utilize on its own initiative, with an Accuracy of 45:
+
+**Hoof Strike** *(Speed 12)*  
+Deals 16d20 damage and inflicts Blunt wounds.
+
+**Trample**  *(Speed 20)*  
+Deals 18d20 damage and inflicts Blunt wounds.  If it hits, its target must make a Stamina 15 roll and if prone, it also inflicts Stun 12.
+
+**Wildmane** *(Speed 14)*  
+The Zorse expels chakra through its mane, which cuts through the air in an arc toward an opponent.  It has a Range of 36, +2 Accuracy, and inflicts Slashing wounds, dealing 24d20 damage.  This can not be parried by the Parry action, though ninjutsu-based parries work against it.
 
 
 ## Rank Gear
