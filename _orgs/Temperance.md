@@ -413,7 +413,7 @@ When someone with Corrosion is hit by a damage dealing attack, they roll bonus d
 
 When someone with Corrosion is hit by a damage dealing Yoton attack, they instead add a bonus die for every 1, 2 or 3 rolled. If the damage dice are d20s, then it also adds a die for every 4, 5 or 6 rolled. Bonus d6s can cause more bonus d6s to roll on a 1, 2 or 3. No more than (Corrosion)d6 bonus dice may be rolled in this fashion.
 
-Corrosion is very difficult to remove in combat, and requires the aid of a trained Medic-nin in order to do so. For every IC someone has Mystical Palm or Vital Repair used on them (regardless of their Chakra Control), their Corrosion status is reduced by 1.
+Corrosion is very difficult to remove in combat, and requires the aid of a trained Medic-nin in order to do so. For every IC someone has Mystical Palm or Vital Repair used on them (regardless of their Chakra Control), their Corrosion status is reduced by 1.  Out of combat, Corrosion reduces by 1 per 5 minutes of treatment with a first aid kit.
 
 Corrosion stacks partially with itself. If Corrosion would be applied to someone who has Corrosion, then take the higher of the two numbers and add half the lower number (rounded up). So if someone with Corrosion 3 gets Corrosion 5, they would be at Corrosion 5+3/2 = 6.5, rounded up to 7.
 
