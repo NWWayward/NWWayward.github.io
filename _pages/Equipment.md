@@ -673,6 +673,11 @@ Effect: Your Chakra rolls and Stamina rolls each use the higher of your Chakra E
 ## Mounts
 Considered convenient methods of travel for some, and trusted companions by others, mounts (by and large horses, though some opt for more exotic types) are utilized both for travel, and for mounted combat in battle.  Though ninja typically disdain being a highly-elevated target unable to move their own feet to avoid danger, there's no denying the speed and the advantages therein that mounts afford that compliments a shinobi's classical hit-and-run tactics well, though it is much harder to catch people by surprise, they remain an asset for those that opt to utilize them.  Their costs vary by their Breed, and by default Mounts must be purchased with Savings; those of Noble clans can instead opt to purchase them with Requisition, thanks in part to their higher societal standing which sees their wealth and influence enabling them to almost always have a steed for when they wish one, though it reflects poorly upon one's house to endanger or lose them with any sort of frequency, Noble or not.  Regardless of clan standing, you must have learned the 'Horse Whistle Technique' in order to purchase a Mount.
 
+In battle you can mount a.. mount, as a Speed 5 action so long as you are within Range 2 of your mount. While unmounted, you can whistle or otherwise direct your mount toward you as a Speed 0 action, causing it to move at its top speed toward you for the next 5 IC; if it was fleeing, it begins to move toward you instead.  You can mount other people's mounts if they are unmounted and you elect to do so, but see Rear, below.
+
+- Mounts can not enter Stealth, nor can a Rider be in Stealth while riding a mount.  You may, however, opt to dismount as part of any action that lets you Hide.
+
+
 A Mount that is brought to 0 HP dies immediately and Rears its rider.  If a mount you own dies, you may not re-purchase another until one month (4 OOC days) have passed, which is considered a time of grieving over the loss of the mount, reducing your maximum Willpower by 1.  This takes place whether you are a Noble or not.
 
 While mounted, the following rules apply:
@@ -690,14 +695,13 @@ While mounted, the following rules apply:
  - Mounts fail all genjutsu rolls, but are immune to the sleep condition in combat.  Because they are controlled by their rider, status effects beyond Immobility and Stun doesn't meaningfully impede their actions in battle; if Stunned, a mount immediately stops moving and can not be directed to move again until a number of IC equal to their Stun has worn off (they are frozen in place, essentially).
  - Mounts movement speeds are reduced by 5% per 10% of their maximum vitality missing, but does not take with immobility penalties: you apply the higher penalty between the two.  Mounts do not take Wounds (and are accordingly immune to Medical ninjutsu which would interact with them).
  - Mounts that are not actively being ridden understand who their owner is, but are also wary of danger.  If attacked while unmounted, they will move away from their attacker for 10 IC at their top speed toward, and then past, their owner, to put their rider between them and danger, beginning on the IC after they were attacked.  If attacked again, they will continue to flee for 10 IC at a time (refreshing their 'flee' duration if they attacked again whilst fleeing), until they reach a distance of 100 yards from their closest enemy (read: someone who has attacked them), at which point they are considered removed from the battle and may not be recalled by their rider for that combat.
- - Mounts are flighty creatures, and though trained for battle, sometimes still get spooked.  At times they may attempt to Rear their rider, raising up and trying to force them off in order to get away from danger.  Each Mount has its own listed Rear TN, which is opposed with an Athletics roll to stay mounted.  On a failure, you are forcibly dismounted, taking a Stun 2 and knocked Prone.  The list of things that causes a Mount to rear are:
- > When reaching 50%, and again at 0%, of the Mounts Maximum Vitality and HP  
- > When you use any Elemental Ninjutsu  
- > When your mount is Stunned  
- > When your mount is attacked with Taiyoken  
- - When you are unmounted and your mount is in battle with you, you can whistle (or otherwise direct it toward you) as a Speed 0 action, directing it to move at its top speed toward you for the next 5 IC; if it was fleeing, it begins to move toward you instead.  
- - You can mount a.. mount, as a Speed 5 action in battle, which requires you to be within Range 2 of your mount to do so.
  - Mounts can not enter Stealth, nor can a Rider be in Stealth while riding a mount.  You may, however, opt to dismount as part of any action that lets you Hide.
+ - Mounts are flighty creatures, and though trained for battle, sometimes still get spooked.  At times they may attempt to Rear their rider, raising up and trying to force them off in order to get away from danger.  Each Mount has its own listed Rear TN, which is opposed with an Athletics roll to stay mounted.  On a failure, you are forcibly dismounted, taking a Stun 2 and knocked Prone.  The list of things that causes a Mount to rear are:
+ - - When reaching 50%, and again at 0%, of the Mounts Maximum Vitality and HP  
+ - - When you use any Elemental Ninjutsu  
+ - - When your mount is Stunned  
+ - - When your mount is attacked with Taiyoken  
+ - - When you perform any action on a Mount that is not yours
 
 #### Dismounting Attack
 While mounted, you can as part of an attack (even those you couldn't normally perform on a Mount, such as an Unarmed Taijutsu) opt to Dismount as a Speed +2 Link to your attack, granting that attack +2 to Accuracy; you can direct your mount to move as you dismount it without issue.
