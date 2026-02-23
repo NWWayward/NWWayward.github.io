@@ -824,7 +824,7 @@ You cultivate caustic bacteria in your mouth, similar to a komodo dragon. Glands
  - Special: May only be used once every 20 IC
  - Requires: 5 AP + 10 HP per use
 
-Effects: This attack is considered a Speed 10 attack for the purposes of defending against it, and for how much damage it deals, both of which are modified if you choose to spend AP to reduce its effective Speed (on top of its base 5 AP cost). If it hits, it exposes your target to your Natural Poison even if it does not do damage.
+Effects: This attack is considered a Speed 10 attack for the purposes of defending against it, and for how much damage it deals, both of which are modified if you choose to spend AP to reduce its effective Speed (on top of its base 5 AP cost). If it hits, it exposes your target to your Natural Poison even if it does not do damage. This attack uses your Ninjutsu Accuracy.
 
 #### --( Oily Skin ) --
 You skin has grown an odd coloration or pattern. More tactically important, you skin has glands that can produce a thin mucus membrane on command to cover your body. Clothes thankfully don't interfere with this process. 
@@ -976,7 +976,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) Your sword’s die size is increased by 2, to a maximum of _d20.  
 (1) Stun 1.  Can be taken twice.  
 (2) Your Sword's base Speed is increased by 1, it gains Delay 2, and your Sword Damage Bonus is increased by 2 when attacking. Can be taken twice.  
-(1) You can Shield yourself partially with your weapon when you Block, gaining DR equal to your Sword Damage Bonus (unaffected by two-handing the weapon); this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times, but does not stack from multiple weapons.
+(1) When you Block while holding your sword, you gain DR equal to your Sword Damage Bonus (unaffected by two-handing the weapon); this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times, but does not stack if wielding multiple weapons (use the highest amount between them).
 
 *Hilt Features*  
 (1) Stun 1.  Can be taken three times.  
