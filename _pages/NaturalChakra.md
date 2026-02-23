@@ -78,7 +78,7 @@ Nature is unyielding; it is powerful, and will crush any who think themselves it
 Nature is adaptable; it changes to meet the needs of its current situation, not because it yields, but because it will always be victorious under any circumstances. After seeing the result of a Chakra Exhaustion or Stamina roll, you may spend 3 NC to increase the result by 1; there is no limit on how many NC you may spend this way on a single roll.
 
 ###### Body of Fire (15 XP)
-Nature is furious; it destroys, it obliterates. It is the raging wildfire, the roar of thunder. You may spend NC to increase your damage bonus by a single attack, at the rate of 0.3 for every NC spent, or 0.1 for each NC spent with weapon attacks. You may increase your base damage bonus by up to 25% of its base value using Body of Fire.
+Nature is furious; it destroys, it obliterates. It is the raging wildfire, the roar of thunder. You may spend NC to increase your damage bonus for a single attack, at a rate of 0.3 for every NC spent, or 0.1 for each NC spent with weapon attacks. You may increase your base damage bonus by up to 25% of its base value using Body of Fire.
 
 ###### Body of Wood (15 XP)
 Nature is patient; it grows slowly, knowing that there is no need to rush, that the destination is what matters, not the time taken to get there. When taking any action, you may spend up to 5 NC to improve the result of any Stamina or Chakra Exhaustion rolls it causes you to make. Every NC spent gives you +1 to that roll's result.
