@@ -51,20 +51,21 @@ Using the principles of Iaijutsu, the user takes up a neutral stance and, using 
 - Stamina: +6
 - Speed: +3
 - Type: Sword
+- Tags: Link
 
-Effects: Make an Initiative roll, opposed by your opponent's; they have a cumulative +2 bonus for each time you've used this (successfully or not) in this battle. If you fail, you perform a regular sword attack. If you succeed, your attack receives the benefits of the Iaijutsu ability, even if you've used it earlier in battle.
+Effects: Make an Initiative roll, opposed by your opponent's; they have a cumulative +2 bonus for each time you've used this (successfully or not) in this battle. If you succeed, your attack receives the benefits of the Iaijutsu ability, even if you have used it earlier in battle.  If you fail, you perform your attack normally.  You may not spend AP after Flash Blade's initiative roll. If you fail, you perform your attack normally. If you succeed, your attack receives the benefits of the Iaijutsu ability, even if you've used it earlier in battle.
 
-#### --( Ichichi - First Blood )--
+#### --( Mezuchi - First Blood )--
 Popularized by an Amegakure ANBU who liked to toy with their targets, injuring them quick and then slowly breaking them as they tried to fight back, it is an attack all about deception and timing: Pulling your hidden blade right as they move into a fighting stance, before they can even finish planning how they're going to kill you.
 
--	Stamina: +4
--	Speed: +0
+-	Stamina: (Weapon) + 4
+-	Speed: (Weapon)
 -	Type: Small Melee
 -	Special: Interrupt
 
-Effects: You declare this technique in your Initiative roll; after all Initiatives have been rolled, you perform a basic attack with your weapon on IC 0.  Multiple people utilizing this technique have them resolved as simultaneous attacks.  You are able to draw any applicable weapon you have on you when you use this technique, as part of the attack; in fact, you cannot perform it if your weapon is already drawn, as it relies upon an opponent not being prepared for your attack to work.  Additionally, you may, as part of the attack, apply a single dose of a single poison to the weapon you use to attack with.
+Effects: You declare this technique in your Initiative roll; after all Initiatives have been rolled, you perform a basic attack with your weapon on IC 0.  Multiple people utilizing this technique have them resolved as simultaneous attacks.  You are able to draw any applicable weapon you have on you when you use this technique, as part of the attack; in fact, you cannot perform it if your weapon is already drawn, as it relies upon an opponent not being prepared for your attack to work. You use your full movement speed with the attack, rather than half your normal movement for attacking as is normal. Additionally, you may, as part of the attack, apply a single dose of a single poison to the weapon you use to attack with.
 
-  If you use this against someone who rolled a higher initiative than you, then they do not advance their IC for any defensive interrupt used in response to it; if used against a target whose initiative roll was lower, you gain +0.3 to your damage bonus per point you beat their initiative by, to a maximum of half your PDB.
+If you use this against someone who rolled a higher initiative than you, then they do not advance their IC for any defensive interrupt used in response to it; if used against a target whose initiative roll was lower, you gain +0.3 to your damage bonus per point you beat their initiative by, to a maximum of half your PDB, and +1 to Accuracy per five points you beat their Initiative roll by, to a maximum of +2.
 
 Because this relies upon the moment shinobi move to strike, it’s of little use if you join a combat already in progress unless you are joining alongside someone else, in which case you could use this technique only against those joining the combat at the same time as you.  In such case, it occurs on the current initiative in which you join.
 
@@ -142,8 +143,9 @@ Using two weapons in conjunction with one another, the user strikes repeatedly, 
  - Stamina: +(2 + X)
  - Speed: +(2 - X)
  - Type: Dual
+ - Tags: Link
 
-Effects: This is a link added onto the Dual-Wield attack action; X is the number of times this technique has been used consecutively (even if it misses!).  Both weapons gain +Xd*, to a maximum of double their damage dice. These benefits end if you make a non-Interrupt action other than a dual-wield attack with your weapons, or if you go more than 20 IC without using this jutsu.
+Effects: This is added onto the Dual-Wield attack action; X is the number of times this technique has been used consecutively (even if it misses!).  Both weapons gain +Xd*, to a maximum of double their damage dice. These benefits end if you make a non-Interrupt action other than a dual-wield attack with your weapons, or if you go more than 20 IC without using this jutsu.
 
 #### --( Omo Hoshiga - Double Star Fang )--
 Several enemies running at an archer and getting in close could mean the end for an archer, but luckily you can fend them off! Quickly drawing several arrows out, you load them all into your bow and fire them off in different directions. This would be hard for most people, but luckily you're a ninja.
@@ -151,6 +153,7 @@ Several enemies running at an archer and getting in close could mean the end for
  - Stamina: +(5 * X)
  - Speed: +(2 * X)
  - Type: Bow  
+ - Tags: Link
 
 Effects: This allows you target X additional people with your attack, to a maximum of 3.
 
@@ -160,7 +163,7 @@ Thundering Strike takes it namesake from the sheer quickness of its strikes, as 
  - Stamina: (Weapon) + 6
  - Damage: (Weapon)
  - Speed: (Weapon) - 2
- - Requires: Piercing Melee
+ - Type: Piercing Melee
 
 Effects: This attack inflicts Bleed 2. If used again while the opponent is still suffering from that status, this instead increases the Bleed's severity by 2. Thundering Strike has a minimum Speed of 4, after all reductions and modifications.
 
@@ -205,7 +208,8 @@ Whether it be to cut someone's achilles tendon, or to lop their head off, blades
  - Stamina: +8
  - Accuracy: -X
  - Speed: +(2 * X)
- - Requires: Slashing Melee
+ - Type: Slashing Melee
+ - Tags: Link
 
 Effects: X has a maximum of your STR/15, and a minimum of 1, increasing your damage for the purpose of wounding by +(X * 15)%.  If X is 3 or more, the attack becomes an automatic called shot (without any further Accuracy penalty).
 
@@ -349,6 +353,7 @@ You deliver an overwhelmingly powerful blow, often an overhead strike, with all 
  - Stamina: +10 or +X
  - Speed: +0
  - Type: Melee, not Small 
+ - Tags: Link
 
 Effects: This is used alongside any other attack with the weapon, including other Weapon Taijutsu. If the attack is successfully parried or blocked by a weapon, the defender makes a Stamina roll. The normal +5 bonus to Stamina rolls per level of Fatigue is replaced with a -3 penalty (so someone at Fatigue 3 would have a -9 penalty, instead of a +15 bonus). The result of their roll becomes the X added to your attack's cost. Thus, if you used Blade Breaker with a Katana (Stamina 12), and your opponent parried your attack and rolled a 14 on their Stamina roll, the total Stamina cost would be (12+14) 26. The weapon used to defend against your attack is destroyed. If your attack is not (successfully) blocked or parried, its Stamina cost is increased by 10 instead. If it is, but the enemy's weapon cannot be destroyed for any reason, the Stamina cost is increased only by 5. This will destroy weapons created by Water-Cutting Blade and Earth-Smashing Staff, but not Burning Spear. The destruction of the enemy weapon takes place after their defense is resolved (breaking the sword which parried your attack does not prevent your attack from having been parried).
 
@@ -387,6 +392,7 @@ This technique expands upon the concepts developed when learning the Chakra Flow
  - Tags: Preparation
 
 Effects: The range at which your melee weapon can be used increases by 1 (in most cases meaning that you can make melee attacks from 1 yard away, instead of 0 yards), and its damage is increased by 2 dice. This does mean that your weapon no longer triggers most on-contact effects.
+
 Additionally, you gain a +3 Accuracy bonus with the weapon against anyone who is unable to see chakra (which usually means Hyuuga and Uchiha only). Whenever you strike an opponent, make a Chakra Control skill roll against their Espionage. If they match or beat your roll, the Accuracy bonus is reduced to +1 for the remainder of the fight.
 
 If you're using Dual Weapons, Flying Swallow applies to both of them; otherwise, only one weapon benefits from Flying Swallow at a time. Any weapon you pick up or draw automatically benefits from Flying Swallow. If holding two non-Dual weapons, you may change which one receives this technique's effects as a Speed 0 action.
@@ -481,11 +487,11 @@ Ideally, this technique is performed using Shadow Clones; other varieties of clo
 
 Effects: X is the number of Shadow Clones you have armed with weapons which can be used with this technique, up to a maximum of 2. Crescent Moon Dance is always considered a surprise attack, and defending against it must be done as if it was half its actual Speed (if you used 5 AP to reduce it to Speed 15, it would count as Speed 8; this would require a Speed 4 or lower Interrupt to defend against Crescent Moon Dance).
 
-Clones used with this technique must have the same weapon you do and be capable of attacking and dealing damage. If you have two or more such clones that aren't shadow clones (such a Rock or Water Clones), X is considered to be 1; X cannot go above without using actual Shadow Clones.
+Clones used with this technique must have the same weapon you do and be capable of attacking and dealing damage. If you have two or more such clones that aren't shadow clones (such a Rock or Water Clones), X is considered to be 1; X cannot go above 1 without using actual Shadow Clones.
 
 Attempting to parry Crescent Moon Dance requires the defender to roll 2d20.takeLowest(1) in place of 1d20. Ninjutsu-based defenses do not suffer from this limitation.
 
-Crescent Moon Dance cannot benefit from Iaijutsu (or, as a result, Flash Blade), and the wounds it deals are reduced by one category.
+Crescent Moon Dance cannot benefit from Iaijutsu (or, as a result, Flash Blade).
 
 Crescent Moon Dance may not have its Speed reduced below its Delay.
 
@@ -513,7 +519,7 @@ Spinning their fan like a staff user would, this doesn't create an impenetrable 
  - Damage: (Weapon's damage) *4
  - Speed: 16
  - Range: CHA/6
- - Requires: Fan
+ - Type: Fan
 
 Effects: When this technique is activated, everyone in front of you, in a tunnel-shaped space ten yards wide, can choose to either take damage from this technique. or be knocked back CHA/6 yards. This requires no Accuracy; it cannot be dodged, or parried by ninjutsu. Defenses which work without a roll (such as Earth Shore Return) do function against it.
 
