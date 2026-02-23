@@ -130,7 +130,7 @@ The ranged variant of Kaminari, Raisen charges a metallic thrown weapon with Rai
  - Speed:  +(4 + weapons thrown/4)
  - Requires: Large or Small Thrown Weapon(s)
  - Status: X Paralysis for 20 IC
- - Tags: Nintaijutsu, Projectile
+ - Tags: Nintaijutsu, Projectile, Link
 
 Effects: This technique acts as a link to any thrown weapon attack, and allows the attack to bypass half the damage reduction of those hit by it. X is equal to the amount your Accuracy beats your opponent's defensive roll by, to a maximum of 3. Against defenses which are not rolled, or if the opponent elects not to defend, the maximum Paralysis is inflicted.
 
