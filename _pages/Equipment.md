@@ -787,7 +787,7 @@ Deals 16d20 damage and inflicts Blunt wounds.
 Deals 18d20 damage and inflicts Blunt wounds.  If it hits, its target must make a Stamina 15 roll and if prone, it also inflicts Stun 12.
 
 **Wildmane** *(Speed 14)*  
-The Zorse expels chakra through its mane, which cuts through the air in an arc toward an opponent.  It has a Range of 36, +2 Accuracy, and inflicts Slashing wounds, dealing 24d20 damage.  This can not be parried by the Parry action, though ninjutsu-based parries work against it.
+The Zorse expels chakra through its mane, which cuts through the air in an arc toward an opponent.  It has a Range of 36, +2 Accuracy, and inflicts Slashing wounds, dealing 24d20 damage.  This can not be parried by the Parry action, though ninjutsu-based parries work against it.  This is considered a B-rank technique.
 
 
 ## Rank Gear
