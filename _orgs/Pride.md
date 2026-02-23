@@ -263,6 +263,8 @@ You apply only half of your PDB to this technique's damage, however you roll dam
 
 For every time you and/or your Ninken utilize Tsuga consecutively (even if it misses!), its Speed and Stamina cost are reduced by 1, to a minimum of half their normal values. These benefits reset if you take any non-interrupt action besides Move, Tsuga, or Gatsuga, or if you go 20 IC or more without you or your ninken using Gatsuga or this technique.
 
+You may only use this attack with a mount if you are using your Ninken as your mount.
+
 #### --( Jujin Bunshin – Beast Human Clone )--
 Derived from the basic Henge, this technique transforms the ninken into the likeness of its owner, though the ninken will still behave like an animal in this form. However, together with the Shikyaku no Jutsu, the two become virtually indistinguishable.
 
@@ -297,6 +299,8 @@ This jutsu functions otherwise like Tsuga for how you determine your movement (a
 
 Gatsuga’s damage differs, however: You apply only one-third of your PDB to its damage, but roll damage an additional time for every three points you beat your opponent’s defense by, to a maximum of three damage rolls if you beat their Defense by 6.  Partial Success does not apply to this attack, and you combine all damage rolls to determine any Wounds inflicted (and likewise, Wounding modifiers only apply to the final total).
 
+You may only use this attack with a mount if you are using your Ninken as your mount.
+
 #### --( Inuzuka-Ryu: Jinju Konbi Henge: Sotoro – Inuzuka-Style: Human Beast Combination Technique: Double-Headed Wolf )--
 This fearsome transformation technique combines shinobi and ninken into a massive two-headed version of their Ninken. While being in this form has its obvious benefits, this technique is most valued as an essential preparation for the Inuzuka's most devastating form of Tsuga.
 
@@ -309,7 +313,7 @@ Effects: Your Ninken combines with you and may no longer take separate actions. 
 
 Your movement speed is increased by 25% and your current and maximum Rank in Enhanced Hearing and Blind Fighting abilities are increased by 4 while you maintain this jutsu, and every time you damage someone with a Taijutsu attack in this form, you temporarily shred any sort of DR they might have, reducing their DR (after the damage is resolved) by 7; their DR recovers at a rate of 1 per IC naturally.
 
-While you maintain this form, you can not perform handseals, hold weapons, or Hide (because you are a huge, multi-headed beast).  This technique automatically ends Shikyaku no Jutsu and Beast Human Clone if they were active when this technique was performed, and you can not activate either jutsu while you maintain this one. If you take a Major or higher Severity Wound, this jutsu automatically ends as you are forcibly separated from your Ninken, and you both suffer a Stun 5 * Severity of the Wound.
+While you maintain this form, you can not perform handseals, hold weapons, use a Mount, or Hide (because you are a huge, multi-headed beast).  This technique automatically ends Shikyaku no Jutsu and Beast Human Clone if they were active when this technique was performed, and you can not activate either jutsu while you maintain this one. If you take a Major or higher Severity Wound, this jutsu automatically ends as you are forcibly separated from your Ninken, and you both suffer a Stun 5 * Severity of the Wound.
 
 #### --( Garouga – Fang Wolf Fang )--
 Tsuga, but in Sotoro form, where an Inuzuka’s speed (and tail!) can be used to devastating effect to create a truly deadly vortex of claws and teeth to tear apart whomever they come into contact with. The downside to this technique is that the Inuzuka is spinning so rapidly that they can potentially lose sight of their target, and rely upon their enhanced sense of smell to guide them.
