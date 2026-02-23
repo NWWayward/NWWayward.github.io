@@ -976,7 +976,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) Your sword’s die size is increased by 2, to a maximum of _d20.  
 (1) Stun 1.  Can be taken twice.  
 (2) Your Sword's base Speed is increased by 1, it gains Delay 2, and your Sword Damage Bonus is increased by 2 when attacking. Can be taken twice.  
-(1) When you block while holding your sword, you gain DR equal to your Sword Damage Bonus (unaffected by two-handing the weapon); this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times.
+(1) You can Shield yourself partially with your weapon when you Block, gaining DR equal to your Sword Damage Bonus (unaffected by two-handing the weapon); this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times, but does not stack from multiple weapons.
 
 *Hilt Features*  
 (1) Stun 1.  Can be taken three times.  
