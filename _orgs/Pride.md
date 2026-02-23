@@ -816,7 +816,7 @@ While these are not actual Senbon, you may utilize Senbon-specific abilities as 
 #### --( Saliva )--
 You cultivate caustic bacteria in your mouth, similar to a komodo dragon. Glands in your throat allow you to spit this poison at long range, similar to a cobra. 
 
- - Type: Ninjutsu
+ - Type: Ninjutsu, D-rank
  - Chakra: 10
  - Damage: (CHA/8)d10
  - Speed: 0
@@ -824,7 +824,7 @@ You cultivate caustic bacteria in your mouth, similar to a komodo dragon. Glands
  - Special: May only be used once every 20 IC
  - Requires: 5 AP + 10 HP per use
 
-Effects: This attack is considered a Speed 10 attack for the purposes of defending against it, and for how much damage it deals, both of which are modified if you choose to spend AP to reduce its effective Speed (on top of its base 5 AP cost). If it hits, it exposes your target to your Natural Poison even if it does not do damage. This attack uses your Ninjutsu Accuracy, and its Rank is considered equal to the highest rank of Ninjutsu you know.
+Effects: This attack is considered a Speed 10 attack for the purposes of defending against it, and for how much damage it deals, both of which are modified if you choose to spend AP to reduce its effective Speed (on top of its base 5 AP cost). If it hits, it exposes your target to your Natural Poison even if it does not do damage.
 
 #### --( Oily Skin ) --
 You skin has grown an odd coloration or pattern. More tactically important, you skin has glands that can produce a thin mucus membrane on command to cover your body. Clothes thankfully don't interfere with this process. 
