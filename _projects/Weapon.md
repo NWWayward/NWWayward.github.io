@@ -442,7 +442,7 @@ The user concentrates chakra in their arms, speeding up their draw speed and all
 
 Effects: While you maintain this technique's Upkeep, your bow's Accuracy penalty is reduced by X. If X is set higher than the value of your bow's Accuracy penalty (for example, you set X = 10 and are using a Yumi), consider X to be just enough to eliminate the penalty for this technique's other effects.
 
-The base Speed of your bow is reduced by X/2, and the number of dice of damage it rolls is reduced by X. Your damage bonus when using your bow, after being multiplied as appropriate for the weapon you're using, is also reduced by X.
+The base Speed of your bow is reduced by X/2, and the number of dice of damage it rolls is reduced by X/2. Your damage bonus when using your bow, after being multiplied as appropriate for the weapon you're using, is also reduced by X.
 
 Your damage bonus or number of dice cannot be reduced to 0 or lower; if they would, you are incapable of maintaining Celestial Archer at that level.
 
@@ -450,17 +450,17 @@ Your damage bonus or number of dice cannot be reduced to 0 or lower; if they wou
 A distant derivative of the ubiquitous chakra flow technique, this concentrates chakra around the user's wrists and forearms. When an arrow is drawn back in a bow that chakra extends to wrap around it, and lingers long enough after being fired to strengthen the impact. More ambitious users can even form arrows out of pure chakra, though doing so rapidly puts a strain on their reserves.
 
  - Chakra: 20
- - Upkeep: 8 or 12
+ - Upkeep: 6 or 10
  - Speed: 12
  - Requires: Chakra Control 20, Chakra Flow
  - Type: Bow
  - Tags: Preparation
 
-Effects: While this technique is maintained, your arrows deal an extra (CHA/12) dice of damage. For the purposes of ninjutsu-based defenses they are treated as being a ninjutsu attack of your elemental affinity (Upkeep 8) or any element you have the ability to use (Upkeep 12), declared when you activate this technique. If you use your elemental affinity, the Chakra roll does receive the appropriate bonus.
+Effects: While this technique is maintained, your arrows deal an extra (CHA/12) dice of damage. For the purposes of ninjutsu-based defenses they are treated as being a ninjutsu attack of your elemental affinity (Upkeep 6) or any element you have the ability to use (Upkeep 10), declared when you activate this technique. If you use your elemental affinity, the Chakra roll does receive the appropriate bonus.
 
-Additionally, you may create arrows out of pure chakra. Attacking with these arrows replaces your bow's normal Stamina cost with an equivalent Chakra cost +5 (a Daikyu, Stamina 20, would become Chakra 25). These deal (CHA/8) dice of damage, and use (ninjutsu damage bonus + physical damage bonus)/2 in place of your normal physical damage bonus. These arrows use d12 for their damage if used with a Daikyu, or d6 with a Yumi.
+Additionally, you may create arrows out of pure chakra. Attacking with these arrows replaces your bow's normal Stamina cost with an equivalent Chakra cost +5 (a Daikyu, Stamina 20, would become Chakra 25), and replaces the STR-based dice of the bow with (CHA - 20), and use NDB in place of PDB for its damage. These arrows use d12 for their damage if used with a Daikyu, d6 with a Yumi, and d8 for a Recurve Hunting bow.
 
-These arrows have a faint glow about them until they hit, a result of the chakra enhancing them. This tends to draw attention. When attacking from Stealth with Phantom Ballista (either a normal arrow, or one created from chakra) your Stealth TN is reduced by 7 (rather than 5).
+These arrows have a faint glow about them until they hit, a result of the chakra enhancing them. This tends to draw attention. When attacking from Stealth with Phantom Ballista (either a normal arrow, or one created from chakra) your Stealth TN is reduced by 8 (rather than 5).
 
 #### --( San no Hoshi - Three Star )--
 By fully unfolding the user's fan and channeling their chakra through it as they make a wide sweeping gesture, they can produce a prodigious amount of wind that cuts through the air toward a distant target to send them reeling.
@@ -532,7 +532,7 @@ While this technique's Upkeep is maintained you may take no other actions, inclu
 The natural evolution of Phantom Ballista, this technique wreathes any arrows the user fires in elemental chakra, and leaves streamers of light in their wake for several seconds. To the delight of the more pragmatic ninja out there, the increase in power provided by this technique closely mirrors its improved aesthetics.
 
  - Chakra: 30 or +15
- - Upkeep: +6
+ - Upkeep: +4
  - Speed: 8 or +4
  - Type: Bow
  - Requires: Phantom Ballista
