@@ -119,7 +119,7 @@ With a quick burst of lightning natured chakra, you force it through a metallic 
  - Chakra: +13
  - Speed: +4
  - Requires: Melee weapon
- - Tags: Nintaijutsu
+ - Tags: Nintaijutsu, Link
 
 Effects: This technique acts as a link to any attack with a melee weapon, and allows the attack to bypass half the damage reduction of those hit by it, as well as adding one-third your NDB to its damage.
 
