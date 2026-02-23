@@ -242,24 +242,24 @@ This technique is the signature fighting style of the Inuzuka, wherein they hunc
  - Speed: 10
  - Tags: Preparation
 
-Effects: Your movement speed is increased by 10% and your current and maximum Rank in Enhanced Hearing and Blind Fighting abilities are increased by 1. Every time you damage someone with a Taijutsu attack while maintaining this technique, you temporarily shred any sort of DR they might have, reducing their DR (after the damage is resolved) by (3+AGI/30). Shredded DR can not be reduced below 0, and is restored at a rate of 1 per IC.  However, due to being on all fours and your hands becoming more animalistic, all Seal Speeds are increased by 3.
+Effects: Your movement speed is increased by 10% and your current and maximum Rank in Enhanced Hearing and Blind Fighting abilities are increased by 1. Every time you damage someone with a Taijutsu attack while maintaining this technique, you temporarily shred any sort of DR they might have, reducing their DR (after the damage is resolved) by (4 + AGI/30). Shredded DR can not be reduced below 0, and is restored at a rate of 1 per IC.  However, due to being on all fours and your hands becoming more animalistic, all Seal Speeds are increased by 3.
 
 #### --( Tsuga – Passing Fang )--
 The Inuzuka launches themselves forward toward an opponent while spinning at such rapid speeds that they almost appear to become an elongated vortex pointed toward their enemy.  It can be extremely damaging if an opponent is caught unaware, as the rotation involved allows the Inuzuka to tear right through most defenses.
 
  - Type: Taijutsu, Rank D
  - Stamina: 16
- - Damage: (STR/10)d6 + Special
+ - Damage: (2 + STR/10)d6 + Special
  - Range: AGI/10 + Special
  - Speed: 12
  - Special: Sudden Attack can not be used with this attack
  - Tags: Slashing
 
-Effects: This technique’s Range is increased by how far you could move during the attack: That is, you always travel the maximum distance possible, though your target can be anywhere within that range to be a valid target for Tsuga.  Movement speed increases (such as Shikyaku) modify this like normal to increase its total range. Despite the listed range, however, Tsuga is considered a melee attack, not a ranged attack.
+Effects: This technique’s Range is increased by how far you could move during the attack, and you always travel the maximum Range of this technique, regardless of how far away your Target is (as long as they are within range). Despite the listed range, however, Tsuga is considered a melee attack.
 
 This technique gains Accuracy, and loses damage, according to how close you are to your target when you attack: For every 20% of the listed Range you are within to your target (after calculating the final Range for this technique), you gain +1 Accuracy, but deal 5% less damage. (i.e., if you had a final Range of 30, and attacked someone with Tsuga who was 22 yards from you, they are below 80% of the technique’s maximum range, and thus you’d get +1 Acc and deal 95% normal damage; if you attacked someone within 6 yards of you with Tsuga with the same total Range, you’d gain +5 Acc but deal 25% less damage).
 
-You apply only one-fourth of your PDB to this technique’s damage, however, you roll damage an additional time for every 3 points by which your Accuracy beats their Defense, to a maximum of three damage rolls if you beat their Defense by 6 or more.  If someone elects to perform a defense which does not have a roll (such as Block, or using Earth Shore Return), or chooses not to defend, you perform the maximum amount of damage rolls.  Each damage roll reduces Block’s effectiveness by 10% (Block would only reduce the damage by 40% on the second damage roll, and by 30% on the third damage roll).  Partial Success does not apply to this attack, and you combine all damage rolls to determine any Wounds inflicted (and likewise, things which add to Wounding are applied only once, to the combined total).
+You apply only half of your PDB to this technique's damage, however you roll damage an additional time if you beat their Defensive roll by 5 or more.  If someone elects to perform a defense which does not have a roll (such as Block, or Earth Shore Return), or chooses not to defend, you perform the maximum amount of damage rolls. Partial Success does not apply to this attack, and you combine all damage rolls to determine any Wounds in flicted (and likewise, Wounding modifiers only apply to the final total).
 
 For every time you and/or your Ninken utilize Tsuga consecutively (even if it misses!), its Speed and Stamina cost are reduced by 1, to a minimum of half their normal values. These benefits reset if you take any non-interrupt action besides Move, Tsuga, or Gatsuga, or if you go 20 IC or more without you or your ninken using Gatsuga or this technique.
 
@@ -284,18 +284,18 @@ Tsuga twice over.  Both the Inuzuka and their transformed Ninken coordinate thei
 
  - Type: Taijutsu, Rank C
  - Stamina: 24
- - Damage: (STR/10)d8 + Special
+ - Damage: (3 + STR/10)d8 + Special
  - Range: AGI/8 + Special
  - Speed: 16
  - Requires: Jujin Bunshin active, 8 AP to pay for your Ninken’s attack
  - Special: Sudden Attack can not be used with this attack
  - Tags: Slashing
 
-Effects: This attack has two accuracies your target must defend against: One which you roll (as 1d20+Accuracy bonuses), and the other being your regular Taijutsu Accuracy TN.  The higher of the two becomes the Accuracy that determines if your technique hits (and how many times it hits), while the lower increases this technique’s damage by +1d6 per point it beats your opponent’s Defense by, if any, to a maximum of an additional (STR/10)d6.
+Effects: This attack has two accuracies your target must defend against: One which you roll (as 1d20+Accuracy bonuses), and the other being your regular Taijutsu Accuracy TN.  The higher of the two becomes the Accuracy that determines if your technique hits (and how many times it hits), while the lower increases this technique’s damage by +1d8 per point it beats your opponent’s Defense by, if any, to a maximum of an additional (STR/10)d8.  If they opt to defend in a way that does not have them roll, or do not defend at all, you gain no additional damage dice.
 
-This jutsu functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and any bonuses from consecutive uses of Tsuga apply to Gatsuga as well (and vice versa), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. Like Tsuga, Partial Success does not apply to this attack, and you combine its damage rolls to determine what, if any, Wounds are inflicted, as well as increased Wounding benefits.
+This jutsu functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and any bonuses from consecutive uses of Tsuga apply to Gatsuga as well (and vice versa), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. Like Tsuga, Partial Success does not apply to this attack, and you combine its damage rolls to determine what, if any, Wounds are inflicted.
 
-Gatsuga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every two points you beat your opponent’s defense by, to a maximum of five damage rolls if you beat their Defense by 8. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra d6’s from beating their defensive roll), and Block reduces this technique’s damage 5% less per damage roll (40% for the second, 30% for the third, etc).
+Gatsuga’s damage differs, however: You apply only one-third of your PDB to its damage, but roll damage an additional time for every three points you beat your opponent’s defense by, to a maximum of three damage rolls if you beat their Defense by 6.   Partial Success does not apply to this attack, and like Tsuga, you add all your damage rolls together before applying Wound modifiers (and determining what Wound you inflict).
 
 #### --( Inuzuka-Ryu: Jinju Konbi Henge: Sotoro – Inuzuka-Style: Human Beast Combination Technique: Double-Headed Wolf )--
 This fearsome transformation technique combines shinobi and ninken into a massive two-headed version of their Ninken. While being in this form has its obvious benefits, this technique is most valued as an essential preparation for the Inuzuka's most devastating form of Tsuga.
@@ -316,18 +316,18 @@ Tsuga, but in Sotoro form, where an Inuzuka’s speed (and tail!) can be used to
 
  - Type: Taijutsu, Rank B
  - Stamina: 36
- - Damage: (STR/10)d12
+ - Damage: (4 + STR/10)d12
  - Range: AGI/5 + Special
  - Speed: 20
  - Requires: Inuzuka-Ryu: Jinju Konbi Henge: Sotoro be active
  - Special: Sudden Attack can not be used with this attack
  - Tags: Slashing
 
-Effects: When you use this attack, first make an opposed roll of your Survival vs their Stealth: If you succeed, you gain +1d12 damage per point you beat their Stealth by, to a maximum of (STR/10)d12 extra dice.  If they succeed, they get +1 to their defensive roll per point they succeeded by (minimum 1, on a tie).
+Effects: When you use this attack, first make an opposed roll of your Survival vs their Stealth: If you succeed, you gain +1d12 damage per point you beat their Stealth by, to a maximum of (STR/10)d12 extra dice.  If they succeed, they get +1 to their defensive roll per point they succeeded by (minimum 1, on a tie).  If your opponent elects not to defend, you gain no extra dice.
 
-This attack functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. 
+This attack functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target.
 
-Garouga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every point you beat your opponent’s defense by, to a maximum of ten damage rolls if you beat their Defense by 10. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra damage from the opposed Skill roll), and Block reduces this technique’s damage 5% less per damage roll (45% for the second, 40% for the third, etc).  Partial Success does not apply to this attack, and for Wounding purposes, you add up the damage you inflicted to them from all rolls to determine wounds, and deal three wounds (one Piercing, one Blunt, one Slashing) to them of one severity lower than normal, to a minimum of Minor.
+Garouga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every two points you beat your opponent’s defense by, to a maximum of five damage rolls if you beat their Defense by 10. Partial Success does not apply to this attack, and like Tsuga, you add all your damage rolls together before applying Wound modifiers.  If you wound with this attack, you deal a Slashing and Piercing wound of one severity lower than normal, to a minimum of minor.
 
 #### -=[ Ninken ]=-
 Your ninken, or ninja dog (though some have wolves), is more than just an extra weapon in combat: it’s a living creature with its own capabilities.  However, a ninken is only as good as its master, so its advancement is inextricably linked to yours: Your Ninken’s bonuses are determined by your XP.
