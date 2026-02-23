@@ -435,6 +435,7 @@ An iron lantern with a shutter. It needs oil to keep burning. Mirrors inside of 
 A small wooden flask of oil used to light a lantern. It can be thrown at someone as a Taijutsu attack, Range 10, which deals no damage but applies the Oil to them as a Speed 5 action, increasing the next Ignite they take by 1, which does not stack with repeated applications; if thrown on someone already on fire, it increases their existing Ignite status by 1 (which can be applied repeatedly). One Flask offers 4 lightings of a lantern or burnable source. However, throwing it consumes it all.
 
  - Cost: 25 Ryo
+ - Tag: Consumable
 
 ##### Ninja Wire
 High tension 16-gauge wire. It is generally only available in ninja villages, and comes in spools with various lengths of wire.
@@ -456,6 +457,7 @@ A leather mask filtered with thatch containing herbs that are good for breathing
 Wearing an plague mask with a still-fresh spice pouch makes the wearer immune to external suffocation penalties (being inside an unbreathable cloud would not affect them; being physically choked would) and provides a +8 bonus to Resistance rolls against statuses that would be inflicted by breathing something in (such as poison mist); the mask is not perfectly air-tight.
 
  - Cost: 200 Ryo
+ - Tag: Consumable
 
 ##### Spice Pouch
 Sharp smelling herbs to be put inside of a Plague Mask. They last and hardly need to be replaced. Each pouch only needs to be replaced once every 3 hours.
