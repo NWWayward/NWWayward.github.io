@@ -144,7 +144,6 @@ By default, the raven is airborne; it may land or take off as a Speed 10 action.
 Raven's are surprisingly intelligent and, though they do not speak, are more than capable of learning from their summoner to improve their own abilities based off of their time spent working alongside them.  Whenever you summon a Raven, subtract the minimum XP required to summon it (1200 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3400.  
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
- + ( X/50 ) * 0.1 to Damage Bonuses
  + ( X/200 ) * 0.1 to Movement Speed
 
 In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
