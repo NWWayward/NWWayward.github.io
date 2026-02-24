@@ -731,7 +731,6 @@ Your Natural Poison has the stats of an Injury Vector poison from the equipment 
 
 You also gain one Rank in the Toxicology skill for every Rank of this ability you have; you can not take ranks above your maximum rank in Toxicology (based on XP, Uniques, etc), though you can Skill Focus (via the Ability) with your normal Skill Points as you wish, it does not change your Skill Rank Maximum (and thus does not allow you to purchase extra Ranks of this ability).
 
-
 The Talent Rare Poisons does not apply to your Natural Poison.
 
 #### -=[ Mithridatism ]=-
