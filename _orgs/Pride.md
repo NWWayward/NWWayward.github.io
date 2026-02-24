@@ -62,6 +62,7 @@ After enlarging with Baika no Jutsu, the Akimichi tucks their arms and legs clos
  - Chakra:  20 + Special
  - Speed: Variable, Abort
  - Requires: Baika no Jutsu active
+ - Restriction: Can not use while Mounted
 
 Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling, which doesn't then increase the Stamina cost of Bowl. While Rolling the only non-interrupt action you can take without first Aborrting your Rolling action is Bowl, below, or the Move action, though while you are moving your secondary variable speed action choice (if any) does not apply. You take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not use any jutsu with a Seal Speed or hold weapons, and any grapples you are in control of automatically end, but you ignore any Stuns of X or less. 
 
@@ -92,6 +93,7 @@ The Akimichi attaches dozens of kunai to multiple lengths of wire which they the
  - Chakra: 30 + Special
  - Speed: Variable, Abort
  - Requires: Baika no Jutsu active
+ - Restriction: Can not use while Mounted
 
 Effects: This jutsu functions in all the same ways as described in Nikudan Sensha, except that your Bowl attack is now Stamina 15 and considered to be a weapon attack, meaning Blocking reduces it by less, and it may be harder to parry, and you can take and apply Weapon Focus to it, as well as Power Attack, with both abilities normal Stamina increase instead applying to its Chakra cost, at double the normal cost. For every point your attack hits by you add +1d* to the attack’s damage, though if they block or elect to not defend they do not take any addition damage, and anyone who attempts to attack you in melee range while you’re Rolling takes half Bowl's damage, with no Speed or Damage Bonus added to it, which can not wound.  They can choose to opt out of their attack to avoid the damage, but otherwise get no defense against it if they continue with their attack. Thanks to the Kunai, the delay in how quickly you can turn to target someone is made easier, negating the delay before you can retarget someone after missing them with Bowl.
 
@@ -112,6 +114,7 @@ Effects: Baika no Jutsu’s X maximum is increased to 10.  When X is higher than
  -  You gain +X to your PDB-based Grapple rolls.
  -  All Taijutsu increase their range by X.
  -  You increase the die size of all Taijutsu by one step ( d4 -> d6 -> d8 -> d10 -> d12 ), to a maximum of d12; Taijutsu already at d12 instead gain +2 damage per die rolled.
+ -  You can no longer use Mounts, or ever be considered Mounted.
 
 #### --( Cho Harite - Mega Palm Thrust )--
 Usable only when already enlarged by Baika no Jutsu, the Akimichi tend to perform this jutsu sparingly because of how tiring it is, but there’s no denying the efficacy of reinforcing a person-sized palm with more Chakra to turn it hard as steel in order to flatten your opponent in the hand-sized crater left behind in the ground.
