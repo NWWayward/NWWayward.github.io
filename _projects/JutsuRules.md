@@ -90,7 +90,7 @@ By default, all Bunshin follow the same basic rules listed in the Bunshin no Jut
 
  - Bunshin (of any type) can never make Bunshin (of any type).
 
- - Bunshin, unless stated otherwise, can act on the IC after they were created. If they were created before the initiative, then they use your initiative roll to determine when they can first act.
+ - Bunshin, unless stated otherwise, can act on the IC which they were created. If they were created before the initiative, then they use your initiative roll to determine when they can first act.  The Clone miss chance, however, still does not apply on a simultaneous action.
 
  - Bunshin, when created, copy over any Genjutsu affecting their creator automatically.  If the creator was aware they were under a genjutsu, so are the clones.
 
