@@ -50,19 +50,19 @@ You acquire a single rank benefit. This can be from a rank you've never had, and
 You have an additional (5 + XP/200) Skill Points. You may only take Skill Specialist once.
 
 ## Capability Talents
-##### [Eight Gates](https://anchorsify.github.io/EightGates/)
+##### [Eight Gates](https://nwwayward.github.io/EightGates/)
 In the human body, there are eight 'gates' along the body's chakra circulatory system responsible for regulating the flow of chakra, and by extension providing physical limiters to the body for its own protection. You may take this talent twice. Each time you take it, you gain access to the hidden potentials of the gates. The first time you take this talent, you gain the ability to open the first three gates; the second time gives you access to the fourth, fifth, and sixth gates. Learning how to open the Seventh and Eighth gates is not officially condoned or taught by any ninja village due to their self-destructive nature, though inevitably there will be some who figure it out and may be able to teach you, if you can find them and convince them to do so. Click the header of this section for more information about how these work.
 
-##### [Kage Bunshin](https://anchorsify.github.io/KageBunshin/)
+##### [Kage Bunshin](https://nwwayward.github.io/KageBunshin/)
 You learn martial ar--Kage Bunshin no Jutsu! It's a not-quite forbidden technique, and probably the most powerful of the cloning techniques usable by ninja without advanced bloodlines. Unfortunately, it's also very draining on the user, almost prohibitively so. Click the header of this section for the rules for this technique.
 
-##### [Summoning Contract](https://anchorsify.github.io/summons/)
+##### [Summoning Contract](https://nwwayward.github.io/summons/)
 You've signed a blood contract with one of the various species of intelligent, super-powered animals that ninja are able to call upon. How this happens varies; some shinobi have mentors who, as part of training an apprentice to be their successor, will offer them the chance to sign one of these contracts. With this talent, however, you probably took the 'natural' approach: a ninja who hasn't signed a contract and attempts to performing the Summoning Technique will instead be "reverse-summoned" to the home of whichever animal species they have the strongest affinity for (which can change over a ninja's life). There, they will usually be given an opportunity to sign a blood contract before being sent back to where they came from. Pick a single summoning contract--you now have access to it, as described in "Summon Contracts." To actually summon any of the creatures, or use any of the techniques, provided by this talent you first need the C-rank ninjutsu "Kuchiyose no Jutsu." If you have this talent, you may purchase that technique without meeting the normal requirements for learning C-rank jutsu.
 
 ##### Medical Training
 Medical jutsu are particularly difficult to learn compared to normal techniques, due to the extreme amounts of precision, and knowledge of the human body, they require. You got someone to teach you the principles of medical ninjutsu, or were one of the rare few who managed to figure them out yourselves after months of exhausting study. This talent allows you to learn Medical Ninjutsu.
 
-##### [Natural Chakra](https://anchorsify.github.io/NaturalChakra/)
+##### [Natural Chakra](https://nwwayward.github.io/NaturalChakra/)
 In addition to the chakra within shinobi--and indeed, in every living being--there is chakra permeating the entire world. Normally, this matters no more to shinobi than the oxygen in the air they breathe. It's possible to learn how to access this natural chakra, which is what you've done with this talent. Natural chakra use is broken down into three tiers: Enlightened, Adept, and Sage. The first time you take this talent, you gain access to the Enlightened tier and Adept tiers. The second time you take it, you gain access to the Sage tier. Click the header of this section for the rules concerning how Natural Chakra works.
 
 ##### Rare Poisons

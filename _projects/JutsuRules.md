@@ -86,7 +86,7 @@ Another type of Area of Effect where it is centered on a person other than yours
 These tags indicate which category of Wound a jutsu inflicts, if it happens to do so.  Most attacks will have of these tags; those with more than one will state in their Effects listing any special rules for determining Wounds.
 
 ##### Clone
-By default, all Bunshin follow the same basic rules listed in the Bunshin no Jutsu technique (see [here](https://anchorsify.github.io/projects/GeneralNin/#e-rank)). More advanced types of Bunshin than that exist, however, and changes to how they operate are clarified here:
+By default, all Bunshin follow the same basic rules listed in the Bunshin no Jutsu technique (see [here](https://nwwayward.github.io/projects/GeneralNin/#e-rank)). More advanced types of Bunshin than that exist, however, and changes to how they operate are clarified here:
 
  - Bunshin (of any type) can never make Bunshin (of any type).
 
@@ -146,7 +146,7 @@ In the case of using Ninjutsu of multiple elements at once (such as a Raisen and
 Lastly, any attack utilizing an Elemental Nintaijutsu (be it a weapon creation jutsu, or a link) can not have Poisons of any kind applied to them; doing so simply wastes the dose(s) of Poison applied, which lose their potency and are still considered spent.  
 
 ##### Preparation
-Jutsu with this tag can be activated when rolling Initiative, [See the Preparation ability, here,](https://anchorsify.github.io/Abilities/#other) and are copied over to any Kage Bunshin you create, if you are capable of doing so.
+Jutsu with this tag can be activated when rolling Initiative, [See the Preparation ability, here,](https://nwwayward.github.io/Abilities/#other) and are copied over to any Kage Bunshin you create, if you are capable of doing so.
 
 ##### Projectile
 A generic tag describing things that are thrown, fly through the air, or otherwise *are* projectiles in some form or fashion, whether it is a cutting wind or a bolt of lightning, the majority of ninjutsu attacks are considered projectiles, though not all.  Many effects are specific in that they relate to, or affect, projectiles in some fashion, in which case you check for this tag to see if they qualify.
