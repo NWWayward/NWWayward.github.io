@@ -344,7 +344,7 @@ Shinobi really never saw a purpose for shooting a bow quickly because of how muc
  - Accuracy: -2
  - Range: STR /3
  - Speed: 9
- - Special: Consecutive hits against the same target cause follow-up attacks with this weapon to gain increased Wounding, gaining +20% per hit, up to a maximum of +100% (after 6 hits), which lasts until you miss a shot, perform an attack without utilizing this weapon, or use a Weapon Taijutsu with this weapon, which gains the bonus Wounding percentage to its damage, but then resets it back to +0% afterward.  Combat Acupuncture and Surgical Precision can be used with this weapon.
+ - Special: Using a bow always takes two hands. Consecutive hits against the same target cause follow-up attacks with this weapon to gain increased Wounding, gaining +20% per hit, up to a maximum of +100% (after 6 hits), which lasts until you miss a shot, perform an attack without utilizing this weapon, or use a Weapon Taijutsu with this weapon, which gains the bonus Wounding percentage to its damage, but then resets it back to +0% afterward.  Combat Acupuncture and Surgical Precision can be used with this weapon.
 
  While Mounted, you have +2 Accuracy against unmounted targets and ignore the Mounted penalty to Accuracy.
 
