@@ -498,7 +498,9 @@ This allows your Instrument to also be capable of converting (some) General Ninj
  ( The General Ninjutsu this can be used on:  
  - Genjutsu Kai
  - Temporary Paralysis
- - Scattering One Thousand Crows
+ - Triggered Detonation Technique
+ - Long-Range Detonation Technique
+ - Barrier Encampment Method
  - Clone Great Explosion )
 
 #### -=[ Countersong ]=-
@@ -514,10 +516,16 @@ You can now convert Area of Effect Fuuton ninjutsu with an Instrument.
  - Requires: Bravado
 
 #### -=[ Instrumental Mastery ]=-
-You can use an Instrument to convert all types of Genjutsu, rather than just Area of Effect Genjutsu, by spending 1 point of Willpower; Those that do not have an Area instead gain one equal to their Range, and allow you to target everyone within their Area, excluding allies as you wish.
+You can use an Instrument to convert all types of Genjutsu, rather than just Area of Effect Genjutsu.  Single-target Genjutsu require you to utilize Illusion Multi-Targetting (and paying 1 Willpower as normal) to affect more than one person with them, though . Those that do not have an Area instead gain one equal to their Range.
 
  - Base Cost: 20
  - Requires: Illusion Multi-Targetting
+
+#### -=[ Maestro ]=-
+With this ability, you have all but perfected the art of combining the rhythm and horrors of war with that of music; You can utilize the Cicada Shell technique with an instrument to apply Genjutsu (but not Ninjutsu, even those used with an instrument), and you can choose when you use a Genjutsu via an Instrument to declare you are "Performing".  Following its normal Delay, you begin Performing as a Variable Speed Action.  So long as you continue Performing, the Genjutsu you used does not break on anyone it is affecting if they are Wounded (though other sources of breaking the Genjutsu work normally).  You can only Perform Genjutsu that are one less than the maximum rank you could ordinarily use.
+
+ - Base Cost: 25
+ - Requires: Instrumental Mastery, Bravado
 
 ## Subtlety
 ##### 1. Deception

@@ -52,11 +52,12 @@ When your mind and body are in harmony, each completely silent and at ease, your
 If you spend at least 100 IC meditating, the first time you fail a Chakra Exhaustion or Stamina roll in the next ten minutes you advance one less Fatigue category; your Stamina and Chakra Exhaustion penalties still reset to 0.
 
 ###### A Dream of the World (10 XP)
+*Requires: A Tranquil Soul*  
 As one sinks into meditation, they become detached from their worldly senses and the accompanying distractions. Only by doing so can they notice the minute variations in the world's own chakra, in all their subtle wonder.
 
 While meditating, you can tell how many people are within X yards, where X is the number of IC you've spent meditating, up to a maximum of your CHA. This does not, however, allow you tell anything else about them, even their direction or distance.
 
-Except in combat! In combat, this allows you to find hiding enemies. Every 5 IC you spend meditating while a hidden enemy is within your range, you may make a Chakra Control roll against their Stealth TN, with a +2 bonus for every 5 IC (total) you've been meditating. Requires: A Tranquil Soul
+Except in combat! In combat, this allows you to find hiding enemies. Every 5 IC you spend meditating while a hidden enemy is within your range, you may make a Chakra Control roll against their Stealth TN, with a +2 bonus for every 5 IC (total) you've been meditating.
 
 ## Adept
 ###### One With Nature (10 XP)
