@@ -126,16 +126,6 @@ Explosives are useful; and, more importantly, who doesn't love explosions? Howev
 Effects: You detonate up to (Chakra Control ranks)/5 exploding tags within this technique's range. This only works on tags which you have primed. X is the number of tags you detonate, which have their normal delay you declare when you use this technique, as described in Exploding Tags (in Equipment).
 
 ## C-Rank
-#### --( Sanzengarasu no Jutsu - Scattering One Thousand Crows Technique )--
-This summons a flock of chakra-created and -guided crows which surround and disorient them. The crows continuously multiply and clone themselves, and will soon surround the target entirely.
-
- - Chakra: 14 + X
- - Range: 25
- - Speed: 12
- - Seal Speed: 13
-
-Effects: If the target fails a status roll, this inflicts a -1 visibility penalty upon them, which increases every 10 IC until reaching -X; X has a maximum of 10. (Chakra Control ranks) IC after that, it dissipates entirely. The application of an Area of Effect attack will destroy the crows, if it actually hits this technique's victim.
-
 #### --( Chakra Strengthening )--
 A fairly simple, yet often impractically demanding technique. The user channels chakra into their limbs, increasing their speed and strength. Despite being very good at what it does, it rapidly takes a toll on one's energy reserves.
 

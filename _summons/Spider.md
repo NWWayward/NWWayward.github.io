@@ -176,8 +176,8 @@ CHA: 60
 DEX: 80  
 AGI: 40  
 
-Accuracy: 30  
-Dodge: +10  
+Accuracy: 26  
+Dodge: +8  
 Damage Bonus: 7.5  
 Genjutsu Defense: +37  
 Movement: 1 yard per IC  
@@ -241,9 +241,9 @@ CHA: 60
 DEX: 80  
 AGI: 100  
 
-Accuracy: 36  
-Dodge: +40  
-Parry: +45  
+Accuracy: 32  
+Dodge: +35  
+Parry: +41  
 Genjutsu: +40  
 Damage Bonus: 10.5  
 Movement: 3 yard per IC  

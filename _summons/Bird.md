@@ -22,10 +22,11 @@ On the other hand, they can be quite useful in other ways, in no small part beca
 
 ## Access
  - 800 XP: Flawless Messenger
- - 1200 XP: Corpse Devouring Crows
- - 1600 XP: Summon: Raven
+ - 1200 XP: Summon: Raven
+ - 1600 XP: Corpse Devouring Crows
  - 2000 XP: Summon: Owl
- - 2400 XP: Graceful Sky Emissary
+ - 2400 XP: Scattering One-Thousand Crows
+ - 3000 XP: Graceful Sky Emissary
  - 4500 XP: Summon: Amahaou
  - 6000 XP: Summon: Garuda
 
@@ -66,6 +67,17 @@ Thus, if you brutally murdered someone in their bedroom, and got blood all over 
 
 The birds can be summoned indoors, but only if there's easy access to the outdoors nearby; an open window or door, for example.
 
+#### --( Sanzengarasu no Jutsu - Scattering One Thousand Crows Technique )--
+This summons a flock of chakra-created and -guided crows which surround and disorient everyone in the area. The crows continuously multiply and clone themselves, and will eventually surround the entire battlefield, creating a maddening sound and a feathery pitch-black obfuscation of the battlefield. 
+
+ - Chakra: 20 + X * 2
+ - Speed: 20
+ - Seal Speed: 20
+
+Effects: Everyone in combat except you (and other Bird contract holders) takes a -4 Visibility Penalty, as crows swarm the entire area.  Every 10 IC, the Visibility Penalty will increase by one, until it reaches (4 + X), with X having a maximum of 6.  The crows themselves can not be targetted, however any Area of Effect attack without the 'Ground' tag will automatically hit the crows in the area, reducing the Visibility Penalty by 1 for every (50 + NDB * 3) damage the attack deals.  The Visibility Penalty will continually increase while it persists in the area, however if it is ever reduced to 0, this jutsu ends.
+
+Despite being a technique utilizing crows, a contract holder utilizing Area of Effect techniques (which will reduce the swarm's visibility penalty) will not be considered a Breach of Contract.
+
 #### --( Yuugana Sukai-Shisha - Graceful Sky Emissary )--
 You summon a very large eagle or a giant hawk, which lifts you up and carries you a short distance before leaving. While certainly very showy, the situations where having a giant bird carry you only a short distance is actually useful are fewer than one may think.
 
@@ -81,6 +93,7 @@ Effects: The eagle (or giant hawk) will pick up you and up to one other person t
 Also, worth noting: the eagle can actually support the weight of about four people, so one common trick is to have two ninja hold onto the backs of two others, and then summon the eagle to carry each pair.
 
 The eagle flies up 4 + X - Y yards per IC, up to a maximum of 6. Y is the number of people the eagle is carrying. Once it drops its passengers off, it is unsummoned. The eagle will cary its passengers for up to 50 IC (or until told it reaches the summoner's destination). If it isn't over solid ground at that point, it will fly to the nearest safe location before dropping them off. On the other hand, if the summoner asks it to drop them in mid-air it will do so.
+
 
 ## Summons
 ##### Raven
@@ -107,8 +120,8 @@ CHA: 25
 DEX: 80  
 AGI: 80  
 
-Accuracy: 30  
-Dodge: +20  
+Accuracy: 26  
+Dodge: +16  
 Genjutsu Defense: +20  
 Movement: 5 yards per IC  
 
@@ -128,7 +141,7 @@ The raven can act competently without guidance from its summoner. None of its ac
 By default, the raven is airborne; it may land or take off as a Speed 10 action. When airborne, its altitude automatically increases by 3 yards every IC, to a maximum of 100 yards.  It cannot be targeted by any attacks with a range of less than its altitude. Melee attacks can reach it only if the attacker can move far enough to reach the owl as part of their attack (by jumping!).  After descending to Steal (see below) an item, it is effectively 0 yards from the ground, and will then regain altitude accordingly.
 
 **Might of the Meek**  
-Raven's are surprisingly intelligent and, though they do not speak, are more than capable of learning from their summoner to improve their own abilities based off of their time spent working alongside them.  Whenever you summon a Raven, subtract the minimum XP required to summon it (1600 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3400.  
+Raven's are surprisingly intelligent and, though they do not speak, are more than capable of learning from their summoner to improve their own abilities based off of their time spent working alongside them.  Whenever you summon a Raven, subtract the minimum XP required to summon it (1200 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3400.  
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
  + ( X/50 ) * 0.1 to Damage Bonuses
@@ -185,8 +198,8 @@ CHA: 20
 DEX: 60  
 AGI: 60  
 
-Accuracy: 28  
-Dodge: +32  
+Accuracy: 25  
+Dodge: +29  
 Genjutsu Defense: +30  
 Movement: 4 yards per IC  
 Awareness: +20  
@@ -257,7 +270,7 @@ CHA: 100
 DEX: 120  
 AGI: 100  
 
-Accuracy: 50  
+Accuracy: 44  
 Dodge: N/A  
 Damage Bonus: 10  
 Genjutsu Defense: +35  

@@ -121,11 +121,11 @@ STR: 60
 RES: 70  
 CHA: 90  
 DEX: 80  
-SPD: 80  
+AGI: 80  
 
-Accuracy: 32  
+Accuracy: 28  
 Chakra Exhaustion: +15  
-Dodge: +24  
+Dodge: +20  
 Genjutsu: +20  
 Damage Bonus: 6.0  
 Movement: 2 yards per IC  
@@ -231,8 +231,8 @@ CHA: 50
 DEX: 120  
 AGI: 80  
 
-Accuracy: 40  
-Dodge: +25  
+Accuracy: 34  
+Dodge: +21  
 Genjutsu Defense: +26  
 Damage Bonus: 10  
 Movement: 2.5 yards per IC  

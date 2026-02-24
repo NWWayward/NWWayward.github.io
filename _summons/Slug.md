@@ -226,7 +226,7 @@ CHA: 100
 DEX: 100  
 AGI: 50  
 
-Accuracy: 42  
+Accuracy: 37  
 Damage Bonus: 8.0  
 Chakra Exhaustion: +25  
 Genjutsu Offense: +32  

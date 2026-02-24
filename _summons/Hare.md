@@ -114,9 +114,9 @@ CHA: 100
 DEX: 80  
 AGI: 80  
 
-Accuracy: 30  
+Accuracy: 26  
 Chakra Exhaustion: +14
-Dodge: +22  
+Dodge: +18  
 Genjutsu Defense: +14  
 Initiative Bonus: +20  
 Physical Damage Bonus: 3.0  
@@ -182,9 +182,9 @@ CHA: 60
 DEX: 80  
 AGI: 70  
 
-Accuracy: 32  
-Dodge: +18  
-Parry: +26  
+Accuracy: 28  
+Dodge: +15  
+Parry: +22  
 Genjutsu: +16  
 Damage Bonus: 3.0  
 Movement: 3 yard per IC, Floating  
@@ -242,8 +242,8 @@ CHA: 80
 DEX: 100  
 AGI: 150  
 
-Accuracy: 45  
-Dodge: +35  
+Accuracy: 40  
+Dodge: +28  
 Damage Bonus: 17.0  
 Movement: 5 yard per IC  
 
