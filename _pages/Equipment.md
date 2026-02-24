@@ -692,7 +692,7 @@ While mounted, the following rules apply:
  - You gain a +2 to Dodge while Mounted, which is lost the first time you attack in battle.
  - You take a -2 to Accuracy while Mounted, except with Polearms, which instead gain +2 Accuracy.
  - Melee weapon attacks while mounted have their physical damage bonus increased by +0.2 per full yard you move as part of your attack, to a maximum of +50% of your stat-based damage bonus.
- - Area of Effect attacks which include someone who is mounted automatically includes their mount.  Mounts will automatically block all attacks aimed at them as a Speed 0 defense, and automatically pass all status effect rolls any ninjutsu would require them to make.
+ - Area of Effect attacks which include someone who is mounted automatically includes their mount.  Mounts will automatically block all attacks aimed at them as a Speed 0 defense, and automatically pass all status effect rolls any Elemental Ninjutsu would require them to make.
  - Mounts can be attacked as any other target could be in battle.
  - Mounts fail all genjutsu rolls, but are immune to the sleep condition in combat.  Because they are controlled by their rider, status effects beyond Immobility and Stun doesn't meaningfully impede their actions in battle; if Stunned, a mount immediately stops moving and can not be directed to move again until a number of IC equal to their Stun has worn off (they are frozen in place, essentially).
  - Mounts movement speeds are reduced by 5% per 10% of their maximum vitality missing, but does not take with immobility penalties: you apply the higher penalty between the two.  Mounts do not take Wounds (and are accordingly immune to Medical ninjutsu which would interact with them).

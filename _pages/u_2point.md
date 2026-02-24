@@ -76,7 +76,7 @@ Your plans have plans, and they are all interwoven into the most innocuous actio
 *Upgrades Into: Tactician*
 
 ##### Jutsu Master
-You have a knack for mastering new jutsu, and, more impressively, not confusing them with one another no matter how many you seem to learn. The cost to learn jutsu is reduced by 25% (round up on the cost if necessary).  If you have other sources of XP reductions for learning Jutsu, you apply them multiplicatively, rounding up the final cost. This is, in fact, retroactive! Your maximum Chakra Control rank is increased by 3, and you have +1 Accuracy for all jutsu you use (Genjutsu get +1 to their offense roll, instead), which is doubled if the jutsu in question has an inherent Accuracy penalty.  Finally, all Jutsu gain +5% to their damage.
+You have a knack for mastering new jutsu, and, more impressively, not confusing them with one another no matter how many you seem to learn. The cost to learn jutsu is reduced by 25% (round up on the cost if necessary).  If you have other sources of XP reductions for learning Jutsu, you apply them multiplicatively, rounding up the final cost. This is, in fact, retroactive! Your maximum Research Rank is increased by 3, and you have +1 Accuracy for all jutsu you use (Genjutsu get +1 to their offense roll, instead), which is doubled if the jutsu in question has an inherent Accuracy penalty.  Finally, all Jutsu gain +5% to their damage.
 
 *Upgrades From: Seal Master*
 

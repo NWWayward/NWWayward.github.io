@@ -182,7 +182,7 @@ Henzaki physiology has an incredible ability to adapt, responding to any changes
  - Type: Ability
  - Base Cost: 10
  - Scale: 0
- - Limit: RES/40
+ - Limit: 1+RES/30
 
 Effects: You reduce the severity of any Poison you’re afflicted with by 1 per Rank, and take damage from Poison every 2 IC, rather than every IC. If the Poison’s Severity is reduced to half or less from this ability, all secondary effects of the Poison are negated.
 
@@ -721,14 +721,16 @@ The Sabechi were one of the only clans that would find themselves allied to the 
 The blood of a Sabechi is poisonous. Aside from minor conveniences, like it being harder to give them transfusions and the sabechi as a whole being ineligible for blood donations, it can also be used in combat as a very potent toxin.
 
  - Type: Ability
- - Base cost: 20
- - Limit: 1
+ - Base cost: 2
+ - Scale: 0
+ - Limit: Max of Toxicology Skill Rank Maximum
 
-Effects: Your blood contains a powerful cocktail of poisons. By cutting yourself, you may spend 10 HP (not Vitality!) as a Speed 10 action and apply your natural poison to a weapon you are holding.
+Effects: Your blood contains a powerful cocktail of poisons. By cutting yourself, you may spend 10 HP (not Vitality!) as a Speed 10 action and apply your Natural Poison to a weapon you are holding.
 
 Your Natural Poison has the stats of an Injury Vector poison from the equipment section, except it can be applied to any blunt, piercing, or slashing weapon. When you use this ability to apply a poison, select one of the Special Options listed under Poison in the Equipment section that can be applied to an Injury Poison. Your poison has that effect.
 
-You may use Chakra Control in place of your Toxicology ranks when using your Natural Poison. This applies both to the Toxicology roll and for determining the effects of your Poison. Note that the roll is still a Toxicology roll, using your bonuses to that and not Chakra Control (except for skill ranks).
+You also gain one Rank in the Toxicology skill for every Rank of this ability you have; you can not take ranks above your maximum rank in Toxicology (based on XP, Uniques, etc), though you can Skill Focus (via the Ability) with your normal Skill Points as you wish, it does not change your Skill Rank Maximum (and thus does not allow you to purchase extra Ranks of this ability).
+
 
 The Talent Rare Poisons does not apply to your Natural Poison.
 
@@ -747,9 +749,9 @@ Effects: You reduce the duration of any Poison you suffer from by RES/(5-Rank), 
 The toxicity in your blood has reached new heights, and your control over the exact composition has vastly improved.
 
  - Type: Ability
- - Base Cost: 100
+ - Base Cost: 50
  - Limit: 1
- - Requires: 30 Chakra Control or 25 Toxicology Ranks
+ - Requires: 25 Toxicology Ranks
 
 Effects: When you use your Natural Poison, you may choose and apply two Special Effects. Further, you increase the Severity of all Status Effects caused by your poison by 1. 
 
@@ -761,7 +763,7 @@ Sabechi are capable of manipulating the chakra and chemical composition of their
  - Speed: 5 or +5 
  - Special: Interrupt
 
-Effects: This jutsu automatically affects someone who is affected by your Natural Poison, without a defense. You may choose to accelerate your poison, applying (higher of Toxicology Ranks/2 or Chakra Control Ranks/2) IC worth of the poison's effects immediately, reducing its remaining duration by the same amount. This mostly applies to the poison's damage, but may also apply to Special Effects which are timed, such as a Manchineel Tree's Suffocation. Afterwards, you may change which Special Effect(s) your Poison has, which take place immediately. This can be done as its own Speed 5 action, or done as part of another Interrupt as a +5 Speed Link. If used in response to an attack, the new poison applies to the attack and not the old poison. This is considered Medical Ninjutsu for purposes of interacting with other effects, but the Sabechi does not need to qualify for medical jutsu to learn it.
+Effects: This jutsu automatically affects someone who is affected by your Natural Poison, without a defense. You may choose to accelerate your poison, applying (Toxicology/2) IC worth of the poison's effects immediately, reducing its remaining duration by the same amount. This mostly applies to the poison's damage, but may also apply to Special Effects which are timed, such as a Manchineel Tree's Suffocation. Afterwards, you may change which Special Effect(s) your Poison has, which take place immediately. This can be done as its own Speed 5 action, or done as part of another Interrupt as a +5 Speed Link. If used in response to an attack, the new poison applies to the attack and not the old poison. This is considered Medical Ninjutsu for purposes of interacting with other effects, but the Sabechi does not need to qualify for medical jutsu to learn it.
 
 #### -=[ Predatory Protrusions ]=-
 Every Sabechi has a way to deliver their poison naturally, without the aid of weapons—such is the nature of their bloodline. As their skill expands and chakra develops, it’s not unheard of for a Sabechi to begin manifesting other mutations.
