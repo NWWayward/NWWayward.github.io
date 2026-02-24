@@ -742,9 +742,9 @@ A relatively advanced technique, this allows the creation of durable, physical w
 
 Effects: You may create any weapon from the equipment section of PHB, mimicking its stats, using X sheets of paper; every die of damage the weapon does costs 3 sheets of paper, and melee weapons have their cost doubled.  Arrows can be created also with this technique (multiple at once of multiple types, even!), for 5 paper each, but can not be further modified by spending additional paper on them (such modifications are done to the Bow used to fire them). If you cannot match a weapon's damage dice, you cannot create it. A weapon thrown or discarded has its paper expended, and weapons created this way cannot be given to someone else to use. Any Personal Paper used in a weapon’s creation cannot be reclaimed without destroying the weapon in the process, but after its creation, the weapon’s paper sheets do not count against the limit of Paper Control. Beyond the minimum to create the weapon, you may spend additional paper to improve the weapon:
 
- > +1 Damage Die: 4 sheets (Maximum double normal dice)
- > +1 Accuracy: 10 sheets of paper (Maximum 2)
- >  Ignore 1 point of DR: 1 sheet
+ - +1 Damage Die: 4 sheets (Maximum double normal dice)
+ - +1 Accuracy: 10 sheets of paper (Maximum 2)
+ - Ignore 1 point of DR: 1 sheet
 
 #### --( Paper Clone )--
 Using the Yurigami’s control of paper, they modify the shape and color of their paper in order to create physical duplicates of themselves.
