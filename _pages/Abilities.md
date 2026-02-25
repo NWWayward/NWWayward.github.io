@@ -495,13 +495,13 @@ This allows your Instrument to also be capable of converting (some) General Ninj
  - Base Cost: 20
  - Requires: Instrumental Mastery, Chakra Control 15
 
- ( The General Ninjutsu this can be used on:  
- - Genjutsu Kai
- - Temporary Paralysis
- - Triggered Detonation Technique
- - Long-Range Detonation Technique
- - Barrier Encampment Method
- - Clone Great Explosion )
+*The General Ninjutsu this can be used on:*
+ - *Genjutsu Kai*
+ - *Temporary Paralysis*
+ - *Triggered Detonation Technique*
+ - *Long-Range Detonation Technique*
+ - *Barrier Encampment Method*
+ - *Clone Great Explosion*
 
 #### -=[ Countersong ]=-
 When you opt to utilize the Genjutsu Iron Curtain not as an interrupt (or can reduce its Seal Speed to 0 in order to eliminate its Delay when used as an Interrupt), while using an Instrument, you can provide its Genjutsu Defense bonus to everyone within (NDB * 2) yards of yourself, so long as they stay within range; you choose who is affected by it when you first use it who is within range, and decide once someone comes within range whether to grant them its benefit.  This does not allow them to gain its effects twice, however.
