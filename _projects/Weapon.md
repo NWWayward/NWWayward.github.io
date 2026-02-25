@@ -504,7 +504,7 @@ A simple name for what is, at its heart, a simple technique: the user crosses to
  - Damage: As weapon.
  - Speed: 20
  - Requires: Shunshin no Jutsu
- - Type: Small
+ - Type: Small Melee
 
 Effects: This may only be used as a Sneak Attack. Performing Ansatsu no Jutsu includes an activation of Shunshin, which must be used to move you into melee range directly behind your target (normal movement as part of an attack is not permitted). This attack bypasses armor and halves damage reduction.
 
