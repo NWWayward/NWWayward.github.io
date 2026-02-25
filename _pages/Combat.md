@@ -579,7 +579,7 @@ Wounds are particularly grievous injuries, ones powerful enough to have effects 
 
 And, so are their recovery times! How long a given wound takes to heal will be listed in that wound's own description. Many can be reduced by medical attention (as described below).
 
-Minor wounds all heal at the same rate, with or without rest or medical attention. Most wounds will heal even if you're not getting rest, with details listed for each individual wound; if it says nothing on the matter, rest or lack thereof won't change its recovery time.
+Minor wounds all heal at the same rate, and go away at the end of the combat in which they were acquired unless the wound itself states otherwise. Most other wounds will heal even if you're not getting rest, with details listed for each individual wound; if it says nothing on the matter, rest or lack thereof won't change its recovery time.
 
 ### Medical Attention
 Many of the listed recovery times assume you're waiting to get better on your own; ninja have a remarkable ability to recover from injuries, full as they are of vim and vigor. Naturally, you heal faster when you're actually getting rest and have trained medical professionals looking after you. In fact, you regain everything except Willpower twice as fast when receiving medical attention.

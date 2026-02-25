@@ -32,10 +32,10 @@ o/~ There's a drumming noise inside my head that starts when... o/~ ... uh, righ
 Your arm is bruised. It hurts. This gives a -1 Accuracy penalty (because of the pain being distracting, if you're attacking without using the arm) and increases your Seal Speeds by 1.
 
 ###### (26 - 55) Bruised Ribs (Torso)
-As in the bones, not the skin over them. Truth is, ribs hurt a lot more than they have any business doing. Breathing hurts in particular, deep breathing especially so. This increases the Speed of all your non-variable-speed actions by 1. You'll recover from this at the end of the week.
+As in the bones, not the skin over them. Truth is, ribs hurt a lot more than they have any business doing. Breathing hurts in particular, deep breathing especially so. This increases the Speed of all your non-variable-speed actions by 1 for the next 50 IC.
 
 ###### (56 - 80) Winded (Abdomen)
-A good shot to the gut hit your solar plexus or compressed your diaphragm, or both, knocking the wind out of you. You'll be fine, definitely, but this increases your Stamina penalty by 4 and applies a Stun 4.
+A good shot to the gut hit your solar plexus or compressed your diaphragm, or both, knocking the wind out of you. You'll be fine, definitely, but this applies a Stun 4 and increases your Stamina penalty by 4.  The stamina penalty will go away when you next fatigue, though it can not be reduced by other means.
 
 ###### (81 - 100) Bruised (Leg)
 Something hit your leg and now it hurts! You'll feel better after you walk it off (or just sit down and let the pain fade). Until the end of battle this reduces your base movement speed by 10% and applies a -1 penalty to dodge rolls.
@@ -189,7 +189,9 @@ They struck your quadricep, which is a fairly easy target, all things considered
 
 ## Piercing (Major)
 ###### (1 - 20) Joint Pierced (Arm)
-One of your arm's joints has been struck and is now filling with blood and becoming inflamed. It makes it much harder to properly manipulate the appendage, on top of the very strange and unnerving sensation you get when you move the arm and can feel the collected blood sloshing around. You're inflicted with Needling 4, and take a -1 to Accuracy for (Needling Severity) * 10 IC anytime you're inflicted by the Needling status (including this wound's initial Needling). Repeated applications of this wound increase the duration, but not the Accuracy penalty (though you can have multiple accuracy penalties from this wound, with their durations tracked separately). This wound takes two weeks to recover from.
+One of your arm's joints has been struck and is now filling with blood and becoming inflamed. It makes it much harder to properly manipulate the appendage, on top of the very strange and unnerving sensation you get when you move the arm and can feel the collected blood sloshing around. 
+
+The base Speed of all your attacks is increased by 1, and the effective Speed for determining their damage is decreased by 1.  Thus, a basic unarmed attack would become Speed 9, but would deal damage as if it was Speed 7.  This effect stacks, but is capped at 50% of an action's base Speed; an unarmed basic attack could not increase beyond Speed 12 (from 8), or deal less damage than Speed 4 (also from 8).  It takes two weeks to recover from.
 
 ###### (21 - 50) Punctured Cavity (Torso)
 The body has several cavities, areas where specific internal organs are housed and kept together. One of them has been pierced and now has a hole in it, which is filling up with blood, inflicting Needling 4 and Stun 10. What's worse is that every injury you take afterward causes your body to naturally tense up, aggravating the injury and causing noticeable pain, causing any future Needling status effect gained while you have this wound to also inflict an equivalent amount of Stun. It takes four weeks to recover from.
@@ -198,7 +200,9 @@ The body has several cavities, areas where specific internal organs are housed a
 Your abdomen happens to have several internal organs all closely packed together. While space-saving, it also happens to mean that if you're hit there, one of them is bound to be injured in some form or fashion, and that's exactly what happened. What that boils down to is that you're bleeding, a lot. You're inflicted with Needling 4, and anytime you're afflicted with Needling while you have this injury (including this Wound's initial Needling), you take a 1+(Needling Severity)/2 penalty to Fatigue rolls. It takes three weeks to recover from, but only one with medical treatment.
 
 ###### (81 - 100) Joint Pierced (Leg)
-Though they missed fracturing your knee cap, they still managed to pierce the joint itself, and it's now collecting (and leaking) blood which isn't supposed to be there. Like many wounds, on its own it isn't so bad, but when aggravated, it becomes very problematic. You're inflicted with Needling 4, and take a -1 to all defensive rolls for (Needling Severity) * 10 IC anytime you're inflicted by the Needling status (including this wound's initial Needling). Repeated applications of this wound increase the duration, but not the defense penalty (though you can have multiple defense penalties from this wound, with their durations tracked separately). This wound takes two weeks to recover from.
+Though they missed fracturing your knee cap, they still managed to pierce the joint itself, and it's now collecting (and leaking) blood which isn't supposed to be there. Like many wounds, on its own it isn't so bad, but when aggravated, it becomes very problematic.
+
+For every yard you move once you acquire this wound, including as part of an attack or with the aid of a jutsu, your movement speed afterwards is decreased by 1%, to a maximum of a 50% reduction.  Multiple applications of this wound do not increase its maximum, but do increase how much percentage is lost per yard moved (two wounds would be 2% lost per yard moved).  You also take a -1 to defensive rolls for every 15% your movement speed is reduced by this wound.  It takes two weeks to recover on its own, only one with medical treatment.
 
 ## Piercing (Severe)
 ###### (1 - 20) Tricep Tear (Arm)
@@ -247,7 +251,7 @@ You got a nasty gash running along your arm.  It didn't cut anything vital, but 
 Something managed to slice right across your chest, hacking your armor right off your body.  On top of being a fairly nasty gash which is likely to scar if not given stitches, you have a Bleed 4 effect, and any armor you're wearing is removed (But clothing is still there!). Armor which specifically applies to only a different location (such as your head) is not lost.
 
 ###### (56 - 80) Sliced Stomach (Abdomen)
-This is what happens when you can't make your body concave enough.  You get cut right across the belly.  Fortunately it isn't that bad, it's just in a bad spot.  Your Stamina and Chakra costs are all increased by 2 until the end of the battle.
+This is what happens when you can't make your body concave enough.  You get cut right across the belly.  Fortunately it isn't that bad, it's just in a bad spot.  Your Stamina and Chakra costs are all increased by 2.
 
 ###### (81 - 100) Lacerated (Leg)
 You got a nasty gash running along your leg.  It's not life-threatening, but it is staining your clothes and oozing down your leg.  You have a -1 immobilization penalty that will fade after 20 IC, but anytime you take a move action (moving as part of an attack action is fine, but using Shunshin is not), the wound will reopen, applying another -1 immobilization penalty with +5 IC in duration.
