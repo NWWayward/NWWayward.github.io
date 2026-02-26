@@ -254,7 +254,7 @@ This entails deflecting an opponent's weapon with your own, or stopping their un
 
 When something (such as Fatigue) penalizes both Accuracy and defensive rolls (or rolls in general), Parry only suffers the penalty to defensive rolls; if something penalizes only Accuracy, then Parry does suffer that penalty. Basically, it doesn't have to deal with 'double jeopardy'.
 
-**Perform Handseals** ***(Speed Variable, Abort)***
+**Perform Handseals** ***(Speed Variable, Abort)***  
 Most Ninjutsu and Genjutsu techniques require the use of handseals, specialized hand signs that direct and mold the flow of chakra. Representing this, those jutsu have a Seal Speed listed in their description. That number, minus your DEX/10, gives you the modified seal speed, which is the Speed of your Perform Handseals, a Variable Speed Action. A Seal Speed of 0 means that while handseals are required, you can perform them so fast that the time required is negligible. You may forego part, or all, of your DEX/10 reduction of Seal Speed if you wish (for example, with 40 DEX you could use Perform Handseals action for a Seal Speed 10 jutsu at anywhere between Speed 6 and Speed 10, as you pleased).
 
 Handseals require the use of both hands, and if they're interrupted for any reason you have to start over again. Although you don't have to declare what technique you're performing the handseals for when you start, all techniques have their own, unique combination of seals to perform them; this means that if you changed your mind partway through a Perform Handseals action, you'd need to start a new one.
