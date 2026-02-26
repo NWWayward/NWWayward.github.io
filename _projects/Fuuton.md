@@ -160,7 +160,7 @@ After finishing the seals, the user claps their palms together and compresses th
  - Seal Speed: 8
  - Tags: Slashing, Projectile
 
-Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 2d6 * 5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone, and receive +3 to their Resistance rolls to avoid being tripped by this technique for the remainder of the battle.
+Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 2d6 * 5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone, and receive +3 to their Athletics rolls to avoid being tripped by this technique for the remainder of the battle.
 
 As an interrupt, it can be used in response to a thrown weapon attack, allowing you to make a ninjutsu parry roll against the attack. If you succeed, you redirect their attack at them, using its original accuracy and speed, adding 2d6 * 5 to the attack's damage plus your interrupt's Speed * NDB. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
 

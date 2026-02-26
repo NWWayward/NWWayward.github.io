@@ -195,7 +195,7 @@ This technique interferes with the victim's ability to see, hear, smell, taste, 
 - Speed: 18
 - Seal Speed: 16
 
-Effects: This negates all ranks the victim has in Enhanced Hearing and Enhanced Sight, and any abilities dependant upon them (such as Blind Fighting or Genjutsu Awareness). They also suffer a -2 visibility penalty (which stacks with any other visibility penalties they may have). Their reduced sensory perception allows them to ignore the penalties of any Minor wounds they may be suffering from, which also means that minor wounds will not break any other genjutsu applied to them (including this one) while this genjutsu persists.
+Effects: This negates all ranks the victim has in Enhanced Hearing and Enhanced Sight, and any abilities dependant upon them (such as Genjutsu Awareness). They also suffer a -2 visibility penalty (which stacks with any other visibility penalties they may have). Their reduced sensory perception allows them to ignore the penalties of any Minor wounds they may be suffering from, which also means that minor wounds will not break any other genjutsu applied to them (including this one) while this genjutsu persists.
 
 #### --( Nemurihane - Sleep Feather )--
 An advanced version of Nemuri, this causes the subject to briefly see illusory feathers drifting down around them before they succumb to sleep. It's no more useful in combat, but it can actually be used at a range, or from hiding.
@@ -286,7 +286,7 @@ This technique specifically targets the victim's eyesight, effectively blinding 
  - Speed: 20
  - Seal Speed: 26
 
-Effects: This applies a -10 visibility penalty to the victim. While it's in effect, anyone can attempt to hide from them (even if the victim can somehow reduce that penalty below -6). While in effect, any doujutsu the victim possesses is effectively useless, and grants them no benefits, and anything requiring the use of that doujutsu (such as other techniques) can not be utilized.
+Effects: This applies a -10 visibility penalty to the victim and prevents them from gaining any benefit from Blind Fighting (or things which increase your effective ranks from it) while this genjutsu persists. While it's in effect, anyone can attempt to hide from them. Additionally, any doujutsu the victim possesses is effectively useless, and grants them no benefits, and anything requiring the use of that doujutsu (such as other techniques) can not be utilized.
 
 #### --( Kiokure Keiren - Nervous Convulsions )--
 This technique partially hijacks the victim's nervous system, reacting in response to anything they do and sending conflicting signals. It's only truly effective in combat, where physical activity is the most spontaneous, and even slightly reduced reaction time can prove fatal. This tends to be exceptionally painful.

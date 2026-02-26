@@ -89,7 +89,7 @@ The user puts both hands together, forming a miniature thunder bolt between his 
  - Seal Speed: 10
  - Tags: Area of Effect
 
-Effects: Everyone in range (except you) is inflicted with a Stun (8+the amount they failed by) if they fail a status roll, to a maximum of 20. While stunned, they're also considered deafened, losing all ranks of the Enhanced Hearing ability, as well as any abilities based upon it (namely Blind Fighting and Genjutsu Awareness) for the duration. Victims of this technique gain +3 to their Resistance roll for every time they've defended against it in the same battle.
+Effects: Everyone in range (except you) is inflicted with a Stun (8 + the amount they failed by) if they fail a status roll, to a maximum of 20. While Stunned, they're also considered Deafened, losing all ranks of the Enhanced Hearing and Blind Fighting abilities, as well as any abilities based upon them (namely Genjutsu Awareness) for the duration. Victims of this technique gain +3 to their Resistance roll for every time they've defended against it in the same battle.
 
 #### --( Shinkei Attou no Jutsu - Nerve Overloading Technique )--
 You send a 'spark' of chakra into an enemy, stimulating any electrical chakra already in their system and sending them into several seconds of agonizing convulsions.
@@ -191,7 +191,7 @@ Effects: When you use this technique, you and anyone in range make an opposed In
 
 Anyone who is blinded is inflicted with a -8 Visibility Penalty which fades at a rate of 1 per 5 IC, and temporarily loses all ranks of the Enhanced Sight ability, as well as those dependent on it (namely Keen Senses, Assassin's Eye and Genjutsu Awareness). 
 
-Anyone with a Doujutsu (active or not) reduces their bonus to successive rolls against this technique to only +2, and if blinded, has the effects of their Doujutsu suppressed until the Visibility Penalty from this technique has been reduced to -3 (which Byakugan can not ignore, as they are temporarily blinded).
+Anyone with a Doujutsu (active or not) reduces their bonus to successive rolls against this technique to only +2, and if blinded, has the effects of their Doujutsu suppressed until the Visibility Penalty from this technique has been reduced to -3 (regardless of the actual penalty you take).
 
 #### --( Chuubu Gaki no Jutsu - Ghoul Paralysis Technique )--
 After making contact with an enemy, you send a powerful pulse of electricity through their body, momentarily overstimulating their nervous system. For several seconds afterwards, the recipient of the shock will find their body sluggish and poorly responsive. While not actual harmful, this is exceptionally painful.

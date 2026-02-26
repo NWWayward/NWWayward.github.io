@@ -352,8 +352,9 @@ Effects: Y is the number of times you’ve previously used this jutsu in the pre
 
 While caught, the following effects apply:
  - They can not move, however if you move, they move in a way that is mirrored to you; if you move toward them, they move toward you.  If you turn left, they turn right, etc. However, if you move (or are forced to move) away from them beyond double this jutsu’s range, your shadow is severed from them and this jutsu ends.
- - They can not take actions, but you can make them perform any Taijutsu which you know, use any weapon or item they have, and any Ninjutsu or Genjutsu which you both know.  You can make them perform any mundane task, including forcing them to disarm themselves.  They pay the Fatigue costs for any actions you make them perform, though you must perform the same action.  If you make them perform an attack, their attack uses your Accuracy, rather than their own.
- - If you attack them, they use the same attack against you, though you can use a Large weapon to attack them without being hit if they have a non-Large weapon (or none), and any non-Small weapon to attack without being hit if they have a Small weapon (or none).  You can perform any Ninjutsu or Genjutsu you know against them, though if they know the same technique, they perform it as well, directed at you.
+ - They can not take actions. You can make them perform any mundane task, including forcing them to disarm themselves.  They pay the Fatigue costs for any actions you make them perform, though you must perform the same action.  If you make them perform an attack, their attack uses your Accuracy, rather than their own.
+ - If you attack them, they use the same attack against you, though you can use a Large weapon to attack them without being hit if they have a non-Large weapon (or none), and any non-Small weapon to attack without being hit if they have a Small weapon (or none).
+ - You can not use Ninjutsu or Genjutsu while you maintain Kagemane's upkeep, but can use Taijutsu and any clan jutsu you know, though if they know the same technique, they perform it as well, directed at you.
  - You can also attack someone else and make them attack the same target as you, at the same time, with a -3 to their Accuracy.
  - Anytime you make them perform an action, your IC is advanced by the appropriate amount, and theirs is not.
  - Anytime someone you’re controlling is attacked, you can partially relax the technique long enough for them to defend themselves at a -2 to their defensive roll, or hold them in place as they are attacked: while they still get to defend against the attack, they instead take a -10 to their defensive roll, and have block's effectiveness reduced by 50%, in addition to being anchored to the spot, unable to move (As it relates to area of effect penalties). If held in place, after the attack is resolved they automatically break free of this technique.
@@ -411,7 +412,6 @@ The Nara materializes shadows into several thin, needle-tipped tendrils and atta
  - Accuracy: +2
  - Range: CHA/5
  - Speed: 12
- - Seal Speed: 8
  - Special: X Immobilization Penalty
 
 Effects:  X has a maximum of 6. This technique deals Piercing damage. You may use Kagemane on anyone affected by your own Shadow Sewing’s Immobilization Penalty, ending said penalty and automatically gaining control of them via Kagemane, without requiring an Accuracy or allowing a defensive interrupt response, though you still pay Kagemane’s cost and take its Upkeep, and taking control of someone this way counts as a ‘use’ in determining Kagemane’s Chakra cost and how easy it is to break out of.
@@ -490,7 +490,8 @@ Outside of their normal training, all members of the Uchiha clan are taught how 
 #### -=[ Sharingan - Copy Wheel Eye ]=-
 Sharingan is a doujutsu, or ‘eye technique’; when it manifests, the user’s irises turn red, and a tomoe (essentially a comma-shaped mark) appears in the iris, like a second pupil. Another tomoe appears in each eye at the second and third stages, for a maximum of three.
 
-The Sharingan’s greatest weakness is that it is dependent upon unimpeded visibility: None of the abilities provided by it may be used when you’re at a Visibility Penalty of -6 or greater.
+The Sharingan’s greatest weakness is that it is dependent upon unimpeded visibility: If you have a -6 or greater penalty from Visibility (after factoring in Blind Fighting), then none of the abilities provided by it may be used.
+
 
 Unfortunately for the Uchiha, they are not inherently able to access this power.  Rather, in times of need—generally when under severe combat-related stress—the doujutsu will activate itself.  This is GM-regulated; you’ll be informed if this takes place.  When it does, your Sharingan immediately activates at the stage above the highest you’ve achieved, and from then on you may activate that stage at will.
 
