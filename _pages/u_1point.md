@@ -79,7 +79,7 @@ You're adept at turning a fight into a one-man training montage with your enemy 
 *Upgrades Into: Bruiser*
 
 ##### Quick Draw
-You have always been able to pick things up, spin them between your fingers, throw things just right, and otherwise use your hands well. You may throw up to DEX/8 weapons with a multi-throw, reduce Seal Speeds and the Speed of ranged attacks by 2, and may draw weapons without any sort of action. You may sheathe weapons as a Speed 0 action.
+You have always been able to pick things up, spin them between your fingers, throw things just right, and otherwise use your hands well. You may throw up to DEX/8 weapons with a multi-throw, reduce the Speed of ranged taijutsu attacks by 2, and may draw weapons without any sort of action. You may sheathe weapons as a Speed 0 action.
 
 *Upgrades Into: Fan of Knives, Single-Handed Seals*
 
@@ -92,7 +92,7 @@ When an attack you make would prove lethal, you may opt to hold back at the last
 *Upgrades Into: Avenger, Protector*
 
 ##### Seal Master
-You're really, really good with handseals. You make them fast, and mold your chakra just as rapidly. It could be natural talent... but, honestly, you know what it probably was? Probably when you were a kid you were incredibly obsessed with being a super-cool ninja, so you spent all your free time making fake handseals and pretending to shoot fireballs at your friends. You reduce all Seal Speeds by Dex/8 (instead of Dex/10), and for every 40 DEX over what is needed to reduce a jutsu's Seal Speed to 0 you have, you can choose to lower that technique's Speed by 1 (as if you'd spent AP to do so).
+You're really, really good with handseals. You make them fast, and mold your chakra just as rapidly. It could be natural talent... but, honestly, you know what it probably was? Probably when you were a kid you were incredibly obsessed with being a super-cool ninja, so you spent all your free time making fake handseals and pretending to shoot fireballs at your friends. You reduce all Seal Speeds by (2+Dex/8) (instead of Dex/10), and for every 2 Seal Speed reduction you have over what is needed to reduce a jutsu's Seal Speed to 0, you can choose to lower that technique's Speed by 1 (as if you'd spent AP to do so).
 
 *Upgrades Into: Jutsu Master, Single-Handed Seals*
 

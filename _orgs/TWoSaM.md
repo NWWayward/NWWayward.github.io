@@ -712,7 +712,9 @@ The Yurigami strengthens several pieces of paper, using them as a physical barri
   -  Speed: 4
   -  Special: Interrupt
 
-Effects: You utilize sheets of paper to defend yourself by making them as rigid and resilient as thin sheets of metal. Every piece of paper spent this way stops 2 points of damage. Personal paper used this way stops 3 points of damage per sheet; however, paper used this way cannot be recalled through Origami Paper Assimilation, having been destroyed in the process. This may also be used after a failed defense as a +0 Speed action, succeeding automatically but destroying 1 sheet of paper per point of damage; used this way, it can only be performed with personal paper.  For attacks which have effects based on how much you are hit, Paper Wall is treated the same as Block would be.
+Effects: You utilize sheets of paper to defend yourself by making them as rigid and resilient as thin sheets of metal. Every piece of paper spent this way stops 2 points of damage. Personal paper used this way stops 3 points of damage per sheet; however, paper used this way cannot be recalled through Origami Paper Assimilation, having been destroyed in the process.  when used as a defensive interrupt, Paper Wall is treated as though you blocked (for interactions with specific attacks), though it does not reduce the damage any (as Block would), nor does it grant bonuses from things such as Fortitude.
+
+This may also be used after a failed defense as a +0 Speed link to another defensive interrupt (but not if you took *no* defensive action), succeeding automatically but destroying 1 sheet of paper per point of damage; used this way, it can only be performed with personal paper.
  
 #### --( Paper Shuriken )--
 Sheets of paper are folded into shuriken-like shapes, or sharpened to razor edges, and launched at an enemy.
@@ -755,7 +757,7 @@ Using the Yurigami’s control of paper, they modify the shape and color of thei
 
 Effects: You create one or more clones made from your personal paper, to a maximum of 3. By default, you are considered hidden among your clones when you create them, following the normal rules for clones. You may direct them to take actions by spending AP.
 
-These clones may use basic attacks, dodge, parry, move, and use Parchment Weapon Formation and Paper Shuriken, costing 1 AP per 3 speed of the action they perform, and automatically reclaim all used paper. Unlike normal clones they can actually take damage, and have Vitality equal to five times the amount of paper used in their creation, though if they take damage equal to or greater than their Vitality they are destroyed, collapsing into however much paper was used to create them, minus 20 sheets, which are destroyed.
+These clones may use basic attacks, dodge, parry, move, and can use Parchment Weapon Formation and Paper Shuriken, costing 1 AP per 3 speed of the action they perform.  They have access to the personal paper used to make them (and use it as personal paper of their own) and automatically reclaim all used paper. Unlike normal clones they can actually take damage, and have Vitality equal to five times the amount of paper used in their creation, though if they take damage equal to or greater than their Vitality they are destroyed, collapsing into however much paper was used to create them, minus 20 sheets, which are destroyed.
 
 When Paper Clones attack, they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.  Paper clones use your Stamina and Chakra Exhaustion bonuses as if they were a Fatigue 1 version of you without any temporary benefits (such as having eaten a Soldier pill, or any upkeeps or wounds or status effects affecting you), and if they fail a Fatigue roll, they collapse as if they’d been destroyed by damage.
 
