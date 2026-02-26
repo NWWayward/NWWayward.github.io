@@ -110,19 +110,18 @@ Effects: You restore 1 Swarm Size per X; Y is the number of times you’ve used 
 #### --( Hijutsu: Mushidama – Secret Technique: Insect Sphere )--
 Using a Swarm that the Aburame has already spread out over an area in the battlefield and a Female Kikai’s trackability, the Aburame commands their Kikaichuu to harass and converge upon a single target. Unless they keep on the move, they will inevitably become swarmed by Kikaichuu that crawl up and all over their body, and attempts to run will have them continually chased by the Swarm.
 
- - Type: Ninjutcu, Rank C
+ - Type: Ninjutsu, Rank C
  - Chakra: 15 + X
  - Upkeep: X/4
- - Damage: (CHA/10)d(X)
  - Speed: 12
  - Seal Speed: 8
  - Special: Deployed X Swarm Size, Female Kikai on target
 
-Effects: When you activate this jutsu, a deployed Swarm becomes single-mindedly focused on a singular enemy, and harasses them continuously.  From then you track the Swarm individually, but the Swarm only takes a single action: Moving toward your designated target, which must have a Female Kikai upon them.  If the Female Kikai is ever destroyed, this Jutsu ends automatically and the Swarm becomes a regular swarm on the battlefield.  You can, at most once every 10 IC, spend AP to have the Swarm attack their target, assuming the Swarm is in melee range of them. You use your base Accuracy for Ninjutsu, unmodified by Status effects, Wounds, Temporary Bonuses, though penalties from Fatigue do apply.
+Effects: When you activate this jutsu, a deployed Swarm becomes single-mindedly focused on a singular enemy, and harasses them continuously. From then you track the Swarm individually, but the Swarm only takes a single action: Moving toward your designated target, which must have a Female Kikai upon them. If the Female Kikai is ever destroyed, this Jutsu ends automatically and the Swarm becomes a regular swarm on the battlefield.
 
-You can have the Swarm make a basic attack (dealing the listed damage above) for X/2 AP, or you can choose to have the Swarm perform any Grapple Jutsu you know of C-rank or lower, paying AP equal to its base Speed.  So long as the Swarm is able to maintain melee range with their target, the Swarm is considered to be Grappling the target and in control.  Rather than making Grapple rolls to escape, the Target must move far enough away to break melee range with the Swarm to be considered ‘free’ of the Grapple.
+While this jutsu is active, the target takes X irreducible damage every IC as the swarm starts to consume them. Every time the target spends 10 consecutive IC inside the Swarm's area, you may spend 5 AP to apply the effects of a Leg Lock, Arm Lock, or Head Lock as described in the "Lock" Grapple Jutsu (D Rank). The Lock lasts until the target is no longer in the Swarm's area, instead of its usual duration. 
 
-The Swarm is immune to the Grappled condition itself, however, and both the Swarm and the Target do not have their Movement speed reduced for being in a Grapple (though the Target could still have their movement speed reduced from individual Grapple Jutsu, such as a Leg Lock), nor do they suffer the normal penalties associated with being Grappled; the Swarm merely gains the benefits of being considered in a Grapple with the target and in control if it’s beneficial for them. The sole exception to the above is that if they are using this special Grapple with someone who is suffering from an Ignite status, it harms the Swarm following normal Swarm rules and can reduce the Swarm’s size (potentially to 0, ending this jutsu) as a result.  If a Grapple Check is ever required for a Grapple Jutsu they perform (such as from Tiger Drop), the Swarm uses your NDB in place of PDB.  The Swarm is considered to have unlimited limbs.
+Note that the Swarm is never "grappling" the target. However, if the target is suffering from the Ignite status, then the Swarm loses (Ignite Status)/5, rounded down Swarm Size every time it applies a lock.
 
 While this Jutsu is being maintained, the Swarm used in this Technique can not be used for any other action (drain, guard, creating clones, etc) until the technique is dismissed, though it can defend itself normally.
 

@@ -458,11 +458,13 @@ You're very good with attention to detail. You notice things that other people o
 - Special: The two "Enhanced (Sense)" abilities share a Scale. That is, if you already had four ranks of Enhanced Sight, the first rank of Enhanced Hearing would cost (4+(3*4) = ) 16 XP.
 
 #### -=[ Blind Fighting ]=-
-Between smoke bombs, stealth missions at night, and hostile ninjutsu, shinobi often find themselves operating with their vision impaired. This ability represents training to fight while relying on your other senses. Each rank of Blind Fighting reduces the maximum visibility penalty you can suffer from by 1.
+Between smoke bombs, stealth missions at night, and hostile ninjutsu, shinobi often find themselves operating with their vision impaired. This ability represents training to fight while relying on your other senses. 
 
-- Base Cost: 7
-- Scale: 2
-- Limit: Enhanced Hearing ranks, max 4
+The maximum penalty you can take from Visibility Penalties is reduced by 1 per rank; this does not change the actual severity of the status you are affected by (for things such as an enemy being eligible to Hide from you), but does change the penalties applied.
+
+Base Cost: 7
+Scale: 2
+Limit: CHA/20, maximum 8
 
 #### -=[ Keen Senses ]=-
 You're very good at picking up on tiny things that are just everso-slightly out of place! Normally, you get a cumulative +2 bonus every time you attempt to find someone using a Search action in combat. This raises that to +3 at the first rank, and +4 at the second.
