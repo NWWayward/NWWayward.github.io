@@ -92,7 +92,7 @@ When an attack you make would prove lethal, you may opt to hold back at the last
 *Upgrades Into: Avenger, Protector*
 
 ##### Seal Master
-You're really, really good with handseals. You make them fast, and mold your chakra just as rapidly. It could be natural talent... but, honestly, you know what it probably was? Probably when you were a kid you were incredibly obsessed with being a super-cool ninja, so you spent all your free time making fake handseals and pretending to shoot fireballs at your friends. You reduce all Seal Speeds by (2+Dex/8) (instead of Dex/10), and for every 2 Seal Speed reduction you have over what is needed to reduce a jutsu's Seal Speed to 0, you can choose to lower that technique's Speed by 1 (as if you'd spent AP to do so).
+You're really, really good with handseals. You make them fast, and mold your chakra just as rapidly. It could be natural talent... but, honestly, you know what it probably was? Probably when you were a kid you were incredibly obsessed with being a super-cool ninja, so you spent all your free time making fake handseals and pretending to shoot fireballs at your friends. You reduce all Seal Speeds by (2+Dex/8) instead of (Dex/10), and for every 2 Seal Speed reduction you have over what is needed to reduce a jutsu's Seal Speed to 0, you can choose to lower that technique's Speed by 1 (as if you'd spent AP to do so).
 
 *Upgrades Into: Jutsu Master, Single-Handed Seals*
 
