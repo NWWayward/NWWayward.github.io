@@ -492,7 +492,6 @@ Sharingan is a doujutsu, or ‘eye technique’; when it manifests, the user’s
 
 The Sharingan’s greatest weakness is that it is dependent upon unimpeded visibility: If you have a -6 or greater penalty from Visibility (after factoring in Blind Fighting), then none of the abilities provided by it may be used.
 
-
 Unfortunately for the Uchiha, they are not inherently able to access this power.  Rather, in times of need—generally when under severe combat-related stress—the doujutsu will activate itself.  This is GM-regulated; you’ll be informed if this takes place.  When it does, your Sharingan immediately activates at the stage above the highest you’ve achieved, and from then on you may activate that stage at will.
 
 PC Uchiha are considered better than your average Uchiha and begin with Stage 1 unlocked at creation. Unfortunately, to unlock its higher stages requires training and persistence. A shinobi can unlock the Sharingan’s higher stages without the need for external stimulus, though it can take a while.  500 XP above your starting XP (the total amount you have when you get your character approved), you unlock Stage 2.  1500 XP above your starting XP, you unlock Stage 3.  Legends speak of a fourth, higher stage, but no one in recent memory has obtained it.
@@ -689,7 +688,7 @@ As they progress in their abilities, the Yurigami develop the ability to turn th
   -  Limiting Attribute: CHA/10
 
 Effects: Each rank of this ability raises the Yurigami's maximum Vitality by CHA/5. Each rank also allows 1 Vitality to be converted to one sheet of personal paper per IC as a Speed 0 Unfold action, which remains active until they choose to stop it (as another Speed 0 action, which is not an interrupt). They can not go over their normal maximum for personal paper in this way, and will stop losing Vitality (and gaining paper) once they reach their maximum, though will continue to make more unless it is stopped, as described above.
- 
+
 #### --( Origami Paper Assimilation )--
 As they are able to split portions of their body off into paper, the Yurigami can similarly reintegrate that same paper to themselves. Still, there is a difference between mere paper, and paper which is 'them'; regrettably, being in a library does not make them near-immortal.
 
@@ -698,9 +697,9 @@ As they are able to split portions of their body off into paper, the Yurigami ca
   -  Scale: 0
   -  Limiting Attribute: CHA/20
 
-Effects: You can take a Speed 5 Recall action to recall up to CHA/2 sheets of paper that you have used in this battle, per rank of this ability.  This applies only to your personal paper.
+Effects: You can take a Speed 5 Recall action to recall up to CHA/2 sheets of paper that you have used in this battle, per rank of this ability.
 
-Additionally, you may take a special Speed 5 Refold action to repair your body with personal paper, at the rate of 1 Vitality per sheet of paper, to a maximum of 5 Vitality per rank.
+Additionally, you may take a special Speed 5 Refold action to repair your body with personal paper (destroying it to do so), at the rate of 1 Vitality per sheet of paper, to a maximum of 5 sheets of paper per rank.
 
 You may combine these two effects into a single Speed 10 action (in order to recall paper, and refold paper, at the same time).
 
@@ -752,12 +751,12 @@ Effects: You may create any weapon from the equipment section of PHB, mimicking 
 Using the Yurigami’s control of paper, they modify the shape and color of their paper in order to create physical duplicates of themselves.
 
   -  Type: Ninjutsu, Rank C
-  -  Cost: 20+ sheets of paper per clone
+  -  Cost: 20+ sheets of personal paper per clone
   -  Speed: 10 + 3 per clone
 
 Effects: You create one or more clones made from your personal paper, to a maximum of 3. By default, you are considered hidden among your clones when you create them, following the normal rules for clones. You may direct them to take actions by spending AP.
 
-These clones may use basic attacks, dodge, parry, move, and can use Parchment Weapon Formation and Paper Shuriken, costing 1 AP per 3 speed of the action they perform.  They have access to the personal paper used to make them (and use it as personal paper of their own) and automatically reclaim all used paper. Unlike normal clones they can actually take damage, and have Vitality equal to five times the amount of paper used in their creation, though if they take damage equal to or greater than their Vitality they are destroyed, collapsing into however much paper was used to create them, minus 20 sheets, which are destroyed.
+These clones may use basic attacks, dodge, parry, move, and can use Parchment Weapon Formation and Paper Shuriken, costing 1 AP per 3 speed of the action they perform.  They have access to the personal paper used to make them (and use it as personal paper of their own, though they can not use any other source of paper) and automatically reclaim all used paper (though they can not unfold or refold paper). Unlike normal clones they can actually take damage, and have Vitality equal to five times the amount of paper used in their creation, though if they take damage equal to or greater than their Vitality they are destroyed.  Regardless of if they are destroyed or unmade (by you making more, a different type of clone, or reabsorbing it), 20 sheets used to create the clones are destroyed; any amount above that to create them can be reclaimed (with the normal action to do so).
 
 When Paper Clones attack, they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.  Paper clones use your Stamina and Chakra Exhaustion bonuses as if they were a Fatigue 1 version of you without any temporary benefits (such as having eaten a Soldier pill, or any upkeeps or wounds or status effects affecting you), and if they fail a Fatigue roll, they collapse as if they’d been destroyed by damage.
 
@@ -771,7 +770,7 @@ The pinnacle of development of the Yurigami's abilities, with this ability not o
   -  Upkeep: 0
   -  Speed: 10
 
-Effects: The user turns their body into paper. This removes all per-IC limitations of Rice Paper Creation and Origami Paper Assimilation while active, and turns the latter into a non-action that can be done at any time.  You may shed and replace damaged sheets of paper, more unfolding from within you in the wake of wounds, granting you CHA/5 DR.  In this form you are immune to Bleed, Burns, and Poison, and as well as all effects which add to damage for the purpose of wounding (such as several Fuuton jutsu, Anatomical Knowledge, etc).  Finally, while using Dance of the Shikigami, doujutsu cannot automatically distinguish you from your clones.
+Effects: The user turns their body into paper. This removes all per-IC limitations of Rice Paper Creation and Origami Paper Assimilation while active, and turns the latter into a non-action that can be done at any time.  You may shed and replace damaged sheets of paper, more unfolding from within you in the wake of wounds, granting you CHA/5 DR.  In this form you are immune to Bleed, Burns, and Poison, and as well as all effects which add to damage for the purpose of wounding (such as several Fuuton jutsu, Anatomical Knowledge, etc).  Finally, while using Dance of the Shikigami, doujutsu cannot automatically distinguish you from your Paper Clones.
  
 #### -=[ Origami Body ]=-
 The Yurigami breaks apart, dissolving their physical form entirely into an amorphous cloud of paper sheets.

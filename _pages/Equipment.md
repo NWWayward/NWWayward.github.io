@@ -486,13 +486,13 @@ Bells on the body, Drum pads, or some other type of attachment that can be strap
 
 #### Survival
 ##### Antidote
-Antidotes to several of the more popular and lethal poisons which shinobi use are widely available, for somewhat obvious reasons. A single dose of an antidote costs half the amount for a single dose of a poison; multiple doses cost half as much as the first. So, buying 2 doses of antidote for Black Adder venom would be (40+20) 60 ryo, and buying 4 doses of antidote for Yew toxin would be (60 + 3 * 30) 150 ryo.
+Antidotes to several of the more popular and lethal poisons which shinobi use are widely available, for somewhat obvious reasons. A single dose of an antidote costs half the amount for a single dose of a poison; multiple doses cost half as much as the first. So, buying 2 doses of antidote for a regular injury poison would be (100 + 50) 150 ryo, and buying 4 doses of antidote for regular inhalation poison would be (200 + 3 * 100) 500 ryo.
 
-Taking a dose of an antidote is a Speed 6 action, and immediately cures you of the poison in question and all its lingering effects. Antidotes that act quickly enough to be useful in emergencies, such as combat, aren’t gentle on the body, with each applying a -2 penalty to your Accuracy and all d20 rolls for 100 IC. However, for that duration you are immune to the poison in question. 
+Taking a dose of an Antidote is a Speed 6 action, and immediately cures you of the poison in question and all its lingering effects. Antidotes that act quickly enough to be useful in emergencies, such as combat, aren’t gentle on the body, with each applying a -2 penalty to your Accuracy and all d20 rolls for 100 IC. However, for that duration you are immune to the poison in question. 
 
-When purchasing an antidote, you must specify which Special Effect it innoculates you from. Unless you are immune to all Special Effects in the Poieon, you still take the Poison condition. Poison without a non-damaging effect is stopped as long as you have any antidote in your system.
+When purchasing an antidote, you must specify which Special Effect it inoculates you from unless you are immune to all Special Effects in the Poison, you still take the Poison condition. Poison without a non-damaging effect is stopped as long as you have any antidote in your system.
 
-Cost: Varies
+Cost: Varies  
 Tags: Consumable
 
 ##### Compass
