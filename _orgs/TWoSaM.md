@@ -786,6 +786,6 @@ You have a -5 penalty when attempting to dodge area-of-effect jutsu, do not have
 
 You may use Folding Cyclone Blades, a variant of Paper Shuriken with up to double your normal limit on paper sheets, which does not use up any of the sheets used in it. 
 
-You can use this form to fly, travel through tight spaces, and so forth.  When flying, your movement speed is halved, though you may not be hit by melee attacks unless they can move a number of yards as part of the attack equal to your elevation (by jumping!), and the maximum height you can reach in combat is limited by your ranks in Chakra Control.
+You can use this form to fly, travel through tight spaces, and so forth.  When flying, your movement speed is halved, though you may not be hit by melee attacks unless they can move a number of yards as part of the attack equal to your elevation (by jumping!), and the maximum height you can reach in combat is limited to (5 + Chakra Control Ranks/3) yards high.
 
 You may shift out of this form as another Speed 10 action.

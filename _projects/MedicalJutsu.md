@@ -63,7 +63,7 @@ This forms one's chakra into a small, sharp blade; medics favor this for perform
  - Chakra: 15
  - Upkeep: 4
  - Speed: 8
- - Tags: Preparation
+ - Tags: Preparation, Nintaijutsu
 
 Effects: You can use this in combat. Doing so causes your basic unarmed attacks to use DEX/12 for their damage bonus (instead of PDB, which means bonuses, and penalties, to your PDB do not affect this), ignoring any damage reduction your opponent may have, and to inflict Slashing wounds. However, these 'scalpel' injuries are relatively shallow: They cannot wound a location wearing armor, and do not damage armor when they strike it. 
 
