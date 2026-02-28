@@ -504,217 +504,340 @@ Of course, while there were sword smiths, there were also armourers. Skilled car
 
 **Kairaishi begin with 1 less Unique Point.**
 
-#### --( Kugutsu Henge no Jutsu - Puppet Transformation Technique )--
-With this technique, a Kairaishi can channel their chakra through one of their puppets to give it their own appearance. This is typically done in conjunction with a self-henge or with a secondary, physical disguise applied to the puppet in case the technique fails, as it suffers from the same limitations as Henge.
+#### -–( Kugutsu no Jutsu - Puppet Technique )–-
+The Kairaishi’s signature technique and a unique ninjutsu, this allows the user to extend strands of Chakra from their fingertips and attach them to puppets. Using the puppets, they can attack and manipulate them from range while remaining relatively safe themselves. The better the user’s control over their Chakra, the better they can control puppets by the strands connecting them.
+ - Type: General Ninjutsu, Rank D
+ - Chakra: 8
+ - Range: CHA/2 Yards
+ - Upkeep: 1
+ - Speed: 3
+ - Tags: Preparation
 
- - Type: Ninjutsu, Rank E
- - Chakra: 5
- - Speed: 8
- - Seal Speed: 6
+Effects: You may use this Jutsu as you roll initiative, using the rules for the ability Preparation, even if you do not have that ability.
 
-Effects: You disguise your puppet to look like you.  This has all the limitations of normal Henge, but without any worry of a false impersonation, as you know how to look and act like yourself and how to make your puppet do so perfectly.  Consequently, you gain a +5 to Espionage rolls against people figuring out your puppet isn’t you.  Anything that detects normal Henge will also detect this technique, and if the puppet takes damage the technique ends immediately.
+You gain control of a Puppet on the battlefield. While controlling a Puppet, you may use any of the Puppet's equipped Weapons or Modules, and any Weapon Taijutsu utilizing the Puppet's equipped weapons and modules. You may use this Jutsu again while it is already active to attach another puppet, increasing this jutsu's upkeep by 1 for each additional Puppet. Up to 1 Puppet, +1 per Rank of Puppet Mastery.
 
-#### --( Kugutsu no Jutsu - Puppet Technique )--  
-The Kairaishi’s signature technique and a unique ninjutsu, this allows the user to extend strands of Chakra from their fingertips and attach them to puppets.  Using the puppets, they can attack and manipulate them from range while remaining relatively safe themselves.  The better the user’s control over their Chakra, the better they can control puppets by the strands connecting them.
+You use your traits, but use CHA in place of STR or RES, and you use NDB in place of PDB. Any Stamina costs are converted into an equivalent Chakra cost. Puppets are considered to be wielding all of their weapons at once. Your hands are considered occupied. The Puppet, not the Puppeteer, may move as part of an attack, using the Puppet Move action below to determine how far they go. 
 
-- Type: Ninjutsu, Rank D
- - Chakra: 10 + X * 2
- - Upkeep: 3 + X/2
- - Range: 15 + CHA/10
- - Speed: 6 + X/2
+You may not have Clones active while using this jutsu, and nor may Clones use this Jutsu. You may use this jutsu and control puppets from stealth, with your puppets not being in stealth. However, every attack you perform through your puppets lowers your Stealth TN by 5. People who can see or sense chakra (i.e. Sharingan, Byakugan, Chakra Sensor, some users of Natural Chakra) automatically find you by tracing the strings to their source.
 
-Effects: You gain control of 1 + X puppets which are uncontrolled on the battlefield, to a maximum of ten puppets.  If they are not your puppets, you take a -3 to all actions which utilize them. While controlling puppets, you cannot make handseals, use weapons, or otherwise make use of your hands.  You can use puppets while Hidden and using a puppet to attack while hidden does not reveal you, but it does lower your Stealth TN by 5 each time, and anyone who can see Chakra can see the Chakra Threads that connect you to your puppets, gaining a bonus on their Search action equal to the Upkeep from this technique to find you.
+When you take the Block variable speed action, you may Block on behalf of your Puppets. Additionally, you may take the following actions.
 
-You can change the value of X (i.e., how many puppets you are controlling) as a Speed 4, Chakra 10 + X * 2 action based on your new number of controlled puppets; your Upkeep is then modified accordingly, rounding up.
+**Puppet Parry** *(Speed 3, 1 AP)*  
+You Parry an attack against a Puppet, using its equipped weapons and/or appropriate modules. Alternatively, you may Parry an attack against yourself using the equipped weapons and/or modules of a Puppet within 1 Yard of you. However, in that case, if you fail such a Parry, both you and the Puppet are affected by the attack. Anything that modifies the Parry Action also affects this action.
 
-When your puppets are attacked you can advance your IC to direct them to perform defensive interrupts, let them get hit, or pay a number of AP equal to the Speed of their defensive interrupt to avoid advancing your own IC. If you are subject to attack alongside your puppets, you and your puppets are all allowed to take a defensive action, and you advance your IC only by the highest Speed interrupt taken amongst the group (though you can not elect to spend AP to avoid advancing your own IC), though if there are multiple Fatigue costs incurred, you pay for all of them.
+**Puppet Dodge** *(Speed 2, X/2 AP)*  
+You Dodge for yourself and X Puppets you control; the AP cost is rounded down. This action is modified by anything that modifies the Dodge action. Puppets use the distance they can Move with the Puppet Move action below to calculate Area of Effect penalties.
 
-While maintaining this technique’s Upkeep, you may use your Puppets in the following ways:
+**Puppet Move** *(Speed 0, X AP)*  
+Move a Puppet 1+DEX/50 yards every IC for the next X IC. Round down to the nearest 0.1 when determining distance as per the rules for the Move action. Puppets may never move outside of Kugutsu no Jutsu's range.
 
-*Chakra no Ito: Attack (Speed Varies)* - You direct one of your puppets to attack.  You may direct your puppet to perform any Unarmed or Grapple Taijutsu you know, as well as any Weapon Taijutsu you know and they have the proper weapon for.  The Speed of this action is the Speed of the action you direct your puppet to take, and you pay a Chakra cost equal to the normal Stamina cost of the action you direct your puppet to perform. If it has both, you combine them into a singular Chakra cost. 
+**Puppet Performance** *(Speed 10, X AP)*  
+No more than once every 20 IC, you may have multiple Puppets perform a Basic Attack or use a Module with the Performance Tag. You may only use Puppets you have controlled for at least 20 IC that have not been used to make an attack, parry on behalf of the Puppeteer, or Block on behalf of the Puppeteer in the past 20 IC (defending themselves is fine). An opponent targeted by multiple Puppets must defend against each attack separately, but their IC only advances based on their slowest defense. X is equal to the total Base Speed of all of the attacks combined divided by (1+Ranks in Puppet Mastery), rounded up. Halve your Damage Bonus for these attacks. Any wounds inflicted are reduced by 1 Category, with Minor Wounds being reduced to nothing. The attacks count as its actual Speed for purposes of damage and determining valid defenses, although you may spend additional AP to lower them normally.
 
-*Chakra no Ito: Move (Speed Varies)* - You move one or more of your puppets.  By default, the speed of your puppets is determined by their AGI, but you use /40 (instead of the normal /50) to determine how many yards they can move per IC; abilities you have do not modify this.  For every puppet after the first you use this action to move at the same time, you increase the divisor for determining the movement of all puppets by 5 (so moving two puppets would be using each puppet’s AGI/45, three would be AGI/50, etc).  Alternatively, you can spend 1 AP per IC spent on this action to move a puppet without lowering the divisor.
+#### --( Kugutsu Kuchiyose no Jutsu - Puppet Summoning Technique )--
+Most puppeteers don't carry all of their puppets out at once to give themselves a tactical advantage, instead using this technique to keep them stored in scrolls, to be summoned in battle when needed.
 
-*Chakra no Ito: Defend (Speed 3, 1 + X AP)* - While controlling your puppets, you can use them to protect yourself.  This is in all ways the same as the Take the Hit action, except that its Speed is lower, and you can utilize AP to move a puppet to get them into range to protect you; you can alternatively spend no AP to utilize the standard Take the Hit action using your puppet, but in that case you use its normal Speed (of 6).
+ - Type: Sealing Ninjutsu, Rank C
+ - Chakra: 8+X
+ - Speed: 10+X
+ - Requires: Sealing Jutsu talent is *not* required.
 
-*Chakra no Ito: Puppet Show (Speed 0 Interrupt)* - Every iterative of 25 IC after you activate Kugutsu no Jutsu, you can use this action to direct all puppets you control to make basic attacks on anyone they can reach, using whatever they’re equipped with. You can have all your puppets attack the same person, or direct them to attack different targets, as you choose.  You can only direct puppets to attack in this fashion if you have been controlling them for the full 25 IC, and you did not use them in the above Attack or Defend actions for the past 25 IC.  Attacks from puppets in this manner have their attacks Held Back, as per the ability, even if you do not have it.  You may not spend AP to modify any puppet’s attack from this action, and you may not utilize any special abilities of your puppets with this action.
+Effects: You may store or release up to X Puppets from Scrolls you have on your person. Each Scroll may store up to one Puppet. When you release Puppets from Scrolls this way, you may use this jutsu as a link to Kugutsu no Jutsu, adding its costs, speed, and seal speed to that jutsu. When you do, you use Kugutsu no Jutsu on the released Puppets immediately.
 
-Anyone targeted by a puppet in this fashion defends against the puppet’s attack as if it were its normal Speed (so someone attacked by a puppet using a Katana would defend against Puppet Show as if it were a Speed 13 attack); if attacked by multiple puppets, you use simply the highest Speed puppet attack to determine valid defenses against all attacking puppets.  Similarly, anyone attacked by multiple puppets at once can declare and use the same defense against multiple puppets (though you roll separately), and only has their IC advanced by the highest Speed defense they utilize.  Thus, if Sasuke dodged two of Kankuro’s puppets and decided to Parry a third, he would only advance his IC by 3, for the speed of the Parry, rather than account for all defenses.  Costs associated with either a puppet’s attack (such as Weapon Focus) or a Defense (such as Mizuhane) are paid for each instance they are used, however.
+#### -–( Kugutsu Henge no Jutsu - Puppet Transformation Technique )–-
+With this technique you can channel chakra through your puppet to give it your own appearance. This is typically done in conjunction with an actual disguise put on the puppet in case the technique fails, as it suffers from the same limitations as normal Henge.
 
-#### --( Puppet Mastery )--
+ - Type: General Ninjutsu, Rank C
+ - Chakra: 9 + 5*X
+ - Speed: 10 + 2*X
+ - Requires: Henge no Jutsu
+
+Effects: X Puppets you control are transformed to look like you. You are automatically Hidden Among Clones using the Puppets that look like you, even if this exceeds the normal limit of 3 Clones. The transformation ends for a puppet when that puppet has a limb damaged, when it parries, when it blocks, or when it attacks.
+
+#### -=[ Puppet Loadout ]=-
+You have acquired a puppet! Perhaps you tinker with puppets and have made your own, perhaps the village issues you a Standard Issue Military Puppet (SIMP), or perhaps you inherited one from your mentor. Either way, it is yours.
+
+ - Type: Ability
+ - Base Cost: 4
+ - Scale: 2
+ - Limit: 2 + XP/500
+
+Effects: You gain a Puppet. See the rules for Building a Puppet, below. Each rank in this ability grants you an additional Puppet with its own selection of modules, et cetera. While Puppets can be improved over time and added to, you may not remove options from a Puppet you have built. You may only functionally carry around a number of puppets equal to the number of puppets you can control at one time. Any Puppets beyond that limit must be stored in scrolls to be brought with you.
+
+#### -=[ Puppet Mastery ]=-
 A novice puppet master needs both hands to direct the motions of a single puppet, often using a finger for each joint or something similar. A master learns how to split their chakra threads, and with as little as the twitching of a single digit and modulating of their chakra flows gracefully direct their puppets.
 
  - Type: Ability
- - Base Cost: 5
- - Scale: 0
- - Limit: XP/500
+ - Base Cost: 4
+ - Scale: 2
+ - Limit: XP/1000, max 9
 
-Effects: The first time you take this ability you learn how to maintain Kugutsu no Jutsu potentially one handed; so long as you control five or less puppets at once, you can retain the use of one of your hands for making handseals, holding a weapon and so forth.  Every Rank after the first, you pick between one of two options:  Gain another Puppet, or decrease the IC interval of the Puppet Show action by 1.  
+Effects: When using Kugutsu no Jutsu, you may control an additional Puppet per Rank as a +3 Chakra, +1 Upkeep, +1 Speed Link per additional Puppet. So long as you are using half of the number of puppets you could control or less, one of your hands is considered free.
 
-#### -=[ Puppets ]=-
-The weapons of choice of puppeteers, which can range from the size of a small human to that of a towering animal.  While each Kairaishi is given a basic puppet frame with which to utilize, every puppeteer takes the time to modify them, aesthetically and functionally, to fit their purposes.  It is considered a rite of passage for defunct and shabbily-repaired puppets of former Kairaishi to be handed down to new genin with an expectation that their creativity and ingenuity will bring life to a puppet which would otherwise remain in disuse.
+### -( Rules for Puppets )–
+Puppets can be individually targeted and damaged. However, it is important to note that while Puppets are often the origin point of actions, they never perform actions. A puppet does not swing their equipped sword, the puppeteer swings the puppet's sword.
 
-All Puppets begin with 30 RES and AGI, with a basic frame of a head, torso, and a pair of arms and legs, and has three slots for upgrades.  When in use, a puppet uses their controller’s DEX, and their controller’s CHA in place of STR.  Regardless of a puppet’s attributes, they are only as good as the Kairaishi which utilizes them: A puppet’s RES is limited by, and can never be higher than, their controller’s DEX, and a puppet’s AGI is similarly restricted by their controller’s CHA.  They utilize your Ninjutsu Damage Bonus instead of Physical Damage Bonus, and changes to your NDB apply to them normally.
+Puppets are immune to Genjutsu, Medical Jutsu, Poison, and Status Effects except for Corrosion, Frostbite, Ignite, and Immobilize. However, the Puppeteer is not immune to those things, and their status effects will impact actions they are taking, even if the Puppet is the origin point. For instance, if the Puppeteer has Shock and Paralysis 2, it would apply when the Puppeteer swings a sword that happens to be attached to the Puppet.
 
-Puppets are functionally equivalent to weapons, except with moving parts and the capacity to wield weapons themselves. They can make skill rolls for you, but they can never be used to make Medicine, Research, or Chakra Control rolls.  Because they are effectively weapons, Puppets do not get the benefit of passive or active defensive benefits you may utilize (such as a Defender’s Damage Reduction, or Domu’s Damage Reduction, or Bruiser’s Stun), however they would gain the benefits of upkeeps meant to apply to weapons (such as Chakra Flow): In such instances, each puppet gains the benefit of the Upkeep, following its normal rules (i.e., Chakra Flow normally only applies to one weapon, unless you’re using weapons with the ‘Dual’ tag: Each puppet you use would then get the benefit of Chakra Flow to one of their weapons, unless they were similarly using ‘Dual’ tagged weapons, which would have it apply to two of them).
+In the case of Visibility Penalties based on a cloud or area, while the Puppet is the origin point, draw line of sight from the Puppeteer.
 
-By default you can equip Puppets with any Small weapon, paying half the normal Ryo cost to equip them with it. This reflects adjustments made to attach the weapon to the puppet’s body and breaking it down as necessary to remove unneeded hilt space to integrate it into the Puppet’s frame. It makes it impossible to use for anyone else, but grants a +3 to resist Disarm attempts.  Puppets cannot, by default, ‘two hand’ any weapon, or gain any bonuses for doing so. Puppets also have a basic slam attack (which is still a weapon attack, not an unnarmed attack) you can utilize, which is a Chakra 8, Speed 8 action that inflicts (RES/10)d6 Blunt damage; Puppets cannot have Unarmed Focus or Power Attack applied to this Slam attack.  You can apply Weapon Focus to any weapons your Puppets use (including the slam), increasing your Chakra cost for their attack.
+Stuns render that puppet unable to be used with non interrupt actions for a number of IC equal to its severity.
 
-Puppets have RES*6 Durability, which is a measure of how much damage they can take, but is otherwise incompatible with Vitality or HP: Puppets cannot be healed by Medical Ninjutsu or similar effects, nor do Puppets suffer Wounds.  Effects which specifically deal damage to HP simply affect the Puppet’s Durability.  Puppets are immune to Genjutsu and all status effects except for Immobilization and Ignite, however penalties from status effects that apply to their controller apply to their actions, as well as Wounds and Fatigue penalties.  If a Puppet ever suffers from an Immobilization Penalty of -6 or greater, that puppet cannot act or be used with any part of Kugutsu no Jutsu.
+Ignite does not deal damage over time. Instead, for every 10 Ignite, a random Limb is damaged and then the Ignite is removed. 
 
-Puppets cannot have their Durability restored in combat, but on missions, assuming you have the proper tools, you can patch up a puppet and restore 10% of their maximum Durability per hour you have to work on it.  Puppets reduced to 0 Durability in combat are considered broken, and cannot be repaired until you can return to a village and have time enough to replace critical parts.  For the purposes of sealing, puppets tend to weigh around twenty-five pounds.
+Immobility penalties affect every action performed through the Puppet. Worse, they uniquely *stack* with the Puppeteer's immobility penalties, up to 20.
 
+Puppets normally float slightly off the ground. They are immune to Ground effects.
 
-#### -=[ Puppet Customization ]=-
-Puppets have a known weakness in the eyes of most Shinobi, which the Kairaishi are well aware: Once you’ve seen the arsenal of a puppet, you can anticipate how to deal with them and counter them effectively.  To that end, Kairaishi are aware of that line of thinking and accordingly go to great lengths to keep modifying their puppets to catch their opponents unaware by a new trick or augment that they won’t anticipate.  Every Kairaishi gains XP/100 Customization Points which can be spent on any of their puppets, though once you spend them, they are spent and can not be reallocated.  You need not spend your CP as soon as you acquire them and can save them for later use if you wish.  Puppet Upgrades utilize one of three of a Puppet’s default Upgrade Slots and accordingly are limited in how many you can apply to a single puppet, while Modifications can be taken repeatedly for the same Puppet and any restrictions to how many times you can acquire them are noted in the individual entries.  In both cases you must choose when you acquire the Upgrade or Modification which puppet you are applying it to, which can not be changed later.
+If a Puppet would be forced to move out of Kugutsu no Jutsu's range, it will drag the Puppeteer with it the minimum distance required to stay in range.
 
-#### -=[ Puppet Modifications ]=-
-Modifications can be taken repeatedly and if there are limits to how many times you can take them, they will be listed in their individual entries. By defualt, all Modifications cost 1 CP, but some might cost more, in which case they will say so.
+If the Puppeteer moves such that one or more Puppets would be out of range of Kugutsu no Jutsu, those Puppets will be dragged the minimum distance required to remain in range.
 
-*— Quality*  
-You gain 10 points you can distribute between a puppet’s RES and AGI on a one-for-one basis.  Each time after the first this is applied to a puppet (read: it is tracked separately for each puppet), the puppet gains two additional points (second time is 12 points, third is 14, etc.), keeping in mind that a puppet’s stats are limited by your own.
+If both the Puppeteer and Puppets are moved at the same time, then move everyone affected before determining drag.
 
-*— Synergistic Construction*  
-A puppet of your choice gains an extra Upgrade slot.  You can apply this Modification repeatedly to the same puppet, but each Upgrade slot after the first requires an additional CP: Granting a second extra upgrade slot requires 2 CP, granting a third extra upgrade slot requires 3 CP, etc.
+Puppets do not take damage normally. Instead, when they take your CHA in damage at one time, one of their limbs is Damaged. If they take CHAx2 damage at one time, then one of their limbs is instead Destroyed. A Damaged limb halves the user's Damage Bonus and imposes a -2 penalty on accuracy when using a weapon or module equipped in that limb. Each damaged or destroyed limb imposes a -1 penalty when the Puppeteer dodges for a Puppet. A Torso may not be Destroyed (although it can be Damaged) unless every other Limb is destroyed. If a Puppet's Torso would be destroyed before that happens, a limb of the Puppeteer's choice is instead Damaged.
 
-*— Additional Limbs*  
-You can add an extra pair of legs or arms to your puppet.  An extra pair of arms grants +1 to Grapple rolls so long as the puppet is not holding anything in them, though you can always use them to have the puppet wield additional weapons instead; An extra pair of legs grants +10% to the Puppet’s movement speed. You can apply this modification to any given puppet a number of times equal to its RES/20.
+If a Damaged location would be Damaged again, it is Destroyed. Modules and Weapons in destroyed locations may not be used at all, and the Limb is considered to not exist (it may not have damage directed to it, reroll if you would roll a location without limbs that aren't destroyed, etc). The Dodge penalty remains the same.
 
-*— Reinforcement*  
-Your puppet gains 5 DR.  You can apply this modification to any given puppet a number of times equal to its RES/10.
+Determining the location of damaged limb is the same as wounds. You choose the location as normal if the Puppet Blocked. The enemy chooses if you didn't block but the enemy performed a called shot. Roll randomly if neither of those things happened. If that limb can't be Damaged, roll again. If the Puppet has multiple of the rolled limb, the Puppeteer may choose which of that limb is affected unless the attack was a Called Shot. Both the Torso and Abdomen locations affect the Puppet's Torso.
 
-#### -=[ Puppet Upgrades ]=-
-Upgrades have a listed XP cost (either as an ability, or an XP cost based on the rank of Jutsu it is) which you only need to pay for once, after which you can apply that Upgrade to none, or all, of your puppets as you wish. Installing any given Upgrade on a puppet requires a free Upgrade slot on the puppet (so if it has no more slots, you can't add it to the puppet), and costs 1 Customization Point each time it's installed in any puppet.  Once an Upgrade is installed in a puppet, it's set, and can not be removed.  Upgrades which are not passive require the Puppeteer to use the Attack action to make use of them, and can not be utilized as part of Kugutsu no Jutsu’s Puppet Show action.
+Puppets may be repaired or replaced whenever you refresh your Requisition.
 
-#### --( Detachable Arsenal )--
-While most puppets are constructed as complete frames meant to be puppeteered as a whole, this upgrade allows the Kairaishi to separate its arms from its body, leaving the majority of its weight behind while enabling multiple quick attacks with any weapons it has.  The downside, of course, being that the arms themselves are not as durable as the main body, and leaving them exposed can leave you with a half-broken puppet that has lost all its offensive capabilities.
+### –( Building a Puppet )–
+By default, Puppets consist of a Head, Torso, two Arms, and two Legs. Each of those limbs contain 1 Slot, which you can place Modules in, although more Slots (or limbs) can be added later.
 
-- Type: Ability
- - Base Cost: 25
- - Limit: 1
+Each Puppet design has 1+EXP/100 “Puppet Points” (PP). These points are spent on Modules. Modules and Puppets do not cost requisition or savings unless specified.
 
-Effects: As a Speed 2 * X action, you can separate your puppet’s arms from its body, allowing you to manipulate them independent of its main frame.  X is the number of arms the puppet has and that you are separating from its main body, which then increases Kugutsu’s Upkeep accordingly; if you were controlling two puppets, and detached four arms from one of them, you’d have an Upkeep of (3+6/2 = 6), as if you were controlling six puppets, rather than two.  While the arms remain detached, you can manipulate them as though they were puppets, with the following restrictions:
+Some Modules are marked as "Specializations." A Puppet may only have one Specialization Module. A Puppeteer may only have one instance of a particular Specialization Module amongst all of their puppets. 
 
- - Each Arm has RES durability; if the puppet is at less than RES*X remaining durability when you separate the puppet’s arms from its frame, divide its current durability by (X+1); each arm, and its torso, are considered to have that much durability.  An arm reduced to 0 Durability is considered broken, and unusable until it can be repaired.
- - Each Arm can only support (read: is considered to have) one upgrade of the puppet they detached from, and is restricted to the following: Flamethrower, Hidden Weapon, Toxin Delivery System, or Gyro-Balanced Weapon Arsenal.  Any other upgrades the Puppet might have do not apply to any of its arms while they are detached (such as Joint Plating), and neither do any Reinforcement modifications, which apply only to the puppet body, not to any of its detached arms.
- - Each Arm can participate in Puppet Show as if it were a different Puppet, without the restriction that you need be controlling them for the past 25 IC, though the puppet itself the arms detached from still needs to qualify and while its arms are detached, the main puppet is ineligible for Puppet Show (because it has no arms or weapons!).
- - You can rejoin a puppet’s limbs together as a Speed X + Y AP action, with X being the number of limbs being reattached, and Y being how many IC it would take for the arms to get back to melee range of the puppet’s body. 
+Some Modules are Slotless. As may be divined from the name, they do not take up a Slot and merely cost PP.
 
-#### --( All-Terrain Adaptive-Terminus )--
-Special legs designed to go over any terrain, be it rocks, water, ice, or even vertically up cliff faces, these specially-made puppet legs allow the user to extend a small amount more of their chakra threads through to the extremities, accordingly allowing transference of the tricks shinobi learn with proper chakra control.
+### Specialization Modules
+#### --( Trap Body )--
+A section of your Puppet's torso is hollowed out and made into a cage, with straps or pieces of wood that can come out, restrain someone, and draw them in.
 
- - Type: Ability
- - Base Cost: 10
- - Limit: 1
+ - Cost: 5 PP, 1 Slot (Torso)
+ - Tags: Specialization, Performance
 
-Effects: this Upgrade reduces any Immobilization Penalties the puppet suffers from that are based upon the ground by 2, and allows the puppet to benefit from their user’s Water Walking and/or Wall Walking abilities, if they have them.
+Effects: This puppet may use Grapple Jutsu, and is considered to have unlimited limbs for purposes of grappling. When they Grapple someone, their body opens into a large cage that traps the opponent. This functions as a normal grapple, except the defender may not attack anyone outside the grapple or move, but they take only half damage from AoE attacks as the puppet inadvertently shields them. The Puppet uses your NDB+5 for Grapple Rolls.
 
-#### --( Flamethrower )--
-A special contraption which essentially utilizes a special variant of an Exploding Tag to create a steady stream of fire in a targeted direction; it doesn’t see mass use beyond puppets because most Ninja would rather set and forget a Tag than have to be there directing it, but it isn’t as much of an issue for a puppet.  While some Kairaishi briefly toyed with the idea of having tanks of combustible liquid or gas to combine with this, the tendency for their puppets to turn into bombs when hit by Katon quickly ended such pursuits.
+#### --( Advanced Articulation )--
+This puppet is equipped with enhanced articulated joints and hydraulic muscles. With this puppet, a skilled Kairaishi can perform unarmed attacks.
 
- - Type: Ninjutsu, Rank C
- - Chakra: 20
- - Damage: (CHA/8)d12.extra(9)
- - Speed: 12
- - Range: 15
- - Special: Burns 3
- - Tags: Area of Effect, Projectile
+ - Cost: 5 PP, 1 Slot (Each Limb)
+ - Tags: Specialization
 
-Effects: This hits everyone in a Line 5 yards wide in front of it, out to its maximum Range.
+Effects: One slot from each limb is taken up by this Specialization. In return, the Puppeteer may use this module to perform a Basic Unarmed Attack, Unarmed Taijutsu, and Combo Taijutsu. This Module may be used to perform a Basic Unarmed Attacks as though it had the Performance Tag.
 
-#### --( Glider )--
-Special, foldable wings can be installed inside the arms and/or legs of a puppet to allow them to glide and lift up with the wind, allowing for safe ranged bombardment by puppets ill equipped for close combat exchange.
+#### --( Module Storm )--
+Your Puppet's limbs are designed to be split apart and individually controlled. It's like having an army of Puppets, but each of your puppets are basically Thing.
 
- - Type: Ability
- - Base Cost: 25
- - Limit: 1
+ - Cost: 10 PP
+ - Tags: Specialization, Slotless
 
-Effects: The puppet can fly!  Mostly.  When moved you can move it vertically as well as horizontally.  A flying puppet can not be used to carry people (and likewise, a puppet carrying anyone can not fly), but is immune to any effects reliant upon contact with the ground (such as some immobilization penalties) and cannot be targeted by melee-range techniques unless it has made a melee-range attack in the past 25 IC.
+Effects: As a Speed 20 Action, you may use this Module to split your Puppet up into its component parts or recombine it. Each Limb becomes a Separate Puppet, with only that Limb. These extra puppets count against your limit and are available to be used with Puppet Performance immediately.
 
-#### --( Gyro-Balanced Weapon Arsenal )--
-Normally Puppets can only utilize the smallest of weapons based upon the limited space of their limbs, but with clever construction (and some elongation), you can manage to fit even bigger weapons!  Many Kairaishi swear by maximizing one's Naginata Per Puppet ratio.
+#### --( Scout Systems )--
+The systems in your Puppet's head have been upgraded with special sensors you can connect to via Chakra Threads.
 
- - Type: Ability
- - Base Cost: 10
- - Scale: 5
- - Limit: DEX/30, Max 3
+ - Cost: 5 PP, 1 Slot (Head)
+ - Tags: Specialization
 
-Effects: Each Rank and Upgrade is applied to each Puppet individually, but all instances of this Upgrade count as taking up a single slot on any given Puppet they’re applied to.  The First Rank allows a Puppet to utilize all non-Large weapons of the Equipment section (instead of only Small weapons); The Second Rank allows a Puppet to utilize even Large weapons.  The Third Rank allows a Puppet to ‘two-hand’ a weapon and gain the respective benefits for doing so. 
+Effects: You may see and hear as though you were in your Puppet's location. Calculate environmental Visibility Penalties as though you were in your own or your puppet's location. Further, Kugutsu no Jutsu's range is increased to CHA when determining how far this Puppet (and only this Puppet) may move.
 
-#### --( Hidden Weapon )--
-This Upgrade allows a puppet’s equipped weapon(s) to be more discreetly contained and quick-released, enabling it to catch enemies by surprise.  
+#### --( Wings )--
+You install two large wings on your puppet that function like a glider or kite, except better because of Chakra. Not only does this include wings of some sort, but a series of other modifications to make the puppet significantly lighter.
 
- - Type: Ability
- - Base Cost: 20
- - Limit: 1
+ - Cost: 5 PP, 1 Slot (Each Location)
+ - Tags: Specialization
 
-Effects: The first time a puppet with this upgrade attacks with a weapon in combat, it’s considered an automatic Surprise attack.  Additionally, if the equipped weapon used with this Upgrade is a Sword that has yet to be drawn, you can utilize the Iaijutsu ability with it.  Each Puppet may only benefit from each of these effects once per battle, and the costs and acquisition of weapons must be paid for normally.
+Effects: Your Puppet can move in three dimensions. This costs 1 Slot from each limb of the Puppet, and the Puppet moves at only half speed. However, the puppet may move up and down. While in the air, the Puppet is immune to all jutsu with the ground tag. Attacks without enough range to reach the Puppet may only attack the Puppet if Moving as part of the Attack would clear enough vertical distance (jumping, essentially). Puppets may not carry a person into the sky, even through grappling them.
+
+#### --( Elemental Cannon )--
+It started as a prank involving a super soaker, and ended with flamethrowers and war crimes. Your puppet's arms are hollowed out and replaced with cannons.
+
+ - Cost: 5 PP, 1 Slot (Each Arm)
+ - Tags: Specialization, Performance
+
+Effects: Select an Element you have aptitude for when installing this Module. It has one “Scroll Cartridge” as ammunition per Arm the Puppet has. You may consume a Scroll Cartridge to use this Module to use a Ninjutsu of the appropriate element. You must be able to reduce the Seal Speed of the Ninjutsu in question to 0, and it can not have an upkeep. You may install additional Scroll Cartridges at a rate of 1 PP and 1 Slot per Scroll Cartridge, but the Slot can come from any Limb. You may change which element the cannons are loaded with when you refresh your requisition.
+
+#### --( Puppet Mount )--
+Your Puppet has been modified to accommodate a rider–usually the Puppeteer.
+
+ - Cost: 10 PP, 1 Slot (Each Leg Location)
+ - Tags: None
+
+Effects: Your Puppet gains the Quadruped Module for free, and the distance they can move is doubled, after all other modifiers. Your Puppet may be mounted like a horse (see Equipment -> Mount), carrying up to two riders. The Puppeteer still controls and may still attack with the Puppet. The Puppet does not Flee or Rear.
 
 #### --( Hollow Body )--
-All puppets are hollow in certain places, but this Upgrade allows for a specific construction (and likely enlargement) of the puppet’s torso which allows for a spacious, shell-like area that’s large enough for a person to fit inside.  At the Kairaishi’s discretion when installing this upgrade, eye slits can be placed to look out from, allowing for Awareness rolls at a -5 penalty.
+Your Puppet was made larger and able to hold a person inside it, making it into functionally some sort of mech suit.
 
- - Type: Ability
- - Base Cost: 10
- - Limit: 1
+ - Cost: 10 PP, 1 Slot (Each Limb)
+ - Tags: Specialization
 
-Effects: This creates a hollow section in your puppet’s torso (and necessitates it to be appropriately large) that, as a Speed 8 action, someone can go in and out of and lock from the inside.  The inside fits up to three people, though any more than one and it’s a bonding experience.  While inside the puppet you may not perform handseals, attack, or be attacked, or control any other puppets.  This Upgrade is incompatible with Trap Body (i.e., a Puppet can not have both of these upgrades).
+Effects: Your Puppet can be worn around your body as a suit of armor. It must have two arms and two legs (although it may have more limbs), and be the only puppet you're controlling with Kugutsu no Jutsu. Both hands are occupied while wearing this armor. Entering the armor is a Speed 50 , Delay 50 action that may, thankfully, be done before combat. Leaving the armor is a much easier Speed 10, Delay 10 action. You may not carry other Puppets while wearing the armor, except in Scrolls.
 
-#### --( Joint Plating )--
-With additional reinforcement and attempts to cover up the joints and weak spots of your puppet, you can make sure it’s more durable against whatever crazy ninjutsu it will inevitably get hit by.
+While wearing the armor, reduce the damage from attacks that do not wound you by CHA/2, after all other reductions. Attacks that would wound a location where the Puppet has a Limb that wasn't destroyed have that wound's severity reduced by 1, and final damage reduced by CHA/2, after all other reductions. If a wound is put into a place where there is not a limb that wasn't destroyed, then the Puppet's Torso is damaged in addition to the regular effects of the attack. Attacks that ignore armor ignore this effect.
 
- - Type: Ability
- - Base Cost: 10
- - Scale: 10
- - Limit: RES/40
+While wearing this armor, the defense penalty for Damaged or Destroyed limbs applies to the Puppeteer's rolls. The puppeteer does not inherit any of the Puppet's immunities. The Puppet may also not be targeted or affected by AoE as a separate character while it is being used as armor.
 
-Effects: Improves the puppet’s Durability by RES an additional time; this Upgrade can be applied to a puppet repeatedly, but each application of this Upgrade takes up its own slot.
+### General Modules
+These Modules may be placed in any limb.
 
-#### --( Recon Suite )--
-By adding chakra-receptive sensors to your puppet’s head, you can see and hear what the puppet sees and hears, and throw your voice, allowing you to speak without revealing your own location.
+#### --( Additional Slots )--
 
- - Type: Ability
- - Base Cost: 10
- - Limit: 1
+ - Cost: 1 PP
+ - Tags: Slotless
 
-Effects:  This upgrade can be toggled on or off as a Speed 0 action.  While using it, you suffer Visibility Penalties and make Awareness checks based on your puppet’s location and senses rather than your own.  Additionally, you can use a voice modulator to speak from the location of your puppet to make it ‘speak’, either using your own normal voice or an intentionally distorted and unrecognizable version of it, though it lacks any sort of sophistication to let you impersonate anyone else’s voice, it does allow you to speak while Hidden without giving yourself away.  This also grants Espionage and Stealth rolls that the Puppet makes a +3 bonus.
+Effects: Select one of your Limbs. You gain an additional Slot in that limb. This Module costs +X PP, where X is the number of times you have taken this Module, affecting that limb.
 
-#### --( Toxin Delivery System )--
-Ordinarily poisoning weapons requires you to apply them mid-combat for them to be effective, as they degrade quickly, but with this Upgrade, you can house special reservoirs that apply desired poisons to weaponry and aerosolize poisons from your puppet’s position, at your command.
+#### --( Additional Limbs )--
+You have given your Puppet an additional two Arms or Legs.
 
- - Type: Ability
- - Base Cost: 15
- - Limit: 1
+ - Cost: 5 PP
+ - Tags: Slotless
 
-Effects: This allows the puppet to perform a Speed +10 Poison Weapon action (which does not add to an attack’s damage) when using their weapons, applying 1+(Toxicology Ranks/10) doses of poison to the weapon(s) the Puppet is using.  Without this Upgrade, you would have to apply the Poisons to your puppet’s weapons yourself, which is usually rather inconvenient.  The cost of the Poisons and access to them must be acquired and paid for normally.
-
-It also allows the puppet to perform a special Speed 6 action to aerosolize a toxin, spreading any inhalation poison around itself with a 15 yard radius which persists for 30 IC and applies a -4 Visibility Penalty.  You do not need to purchase the Smoke Bomb portion of this, but you do need to buy each dose of the Poison you wish to utilize in it (which it requires to function).
+Effects: Your Puppet has two additional arms or two additional legs (choose when selecting this Module). They come with their own Slots. Every time you take this Module, increase its PP Cost by 5.
 
 #### --( Tail )--
-You add a singular prehensile appendage to the back of the puppet.  In addition to the innumerable amount of fashion and customization potential you just opened up for your puppet, such limbs happen to be good at providing a point of counterbalance and improving aerodynamics.
+You have given your puppet a long, prehensile tail.
 
- - Type: Ability
- - Base Cost: 15
- - Limit: 1
+ - Cost: 3
+ - Tags: Slotless
 
-Effects: With this Upgrade, Immobilization Penalties the puppet suffers from are reduced by 1, its movement speed is increased by 10%, and it gains +1 to Grapple rolls, as well as having an additional limb for use in a Grapple, if beneficial.
+Effects: Your puppet gains a tail. The tail is a limb that can equip leg or arm modules. It counts as a leg when randomly determining location.
 
-#### --( Trap Body )--
-This Upgrade modifies the puppet’s torso to have an elaborate series of wires and launchers which, when triggered, fire toward and wrap around a target, then quickly retract to pull them into the puppet’s body to capture them within it.
+#### --( Quadruped )--
+Your puppet has four legs instead of two legs and two arms. It is likely based off of some sort of animal.
 
- - Type: Ninjutsu, Rank D
- - Chakra: 12
- - Range: 5
- - Speed: 12
- - Special: Interrupt
- - Requires: Hollow Body Upgrade
- - Tags: Contact
+ - Cost: 0
+ - Tags: Slotless
 
-Effects: When a puppet this Upgrade is installed in is attacked in melee, you can declare Trap Body as a Defensive Interrupt in response to the attack.  The Puppet automatically blocks the attack and, so long as it is not destroyed, then extends wires and chains toward its attacker, as it tries to grab them and pull them into itself.  Make a Taijutsu Accuracy roll, which is defended against as a Speed 8 attack (which is considered a melee attack).  If they fail, they are Grappled by the puppet and locked inside the puppet's Hollow Body.  Unlike a regular Grapple (and Hollow Body), the defender can not move at all while Grappled, though the puppet can move and be moved as normal without the defender getting a chance to restrain the puppet.
+Effects: Your puppet gains two legs and loses two arms. The additional legs have their own slots, and inherit any modules that were in the removed arms. This module may not be taken if those arms have modules that can't be put into legs.
 
-The person caught becomes immune to all area of effect attacks and effects on the field, which can still hit and affect the puppet normally but not the person inside them; attacks made from anyone other than the Kairishi controlling the Trap Body Puppet suffer a -3 Accuracy, and are incapable of being Called Shots, as they can not clearly target the person inside.
+#### --( Weapon Mount )--
+You take a weapon, and bolt it on to a Puppet.
 
-The person inside can not use Combo, Weapon, or Grapple taijutsu attacks against the puppet, and any attacks made from within the puppet ignore the puppet's Damage Reduction automatically; they also can not target or affect anyone except for the puppet, until they free themselves from the puppet, by destroying it or being freed voluntarily by the puppet's controller as a Speed 6 action.  A puppet can only be grappling one person in this way at a time, and can not utilize this upgrade if it already has someone inside of it (i.e., if someone is already in its Hollow Body).
+ - Cost: 1 PP, 1 Slot
+ - Tags: Performance
 
+Effects: Select a Melee weapon in the PHB. Attach it to a Puppet. You do not need to spend Ryo on it, and it can not be disarmed. This Module may not be placed in the Torso. This Module must be taken twice to install a two-handed weapon. You may change what weapon is in the mount when you refresh your requisition.
+
+#### --( Weapon Launcher )--
+Your puppet comes equipped with a mechanism that can launch Kunai, Shuriken, or Senbon at ninja appropriate speeds.
+ 
+ - Cost: 1 PP, 1 Slot
+ - Tags: Performance
+
+Effects: Select Kunai, Shuriken, or Senbon when you purchase this module. You may perform basic ranged attacks with that weapon, or perform Multi-Throws with them. Your puppet comes with 10 of your chosen weapons for free. If your puppet has multiple launches with the same weapon installed, you may shoot from any or all of your launchers as part of the same multithrow. That is, you could Multi-Throw 10 Kunai by pulling 6 from one launcher, 2 from a second launcher, and 1 from another two launchers. If any of the used launchers are on a Damaged limb, however, the penalty for damaged limbs applies. You may change what projectile is in the launcher when you refresh your requisition.
+
+#### --( Hidden Weapon )--
+You take one of your weapons, and make it collapsible / foldable until just the right moment.
+
+ - Cost: 1 PP, 1 Slot
+
+Effects: Select a Weapon Mount in the same limb that has a Small Weapon in it or a Weapon Launcher. The first time each combat that module is used to attack, if it has not been used for any other purpose this combat, it is a Surprise Attack. In the case of a Multi-Throw, it is only a Surprise Attack if every Weapon Launcher used has this module.
+
+#### --( Poison Well )--
+You have a poison reservoir in your puppet, and tubes that drip the poison onto your puppet's weapons.
+
+ - Cost: 2 PP, 1 Slot
+ - Tags: None
+
+Effects: Select a Weapon Mount, Weapon Launcher, or Utility Launcher in the same limb. This Module comes with a single dose of Contact or Injury poison for free, or an Inhaled Poison for free if it modifies a Utility Launcher. The selected module begins each combat already poisoned (if Weapon Mount or Weapon Launcher), or the Utility Launcher has its contents replaced with a single Poison Smoke Bomb. You may change what poison is in this module when you refresh your requisition.
+
+#### --( Shrapnel Missile )--
+This modification to a weapon launcher has it fire a single large missile that explodes, using the installed weapons as shrapnel.
+
+ - Cost: 3 PP, 1 Slot
+ - Tags: None
+
+Effects: This Module modifies a Weapon Launcher. By consuming 2x the regular amount of ammo when making a Multi-Throw, you may make it AoE 10. This may only be done once per combat, per time this Module has been taken.
+
+#### --( Machinery Triangles )--
+Small explosives are attached to the metal blades launched by the puppet.
+
+ - Cost: 1 PP, 1 Slot
+ - Tags: None
+
+Effects: This Module modifies a Weapon Launcher that fires Kunai or a Mechanized Crossbow. (Chakra Control)/5 explosives are contained in this Module. As a Speed 10+5*X action, you may prime and attach up to X explosives to ammunition stored in the Launcher or Crossbow. The explosives follow the rules for Explosive Tag Connection.
+
+#### --( Utility Launcher )--
+Your puppet comes equipped with some Smoke or Flash bombs and a launcher.
+
+ - Cost: 2 PP, 1 Slot
+ - Tags: Performance
+
+Effects: Your Puppet has 2 Smoke Bombs, 2 Flash Bombs, or (with an associated Poison Well Upgrade) 1 Poison Smoke Bomb. The Puppeteer may use this Module as a Speed 4 Action to launch one of the bombs. If it is equipped with Flash Bombs, it may launch along with a Dodge or Puppet Dodge action as a Speed +4 action. You may swap what is in the launcher whenever you refresh your requisition.
+
+### Head Modules
+
+#### --( Camera )--
+You install a camera in your puppet's eyes, perfectly hidden.
+
+ - Cost: 5 PP, 1 Slot
+ - Tags: None
+
+Effects: Your Puppet comes with a Camera installed in its eyes, free of charge, as well as ten units of film. Additional PP may be spent on Film on a 1 for 1 basis.
+
+#### --( Voice Box )--
+Your puppet comes with a voice modulator.
+
+ - Cost: 1 PP, 1 Slot
+ - Tags: None
+
+Effects: You may speak and have your words come from the Puppet. With a successful Espionage check opposed by the higher of the listener's Espionage or Awareness, you may have the Puppet mimic other voices or even sounds.
+
+### Torso Modules
+#### --( Self-Destruct )--
+You have a disregard for your puppet's safety, relative to your joy of filling it with explosives.
+
+ - Cost: 5 PP
+ - Tags: None
+
+Effects: You install up to 1+(Chakra Control Ranks)/5 Explosive Tags in your puppet. You may Prime tags in your Puppet and use General Ninjutsu to trigger those tags as though you were touching them so long as you are controlling the Puppet. The Puppet is destroyed if the tags inside them are detonated, and like usual it is always obvious when the Puppet is about to explode.
+
+### Arm Modules
+#### --( Chakra Shield )--
+The latest in Puppet Technology, the Chakra shield is an array of retractable posts that create a semi-solid net of Chakra.
+
+ - Cost: 2 PP, 1 Slot
+ - Tags: None
+
+Effects: As a Speed 6 Interrupt, the Puppeteer may Block an attack against the Puppet, or against the Puppeteer so long as the Puppet with this module is within 1 Yard. In that case, both the Puppeteer and the Puppet take the resulting damage.
+
+#### --( Mechanized Crossbow )--
+The reason that no one else in the world uses a mechanized pully system to draw and maintain a ready to fire bow is because Kairaishi have the patent and a very aggressive team of lawyers.
+
+ - Cost: 3 PP, 2 Slots (1 from 2 Different Arms)
+ - Tags: Performance
+
+Effects: Select a Bow from Equipment. Your Puppet comes equipped with that Bow at no cost. It also has 2 Arrows, +1 Arrow for every additional PP you spend. You may change which Bow you have equipped when you refresh your requisition.
+
+#### --( Buzzsaw )--
+A series of rotating blades attached to your puppet's arm. A pulley system causes them to rotate at high speeds.
+ - Cost: 3 PP. 1 Slot
+ - Tags: Performance
+
+Effects: Your Puppet comes equipped with a free Large Thrown Weapon. You may use this Module to make a basic attack with it. You may perform Melee range basic attacks using the ranged attack profile, or perform a ranged attack as per normal. You may change which Weapon is in this module when you refresh your requisition.
+
+### Leg Modules
+#### --( Miracle Step Pattern )--
+Channels in the Puppet's feet run the chakra threads through. The Puppeteer's own chakra control causes those threads to stick to surfaces or be exceedingly buoyant through an almost identical process to doing it with one's own chakra coils.
+
+ - Cost: 1 PP, 2 Slots (1 from two different Legs)
+ - Tags: None
+
+Effects: You may move your puppet along walls and even have them hang upside down, so long as you have wall walking. The same is true with having them walk on water, if you have Water Walking.
+
+#### --( Mobility Upgrades )--
+You have spent time optimizing your puppet's mobility, and/or you have painted flames on their feet to make them go faster.
+
+ - Cost: 2 PP, 2 Slots (1 from 2 different Legs)
+ - Tags: None
+
+Effects: Your Puppet moves 0.2 additional yards per IC it spends moving. Multiple instances of this Module Stack.
 
 ## Sabechi
 The Sabechi were one of the only clans that would find themselves allied to the Kaguya, but not in the way it would seem. Most of them formed criminal Kyosha and would offer protection for money until the settlement ran out of things to offer. That’s when the Sabechi would lure surrounding Kaguya forces to take over that settlement and move on elsewhere. The Henzaki, who came to the settlements aid, assisted in routing the criminal Kyosha that contained Sabechi, and in order to preserve their clan, were invited to the Pride, in which case the Sabechi had no choice but to accept.
