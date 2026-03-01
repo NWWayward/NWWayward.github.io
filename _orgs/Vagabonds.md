@@ -75,7 +75,7 @@ The technique that causes most to fear meeting a Chinoike's eyes, as all they mu
  - Speed: 15
  - Requires: Ketsuryūgan Active, target with a Bleed status
 
-Effect: If this hits, make a status roll.  Your target's highest bleed status is removed if they pass a status roll, or halved (rounded up) if they fail. Either way, they take damage equal to X * (NDB or 5, whichever is higher), where X is the removed bleed's original severity. This damage ignores Damage Reduction. If this would wound your target, it does not do so; instead of wounding, you inflict a -X/5 penalty to Stamina, Chakra Exhaustion, and to their next Genjutsu Defense roll.
+Effect: If this hits, make a status roll.  Your target's highest bleed status is removed if they pass a status roll, or halved (rounded up) if they fail. Either way, they take damage equal to (X + NDB) * 8, where X is the removed Bleed's original severity. This damage ignores Damage Reduction. If this would wound your target, it does not do so; instead of wounding, you inflict a -X/5 penalty to Stamina, Chakra Exhaustion, and to their next Genjutsu Defense roll.
 
 You recover HP (not Vitality) equal to X * 2, up to your maximum HP - any in excess of your maximum HP is instead added to the battlefield as Blood Points.
 
