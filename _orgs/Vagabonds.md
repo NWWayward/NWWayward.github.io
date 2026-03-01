@@ -41,7 +41,7 @@ Finally, while Ketsuryūgan is active; it unlocks the user's ability to convert 
 The ability to use Ketsuton (Blood Release) is a developed trait that grants the user mastery over iron-rich fluids - most notably blood. At the most basic level, Ketsuton allows the user mix the water element with small razors of metal-rich blood to further wound and drain a target of their precious lifeline. 
 
 Any Suiton or Genjutsu technique can be converted to Ketsuton as a Chakra +5, Speed +0 link, with the following changes:
- - Suiton inflict a Bleed equal to their Rank if they deal any damage after all reductions; they gain +2 * wound severity (Minor = 2, Major = 4, etc) extra if they wound.
+ - Suiton inflict a Bleed equal (1 + Rank) if they deal any damage after all reductions; they gain  an additional 2 * wound severity (Minor = 2, Major = 4, etc) extra if they wound.
  - Suiton which inflict Bleed from the above ability can optionally have its total Bleed halved, rounding up, in order to add it to an existing Ketsuton Bleed source, which is considered a single source per Chinoike. Bleed stacked in this manner has a maximum of CHA/5, and only one source can be stacked; all others are considered separate sources.
  - Suiton which create or add water to the battlefield can have additional gallons made (of “blood”), by paying 1 HP per “Blood Point”, to a maximum of double its normal amount; while it is actually more of a mixture of water and ichor, it looks grotesquely the latter.
  - “Blood Points” on the battlefield can not be removed or accessed by anyone except a Chinoike with an active Ketsuryugan, and can be used in place of Gallons of Water.
