@@ -9,9 +9,15 @@ toc:
  - name: Souma no Ko
  - name: Suzuri
 ---
-Clanless start as Vagabonds, as do the following three clans.
+While it doesn't directly imply being poor, homeless, or a floozy, it does imply that you're a self-dependent survivor of sorts. That doesn't mean you CAN'T work together with other groups, it just means that you don't have to. The perks of this, like Missing Nin, is that you are your own boss! Any clan can have their reason for choosing to be a Vagabond, however, if you are a Noble and choose to be a Vagabond, you lose your clan's Noble status, and in fact, they end up not being happy if they ever see you again, only because in their eyes, you've brought them dishonor.
 
-Clans from other organizations can opt to become Vagabonds (instead of being part of their original faction); if they were from a noble clan, they are stripped of their noble title and rights to do so.
+* Vagabond Clans or Clanless can start as Vagabonds, with other clans from factions requiring a bit of background information for clarity and reasoning.
+
+* After completing with exceptional recognition from your squad, an NPC may elect to speak with you regarding joining their faction.
+
+* Clans can elect to be Vagabonds, If they are Noble, they are stripped of their title and hold within the faction.
+
+* Consequences for Vagabonds tend to be more severe, but they are typically immune to most faction-wide events.
 
 ## Chinoike
 The Chinoike bloodline, known for its chilling Dojutsu and being Genjutsu specialists. During a brutal civil war in the Land of Steam's Valley of Hell, they were almost wiped out; not by conventional forces, but by relentless persecution from 'Jashinists' (worshipping Jashin, the god of pain, death, and destruction) who sought to exterminate them to steal or profane their power. Facing extinction, the Chinoike descended into a 'defensive insanity', adopting the rituals of their tormentors. They formed desperate blood cults and embraced a twisted, violent form of Jashinism themselves as they unlocked more of their Doujutsu. Their clan name has changed over the years by their host village in an attempt to conceal their bloodline; since their eyes are still considered a powerful tool for Genjutsu users or as trophies of war. Given their teachings, they are often considered "Executioners" by those who employ them..
