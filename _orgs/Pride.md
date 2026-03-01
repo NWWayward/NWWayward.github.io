@@ -614,14 +614,6 @@ Some Modules are marked as "Specializations." A Puppet may only have one Special
 Some Modules are Slotless. As may be divined from the name, they do not take up a Slot and merely cost PP.
 
 ### Specialization Modules
-#### --( Trap Body )--
-A section of your Puppet's torso is hollowed out and made into a cage, with straps or pieces of wood that can come out, restrain someone, and draw them in.
-
- - Cost: 5 PP, 1 Slot (Torso)
- - Tags: Specialization, Performance
-
-Effects: This puppet may use Grapple Jutsu, and is considered to have unlimited limbs for purposes of grappling. When they Grapple someone, their body opens into a large cage that traps the opponent. This functions as a normal grapple, except the defender may not attack anyone outside the grapple or move, but they take only half damage from AoE attacks as the puppet inadvertently shields them. The Puppet uses your NDB+5 for Grapple Rolls.
-
 #### --( Advanced Articulation )--
 This puppet is equipped with enhanced articulated joints and hydraulic muscles. With this puppet, a skilled Kairaishi can perform unarmed attacks.
 
@@ -630,30 +622,6 @@ This puppet is equipped with enhanced articulated joints and hydraulic muscles. 
 
 Effects: One slot from each limb is taken up by this Specialization. In return, the Puppeteer may use this module to perform a Basic Unarmed Attack, Unarmed Taijutsu, and Combo Taijutsu. This Module may be used to perform a Basic Unarmed Attacks as though it had the Performance Tag.
 
-#### --( Module Storm )--
-Your Puppet's limbs are designed to be split apart and individually controlled. It's like having an army of Puppets, but each of your puppets are basically Thing.
-
- - Cost: 10 PP
- - Tags: Specialization, Slotless
-
-Effects: As a Speed 20 Action, you may use this Module to split your Puppet up into its component parts or recombine it. Each Limb becomes a Separate Puppet, with only that Limb. These extra puppets count against your limit and are available to be used with Puppet Performance immediately.
-
-#### --( Scout Systems )--
-The systems in your Puppet's head have been upgraded with special sensors you can connect to via Chakra Threads.
-
- - Cost: 5 PP, 1 Slot (Head)
- - Tags: Specialization
-
-Effects: You may see and hear as though you were in your Puppet's location. Calculate environmental Visibility Penalties as though you were in your own or your puppet's location. Further, Kugutsu no Jutsu's range is increased to CHA when determining how far this Puppet (and only this Puppet) may move.
-
-#### --( Wings )--
-You install two large wings on your puppet that function like a glider or kite, except better because of Chakra. Not only does this include wings of some sort, but a series of other modifications to make the puppet significantly lighter.
-
- - Cost: 5 PP, 1 Slot (Each Location)
- - Tags: Specialization
-
-Effects: Your Puppet can move in three dimensions. This costs 1 Slot from each limb of the Puppet, and the Puppet moves at only half speed. However, the puppet may move up and down. While in the air, the Puppet is immune to all jutsu with the ground tag. Attacks without enough range to reach the Puppet may only attack the Puppet if Moving as part of the Attack would clear enough vertical distance (jumping, essentially). Puppets may not carry a person into the sky, even through grappling them.
-
 #### --( Elemental Cannon )--
 It started as a prank involving a super soaker, and ended with flamethrowers and war crimes. Your puppet's arms are hollowed out and replaced with cannons.
 
@@ -661,14 +629,6 @@ It started as a prank involving a super soaker, and ended with flamethrowers and
  - Tags: Specialization, Performance
 
 Effects: Select an Element you have aptitude for when installing this Module. It has one “Scroll Cartridge” as ammunition per Arm the Puppet has. You may consume a Scroll Cartridge to use this Module to use a Ninjutsu of the appropriate element. You must be able to reduce the Seal Speed of the Ninjutsu in question to 0, and it can not have an upkeep. You may install additional Scroll Cartridges at a rate of 1 PP and 1 Slot per Scroll Cartridge, but the Slot can come from any Limb. You may change which element the cannons are loaded with when you refresh your requisition.
-
-#### --( Puppet Mount )--
-Your Puppet has been modified to accommodate a rider–usually the Puppeteer.
-
- - Cost: 10 PP, 1 Slot (Each Leg Location)
- - Tags: None
-
-Effects: Your Puppet gains the Quadruped Module for free, and the distance they can move is doubled, after all other modifiers. Your Puppet may be mounted like a horse (see Equipment -> Mount), carrying up to two riders. The Puppeteer still controls and may still attack with the Puppet. The Puppet does not Flee or Rear.
 
 #### --( Hollow Body )--
 Your Puppet was made larger and able to hold a person inside it, making it into functionally some sort of mech suit.
@@ -682,15 +642,48 @@ While wearing the armor, reduce the damage from attacks that do not wound you by
 
 While wearing this armor, the defense penalty for Damaged or Destroyed limbs applies to the Puppeteer's rolls. The puppeteer does not inherit any of the Puppet's immunities. The Puppet may also not be targeted or affected by AoE as a separate character while it is being used as armor.
 
+#### --( Module Storm )--
+Your Puppet's limbs are designed to be split apart and individually controlled. It's like having an army of Puppets, but each of your puppets are basically Thing.
+
+ - Cost: 10 PP
+ - Tags: Specialization, Slotless
+
+Effects: As a Speed 20 Action, you may use this Module to split your Puppet up into its component parts or recombine it. Each Limb becomes a Separate Puppet, with only that Limb. These extra puppets count against your limit and are available to be used with Puppet Performance immediately.
+
+#### --( Puppet Mount )--
+Your Puppet has been modified to accommodate a rider–usually the Puppeteer.
+
+ - Cost: 10 PP, 1 Slot (Each Leg Location)
+ - Tags: None
+
+Effects: Your Puppet gains the Quadruped Module for free, and the distance they can move is doubled, after all other modifiers. Your Puppet may be mounted like a horse (see Equipment -> Mount), carrying up to two riders. The Puppeteer still controls and may still attack with the Puppet. The Puppet does not Flee or Rear.
+
+#### --( Scout Systems )--
+The systems in your Puppet's head have been upgraded with special sensors you can connect to via Chakra Threads.
+
+ - Cost: 5 PP, 1 Slot (Head)
+ - Tags: Specialization
+
+Effects: You may see and hear as though you were in your Puppet's location. Calculate environmental Visibility Penalties as though you were in your own or your puppet's location. Further, Kugutsu no Jutsu's range is increased to CHA when determining how far this Puppet (and only this Puppet) may move.
+
+#### --( Trap Body )--
+A section of your Puppet's torso is hollowed out and made into a cage, with straps or pieces of wood that can come out, restrain someone, and draw them in.
+
+ - Cost: 5 PP, 1 Slot (Torso)
+ - Tags: Specialization, Performance
+
+Effects: This puppet may use Grapple Jutsu, and is considered to have unlimited limbs for purposes of grappling. When they Grapple someone, their body opens into a large cage that traps the opponent. This functions as a normal grapple, except the defender may not attack anyone outside the grapple or move, but they take only half damage from AoE attacks as the puppet inadvertently shields them. The Puppet uses your NDB+5 for Grapple Rolls.
+
+#### --( Wings )--
+You install two large wings on your puppet that function like a glider or kite, except better because of Chakra. Not only does this include wings of some sort, but a series of other modifications to make the puppet significantly lighter.
+
+ - Cost: 5 PP, 1 Slot (Each Location)
+ - Tags: Specialization
+
+Effects: Your Puppet can move in three dimensions. This costs 1 Slot from each limb of the Puppet, and the Puppet moves at only half speed. However, the puppet may move up and down. While in the air, the Puppet is immune to all jutsu with the ground tag. Attacks without enough range to reach the Puppet may only attack the Puppet if Moving as part of the Attack would clear enough vertical distance (jumping, essentially). Puppets may not carry a person into the sky, even through grappling them.
+
 ### General Modules
 These Modules may be placed in any limb.
-
-#### --( Additional Slots )--
-
- - Cost: 1 PP
- - Tags: Slotless
-
-Effects: Select one of your Limbs. You gain an additional Slot in that limb. This Module costs +X PP, where X is the number of times you have taken this Module, affecting that limb.
 
 #### --( Additional Limbs )--
 You have given your Puppet an additional two Arms or Legs.
@@ -700,37 +693,12 @@ You have given your Puppet an additional two Arms or Legs.
 
 Effects: Your Puppet has two additional arms or two additional legs (choose when selecting this Module). They come with their own Slots. Every time you take this Module, increase its PP Cost by 5.
 
-#### --( Tail )--
-You have given your puppet a long, prehensile tail.
+#### --( Additional Slots )--
 
- - Cost: 3
+ - Cost: 1 PP
  - Tags: Slotless
 
-Effects: Your puppet gains a tail. The tail is a limb that can equip leg or arm modules. It counts as a leg when randomly determining location.
-
-#### --( Quadruped )--
-Your puppet has four legs instead of two legs and two arms. It is likely based off of some sort of animal.
-
- - Cost: 0
- - Tags: Slotless
-
-Effects: Your puppet gains two legs and loses two arms. The additional legs have their own slots, and inherit any modules that were in the removed arms. This module may not be taken if those arms have modules that can't be put into legs.
-
-#### --( Weapon Mount )--
-You take a weapon, and bolt it on to a Puppet.
-
- - Cost: 1 PP, 1 Slot
- - Tags: Performance
-
-Effects: Select a Melee weapon in the PHB. Attach it to a Puppet. You do not need to spend Ryo on it, and it can not be disarmed. This Module may not be placed in the Torso. This Module must be taken twice to install a two-handed weapon. You may change what weapon is in the mount when you refresh your requisition.
-
-#### --( Weapon Launcher )--
-Your puppet comes equipped with a mechanism that can launch Kunai, Shuriken, or Senbon at ninja appropriate speeds.
- 
- - Cost: 1 PP, 1 Slot
- - Tags: Performance
-
-Effects: Select Kunai, Shuriken, or Senbon when you purchase this module. You may perform basic ranged attacks with that weapon, or perform Multi-Throws with them. Your puppet comes with 10 of your chosen weapons for free. If your puppet has multiple launches with the same weapon installed, you may shoot from any or all of your launchers as part of the same multithrow. That is, you could Multi-Throw 10 Kunai by pulling 6 from one launcher, 2 from a second launcher, and 1 from another two launchers. If any of the used launchers are on a Damaged limb, however, the penalty for damaged limbs applies. You may change what projectile is in the launcher when you refresh your requisition.
+Effects: Select one of your Limbs. You gain an additional Slot in that limb. This Module costs +X PP, where X is the number of times you have taken this Module, affecting that limb.
 
 #### --( Hidden Weapon )--
 You take one of your weapons, and make it collapsible / foldable until just the right moment.
@@ -738,6 +706,14 @@ You take one of your weapons, and make it collapsible / foldable until just the 
  - Cost: 1 PP, 1 Slot
 
 Effects: Select a Weapon Mount in the same limb that has a Small Weapon in it or a Weapon Launcher. The first time each combat that module is used to attack, if it has not been used for any other purpose this combat, it is a Surprise Attack. In the case of a Multi-Throw, it is only a Surprise Attack if every Weapon Launcher used has this module.
+
+#### --( Machinery Triangles )--
+Small explosives are attached to the metal blades launched by the puppet.
+
+ - Cost: 1 PP, 1 Slot
+ - Tags: None
+
+Effects: This Module modifies a Weapon Launcher that fires Kunai or a Mechanized Crossbow. (Chakra Control)/5 explosives are contained in this Module. As a Speed 10 + 5 * X action, you may prime and attach up to X explosives to ammunition stored in the Launcher or Crossbow. The explosives follow the rules for Explosive Tag Connection.
 
 #### --( Poison Well )--
 You have a poison reservoir in your puppet, and tubes that drip the poison onto your puppet's weapons.
@@ -747,21 +723,29 @@ You have a poison reservoir in your puppet, and tubes that drip the poison onto 
 
 Effects: Select a Weapon Mount, Weapon Launcher, or Utility Launcher in the same limb. This Module comes with a single dose of Contact or Injury poison for free, or an Inhaled Poison for free if it modifies a Utility Launcher. The selected module begins each combat already poisoned (if Weapon Mount or Weapon Launcher), or the Utility Launcher has its contents replaced with a single Poison Smoke Bomb. You may change what poison is in this module when you refresh your requisition.
 
-#### --( Shrapnel Missile )--
+#### --( Quadruped )--
+Your puppet has four legs instead of two legs and two arms. It is likely based off of some sort of animal.
+
+ - Cost: 0
+ - Tags: Slotless
+
+Effects: Your puppet gains two legs and loses two arms. The additional legs have their own slots, and inherit any modules that were in the removed arms. This module may not be taken if those arms have modules that can't be put into legs.
+
+#### --( Tail )--
+You have given your puppet a long, prehensile tail.
+
+ - Cost: 3
+ - Tags: Slotless
+
+Effects: Your puppet gains a tail. The tail is a limb that can equip leg or arm modules. It counts as a leg when randomly determining location.
+
+#### --( A Thousand Joyful Arms )--
 This modification to a weapon launcher has it fire a single large missile that explodes, using the installed weapons as shrapnel.
 
  - Cost: 3 PP, 1 Slot
  - Tags: None
 
-Effects: This Module modifies a Weapon Launcher. By consuming 2x the regular amount of ammo when making a Multi-Throw, you may make it AoE 10. This may only be done once per combat, per time this Module has been taken.
-
-#### --( Machinery Triangles )--
-Small explosives are attached to the metal blades launched by the puppet.
-
- - Cost: 1 PP, 1 Slot
- - Tags: None
-
-Effects: This Module modifies a Weapon Launcher that fires Kunai or a Mechanized Crossbow. (Chakra Control)/5 explosives are contained in this Module. As a Speed 10+5*X action, you may prime and attach up to X explosives to ammunition stored in the Launcher or Crossbow. The explosives follow the rules for Explosive Tag Connection.
+Effects: This Module modifies a Weapon Launcher. The Weapon Launcher may only be used once per combat, but when you do use it to perform a Multithrow, you consume 2x the regular amount of ammo, but the Multi-Throw becomes AoE 10.
 
 #### --( Utility Launcher )--
 Your puppet comes equipped with some Smoke or Flash bombs and a launcher.
@@ -771,16 +755,24 @@ Your puppet comes equipped with some Smoke or Flash bombs and a launcher.
 
 Effects: Your Puppet has 2 Smoke Bombs, 2 Flash Bombs, or (with an associated Poison Well Upgrade) 1 Poison Smoke Bomb. The Puppeteer may use this Module as a Speed 4 Action to launch one of the bombs. If it is equipped with Flash Bombs, it may launch along with a Dodge or Puppet Dodge action as a Speed +4 action. You may swap what is in the launcher whenever you refresh your requisition.
 
+#### --( Weapon Launcher )--
+Your puppet comes equipped with a mechanism that can launch Kunai, Shuriken, or Senbon at ninja appropriate speeds.
+ 
+ - Cost: 1 PP, 1 Slot
+ - Tags: Performance
+
+Effects: Select Kunai, Shuriken, or Senbon when you purchase this module. You may perform basic ranged attacks with that weapon, or perform Multi-Throws with them. Your puppet comes with 10 of your chosen weapons for free. If your puppet has multiple launches with the same weapon installed, you may shoot from any or all of your launchers as part of the same multithrow. That is, you could Multi-Throw 10 Kunai by pulling 6 from one launcher, 2 from a second launcher, and 1 from another two launchers. If any of the used launchers are on a Damaged limb, however, the penalty for damaged limbs applies. You may change what projectile is in the launcher when you refresh your requisition.
+
+#### --( Weapon Mount )--
+You take a weapon, and bolt it on to a Puppet.
+
+ - Cost: 1 PP, 1 Slot
+ - Tags: Performance
+
+Effects: Select a Melee weapon in the PHB. Attach it to a Puppet. You do not need to spend Ryo on it, and it can not be disarmed. This Module may not be placed in the Torso. This Module must be taken twice to install a two-handed weapon. You may change what weapon is in the mount when you refresh your requisition.
+
+
 ### Head Modules
-
-#### --( Camera )--
-You install a camera in your puppet's eyes, perfectly hidden.
-
- - Cost: 5 PP, 1 Slot
- - Tags: None
-
-Effects: Your Puppet comes with a Camera installed in its eyes, free of charge, as well as ten units of film. Additional PP may be spent on Film on a 1 for 1 basis.
-
 #### --( Voice Box )--
 Your puppet comes with a voice modulator.
 
@@ -788,6 +780,7 @@ Your puppet comes with a voice modulator.
  - Tags: None
 
 Effects: You may speak and have your words come from the Puppet. With a successful Espionage check opposed by the higher of the listener's Espionage or Awareness, you may have the Puppet mimic other voices or even sounds.
+
 
 ### Torso Modules
 #### --( Self-Destruct )--
@@ -798,7 +791,15 @@ You have a disregard for your puppet's safety, relative to your joy of filling i
 
 Effects: You install up to 1+(Chakra Control Ranks)/5 Explosive Tags in your puppet. You may Prime tags in your Puppet and use General Ninjutsu to trigger those tags as though you were touching them so long as you are controlling the Puppet. The Puppet is destroyed if the tags inside them are detonated, and like usual it is always obvious when the Puppet is about to explode.
 
+
 ### Arm Modules
+#### --( Buzzsaw )--
+A series of rotating blades attached to your puppet's arm. A pulley system causes them to rotate at high speeds.
+ - Cost: 3 PP. 1 Slot
+ - Tags: Performance
+
+Effects: Your Puppet comes equipped with a free Large Thrown Weapon. You may use this Module to make a basic attack with it. You may perform Melee range basic attacks using the ranged attack profile, or perform a ranged attack as per normal. You may change which Weapon is in this module when you refresh your requisition.
+
 #### --( Chakra Shield )--
 The latest in Puppet Technology, the Chakra shield is an array of retractable posts that create a semi-solid net of Chakra.
 
@@ -814,13 +815,6 @@ The reason that no one else in the world uses a mechanized pully system to draw 
  - Tags: Performance
 
 Effects: Select a Bow from Equipment. Your Puppet comes equipped with that Bow at no cost. It also has 2 Arrows, +1 Arrow for every additional PP you spend. You may change which Bow you have equipped when you refresh your requisition.
-
-#### --( Buzzsaw )--
-A series of rotating blades attached to your puppet's arm. A pulley system causes them to rotate at high speeds.
- - Cost: 3 PP. 1 Slot
- - Tags: Performance
-
-Effects: Your Puppet comes equipped with a free Large Thrown Weapon. You may use this Module to make a basic attack with it. You may perform Melee range basic attacks using the ranged attack profile, or perform a ranged attack as per normal. You may change which Weapon is in this module when you refresh your requisition.
 
 ### Leg Modules
 #### --( Miracle Step Pattern )--
@@ -838,6 +832,7 @@ You have spent time optimizing your puppet's mobility, and/or you have painted f
  - Tags: None
 
 Effects: Your Puppet moves 0.2 additional yards per IC it spends moving. Multiple instances of this Module Stack.
+
 
 ## Sabechi
 The Sabechi were one of the only clans that would find themselves allied to the Kaguya, but not in the way it would seem. Most of them formed criminal Kyosha and would offer protection for money until the settlement ran out of things to offer. That’s when the Sabechi would lure surrounding Kaguya forces to take over that settlement and move on elsewhere. The Henzaki, who came to the settlements aid, assisted in routing the criminal Kyosha that contained Sabechi, and in order to preserve their clan, were invited to the Pride, in which case the Sabechi had no choice but to accept.

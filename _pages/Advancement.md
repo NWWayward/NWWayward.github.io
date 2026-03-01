@@ -271,26 +271,27 @@ However, if you ever act against your Nindo (even if it's the best decision to m
 ##### Unrelenting
 You profoundly don't like to give up; when you set your mind to doing something, you do it as it has never been done before. You can spend multiple points of Willpower (or activations of Limit Break, or things that work similarly) on a single roll. There is no limit to how many times you may do so for one action, beyond how many Willpower you have to spend.
 
-##### Will of Fire - Leaf Only
-What brings Leaf ninja together and in some ways makes them the strongest of all the ninja villages--though none would admit this--is their comraderie. That they are more or less a giant family and protect one another as such is why the Leaf ninja prospere, because they do so with a passion.
+##### Strike First, Strike Last (The Way of Sun and Moon only)
+The evolution of ninshu within the Way has evolved to favor measures that are there for a good time, but not a long time. This means that they favor wrapping their encounter up with a nice bow and moving on before it gets too dangerous.
 
-Whenever an ally is Severely or Critically Wounded, or brought to 0 HP, something sparks within you, motivating you in the defense of one another and the village. Starting immediately, and lasting for (maximum Willpower) * 10 IC after your next non-Interrupt action, you do not accumulate penalties to Fatigue, and status effects which you are currently afflicted with are ignored. Any Genjutsu which is affecting you is purged altogether, and you have a +5 bonus to defensive Genjutsu rolls in this time. Multiple instances of Will of Fire overlap, but do not stack.
+Whenever you spend WP, you gain 6 AP. This benefit does not activate again until you gain AP from the 20 Init mark. This doesnt affect other AP pools, such as Gates.
 
-##### Mist Born - Mist Only
-Training to fight in low-light environments is something that every village's ninja academy and instructors covers at least briefly. Mist puts more of an emphasis on that than others, some say because of the thick, choking fogs that often engulf their island home, others arguing it's a result of the networks of caverns under the island that students and genin often train under.
+##### Before the Fall (The Pride only)
+Whenever you are wounded, you are allowed to make a Stamina roll of X, minimum 5.  Whether you succeed or not, the Wound(s) you were just afflicted with (applying to all Wounds acquired on the same IC) have their penalties ignored for X IC, after which they apply in full.  X has a maximum of (10 + RES/8).
 
-Many Mist shinobi train themselves to be particularly adept at fighting with reduced, or even no, visibility. They adapt to low-light conditions quickly, their eyes adjusting or other senses taking over as necessary. Every 10 IC you spend suffering from a visibility penalty of any severity, the maximum visibility penalty you can suffer from is lowered by 1, applied after Blind Fighting, to a minimum of -2. For example, if you were inside the range of a Hidden Mist Technique for 20 IC, and had 3 ranks of Blind Fighting, the maximum visibility penalty (from any source) you could suffer from would be (10-3-2) = 5.
+##### Less is More (The Temperance only)
+Whenever you reach a new Fatigue level, you ignore 1 status effect for IC equal to the New Fat Level * 10; using it on the same status simply resets with the new duration. Fatigue gained from Clones and Clones made with Fatigue do not gain the effects of this benefit.
 
-However, every 10 IC you spend not suffering from any visibility penalties, this bonus decays by 1. In the above example, after 20 IC your Mist Born bonuses would have dissipates entirely.
+##### Friends in Low Places (The Vagabonds only)
+You have garnered a reputation as not just a skilled practitioner of Ninshu, but also as a protector and champion of the common man, unconcerned and untainted with the politics and dogma of the noble clans or the sects.  While this doesn't come with many combat benefits, your dedication to helping out the small folk has not gone unnoticed.
 
-If you have closed your eyes, blindfolded yourself or something similar, Mist Born does not take effect. Wounds and jutsu which temporarily blind you, however, still trigger it. For area-of-effect visibility penalties, you must actually be in the area.
+Once per mission you may "know a guy" either in the current scene or somewhere off screen, this friend of yours should be established before major interactions are made, and is controlled by the gm, examples include but are not limited to, a local blacksmith or merchant, one of the daimyos guards, the local innkeeper, or any other individual who is not directly relevant to the plot, and not of noble birth, or otherwise of high social status.
 
-##### Desert Adaptation - Sand Only
-The desert is not a welcoming or forgiving climate. Those who call it home do not consider it an enemy, but also harbor no illusions about just how quickly their homeland will end their lives if they let it. They learn to overcome adversity, because in the desert, there is no other way.
+This friend is willing to assist you in your current endeavors to the limits of their ability and station. They will not aid you in combat (they are after all, just common folk)  nor will they put themselves or their family or livelihood in danger, but will otherwise do their best to help.  The exact nature of that help is up to the GM to determine, but they are encouraged to ensure that the help is meaningful in some way.
 
-As a Speed 0 action you can activate or deactivate this village benefit. While active, you halve all penalties from Fatigue and status effects. Thus, Immobilization 8 would give you only -2 to Accuracy and -4 to defenses and -40% movement speed; Visibility 6, however, would still allow people to hide from you. This specifically does not apply to any damage dealing effects, such as Bleed, Ignite, and Poison.
+Example assistance could be asking a local blacksmith to repair or replace broken equipment for free, convincing the guard at the checkpoint to look the other way as you and your squad cross, or convincing the local tavern keeper to provide a free, private room for the night, and then "forgetting" to tell the local guards that you came by. 
 
-You may maintain this effect for a total of 50 IC during a battle.
+Additonally, the tales of your heroics and/or exploits, be they good or evil, have not gone unnoticed, as a folk hero among the masses, any time you gain infamy from any source excluding experience thresholds, you gain +1 additional infamy.
 
 #### Jounin
 ##### Experienced Shinobi

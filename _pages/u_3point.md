@@ -46,7 +46,7 @@ Every time you hit someone with a damaging attack (grapple jutsu which automatic
 
 When you miss with any damaging attack your next action comes sooner, as if the Speed of the action you used was half its actual value. For example, if you missed with a Speed 13 action on IC 30, your next action would come on IC 37, rather than IC 43. Every time you miss, your next attack gets a cumulative +1 Accuracy, to a maximum of +5; hitting someone resets this bonus.
 
-*Upgrades From: Bruiser*
+*Upgrades From: Bruiser, Fan of Knives*
 
 ##### Super Novice
 You're still not good at anything in particular. Everything for you is two steps forwards and one step back. Even if you thought you found your niche, it turns out that no, you really didn't. But you're tired of letting that get in your way! Now, you're going to just do what you want, your way! Yeah! That'll show 'em!

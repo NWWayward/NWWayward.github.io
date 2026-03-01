@@ -47,7 +47,7 @@ For example, say you had opened the second gate and used a basic unarmed attack 
 
 If you don't receive a wound, then the percentage chance you just rolled is halved, and added to the chance to be wounded the next time you are required to roll for a chance to wound yourself. In the above, you'd add 8 to the chance to wound yourself, meaning if you did the exact same action again, you would have a (16 + 8) = 24% chance of wounding yourself. If you then did the same action a third time, you would have a (16 + 8 + 12) = 36% chance to wound yourself. Once you are wounded, you remove the additive chance from all prior rolls.
 
-These wounds cannot be prevented or reduced in severity. When you suffer one, roll 1d100 for location:  
+These wounds cannot be prevented, ignored, or reduced in severity, and can not be healed until all Gates are closed again. When you suffer one, roll 1d100 for location:  
  - 1 - 20 = Head
  - 21 - 40 = Torso
  - 41 - 60 = Arms

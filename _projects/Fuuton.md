@@ -55,13 +55,13 @@ Effects: This technique's damage is considered 50% higher for Wounding purposes.
 #### --( Hineri Dangan - Twister Shot )--
 Holding their hand half-grasped, the user blows a constant stream of wind into their hand which begins to spiral around in a ball or small tornado shape. The tornado is then sent out toward the target as the hand is opened.
 
- - Chakra: 12
+ - Chakra: 11
  - Damage: 4d4 * 5
  - Range: 15
  - Speed: 10
  - Seal Speed: 8
  - Status: 5 yard Knockback
- - Tags: Slashing, Projectile
+ - Tags: Piercing, Projectile
 
 #### --( Shikisetsufuu Shou - Four Seasonal Winds Palm )--
 In a fashion similar to how ninja knead chakra into their palms and feet to stick to walls and ceilings, you gather wind elemental chakra, but project and hold it just beyond your body to supplement your unarmed strikes.

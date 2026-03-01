@@ -134,7 +134,7 @@ A fairly simple, yet often impractically demanding technique. The user channels 
  - Speed: 10
  - Tags: Preparation
 
-Effects: You have a +X bonus to your physical damage bonus and dodge while you maintain Chakra Strengthening. X has a maximum of 5.
+Effects: You have a +X bonus to your physical damage bonus and dodge while you maintain Chakra Strengthening. X has a maximum of 3.
 
 #### --( Soushuujin - Manipulating Attack Blades )--
 This technique allows the user to briefly levitate multiple kunai in mid-air using chakra, and then direct them at an opponent, more quickly than if each was being thrown individually.  Even more impressively, it allows you to reuse the weapons you maintain control over, preventing you from having to pick them back up (or giving your opponent a chance to do so).

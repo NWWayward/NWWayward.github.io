@@ -457,12 +457,12 @@ A leather mask filtered with thatch containing herbs that are good for breathing
 Wearing an plague mask with a still-fresh spice pouch makes the wearer immune to external suffocation penalties (being inside an unbreathable cloud would not affect them; being physically choked would) and provides a +8 bonus to Resistance rolls against statuses that would be inflicted by breathing something in (such as poison mist); the mask is not perfectly air-tight.
 
  - Cost: 200 Ryo
- - Tag: Consumable
 
 ##### Spice Pouch
 Sharp smelling herbs to be put inside of a Plague Mask. They last and hardly need to be replaced. Each pouch only needs to be replaced once every 3 hours.
 
  - Cost: 25 Ryo
+ - Tag: Consumable
 
 ##### Smoke Bomb
 Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke with an Area of 5 that applies a -6 Visiblity Penalty within its area, for 20 IC.
