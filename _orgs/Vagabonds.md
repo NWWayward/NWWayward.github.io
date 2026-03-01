@@ -61,7 +61,7 @@ Ketsuton Ninjutsu, Rank D
  - Tags: Piercing, Projectile
  - Requires: Ketsuryūgan Active
 
-Effect: As part of casting Haiketsushoshuen, you must sacrifice X HP, to a maximum of (Cha/5), which does not add Blood Points. Haiketsushoushuen's damage for wounding purposes is increased by (X)%, and any poison(s) you are affected with have their remaining duration reduced by X.
+Effect: As part of casting Haiketsushoshuen, you must sacrifice X HP, to a maximum of (Cha/5), which does not add Blood Points. Haiketsushoushuen's damage for wounding purposes is increased by (X * 4)%, and any poison(s) you are affected with have their remaining duration reduced by X.
 
 If this technique wounds its target, and you are currently suffering from a poison, the target makes a Status roll against the original Toxicology roll of the poison you are afflicted with, with a penalty to their Resistance equal to the severity of the wound (-1 for Minor, -2 for Major, etc). If they fail, they are afflicted with the same poison, with a duration of (10 + X), or the poison’s remaining duration (for you), whichever is lower.
 
