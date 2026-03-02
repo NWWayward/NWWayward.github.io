@@ -75,11 +75,9 @@ The technique that causes most to fear meeting a Chinoike's eyes, as all they mu
  - Speed: 15
  - Requires: Ketsuryūgan Active, target with a Bleed status
 
-Effect: If this hits, make a status roll.  Your target's highest bleed status is removed if they pass a status roll, or halved (rounded up) if they fail. Either way, they take damage equal to (X + NDB) * 8, where X is the removed Bleed's original severity. This damage ignores Damage Reduction. If this would wound your target, it does not do so; instead of wounding, you inflict a -X/5 penalty to Stamina, Chakra Exhaustion, and to their next Genjutsu Defense roll.
+Effect: If this hits, make a status roll.  Your target's current highest bleed status is removed if they pass a status roll, or halved (rounded up) if they fail. Either way, they take damage equal to (X + NDB) * 8, where X is the removed Bleed's original severity. This damage ignores Damage Reduction. If this would wound your target, it does not do so; instead of wounding, you inflict a -X/5 penalty to Stamina, Chakra Exhaustion, and to their next Genjutsu Defense roll.
 
 You recover HP (not Vitality) equal to X * 2, up to your maximum HP - any in excess of your maximum HP is instead added to the battlefield as Blood Points.
-
-
 
 #### --( Hijutsu: Ketsuseitou Ryōiki — Secret Technique: Blood Subjugation Domain )--
 Commonly believed to be the ultimate expression of Ketsuton, the Blood Subjugation Domain demonstrates an absolute mastery over blood and iron. By emanating an intense aura of control, a masterful Ketsuton practitioner expresses an almost magnetic pull that draws the blood weeping from the wounds of friend and foe alike, then turns that traitorous blood against its very source.
@@ -94,9 +92,9 @@ Commonly believed to be the ultimate expression of Ketsuton, the Blood Subjugati
 
 Effect: Anytime a Bleed status is reduced within this technique’s Area, Blood Points are added to the battlefield equal to the amount it is reduced.  This has no maximum, and does increase its own Area accordingly.
 
-Anyone within this technique’s area, except the user, gains a Bleed status automatically of (your RES/20).  This bleed may not be reduced while in the area.
+Anyone within this technique’s area, except the user, gains a Bleed status automatically of (your RES/20).  This Bleed may not be increased or reduced below this value while in the area.
 
-While within the technique’s Area, Ketsuryugan and Ketsuton Genjutsu considers targets based off of their highest Bleed status attained while they were in this jutsu's area (rather than their current highest Bleed status). If someone leaves and re-enters this jutsu's area, then this effect is reset to their new highest Bleed, even if it was lower than before.
+While within the technique’s Area, Ketsuton's Genjutsu effects considers targets based off of their highest Bleed status attained while they were in this jutsu's area (rather than their current highest Bleed status). If someone leaves and re-enters this jutsu's area, then this effect is reset to their new highest Bleed, even if it was lower than before.
 
 
 ## Souma no Ko
