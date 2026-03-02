@@ -496,7 +496,7 @@ Unfortunately for the Uchiha, they are not inherently able to access this power.
 
 PC Uchiha are considered better than your average Uchiha and begin with Stage 1 unlocked at creation. Unfortunately, to unlock its higher stages requires training and persistence. A shinobi can unlock the Sharingan’s higher stages without the need for external stimulus, though it can take a while.  500 XP above your starting XP (the total amount you have when you get your character approved), you unlock Stage 2.  1500 XP above your starting XP, you unlock Stage 3.  Legends speak of a fourth, higher stage, but no one in recent memory has obtained it.
 
-Activating Sharingan is a Speed 0 action, which can be performed by itself, or alongside another technique or Interrupt, and it has an Upkeep of 2. You can activate Sharingan when rolling Initiative with the Preparation ability.
+Activating Sharingan is a Speed 0 action, and it has an Upkeep of 2. You can activate Sharingan when rolling Initiative with the Preparation ability.
 
 Techniques unlocked at the various Sharingan levels (detailed in their respective Stage section, below) can be acquired automatically, as soon as you unlock the Stage that grants them.  They have no rank or skill requirements to learn, and you can go into ‘XP debt’ by acquiring them, though all XP you earn goes to paying the costs of such techniques before you can spend XP on anything else until they’re paid for.
 

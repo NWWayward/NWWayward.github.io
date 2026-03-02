@@ -66,6 +66,17 @@ The cards themselves are a trivial purchase (no cost or equipment entry associat
 
 Effects: Performing this technique requires a surface to rest the cards on as they are encoded, one at a time, with chakra. Essentially any kind of information (images, graphs, maps, text) can be placed on the cards, though their size is a limiting factor. Since these can not be used to pass messages, they're typically used for more mundane uses, like holding ones shopping list.
 
+#### --( Uma Kuchibue no Jutsu - Horse Whistle Technique )--
+If you wish to ride a horse, you are required to know this jutsu in order to call it to you from anywhere.
+
+Chakra: 7
+Speed: 5 or 10
+SS: 6
+
+Effects: After forming handseals you use your hand to whistle loudly. Chakra alters the frequency of your whistle to call your horse from wherever it is. Typically your horse will be somewhere nearby, but it is trained by default not to get in your way until you use this jutsu.  Out of combat, this works to have your mount return after being separated (it being spooked and having fled a battle, exploring a cave it could not follow only to find it had wandered off to look for food, it being stolen, etc); it works flawlessly so long as it is alive and there is nothing physically restraining the mount that would keep it from returning to you (such as being in a cage).  
+
+Once called, you can mount your horse as a Speed 5 action. Your horse will already be within range at your current position. You can choose to use this jutsu as a Speed 10 action in order to call and mount your horse at the same time in one action.
+
 ## D-rank
 #### --( Genjutsu Kai - Genjutsu Release )--
 The most common and perhaps most effective method of combatting genjutsu, if one ends up caught up in one and aware enough to realize it. Kai involves temporarily stopping the flow of chakra throughout the body, and then sending a burst to the brain in an attempt to force the attacker's chakra from their body.
@@ -75,14 +86,6 @@ The most common and perhaps most effective method of combatting genjutsu, if one
  - Seal Speed: 5
 
 Effects: This can be done on yourself, or another willing person.  You must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). This may also be done against Area of Effect genjutsu, in which case this technique's user makes a genjutsu roll against the original roll made by whoever put the technique in place. If successful, the technique is dispelled in its entirety.
-
-#### --( Uma Kuchibue no Jutsu - Horse Whistle Technique )--
-A simple method of utilizing chakra as one whistles, there's a number of frequencies that different shinobi utilize which ensures that each rider and each mount tend to recognize their own only, though making such loud sounds may or may not attract other dangers.  For shinobi, it is a way to ensure that even after separating from their steeds, they can always find them again across nearly any distance.
-
- - Chakra: 10
- - Speed: 10
-
-Effects: Your mount is called to you.  Out of combat, this works to have your mount return after being separated (it being spooked and having fled a battle, exploring a cave it could not follow only to find it had wandered off to look for food, it being stolen, etc); it works flawlessly so long as it is alive and there is nothing physically restraining the mount that would keep it from returning to you (such as being in a cage).  
 
 #### --( Shunshin no Jutsu - Body Flicker Technique )--
 A high-speed movement technique which allows the user to travel incredibly distances in the blink of eye; used by a sufficiently powerful ninja, this can be mistaken for teleportation by an untrained observer.
