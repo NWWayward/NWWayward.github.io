@@ -95,7 +95,7 @@ Combining Fire and Wind chakra results in the advanced nature of ‘Scorch Relea
 Any Katon or Fuuton technique can be converted to Shakuton as a Chakra +5, Speed +0 link, with the following changes:   
  - Deal 75% normal damage, but can not be blocked
  - They gain +(Rank/2) to their Accuracy, rounded up
- - Inflict a Dehydration status of severity (1 per Rank of the jutsu) + CHA / (90 - 10*Rank). In other words, for an E-Rank this is 1+CHA/80, for a D-Rank it is 2+CHA/70, and so on, up to 5+CHA/40 for A-rank techniques
+ - Inflict a Dehydration status equal to their Rank (E = 1, D = 2, etc)
  - Shakuton can increase a victim’s Dehydration status up to a maximum of 3+(CHA/8)
  - Shakuton can not inflict Burns or Ignite
  - Fuuton converted to Shakuton may not be used with a Fan.
@@ -123,7 +123,7 @@ You focus your chakra on a victim, and simply light them ablaze.
  - Speed: 15
  - Special: X Ignite + Special
 
-Effects: This technique ignores the normal rule that Shakuton can not inflict Ignite; X is the victim’s Dehydration status (and thus, if you use it on someone without it, this technique has no effect), and does enjoy Shakuton’s typical +CHA/40 Accuracy.  Your target’s Dehydrate status is removed (after applying the Ignite) if they pass a status roll; if they fail, then their Dehydrate status is instead only lowered by half, rounding up.
+Effects: This technique ignores the normal rule that Shakuton can not inflict Ignite; X is the victim’s Dehydration status (and thus, if you use it on someone without it, this technique has no effect), and does enjoy Shakuton’s typical Accuracy bonus.  Your target’s Dehydrate status is removed (after applying the Ignite) if they pass a status roll; if they fail, then their Dehydrate status is instead only lowered by half, rounding up.
 
 In addition to the Ignite, your target suffers a penalty to their Resistance equal to X, which doesn't go away until the Ignite itself does.
 
