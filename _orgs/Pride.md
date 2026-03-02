@@ -578,7 +578,7 @@ Effects: When using Kugutsu no Jutsu, you may control an additional Puppet per R
 ### -( Rules for Puppets )–
 Puppets can be individually targeted and damaged. However, it is important to note that while Puppets are often the origin point of actions, they never perform actions. A puppet does not swing their equipped sword, the puppeteer swings the puppet's sword.
 
-Puppets are immune to Genjutsu, Medical Jutsu, Poison, and Status Effects except for Corrosion, Frostbite, Ignite, and Immobilize. However, the Puppeteer is not immune to those things, and their status effects will impact actions they are taking, even if the Puppet is the origin point. For instance, if the Puppeteer has Shock and Paralysis 2, it would apply when the Puppeteer swings a sword that happens to be attached to the Puppet.
+Puppets are immune to Genjutsu, Medical Jutsu, Poison, being Disarmed, and Status Effects except for Corrosion, Frostbite, Ignite, and Immobilize. However, the Puppeteer is not immune to those things, and their status effects will impact actions they are taking, even if the Puppet is the origin point. For instance, if the Puppeteer has Shock and Paralysis 2, it would apply when the Puppeteer swings a sword that happens to be attached to the Puppet.
 
 In the case of Visibility Penalties based on a cloud or area, while the Puppet is the origin point, draw line of sight from the Puppeteer.
 
@@ -672,7 +672,7 @@ A section of your Puppet's torso is hollowed out and made into a cage, with stra
  - Cost: 5 PP, 1 Slot (Torso)
  - Tags: Specialization, Performance
 
-Effects: This puppet may use Grapple Jutsu, and is considered to have unlimited limbs for purposes of grappling. When they Grapple someone, their body opens into a large cage that traps the opponent. This functions as a normal grapple, except the defender may not attack anyone outside the grapple or move, but they take only half damage from AoE attacks as the puppet inadvertently shields them. The Puppet uses your NDB+5 for Grapple Rolls.
+Effects: This puppet may use Grapple Jutsu, and is considered to have unlimited limbs for purposes of grappling. When they Grapple someone, their body opens into a large cage that traps the opponent. This functions as a normal grapple, except the defender may not attack anyone outside the grapple or move, but they take only half damage from AoE attacks as the puppet inadvertently shields them. The Puppet uses your NDB instead of PDB for Grapple Rolls, with an additional +3 bonus
 
 #### --( Wings )--
 You install two large wings on your puppet that function like a glider or kite, except better because of Chakra. Not only does this include wings of some sort, but a series of other modifications to make the puppet significantly lighter.

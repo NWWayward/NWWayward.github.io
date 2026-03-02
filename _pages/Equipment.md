@@ -339,14 +339,12 @@ A large bow, generally bigger than its wielder at six feet or so high. The upper
 Shinobi really never saw a purpose for shooting a bow quickly because of how much stamina was required for the draw. Plus, they weren't looking at killing a target in several shots, but rather, one big shot and ending the fight quickly. This bow is designed for hunting, but with the horses used in the warring states era, the tactics evolved to incorporate these bows to specifically be used on the backs of horses. A small bow with a tight string, although with less range, they fire several shots with terrifying precision.
 
  - Cost: 300 Ryo
- - Stamina: 10
+ - Stamina: 14
  - Damage: (STR/6) dice; dice size determined by arrow
  - Accuracy: -2
  - Range: STR /3
- - Speed: 9
- - Special: Using a bow always takes two hands. Consecutive hits against the same target cause follow-up attacks with this weapon to gain increased Wounding, gaining +20% per hit, up to a maximum of +100% (after 6 hits), which lasts until you miss a shot, perform an attack without utilizing this weapon, or use a Weapon Taijutsu with this weapon, which gains the bonus Wounding percentage to its damage, but then resets it back to +0% afterward.  Combat Acupuncture and Surgical Precision can be used with this weapon.
-
- While Mounted, you have +2 Accuracy against unmounted targets and ignore the Mounted penalty to Accuracy.
+ - Speed: 13
+ - Special: Using a bow always takes two hands. Consecutive hits against the same target cause follow-up attacks with this weapon to gain increased Wounding, gaining +20% per hit, up to a maximum of +100% (after 6 hits), which lasts until you miss a shot, perform an attack without utilizing this weapon, or use a Weapon Taijutsu with this weapon, which gains the bonus Wounding percentage to its damage, but then resets it back to +0% afterward.  Combat Acupuncture and Surgical Precision can be used with this weapon.  While Mounted, you have +2 Accuracy against unmounted targets and ignore the Mounted penalty to Accuracy.
 
 ##### Bow, Yumi
 Technically, it's called a hankyu, and kyudo practitioners would be horridly offended to hear shinobi calling all bows of this sort 'yumis'. However, ninja hardly care! The yumi is a much smaller bow, typically not more than four feet long.
