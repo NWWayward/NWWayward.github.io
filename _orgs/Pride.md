@@ -351,7 +351,7 @@ If you and your dog are travelling together, you may have your ninken roll a ski
 #### -=[ Pack Tactics ]=-
 When fighting with you, your Ninken acts on every increment of 20 (on IC 20, 40, 60, etc). It uses your attributes, and can do one of several things:
 
- - *Basic Attack (Speed 10)* – This deals (STR/6)d6, uses half your PDB, and Shreds 10 DR. DR reduced this way returns at a rate of 1 per IC (stacking as one 'status' with your own Shred). Attacking from Stealth increases the damage to use your full PDB.
+ - *Basic Attack (Speed 10)* – This deals (STR/6)d6, uses half your PDB, and Shreds 10 DR. DR reduced this way returns at a rate of 1 per IC (stacking as one 'status' with your own Shred). Attacking from Stealth increases the damage to use your full PDB.  It deals Slashing wounds.
  - *Grab* – As per the E-Rank Grapple.
  - *Stealth* – Your Ninken can attempt to hide, following normal rules for doing so (which usually means it needs your help to provide a suitable Visibility Penalty to do so).
  - *Search* – Your Ninken can search for you! In actual terms, your Ninken performs both the Search and Observe action (from Bunshin) at the same time, and can use the Point Out action as a Speed 0 Interrupt if it finds anyone, by barking until you see what the Ninken does.  It uses its Awareness roll for this.
