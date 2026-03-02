@@ -43,7 +43,7 @@ Effects: This reduces any existing Environmental Visibility Penalties by 2.  Rep
 #### --( Kazekiri - Wind Cutter )--
 The user generates a narrow arc of wind and chakra, which is sent out to cut things like ropes, lines, and people.
 
- - Chakra: 13
+ - Chakra: 11
  - Damage: 2d4 * 5
  - Range: 10
  - Speed: 9
@@ -55,7 +55,7 @@ Effects: This technique's damage is considered 50% higher for Wounding purposes.
 #### --( Hineri Dangan - Twister Shot )--
 Holding their hand half-grasped, the user blows a constant stream of wind into their hand which begins to spiral around in a ball or small tornado shape. The tornado is then sent out toward the target as the hand is opened.
 
- - Chakra: 11
+ - Chakra: 13
  - Damage: 4d4 * 5
  - Range: 15
  - Speed: 10
