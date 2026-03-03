@@ -641,7 +641,7 @@ You refuse to go down in battle. So long as you're physically able to breathe, y
 - Requires: 3 Willpower
 
 #### -=[ Limit Break ]=-
-Through sheer determination you force yourself to perform above your own capabilities. Once per day, per rank, you may reroll any roll, or replace an Accuracy number with a d20 roll that adds your normal Accuracy rating as a bonus (not including the base 10 Accuracy). If this is a d20 roll and the result is below 11, add 10 to the die roll. Using Limit Break causes you to immediately proceed to the next Fatigue category. This ability can be used after you've determined whether your roll or attack would've succeeded normally.
+Through sheer determination you force yourself to perform above your own capabilities. Once per day, per rank, you may reroll any roll, or replace an Accuracy number with a d20 roll that adds your normal Accuracy rating as a bonus (not including the base 10 Accuracy). If this is a d20 roll and the result is below 11, add 10 to the die roll. Using Limit Break causes you to immediately proceed to the next Fatigue category (chosen to apply before or after you make your action's associated Fatigue Roll(s)). This ability can be used after you've determined whether your roll or attack would've succeeded normally.
 
 - Base Cost: 20
 - Scale: 5
