@@ -333,7 +333,7 @@ A large bow, generally bigger than its wielder at six feet or so high. The upper
 - Accuracy: -10
 - Range: STR
 - Speed: 20
-- Special: The bow uses double your damage bonus. Using a bow always takes two hands. You may take a Speed 10 Aim action which gives the attack +4 Accuracy. You may Aim up to twice for a single attack. If you have to take any action which requires movement (including dodging), you lose the benefits of your aim.
+- Special: The bow uses double your damage bonus. Using a bow always takes two hands (even with Monkey Grip). You may take a Speed 10 Aim action which gives the attack +4 Accuracy. You may Aim up to twice for a single attack. If you have to take any action which requires movement (including dodging), you lose the benefits of your aim.
 
 ##### Bow, Recurve Hunting
 Shinobi really never saw a purpose for shooting a bow quickly because of how much stamina was required for the draw. Plus, they weren't looking at killing a target in several shots, but rather, one big shot and ending the fight quickly. This bow is designed for hunting, but with the horses used in the warring states era, the tactics evolved to incorporate these bows to specifically be used on the backs of horses. A small bow with a tight string, although with less range, they fire several shots with terrifying precision.
@@ -344,7 +344,7 @@ Shinobi really never saw a purpose for shooting a bow quickly because of how muc
  - Accuracy: -2
  - Range: STR /3
  - Speed: 13
- - Special: Using a bow always takes two hands. Consecutive hits against the same target cause follow-up attacks with this weapon to gain increased Wounding, gaining +10% per hit, up to a maximum of +100%, which lasts until you miss a shot, perform an attack without utilizing this weapon, or use a Weapon Taijutsu with this weapon, which gains the bonus Wounding percentage to its damage, but then resets it back to +0% afterward.  Combat Acupuncture and Surgical Precision can be used with this weapon.  While Mounted, you have +2 Accuracy against unmounted targets and ignore the Mounted penalty to Accuracy.
+ - Special: Using a bow always takes two hands (even with Monkey Grip). Consecutive hits against the same target cause follow-up attacks with this weapon to gain increased Wounding, gaining +10% per hit, up to a maximum of +100%, which lasts until you miss a shot, perform an attack without utilizing this weapon, or use a Weapon Taijutsu with this weapon, which gains the bonus Wounding percentage to its damage, but then resets it back to +0% afterward.  Combat Acupuncture and Surgical Precision can be used with this weapon.  While Mounted, you have +2 Accuracy against unmounted targets and ignore the Mounted penalty to Accuracy.
 
 ##### Bow, Yumi
 Technically, it's called a hankyu, and kyudo practitioners would be horridly offended to hear shinobi calling all bows of this sort 'yumis'. However, ninja hardly care! The yumi is a much smaller bow, typically not more than four feet long.
@@ -355,7 +355,7 @@ Technically, it's called a hankyu, and kyudo practitioners would be horridly off
 - Range: STR /2
 - Speed: 14
 - Accuracy: -6
-- Special: You gain +25% to your damage bonus. Using a bow always takes two hands. You may use a Speed 8 Aim action which gives the attack +4 Accuracy. You may Aim up to twice for a single attack. You may dodge while Aiming, though this increases the Speed of your Dodge action by 3.
+- Special: You gain +25% to your damage bonus. Using a bow always takes two hands (even with Monkey Grip). You may use a Speed 8 Aim action which gives the attack +4 Accuracy. You may Aim up to twice for a single attack. You may dodge while Aiming, though this increases the Speed of your Dodge action by 3.
 
 ##### Arrow (Piercing)
 These are necessary to use a bow in combat! Specifically, arrows are the ammunition for bows, and each attack you make with a bow requires you to use an arrow. Arrows can usually be retrieved after battle. Arrows are expensive not because of their construction, but because ones of the quality that chakra-using ninja need are hard to come by; shuriken and kunai are competitively mass produced, arrows are not.
