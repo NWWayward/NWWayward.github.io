@@ -382,7 +382,7 @@ A large scroll. Most of the time these are carried rolled up to save space. They
  - Cost: 25 Ryo
 
 ##### Blood Increasing Pill
-These pills contain a peculiar mix of chemicals that, when consumed by someone capable of using chakra (such as a ninja) will allow their body to rapidly replenish lost blood. When you take one of these pills you regain RES/10 HP (but not Vitality) each IC, for 50 IC. During this duration you take only one third damage from poison, and no damage from effects caused by bleeding (such as certain wounds). Using a Blood Pill is a Speed 10 action.
+These pills contain a peculiar mix of chemicals that, when consumed by someone capable of using chakra (such as a ninja) will allow their body to rapidly replenish lost blood. When you take one of these pills you regain RES/10 HP (but not Vitality) each IC, for 50 IC. During this duration you take only one third damage from Poison. Using a Blood Pill is a Speed 10 action.
 
  - Cost: 250 Ryo
  - Tags: Consumable
