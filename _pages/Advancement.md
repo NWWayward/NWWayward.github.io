@@ -40,6 +40,8 @@ Bonuses:
 Penalties:  
 -2 per Fatigue level you begin the battle at and -1 per Wound (regardless of level) you start the battle with.
 
+You additionally gain Scrap equal to half the XP you gained from each spar, rounded down, for free!
+
 After fighting someone, you may not gain XP for fighting that person for 20 hours. If are in a spar with them and other people (who you haven't fought in the past 20 hours) you still gain XP, however. Wounds acquired from Genjutsu which are not real, and fade after the fight is over, do not grant XP.
 
 #### Events
