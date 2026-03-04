@@ -12,6 +12,7 @@ toc:
  - name: Infamy
  - name: Logs
  - name: Second Characters
+ - name: Downtime
 ---
 
 The first question everyone has once they've spent their starting XP is, of course, what about breakfast? Becuase of course they've had one, but what second breakfast? Elevenses? Luncheon? Afternoon tea? Dinner? Supper? 
@@ -485,7 +486,6 @@ You should rename "XP Bonus (__%)" to the actual percent you have; for example, 
 Total + Bonus is your Total XP, plus your XP Bonus.
 
 ## Second Characters
-
 By default, you can only create and play one character at a time, as we want to encourage you to build up a character that is both mechanically and aesthetically complex and attached to both other characters, and plots, to engage in the world more with a character you'll stick with and grow to enjoy alongside others.  That said, once you've hit the cap of how much XP you're allowed to have spent, it can be demoralizing to be waiting for day rollovers to have XP to spent and to feel like you can't really engage with the game as much as you'd like, so second characters are allowed to be made--with some restrictions.
 
 Firstly, to create a second character, your first character must not just be at the XP Cap, but be **100 XP past it** in order to create a second character.  At present, third characters are not allowed to be created, though this may at some point change.
@@ -497,3 +497,31 @@ Next, your second character can not be from the same village as your first: This
 Finally, you can only be in-character with one character at a time.  This means you can not spar with one character and RP with another simultaneously: we want people who you interact with to have as much of your attention as is needed for a scene, which means no multi-tasking by playing both at once, to show respect to your fellow players.
 
 The sheet at present tracks whether you are eligible for a second character automatically, so be sure to check 'The Log' tab and look at M22 (as of the most recent sheet) to see whether you are eligible for a second character.
+
+## Downtime
+Meant to represent what your character does *off-screen* and outside of regular missions, battles, and training and recovering from and for them, Downtime is a simple system where you can elect to have your character do one of a few things.  Every OOC day that the restart has been going, you get one 'training' or 'downtime' day to spend on one of the below options.  You mark your choice accordingly in the character sheet's Downtime Log to indicate which you choose.  
+
+The options are:
+
+#### Extra Sleep
+Or maybe you're just lazy.  Each time you select this option, you gain one 'Well Rested' point.  You can have up to a maximum of four stacks (or points) at one time.  After you roll a Stamina or Chakra Exhaustion roll, you can choose to use one Well Rested point to add +1 to its result.  You can choose to use more than one point at once, if you choose, and can opt to use them before the roll.
+
+#### Extra Training
+Nah, just stick to the bones.  You use your downtime for the day to gain another 2 XP.  After 4 days in a row of choosing this bonus, it decreases to 1 XP per day until you spend a Training Day doing something else.
+
+#### Scavenging
+You recycle scraps of materials for use later, allowing you to gain 10 Scrap.
+
+#### Crafting
+By spending a Training Day crafting, you can use scrap equal to the Ryo cost of an item to craft that item using Scrap instead of Ryo.  You can only create up to (XP/10 + Infamy)'s Ryo worth of items in a single Training Day, rounding down.  Likewise, you are limited by your Rank what you can craft using scrap.
+
+By default, anyone can craft Kunai, Shuriken, Arrows, Senbon, First Aid Kits, Lockpicks, and Spice Pouches.
+
+Upon reaching Chuunin, you unlock the ability to craft Camouflage Kits, Flash Bombs, Smoke Bombs, Rope, and Ninja Wire.  You can additionally craft any Melee or Ranged weapon.
+
+Upon reaching Jounin, you can craft Exploding Tags, Blank Scrolls, Antidotes, and Poisons.  You can also craft Armor (but must have access to the armor type you wish to craft).
+
+Upon reaching ANBU, you can craft Soldier and Blood Pills.
+
+### Logging Scrap gains and Spends
+You can gain Scrap from missions (determined and awarded by the ST alongside Infamy and XP), and gain Scrap equal to 50% of the XP earned in all Spars (round down).  When you purchase something with Scrap, be sure to note it as such in the Equipment log (in the same way you would indicate whether it was bought with Savings or Requisition).  

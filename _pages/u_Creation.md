@@ -85,6 +85,8 @@ The term 'genius' has a different meaning to ninja than ordinary people. It's no
 
 The cost to learn jutsu is reduced by 25%, rounded up.  Additionally, you can learn jutsu of one rank higher than you would normally be allowed, though the ability to learn higher-ranked jutsu does not allow you to bypass ability or talent requirements for learning jutsu of certain ranks (such as Medical Training, Genjutsu Awareness, or Sealing Jutsu Training).
 
+Finally, with this unique you ignore the Chuunin and Jounin requirements for Crafting items using Scrap.
+
 Reaching beyond your grasp has a cost: Any jutsu you couldn't perform without Genius has its cost(s) increased by 3.
 
 ##### Juggernaut
