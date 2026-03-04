@@ -515,7 +515,7 @@ Nah, just stick to the bones.  You use your downtime for the day to gain another
 You recycle scraps of materials for use later, allowing you to gain 10 Scrap.
 
 #### Crafting
-By spending a Training Day crafting, you can use scrap equal to the Ryo cost of an item to craft that item using Scrap instead of Ryo.  You can only create up to (XP/10 + Infamy)'s Ryo worth of items in a single Training Day, rounding down.  Likewise, you are limited by your Rank what you can craft using scrap.
+By spending a Training Day crafting, you can use scrap equal to the Ryo cost of an item to craft that item using Scrap instead of Ryo.  You can only create up to (XP/10 + Infamy)'s Ryo worth of items in a single Training Day, rounding down.  Likewise, you are limited by your Rank what you can craft using scrap.  All items created with Scrap will not be replaced if they are lost, consumed, or damaged.
 
 By default, anyone can craft Kunai, Shuriken, Arrows, Senbon, First Aid Kits, Lockpicks, and Spice Pouches.
 
