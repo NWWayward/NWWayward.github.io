@@ -301,8 +301,8 @@ Large metal needles, traditionally used in acupuncture. Rarely, particularly ski
 - Speed: 7
 - Special: Ignores armor and half of an opponent's DR.
 
-##### Large Thrown
-Fuuma Shuriken (Large, Slashing, Thrown)
+#### Large Thrown
+##### Fuuma Shuriken (Large, Slashing, Thrown)
 
 A fairly complex device, a fuuma shuriken is four curved blades that can fold together and be used as an improvised blade in melee combat, or unfolded and locked open, taking on a pinwheel shape, to be thrown.
 
