@@ -556,7 +556,7 @@ This section is for them! Build a Death Workshop "Poison" is a stand in for any 
 The Severity of the Poison you can deploy onto the field is determined by your ranks in Toxicology.  You begin with the Poison Base (detailed below), then modify it by applying a Vector and a Special Option.
 
  - Poison Base Cost: 100 Ryo 
- - Poison Severity: 1 + (Toxicology Ranks)/15
+ - Poison Severity: 1 + (Toxicology Ranks)/20
  - Poison Duration: 50 + (Toxicology Ranks)
 
 First, select one of the following ways your poison can be applied: Contact, Injury, Inhalation, or Ingestion.
@@ -654,7 +654,7 @@ The most venomous fish in the world, it’s commonly agreed upon that having an 
 
 - Cost: +50 Ryo
 
-Effects: The Poison's Potency is increased by (1 + Toxicology Ranks/15).
+Effects: The Poison's Potency is increased by (1 + Toxicology Ranks/20).
 
 ##### Water Hemlock
 There are multiple varieties of hemlock, with this being by far the most unpleasant. The plant’s sufficiently lethal that coming into contact with it purely by accident in the wild can cause death. It’s a powerful stimulant, leading to intense pain, tremors, disorientation, dizziness, fever, hallucinations, tingling, dilated pupils, respiratory difficulty…
