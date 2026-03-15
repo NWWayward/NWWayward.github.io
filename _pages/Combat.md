@@ -549,11 +549,13 @@ Unarmed attacks are always blunt damage, nice and simple. Weapons have their dam
 Ninjutsu are simpler than weapons! Katon and Raiton jutsu inflict energy damage. Doton and Suiton inflict blunt damage. Fuuton inflicts slashing damage. An exception! Some jutsu augment a weapon strike, or actually create a weapon. In these cases, use the damage type of that weapon, not the element it was made from.
 
 ### Location
-After determining severity and damage type, you roll to determine location--where you hit, and what you injured. It's all well and good to say you threw a punch at their face, but this is battle, with ninjas! Things rarely go as planned. You roll a percentile die (1d100) for location, and check the relevant damage type's wound list, under the appropriate severity, to determine the effect. If it's an arm or leg that's been wounded, odds on the 1d100 are the right arm, and evens the left. This all gets simpler if the defender is blocking; in that case, they choose the location.
+After determining severity and damage type, you roll to determine location--where you hit, and what you injured. It's all well and good to say you threw a punch at their face, but this is battle, with ninjas! Things rarely go as planned. You roll a percentile die (1d100) for location, and check the relevant damage type's wound list, under the appropriate severity, to determine the effect. If it's an arm or leg that's been wounded, odds on the 1d100 are the right arm, and evens the left. This all gets simpler if the defender is blocking; in that case, they choose the location, which takes precedence over any Called Shot from the attack.
 
 Multiple wounds, even multiples of the same effect, stack. Two broken left arms means that your arm is broken twice, with double the normal penalties.
 
 One exception. If you suffer a critical wound, it overrides all lesser wounds on that location--having an arm reduced to useless deadweight makes the fact that it's broken in six places kind of, well, irrelevant. Two criticals in the same place, however, is oh so very possible.
+
+In the cases of attacks which inflict multiple wounds at once, you roll for location only once and apply all wounds to the location(s) according to the wound type and severity on the Wounds page.  If someone uses Block against such attacks, they can choose whether to apply them to the same location, or to separate ones.  
 
 ### Called Shots
 A called shot is an attack specifically targeting a certain location. After checking your attack's damage type, choose any of the locations which can be Wounded by damage of that type. You declare that when you make your attack, for example, "Hinotama, Called Shot: Arm".

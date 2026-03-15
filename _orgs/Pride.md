@@ -258,13 +258,13 @@ The Inuzuka launches themselves forward toward an opponent while spinning at suc
  - Special: Sudden Attack can not be used with this attack
  - Tags: Slashing
 
-Effects: This technique’s Range is increased by how far you could move during the attack, and you always travel the maximum Range of this technique, regardless of how far away your Target is (as long as they are within range). Despite the listed range, however, Tsuga is considered a melee attack.
+Effects: This technique’s Range is increased by how far you could move during the attack; you always travel at least its base range (of AGI/10 yards) when you use this attack, but can opt to utilize how far you could move while attacking on top of it, if you wish.  Thus, with 50 AGI and using it at 12 Speed, you must always move (50/10) = 5 yards when you attack, but you could choose to move up to a total of (50/10 + 50/50 * 12/2 = 5 + 6) = 11 yards. Despite the listed range, Tsuga is considered a melee attack.
 
 This technique gains Accuracy, and loses damage, according to how close you are to your target when you attack: For every 20% of the listed Range you are within to your target (after calculating the final Range for this technique), you gain +1 Accuracy, but deal 5% less damage. (i.e., if you had a final Range of 30, and attacked someone with Tsuga who was 22 yards from you, they are below 80% of the technique’s maximum range, and thus you’d get +1 Acc and deal 95% normal damage; if you attacked someone within 6 yards of you with Tsuga with the same total Range, you’d gain +5 Acc but deal 25% less damage).
 
 You apply only half of your PDB to this technique's damage, however you roll damage an additional time if you beat their Defensive roll by 5 or more.  If someone elects to perform a defense which does not have a roll (such as Block, or Earth Shore Return), or chooses not to defend, you perform the maximum amount of damage rolls. Partial Success does not apply to this attack, and you combine all damage rolls to determine any Wounds inflicted (and likewise, Wounding modifiers only apply to the final total).
 
-For every time you and/or your Ninken utilize Tsuga consecutively (even if it misses!), its Speed and Stamina cost are reduced by 1, to a minimum of half their normal values. These benefits reset if you take any non-interrupt action besides Move, Tsuga, or Gatsuga, or if you go 20 IC or more without you or your ninken using Gatsuga or this technique.
+For every time you and/or your Ninken utilize Tsuga consecutively (even if it misses!), its Staminma is reduced by 2, and its Speed by 1, to a minimum of half their normal values. These benefits reset if you take any non-interrupt action besides Move, Tsuga, or Gatsuga, or if you go 20 IC or more without you or your ninken using Gatsuga or this technique.
 
 You may only use this attack with a mount if you are using your Ninken as your mount.
 
@@ -298,9 +298,9 @@ Tsuga twice over.  Both the Inuzuka and their transformed Ninken coordinate thei
 
 Effects: This attack has two accuracies your target must defend against: One which you roll (as 1d20+Accuracy bonuses), and the other being your regular Taijutsu Accuracy TN.  The higher of the two becomes the Accuracy that determines if your technique hits (and how many times it hits), while the lower increases this technique’s damage by +1d8 per point it beats your opponent’s Defense by, if any, to a maximum of an additional (STR/10)d8.  If they opt to defend in a way that does not have them roll, or do not defend at all, you gain no additional damage dice.
 
-This jutsu functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and any bonuses from consecutive uses of Tsuga apply to Gatsuga as well (and vice versa), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. Like Tsuga, Partial Success does not apply to this attack, and you combine its damage rolls to determine what, if any, Wounds are inflicted.
+This jutsu functions otherwise like Tsuga for how you determine your movement, and any bonuses from consecutive uses of Tsuga apply to Gatsuga as well (and vice versa), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. Like Tsuga, Partial Success does not apply to this attack, and you combine its damage rolls to determine Wounds.
 
-Gatsuga’s damage differs, however: You apply only one-third of your PDB to its damage, but roll damage an additional time for every three points you beat your opponent’s defense by, to a maximum of three damage rolls if you beat their Defense by 6.  Partial Success does not apply to this attack, and you combine all damage rolls to determine any Wounds inflicted (and likewise, Wounding modifiers only apply to the final total).
+Gatsuga’s damage differs, however: You apply only one-third of your PDB to its damage, but roll damage an additional time for every three points you beat your opponent’s defense by, to a maximum of three damage rolls if you beat their Defense by 6.
 
 You may only use this attack with a mount if you are using your Ninken as your mount.
 
@@ -332,9 +332,9 @@ Tsuga, but in Sotoro form, where an Inuzuka’s speed (and tail!) can be used to
 
 Effects: When you use this attack, first make an opposed roll of your Survival vs their Stealth: If you succeed, you gain +1d12 damage per point you beat their Stealth by, to a maximum of (STR/10)d12 extra dice.  If they succeed, they get +1 to their defensive roll per point they succeeded by (minimum 1, on a tie).  If your opponent elects not to defend, you gain no extra dice.
 
-This attack functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target.
+This attack functions otherwise like Tsuga for how you determine your movement, and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target.  Like Tsuga, Partial Success does not apply to this attack, and you combine its damage rolls to determine Wounds.
 
-Garouga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every two points you beat your opponent’s defense by, to a maximum of five damage rolls if you beat their Defense by 10. Partial Success does not apply to this attack, and you combine all damage rolls to determine any Wounds inflicted (and likewise, Wounding modifiers only apply to the final total).  If you wound with this attack, you deal a Slashing and Piercing wound of one severity lower than normal, to a minimum of minor.
+Garouga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every two points you beat your opponent’s defense by, to a maximum of five damage rolls if you beat their Defense by 10.  If you wound with this attack, you deal a Slashing and Piercing wound of one severity lower than normal, to a minimum of minor.
 
 #### -=[ Ninken ]=-
 Your ninken, or ninja dog (though some have wolves), is more than just an extra weapon in combat: it’s a living creature with its own capabilities.  However, a ninken is only as good as its master, so its advancement is inextricably linked to yours: Your Ninken’s bonuses are determined by your XP.
@@ -363,7 +363,7 @@ Your Ninken does not need to dodge, and cannot be targeted or caught in an AoE. 
 When fighting alone, your Ninken acts on its own Initiative, using your stats as detailed above, though it has a -6 to its Dodge and if it’s hit once, it’s knocked out.
 
 #### -=[ Ninken Abilities ]=-
-These are ways you can train your Ninken to excel!  Your Ninken gains one from the list below for every 500 XP you have; you may not take an ability more than once unless the Ability says so.
+These are ways you can train your Ninken to excel!  Your Ninken gains one from the list below  at creation, and then another for every 250 XP you have; you may not take an ability more than once unless the Ability says so.
 
  - *Good Nose*: Your Ninken gains +3 Ranks in Survival, and +1 Rank in Awareness. This can be taken up to 5 times.
  - *Sneaky*: Your Ninken gains +3 Ranks in Stealth, and +1 Rank in Survival. This can be taken up to 5 times.
@@ -883,7 +883,7 @@ Sabechi are capable of manipulating the chakra and chemical composition of their
  - Speed: 5 or +5 
  - Special: Interrupt
 
-Effects: This jutsu automatically affects someone who is affected by your Natural Poison, without a defense. You may choose to accelerate your poison, applying (Toxicology/2) IC worth of the poison's effects immediately, reducing its remaining duration by the same amount. This mostly applies to the poison's damage, but may also apply to Special Effects which are timed, such as a Manchineel Tree's Suffocation. Afterwards, you may change which Special Effect(s) your Poison has, which take place immediately. This can be done as its own Speed 5 action, or done as part of another Interrupt as a +5 Speed Link. If used in response to an attack, the new poison applies to the attack and not the old poison. This is considered Medical Ninjutsu for purposes of interacting with other effects, but the Sabechi does not need to qualify for medical jutsu to learn it.
+Effects: This jutsu automatically affects someone who is affected by your Natural Poison, without a defense. You may choose to accelerate your poison, applying (Toxicology/2) IC worth of the poison's effects immediately, reducing its remaining duration by the same amount. This mostly applies to the poison's damage, but may also apply to Special Effects which are timed, such as a Manchineel Tree's Suffocation. Afterwards, you may change which Special Effect(s) your Poison has, with the exception of Brown Recluse (which can not be changed to or from), which take place immediately. This can be done as its own Speed 5 action, or done as part of another Interrupt as a +5 Speed Link. If used in response to an attack, the new poison applies to the attack and not the old poison. This is considered Medical Ninjutsu for purposes of interacting with other effects, but the Sabechi does not need to qualify for medical jutsu to learn it.
 
 #### -=[ Predatory Protrusions ]=-
 Every Sabechi has a way to deliver their poison naturally, without the aid of weapons—such is the nature of their bloodline. As their skill expands and chakra develops, it’s not unheard of for a Sabechi to begin manifesting other mutations.
@@ -1006,7 +1006,7 @@ Though they don't partake in the forging process, the ninja will be there the en
 
 There's more to this than lasting effects of the hallucinations from four days of fasting and partial dehydration. Members of the swordsman corps always know where their sword is, in terms of distance and direction. It could be on the other side of the world, and given enough time, they'd be able to track it down.
 
-Many claim their swords are 'loyal' to them (others just say their weapons are unique and they're the only ones who know how to use them properly); and, indeed, a borrowed or stolen sword functions as an ordinary katana, nothing more, in the hands of anyone but its rightful owner.
+Many claim their swords are 'loyal' to them (others just say their weapons are unique and they're the only ones who know how to use them properly); and, indeed, a borrowed or stolen sword functions as an ordinary katana, nothing more, in the hands of anyone but its rightful owner.  Similarly, Weapon Focus: Katana works on all Clan Swords, even if the exact nature of your weapon turn it into.. something else.
 
 In the event one of these swords is hopelessly lost (say, tossed to the bottom of the ocean, or thrown into a volcano) a new one can be forged for the swordsman, though this is not done lightly; if given the chance, most would literally fight through hell to get their sword back. It takes four weeks to obtain a replacement sword, after which the original will no longer recognize its former owner. A member of the swordsman corps who accepts a replacement blade when it's in any way possible to reclaim their old one is viewed with severe disdain by their fellow swordsmen. (Using a regular katana in the meanwhile, however, is perfectly acceptable).
 
@@ -1073,7 +1073,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 
 *Tassel Features*  
 (4) While using Chakra Flow (either version) with your sword, you can parry attacks from your current Chakra Flow element and elemental strength in the same way you can parry Taijutsu.  
-(4) As a Chakra +5, Speed +3 link you can replace your sword's 'Sword' tag with any of the following: Polearm, Fan, Chain, by forming chakra over your blade to take the shape of another type of weapon, allowing you to potentially use different jutsu dependent upon other weapon types.  Using Polearm, your weapon avoids on-contact effects; Using Fan, you can utilize Fuuton with your sword, as described under Jutsu Rules; Using Chain, your weapon gains a Range of 5, though it is still considered a melee weapon, not a ranged weapon.
+(4) As a Chakra +5, Speed +3 link you can replace your sword's 'Sword' tag with any of the following: Polearm, Fan, Chain, by forming chakra over your blade to take the shape of another type of weapon, allowing you to potentially use different jutsu dependent upon other weapon types (which does not prevent you from using your clan abilities with it).  Using Polearm, your weapon avoids on-contact effects; Using Fan, you can utilize Fuuton with your sword, as described under Jutsu Rules; Using Chain, your weapon gains a Range of 5, though it is still considered a melee weapon, not a ranged weapon.
 
 ###### b. Balance
 *Blade Features*  

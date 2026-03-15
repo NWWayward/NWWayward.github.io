@@ -278,7 +278,7 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
   Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds. This attack may not be converted with Jyuuken.
 
 ###### -=[ Sealed Tenketsu ]=-
-This is a Status Effect, applied on hit, that penalizes Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever action you were trying to do fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
+This is a Status Effect, applied on hit, that penalizes Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever action you were trying to do fails: Your IC advances according to the action's Speed and you advance in Fatigue, but none of the action's effects take place and you lose take damage equal to the Chakra cost of that technique, bypassing all reductions.
 
 Sealed Tenketsu stacks partially with itself. If you already have the status applied, and are struck by another attack which it inflicts it, add half (rounded down) the lower severity to the higher; this is the new severity of your Sealed Tenketsu status. For example, if you were at 3, then hit by an attack which inflicted Sealed Tenketsu 5, your status would be (5 + 3/2) = (5 + 1) = 6. Another attack with ST 3 would, then, raise you to 7.
 
@@ -669,7 +669,7 @@ The Yurigami can control paper in any form.
   -  Type: Ability
   -  Cost: 0
 
-Effects: You can control up to CHA/2 sheets of paper at once. You also have (CHA+RES)/3 sheets of 'personal' paper. For purposes of determining your limit, every two pieces of personal paper only count as one against it (thus, if you had 30 CHA, your limit is 15 sheets of paper for any given action; you could utilize 15 sheets of normal paper, or 10 sheets of normal paper plus 10 sheets of personal paper). Paper is considered perishable: that is, once used it is simply 'gone'.
+Effects: You can control up to CHA/2 sheets of paper at once. You also begin with, and have a maximum of, (CHA+RES)/3 sheets of 'personal' paper. For purposes of determining your limit, every two pieces of personal paper only count as one against it (thus, if you had 30 CHA, your limit is 15 sheets of paper for any given action; you could utilize 15 sheets of normal paper, or 10 sheets of normal paper plus 10 sheets of personal paper). Paper is considered perishable: that is, once used it is simply 'gone'.
 
 #### -=[ Paper ]=-
 Regular paper. This is useful for when the Yurigami has run out of personal paper, or does not want to use it.
@@ -687,17 +687,17 @@ As they progress in their abilities, the Yurigami develop the ability to turn th
   -  Scale: 0
   -  Limiting Attribute: CHA/10
 
-Effects: Each rank of this ability raises the Yurigami's maximum Vitality by CHA/5. Each rank also allows 1 Vitality to be converted to one sheet of personal paper per IC as a Speed 0 Unfold action, which remains active until they choose to stop it (as another Speed 0 action, which is not an interrupt). They can not go over their normal maximum for personal paper in this way, and will stop losing Vitality (and gaining paper) once they reach their maximum, though will continue to make more unless it is stopped, as described above.
+Effects: Each rank of this ability raises the Yurigami's maximum Vitality by 10. Each rank also allows 1 Vitality to be converted to one sheet of personal paper per IC as a Speed 0 Unfold action, which remains active until they choose to stop it (as another Speed 0 action, which is not an interrupt). They can not go over their normal maximum for personal paper in this way, and will stop losing Vitality (and gaining paper) once they reach their maximum, though will continue to make more unless it is stopped.
 
 #### --( Origami Paper Assimilation )--
 As they are able to split portions of their body off into paper, the Yurigami can similarly reintegrate that same paper to themselves. Still, there is a difference between mere paper, and paper which is 'them'; regrettably, being in a library does not make them near-immortal.
 
   -  Type: Ability
-  -  Base Cost: 5
+  -  Base Cost: 3
   -  Scale: 0
   -  Limiting Attribute: CHA/20
 
-Effects: You can take a Speed 5 Recall action to recall up to CHA/2 sheets of paper that you have used in this battle, per rank of this ability.
+Effects: You can take a Speed 5 Recall action to recall up to (Rank * 10) sheets of paper that you have used in this battle.  This applies only to your personal paper, and you are still limited by the maximum amount of personal paper you can have based on Paper Control.
 
 Additionally, you may take a special Speed 5 Refold action to repair your body with personal paper (destroying it to do so), at the rate of 1 Vitality per sheet of paper, to a maximum of 5 sheets of paper per rank.
 
@@ -711,28 +711,24 @@ The Yurigami strengthens several pieces of paper, using them as a physical barri
   -  Speed: 4
   -  Special: Interrupt
 
-Effects: You utilize sheets of paper to defend yourself by making them as rigid and resilient as thin sheets of metal. Every piece of paper spent this way stops 2 points of damage. Personal paper used this way stops 3 points of damage per sheet; however, paper used this way cannot be recalled through Origami Paper Assimilation, having been destroyed in the process.  when used as a defensive interrupt, Paper Wall is treated as though you blocked (for interactions with specific attacks), though it does not reduce the damage any (as Block would), nor does it grant bonuses from things such as Fortitude.
+Effects: You utilize sheets of paper to defend yourself by making them as rigid and resilient as thin sheets of metal. Every piece of paper spent this way stops 2 points of damage. Personal paper used this way stops 3 points of damage per sheet; however, paper used this way cannot be recalled through Origami Paper Assimilation, having been destroyed in the process.  when used as a defensive interrupt, Paper Wall is treated as though you blocked (for interactions with specific attacks), though it does not reduce the damage as Block would, nor does it grant bonuses from things related to Blocking (such as Fortitude).
 
 This may also be used after a failed defense as a +0 Speed link to another defensive interrupt (but not if you took *no* defensive action), succeeding automatically but destroying 1 sheet of paper per point of damage; used this way, it can only be performed with personal paper.
- 
-#### --( Paper Shuriken )--
+
+#### –( Paper Shuriken )–
 Sheets of paper are folded into shuriken-like shapes, or sharpened to razor edges, and launched at an enemy.
 
-  -  Type: Ninjutsu, Rank D
-  -  Cost: X * 5 sheets of paper
-  -  Damage: Xd8
-  -  Accuracy: +2
-  -  Speed: 3+X/2
+ - Type: Ninjutsu, Rank D
+ - Cost: X * 5 sheets of Paper
+ - Damage: (Special)
+ - Speed: (Special)
 
-Effects: X is the number of shuriken thrown.  This jutsu functions as a multi-throw, following its normal rules (minimum 5 speed, etc), does not have any Stamina cost, you use CHA in place of DEX to determine how many weapons you can throw, and in place of STR to determine your Range with the shuriken (making it ordinarily 5+CHA/4), and you use your NDB in place of PDB.
+Effects:
+Perform a Shuriken Multithrow with X Shuriken without actually using any Shuriken (you are using Paper instead). Use the normal rules to determine the Speed and Damage of the Multithrow. However, you use NDB instead of PDB, you use d8s for your damage instead of d6s, and it has no inherent Stamina cost.
 
-This can be modified, or used in conjunction, with anything that applies to shuriken or thrown weapons (uniques, abilities, jutsu, etc), but anything that increases the number of weapons you throw increases the number of sheets of paper you must use accordingly (while you are still limited by the amount of paper you can utilize at once) and anything that would ordinarily destroy them in the process (such as the Katon Meteor Shower) also destroys the sheets of paper used in this technique.  
+Any effect that would increase this jutsu's Stamina or Chakra increase the amount of Paper it uses by twice that increase (i.e. applying a single rank of Weapon Focus would normally increase the cost by 6 sheets of paper). Effects that ruin or destroy the projectiles you use will destroy the paper used in this jutsu, making it unretrievable. Effects that add a seperate Chakra or Stamina cost do so normally, and have their cost increased by other links and abilities in addition to the paper cost.
 
-Effects which increase the amount of weapons thrown (such as Quick Hands) have no cost; Effects which add a new cost (such as Meteor Shower) function as normal.
-
-This is complicated slightly when adding multiple effects and/or links to this jutsu in an Action Chain: Effects which ordinarily increase a cost applicable to this jutsu (such as Weapon Focus, or Homing) will instead add sheets of paper equal to double their Fatigue cost, unless a base Fatigue cost of the same type is added by a link (such as Meteor Shower), in which case fatigue costs of the same type add together to determine the total (as is normal for links).  For example, if you threw 4 shuriken and used Homing 2 with it, your cost is simply (4 * 5 + 3 * 2 * 2) = 32 sheets of paper; if you linked Meteor Shower with Paper Shuriken and Homing 2, throwing 4 shuriken again, the cost would become (8 + 4/2 = 10, + 3 * 2 = 16 CE, plus (4 * 5) = 20 sheets of paper to perform. 
-
-Note that effects which state things like “the weapons used in this technique are ruined or destroyed” includes the paper utilized in this jutsu, which can not be reclaimed and is destroyed.
+This is treated in all other ways as a ranged taijutsu multi-throw using shuriken, and does receive the normal +2 Accuracy from attacking with shuriken.
  
 #### --( Parchment Weapon Formation )--
 A relatively advanced technique, this allows the creation of durable, physical weapons from paper, by bending, folded, hardening, and sharpening sheets appropriately. Virtually anything can be made, limited only by the Yurigami's ability to control the requisite amount of paper.
@@ -762,30 +758,32 @@ When Paper Clones attack, they use only half your damage bonus for dealing damag
 
 Paper clones have your mind, and can act independently.  You are aware of their location, and they yours, though your senses are not linked. You may reabsorb a Paper clone by touching it, in which case you ‘download’ all its memories.
 
-#### --( Dance of the Shikigami )--
+#### --( Origami Body )--
 The pinnacle of development of the Yurigami's abilities, with this ability not only can they turn themselves completely into paper, they no longer need to maintain their body's physical cohesion; they are every bit as self-aware as a cloud of flying sheets of paper as in a true 'human' form. Whether or not a Yurigami capable of performing this technique can even be considered fully human any more is up for debate.
 
-  -  Type: Ninjutsu, Rank B
-  -  Cost: 1 Willpower
-  -  Upkeep: 0
-  -  Speed: 10
+  - Type: Ninjutsu, Rank B
+  - Cost: 1 Willpower
+  - Upkeep: 0
+  - Speed: 10
+  - Tags: Preparation
 
-Effects: The user turns their body into paper. This removes all per-IC limitations of Rice Paper Creation and Origami Paper Assimilation while active, and turns the latter into a non-action that can be done at any time.  You may shed and replace damaged sheets of paper, more unfolding from within you in the wake of wounds, granting you CHA/5 DR.  In this form you are immune to Bleed, Burns, and Poison, and as well as all effects which add to damage for the purpose of wounding (such as several Fuuton jutsu, Anatomical Knowledge, etc).  Finally, while using Dance of the Shikigami, doujutsu cannot automatically distinguish you from your Paper Clones.
- 
-#### -=[ Origami Body ]=-
+Effects: The user turns their body into paper. This removes all per-IC limitations of Rice Paper Creation and Origami Paper Assimilation while active, and turns the latter into a non-action that can be done at any time.  You may shed and replace damaged sheets of paper, more unfolding from within you in the wake of wounds, granting you CHA/5 DR.  In this form you are immune to Bleed, Burns, and Poison, and as well as all effects which add to damage for the purpose of wounding (such as several Fuuton jutsu, Anatomical Knowledge, etc).  Finally, doujutsu cannot automatically distinguish you from your Paper Clones.
+
+#### -=[ Dance of the Shikigami ]=-
 The Yurigami breaks apart, dissolving their physical form entirely into an amorphous cloud of paper sheets.
 
--          Type: Ability
--          Cost: 100
--          Requires: Dance of the Shikigami
+ - Type: Ability
+ - Cost: 100
+ - Requires: Origami Body
 
-Effects: As a separate Speed 10 action after activating Dance of the Shikigami, this ability allows you to fully dissolve into paper.  In this form you automatically block attacks (even after a failed defense) and have a +3 bonus to Dodge.  You cannot be directly targeted by Genjutsu (though area Genjutsu will affect you normally).
-However, in this form you cannot perform any non-Yurigami jutsu other than Genjutsu Kai and the Grapple Taijutsu Grab, Throw, any of the ‘locks’ (arm, leg, head) and Chokehold, using your NDB in place of your PDB for any grapple rolls, with a +5 bonus.  You may elect to end a grapple as a Speed 2 Interrupt as the defender. An enemy grappled by you may not shift a grapple against you, only break free.
+Effects: As a separate Speed 10 action after activating Origami Body, this ability allows you to fully dissolve into paper.  While in this form, you have an Upkeep of 2, and unlike other Upkeeps can not end the Upkeep at any time, but must take another Speed 10 action to end it (by reforming yourself from paper); if it is ever forcibly ended, you take a Stun 10.  In this form you lose Origami Body's feature to be indistinguishable from your clones, and can not hide among any sort of clone.
 
-You have a -5 penalty when attempting to dodge area-of-effect jutsu, do not have the option to block them automatically, and take +50% damage from them.
+In this form you are immune to non-area of effect genjutsu (though AoE genjutsu, targetted or not, work normally), and have a +3 to Dodge. You can, as a Speed 2 Interrupt, elect to Block any attack, and can even do so after a failed defense as a Speed +2 link.  However, you take a -3 when attempting to Dodge area of effect jutsu, can not elect to Block them with the above feature, and take +50% damage from them.
 
-You may use Folding Cyclone Blades, a variant of Paper Shuriken with up to double your normal limit on paper sheets, which does not use up any of the sheets used in it. 
+When you grapple, you are considered to have unlimited limbs for Grapple jutsu and the number of people you can grapple, and do not take penalties to your movement, dodge, or parry speed for grappling or for any Locks you apply to others; you can not be restrained in your movement by anyone you grapple, but can restrain them, and you may elect to end any Grapple you are the defender in as a Speed 2 action, and the defender in any grapple you are in control of can not shift the grapple against you.  However, you can only utilize the grapple jutsu of C-rank or below, and can not use Pressure Point, Counter Throw or Headbutt; grapple rolls done in this form use your NDB in place of your PDB, with a +5 bonus, and are considered ninjutsu-based.
 
-You can use this form to fly, travel through tight spaces, and so forth.  When flying, your movement speed is halved, though you may not be hit by melee attacks unless they can move a number of yards as part of the attack equal to your elevation (by jumping!), and the maximum height you can reach in combat is limited to (5 + Chakra Control Ranks/3) yards high.
+You may use Folding Cyclone Blades, a variant of Paper Shuriken with up to double your normal limit on paper sheets, which does not use up any of the sheets used in it.  However, you can not perform any non-clan jutsu other than Genjutsu Kai and the Grapple jutsu listed above; upkeeps activated before shifting into this form remain, however.
 
-You may shift out of this form as another Speed 10 action.
+In this form you are always considered flying at half your normal movement speed (and accordingly can not ever ride a Mount), making you immune to ground-tagged attacks and any terrain-based effects (including being Prone), though you are able to travel through tight spaces. In combat the maximum height you can reach is limited to (5 + Chakra Control Ranks/3) yards; melee attacks can not hit you unless they can move with the attack a number of yards equal to your elevation (by jumping!).
+
+Finally, you lose the benefits (and penalties) of all equipment with the 'Armor' tag (which is considered to simply not exist while in this form), and anything wearable (such as a Plague Mask) grants no benefits or penalties while in this form.

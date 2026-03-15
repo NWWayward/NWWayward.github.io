@@ -605,7 +605,7 @@ Though they’re not the deadliest of sea creatures, they’re what most people 
 
  - Cost: +100 Ryo
 
-Effect: The convulsions make it exceptionally difficult to act. You can’t take any action with a base Speed of (20 - Toxicology Ranks/10) or higher.
+Effect: The convulsions make it exceptionally difficult to act. You can’t take any action with a base Speed of (20 - Toxicology Ranks/10) or higher; if you would do so, the action fails, causing your IC to advance and fatigue costs for the action to be paid normally, though none of the action's effects take place.
 
 ##### Brown Recluse
 A shy, tiny spider, the brown recluse nonetheless has an especially dangerous venom, especially to civilians; to shinobi, it’s only severely threatening. The poison is slow acting, but still dangerous.

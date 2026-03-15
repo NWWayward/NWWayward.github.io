@@ -17,17 +17,19 @@ You have peerless control over elemental chakra, far beyond the realm of what's 
 
 Additionally, you have an Elemental Shaping pool which dictates how much you can modify any given basic Elemental Ninjutsu (advanced elements can not be shaped), with one point in it for each element you have Aptitude for, and one point for each rank of each basic element you know a jutsu of (for a potential maximum of 30). You can use your Elemental Shaping pool to modify any Elemental Ninjutsu you perform in the following ways (which doesn’t ‘use up’ your pool; its size simply determines how much you can modify any given technique):
 
- - 15 points: +1 Target (for non-AoE jutsu)
+ - 15 points: +1 Target/Projectile (for non-AoE jutsu)
  - 12 points: +1 Accuracy
- - 8 points: +1 Damage Bonus
+ - 8 points: +1 Ninjutsu Damage Bonus
  - 6 points: Add an effect from another element not its own: Stun 1 (Doton), Burns 1 (Katon), Shock 1 for 10 IC (Raiton), -1 Chakra Cost (Suiton), Knockback 1 yard (Fuuton)
  - 3 points: +1 Area
  - 2 points: +1 Range
  - 1 point: +1 Damage
 
-There are some exceptions to the above: For jutsu which launch projectiles at targets (but not are not AoE, such as Houenka), additional targets gives a single extra projectile. Area and Range increases cannot add more than half the technique’s original Area or Range, and Range cannot modify a technique whose range is Touch. Similarly, any technique which does not list Area or Range cannot have them added to it to gain those qualities. The status effects added from Shaping (aside from Suiton’s, which is automatic) do not require a status roll, but do require you to hit with a damage-dealing ninjutsu attack, and accordingly do not apply to environmental effects (such as Hidden Mist, or Yomi Numa) though they can be added to techniques which already have them, so long as they’re a valid choice.  In the case of Raiton's Shock status, every 6 points past the first can increase the Shock by one, or increase its duration by 10 IC.
+There are some exceptions to the above: jutsu which are Environmental, and/or do not have a " - Damage: " stat block can not have flat damage added to them.  Jutsu which do not have an Area, or have a Range of Touch, can not have an Area or Range added to them, and Area and Range increases can not add more than half the technique's original Area or Range, respectively.
 
-You can pick any of the options multiple times, limited only by the size of your Shaping pool.  Shaping does not ‘combine elements’ in any sort of way (overt or otherwise), but rather modifies one element based off of properties of another: A Suiton that burns might be described as pressurized to tear away at the skin on contact, while a Raiton that knocks back a target might actually seem to crackle through the air and strike from below to lift someone off their feet as it hits. Just take care not to describe a knockback Suiton as Hyouton, for example, or a Fuuton that burns as Scorch release: advanced elements are a true combination of two different chakra nature types, while Shaping is modifying the base element in the style of another.
+The status effects added from Shaping (aside from Suiton's) do not require a Status roll, but do require you to hit with a damage-dealing ninjutsu attack, and accordingly do not apply to Environmental jutsu, though they can be added to jutsu which already have them, so long as they're a valid choice.  In the case of the Shock status, every 6 points past the first can increase the Shock by one, or increase its Duration by 10 IC.  Finally, Nintaijutsu can gain the benefits of only Suiton's cost reduction, and adding to your NDB; no other Shaping aspect can be utilized.
+
+You can pick any of the options multiple times, limited only by the size of your Shaping pool.  Shaping does not ‘combine elements’ in any sort of way (overt or otherwise), but rather modifies one element based off of properties of another: A Suiton that burns might be described as pressurized to tear away at the skin on contact, while a Raiton that knocks back a target might actually seem to crackle through the air and strike from below to lift someone off their feet. Just take care not to describe a knockback Suiton as Hyouton, for example, or a Fuuton that burns as Shakuton: advanced elements are a true combination of two different chakra nature types, while Shaping is modifying the base element in the style of another.
 *Upgrades From: Elementalist*
 
 ##### Regenerative Chakra

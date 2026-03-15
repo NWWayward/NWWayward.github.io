@@ -154,8 +154,9 @@ Several enemies running at an archer and getting in close could mean the end for
  - Speed: +(2 * X)
  - Type: Bow  
  - Tags: Link
+ - Requires: X additional arrows (one per additional target)
 
-Effects: This allows you target X additional people with your attack, to a maximum of 3.
+Effects: This allows you target X additional people with your attack, to a maximum of 3.  You can not attack the same target with more than one arrow.
 
 #### --( Raikogeki - Thundering Strike )--
 Thundering Strike takes it namesake from the sheer quickness of its strikes, as the technique is meant to deliver lightning-quick stabs that are nonlethal individually, but can quickly overwhelm an opponent if allowed to stack up.
@@ -300,7 +301,6 @@ Extending out a polearm, you hold one end with both hands then commence whirling
  - Speed: (Weapon) + 4
  - Type: Polearm
  - Tags: Targeted Area of Effect
- -
 
 Effects: You may selectively attack anyone within its Area; If you use this technique and attack only one person, you gain +2 to your Accuracy for the attack.
 
