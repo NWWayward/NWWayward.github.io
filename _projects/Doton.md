@@ -143,6 +143,17 @@ By surrounding your arm or leg in a coat of solidified earth, you can attack an 
 
 Effects: So long as this technique is maintained, your unarmed attacks are enhanced: You suffer no 'on-contact' effects (such as damage from punching a foe covered in spikes, or the immobilization of punching a Mud Clone), and gain +X to your Physical Damage Bonus. Additionally, unarmed parries against you take a -X penalty. X has a maximum of one-fourth your Ninjutsu Damage Bonus, rounded up.
 
+#### --( Chigeshi - Earth Poppy )--
+The user quickly surges chakra into the ground at their feet, using it to launch earthen shrapnel toward a target.  It is less concentrated and shaped than Earthen Skewer, resulting in fresh dirt and debris surrounding darker bits that are pulled from deeper below ground, giving it its resulting namesake.
+
+ - Chakra: 13
+ - Damage: 9d10
+ - Accuracy: +4
+ - Range: 15
+ - Speed: 12
+ - Seal Speed: 7
+ - Tags: Energy, Projectile
+
 ## C-Rank
 #### --( Retsudotensho - Split Earth Turn Around Palm )--
 This technique causes the ground surrounding the enemy to spiral inwards on itself, burying them alive or crushing them. This technique is capable of causing quite a bit of damage to the area. This technique is much more damaging if used in rocky mountainous areas, or inside a cave.
@@ -194,7 +205,7 @@ Your chakra being applied to your legs, you turn the ground below your feet into
  - Seal Speed: 14
  - Tags: Preparation
 
-Effects: You increase your AGI stat for the purposes of movement by CHA/2. You may choose to end this technique at any time, or as part of another Doton jutsu. If you end it as part of a damage dealing Doton jutsu, that technique gains a Stun equal to 2+(your ninjutsu damage bonus)/3, or increases its existing Stun by that much, from absorbing the mud used in this technique. This is incompatible with effects which increase your normal movement speed--such as the Runner ability, and Racing Thunder Technique. While Mud Wave is active, you do not receive their benefits.
+Effects: You increase your AGI stat for the purposes of movement by CHA/2. You may choose to end this technique at any time, or as part of another Doton jutsu. If you end it as part of a damage dealing Doton jutsu, that technique gains a Stun equal to 2 + (your ninjutsu damage bonus)/2, or increases its existing Stun by that much, from absorbing the mud used in this technique. This is incompatible with effects which increase your normal movement speed--such as the Runner ability, and Racing Thunder Technique. While Mud Wave is active, you do not receive their benefits.  Likewise, if you are flying, or knocked airborne, you lose its effects until you are back on the ground.
 
 #### --( Moguragakure no Jutsu - Hiding Like a Mole Technique )--
 Channeling your chakra into the ground below you, you turn the dirt or earth or rock into fine sand. It effects your entire body so you simply slide down quickly, but only making a tunnel big enough for one person. After digging your way down, you can sense everything going on above still, and can even cover the hole to make it seem like you never even burrowed away.

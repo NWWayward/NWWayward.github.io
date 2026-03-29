@@ -60,7 +60,7 @@ Effects: Nothing happens!
 The user kneads chakra and converts it into water inside their stomach, then spits it out in the form of a dense, chakra-propelled ball. Its greatest boon to suiton users is that it can be used to create water while attacking, opening up other Suiton techniques.
 
  - Chakra: 12
- - Damage: 6d10+20
+ - Damage: 6d10 + 20
  - Range: 10
  - Speed: 10
  - Seal Speed: 7
@@ -127,6 +127,17 @@ While most shinobi pay no attention to water that's pooling around them on the b
 Effects: This technique allows you gain control over the water used in it for the next (Chakra Control ranks) * 2 IC, or until you use it in a jutsu, as if you'd carried it into battle with you (meaning, no one else may use, access, convert or destroy it in this time). 
 
 When you use this technique, you can also immediately choose to reduce any Ignites you're currently afflicted by, by dousing yourself in the water as part of this technique's use.  This reduces any Ignites you are suffering from by X, and destroys (X * 2) gallons of water to do so.
+
+#### --( Miyuri - Water Lily )--
+The user creates a sphere of water in their hands, and throws it at their target.  The jutsu was named as such because it has a tendency to fray in flight in layers from the basic formation of elemental chakra.
+
+ - Chakra: 13
+ - Damage: 8d8 + 14
+ - Accuracy: +4
+ - Range: 15
+ - Speed: 12
+ - Seal Speed: 7
+ - Tags: Energy, Projectile
 
 ## C-Rank
 #### --( Suikoudan - Water Shark Blast )--

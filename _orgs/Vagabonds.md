@@ -29,7 +29,7 @@ Chinoike begin with Elemental Affinity: Ketsuton, which includes Suiton, and beg
 ### -=[ Ketsuryūgan - Blood Dragon Eye ]=-
 Ketsuryūgan is a doujutsu, or ‘eye technique’; when activated, the user's Sclera glows a blood red; their pupils often go black as a result and their iris change to a horizontally rectangular shape; glowing the same kind of blood red as the Sclera. Survivors record the witness of the Doujutsu feels unnervingly penetrative or chilling - not in the same way Hyuuga can see through walls, but more like your soul is being judged.
 
-Activating Ketsuryūgan is a Speed 0 Action with an Upkeep of 2. With the Preparation ability, it can be activated when you roll initiative.
+Activating and Deactivating Ketsuryūgan is a Speed 0 Action with an Upkeep of 2. With the Preparation ability, it can be activated when you roll initiative.
 
 While active, you gain a bonus of X to Awareness and Survival rolls, and reduce visibility penalties by X/2 (rounding down) against those with a Bleed status, with X being their highest severity Bleed status. Whenever someone reduces their Bleed status (typically by the natural over-time reduction) in combat with you (but not when you do so yourself), you gain a number of HP equal to the reduction in their Bleed status.  (Bleed being lowered from 5 to 2 would grant you 3 HP)
 
@@ -42,11 +42,11 @@ The ability to use Ketsuton (Blood Release) is a developed trait that grants the
 
 Any Suiton or Genjutsu technique can be converted to Ketsuton as a Chakra +5, Speed +0 link, with the following changes:
  - Suiton inflict a Bleed equal (1 + Rank) if they deal any damage after all reductions; they gain an additional 2 * wound severity (Minor = 2, Major = 4, etc) extra if they wound.
- - Suiton which inflict Bleed from the above ability can instead halve the Bleed they would apply, rounding up, in order to add it to an existing Ketsuton Bleed source, which is considered a single source per Chinoike. Bleed stacked in this manner has a maximum of CHA/5, and only one source can be stacked; all others are considered separate sources.
+ - If you have a Bleed from Ketsuton and would apply a new one, you can choose to apply it as a separate Bleed at its normal severity, or combine it with an existing Bleed from Ketsuton by taking the higher of the two Bleed status effects and adding half of the lower to the higher one, rounding up.  i.e., if someone has a Bleed of 3 and you inflict a Bleed 4, you could combine them into a single Bleed (4 + 3/2 =) 6.  Bleed stacked in this manner has a maximum of CHA/5, and only one source can be stacked; all others are considered separate sources.
  - Suiton which create or add water to the battlefield can have additional gallons made (of “blood”), by paying 1 HP per “Blood Point”, to a maximum of double the normal amount (a jutsu that makes 5 gallons of water could have up to 5 hp used to make 5 blood points as well); while it is actually more of a mixture of water and ichor, it looks grotesquely the latter.
  - “Blood Points” on the battlefield can not be removed or accessed by anyone except a Chinoike with an active Ketsuryugan, and can be used in place of Gallons of Water.
  - Genjutsu converted with Ketsuton can be used without handseals, so long as the target(s) of the Genjutsu has a (Rank * 2) Bleed effect on them; thus, a D-rank genjutsu could be used without handseals on someone with a Bleed of 4, while a C-rank would require a Bleed of 6.  If affecting multiple people, all of them need to have a high enough Bleed status to qualify, else you must perform handseals.
- - Minor wounds from Ketsuton do not cause Genjutsu to break so long as the target has a Bleed status of (Rank * 4) or higher, based on the Genjutsu in question (An E-rank can be maintained with a Bleed status of 5 or more, while a D-rank requires 8 or more, etc).
+ - Minor wounds from Ketsuton do not cause Genjutsu to break so long as the target has a Bleed status of (Rank * 4) or higher, based on the Genjutsu in question (An E-rank can be maintained with a Bleed status of 4 or more, while a D-rank requires 8 or more, etc).
  - Ketsuton retains Suiton's normal elemental strengths and weaknesses.
 
 #### --( Haiketsushoushuen - Blood Poisoning Banquet )--
@@ -75,7 +75,7 @@ The technique that causes most to fear meeting a Chinoike's eyes, as all they mu
  - Speed: 15
  - Requires: Ketsuryūgan Active, target with a Bleed status
 
-Effect: If this hits, make a status roll.  Your target's current highest bleed status is removed if they pass a status roll, or halved (rounded up) if they fail. Either way, they take damage equal to (X + NDB) * 8, where X is the removed Bleed's original severity. This damage ignores Damage Reduction. If this would wound your target, it does not do so; instead of wounding, you inflict a -X/5 penalty to Stamina, Chakra Exhaustion, and to their next Genjutsu Defense roll.
+Effect: If this hits, make a status roll.  Your target's current highest removable bleed status is removed if they pass a status roll, or halved (rounded up) if they fail. Either way, they take damage equal to (X + NDB) * 8, where X is the removed Bleed's original severity. This damage ignores Damage Reduction. If this would wound your target, it does not do so; instead of wounding, you inflict a -X/4 penalty to Stamina, Chakra Exhaustion, and to their next Genjutsu Defense roll.
 
 You recover HP (not Vitality) equal to X * 2, up to your maximum HP - any in excess of your maximum HP is instead added to the battlefield as Blood Points.
 
@@ -86,13 +86,13 @@ Commonly believed to be the ultimate expression of Ketsuton, the Blood Subjugati
  - Chakra: 30
  - Upkeep: 6
  - Speed: 14
- - Area: 10 + Blood Points on field
+ - Area: 10 + X
  - Tags: Point-Blank Area of Effect
  - Requires: Ketsuryūgan Active
 
-Effect: Anytime a Bleed status is reduced within this technique’s Area, Blood Points are added to the battlefield equal to the amount it is reduced.  This has no maximum, and does increase its own Area accordingly.
+Effect: Anytime a Bleed status is reduced within this technique’s Area, Blood Points are added to the battlefield equal to the amount it is reduced. X is the amount of Blood Points on the battlefield, to a maximum of (CHA - 10).
 
-Anyone within this technique’s area, except the user, gains a Bleed status automatically of (your RES/20).  This Bleed may not be increased or reduced below this value while in the area.
+Anyone within this technique’s area, except the user, gains a Bleed status automatically of (your RES/20).  This Bleed may not be increased or reduced below this value while in the area, nor may it be stacked with other Ketsuton sources of Bleed.
 
 While within the technique’s Area, Ketsuton's Genjutsu effects considers targets based off of their highest Bleed status attained while they were in this jutsu's area (rather than their current highest Bleed status). If someone leaves and re-enters this jutsu's area, then this effect is reset to their new highest Bleed, even if it was lower than before.
 
@@ -217,7 +217,7 @@ Effects: When you perform a non-Clone Genjutsu, Ninjutsu, or non-Weapon Taijitsu
 
 The Ink Beast uses your statistics, abilities, uniques, enhancement talents, rank benefits, and skills, ignoring temporary modifiers (except Fatigue, as described below, and your current number of sixth sense ranks) but it has +5 dodge and Stealth, and is destroyed if it is successfully hit by a damaging attack. It is immune to status effects except Visibility Penalties, as the ink is either unaffected by or flows around any obstacle. It has penalties based on the higher of Fatigue Level 1 or your current Fatigue Level if you are present.
 
-The Ink Beast may only take the Move, Dodge, or Hide actions. They may also or perform the jutsu used to make it. It may hide by disguising itself as being part of a drawing or writing. It has a simple intelligence, but will follow basic instructions (i.e. “Hide in this scroll and use your jutsu on the first person to open it other than me.”)
+The Ink Beast may only take the Move, Dodge, or Hide actions. They may also perform the jutsu used to make it. It may hide by disguising itself as being part of a drawing or writing. It has a simple intelligence, but will follow basic instructions (i.e. “Hide in this scroll and use your jutsu on the first person to open it other than me.”)
 
 When the Ink Beast performs its jutsu, it ignores any costs and seal speed. The Jutsu is used with the same X value and choices as when the Ink Beast was created.  The Jutsu is used at its Base Speed. AP and WP may not be spent on the Ink Beast's behalf to modify the Jutsu. Abilities which increase the Jutsu's Chakra and/or Stamina cost may not be used. After performing the Jutsu, the Ink Beast is destroyed.
 

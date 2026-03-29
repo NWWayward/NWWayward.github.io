@@ -271,7 +271,7 @@ After twirling your weapon dramatically over your head to build momentum, you sl
  - Speed: (Weapon) + 3
  - Type: Blunt Melee
 
-Effects: You increase your weapon's die size by one step for this technique (d4 -> d6 -> d8 -> d10 -> d12, max d12), and gain +3d_. If you hit your target and Partial Success does not apply, they become Dazed by the blow, and take a -2 Immobilization penalty.  Unlike other sources of Immobility, the penalty applied by being dazed can stack with itself (but not other sources of Immobility), to a maximum of -6.  Someone who is Dazed can clear their entire Dazed status by taking the Rest action.
+Effects: You increase your weapon's die size by one step for this technique (d4 -> d6 -> d8 -> d10 -> d12, max d12), and gain +3d_. If you hit your target and Partial Success does not apply, they become Dazed by the blow, and take a -2 Immobilization penalty.  Unlike other sources of Immobility, the penalty applied by being dazed can stack with itself (but not other sources of Immobility), to a maximum of -6.  Dazed is reduced over time (at Immobility's normal 1 per 10 IC reduction), but can also be reduced by taking the Rest action, reducing your Daze by the same amount as you would your Stamina penalty.
 
 #### --( Kuro Budounoki - Black Vines )--
 A technique popularized by a Nara who liked to utilize a black-painted Kusari-Gama to strike from the shadows with a weapon when his opponents waited for them to move, you channel a small amount of chakra within your weapon and temporarily disconnect portions of it in order to extend its range beyond what an opponent would expect, grabbing hold and forcibly pulling them back to you for a follow-up strike.

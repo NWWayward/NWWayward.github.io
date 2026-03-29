@@ -51,7 +51,7 @@ The Akimichi’s signature jutsu, this increases the user’s height and weight 
  - Speed: 8
  - Tags: Preparation
 
-Effects: X has a maximum of 5. You gain +Xd* to all Taijutsu, increase (not decrease) the base Speed of all your Taijutsu attacks by X/2 (round down), add (or increase the existing) Area X/2 (round down) to all melee Taijutsu (though if you use a single-target attack it still requires a target, even with the added Area), gain (STR/10)*X DR, and reduce all Knockbacks you suffer by X. Unfortunately, you also gain a -X to all Dodges while in this form, though if you choose to utilize the Take the Hit action, the penalty to Dodge is instead changed to a bonus, and you are allowed to automatically block whenever you successfully Take the Hit.
+Effects: X has a maximum of 5. You gain +Xd* to all Taijutsu, increase (not decrease) the base Speed of all your Taijutsu attacks by X/5 (round up), add (or increase the existing) Area X/2 (round down) to all melee Taijutsu (though if you use a single-target attack it still requires a target, even with the added Area), gain (STR/10) * X DR, and reduce all Knockbacks you suffer by X. Unfortunately, you also gain a -X to all Dodges while in this form, though if you choose to utilize the Take the Hit action, the penalty to Dodge is instead changed to a bonus, and you are allowed to automatically block whenever you successfully Take the Hit.
 
 You can opt to change the value of X as a Speed Y * 2, CP Y * 5 action while you maintain this jutsu, with Y being the difference between its current value and the value you’re changing it to: going from X = 4 to X = 1 would be Speed 6 action costs 15 CP.
 
@@ -64,7 +64,7 @@ After enlarging with Baika no Jutsu, the Akimichi tucks their arms and legs clos
  - Requires: Baika no Jutsu active
  - Restriction: Can not use while Mounted
 
-Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling, which doesn't then increase the Stamina cost of Bowl. While Rolling the only non-interrupt action you can take without first Aborrting your Rolling action is Bowl, below, or the Move action, though while you are moving your secondary variable speed action choice (if any) does not apply. You take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not use any jutsu with a Seal Speed or hold weapons, and any grapples you are in control of automatically end, but you ignore any Stuns of X or less. 
+Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling, which doesn't then increase the Stamina cost of Bowl. While Rolling the only non-interrupt action you can take without first Aborting your Rolling action is Bowl, below, or the Move action, though while you are moving your secondary variable speed action choice (if any) does not apply. You take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not use any jutsu with a Seal Speed or hold weapons, and any grapples you are in control of automatically end, but you ignore any Stuns of X or less, and you can not be knocked Prone; if you are Prone when you begin Rolling, you recover from it immediately. 
 
 **--( Bowl )--**  
 
@@ -72,9 +72,11 @@ Effects: When you use this Jutsu you declare that you are Rolling and for how ma
  - Stamina: 10 
  - Damage: Basic Unarmed Attack
  - Area: 2
- - Speed: 10
+ - Speed: 12
 
-Effects: This attack is modified by Baika no Jutsu, as normal for Taijutsu, and does not end your Rolling action from Human Bullet Tank. If you hit someone with this attack, your IC advances only half as much as it ordinarily would (if you hit someone with a Speed 12 Bowl attack, you’d then only advance your IC by 6), and successive hits of Bowl against the same target(s) multiple times increases your Damage Bonus by 1, consecutively, up to half your normal damage bonus. However, if you miss someone with this attack, you can't target them again with it for double the speed of the Bowl attack you missed with, as you must make wide turns (though you can always elect to target someone else in that time).
+Effects: This attack is modified by Baika no Jutsu, as normal for Taijutsu, and does not end your Rolling action from Human Bullet Tank. If you hit someone with this attack, your IC advances two less than it ordinarily would (if you hit someone with a Speed 13 Bowl attack, you'd then only advance your IC by 11, and gain +1 to your PDB); successive hits against the same target(s) increases this bonus by two (by the highest consecutive hit count amongst all targets) up to half the attack's Speed, rounded up.  Successive hits of Bowl against the same target(s) also increases your PDB by 1, consecutively, up to half your normal PDB.
+
+However, if you miss someone with this attack, you can not target them again with it for double the speed of the Bowl attack you missed with, as you must make wide turns (though you can always elect to target someone else in that time).  You lose all bonuses from successive hits of Bowl when you stop Rolling.
 
 #### --( Partial Multi-Size Technique )--
 A more exhausting but wieldy version of Baika no Jutsu, this jutsu quickly enlarges only a single part of the Akimichi’s body, usually an arm or leg, in order to enhance a Taijutsu attack’s force and reach and take their opponents by surprise.
@@ -95,7 +97,7 @@ The Akimichi attaches dozens of kunai to multiple lengths of wire which they the
  - Requires: Baika no Jutsu active
  - Restriction: Can not use while Mounted
 
-Effects: This jutsu functions in all the same ways as described in Nikudan Sensha, except that your Bowl attack is now Stamina 15 and considered to be a weapon attack, meaning Blocking reduces it by less, and it may be harder to parry, and you can take and apply Weapon Focus to it, as well as Power Attack, with both abilities normal Stamina increase instead applying to its Chakra cost, at double the normal cost. For every point your attack hits by you add +1d* to the attack’s damage, though if they block or elect to not defend they do not take any addition damage, and anyone who attempts to attack you in melee range while you’re Rolling takes half Bowl's damage, with no Speed or Damage Bonus added to it, which can not wound.  They can choose to opt out of their attack to avoid the damage, but otherwise get no defense against it if they continue with their attack. Thanks to the Kunai, the delay in how quickly you can turn to target someone is made easier, negating the delay before you can retarget someone after missing them with Bowl.
+Effects: This jutsu functions in all the same ways as described in Nikudan Sensha, except that your Bowl attack is now Stamina 15 and considered to be a weapon attack, meaning Blocking reduces it by less, and it may be harder to parry, and you can take and apply Weapon Focus to it, as well as Power Attack, with both abilities normal Stamina increase instead applying to its Chakra cost, at double the normal cost. For every point your attack hits by you add +1d* to the attack’s damage, though if they block or elect to not defend they do not take any addition damage, and anyone who attempts to attack you in melee range while you’re Rolling takes half Bowl's damage, with no Speed or Damage Bonus added to it, which can not wound.  This is considered a contact effect.  They can choose to opt out of their attack to avoid the damage, but otherwise get no defense against it if they continue with their attack. Thanks to the Kunai you can turn easier despite your momentum, negating the delay before you can retarget someone after missing them with Bowl.
 
 Using this Jutsu requires at least 30 Kunai attached by wire, which are not used up and may be used repeatedly for this technique, though repurposing them as throwing weapons (i.e., removing them from their wire) means they can not longer be used for this until reattached (as something to be done out of combat).
 
@@ -112,6 +114,7 @@ Effects: Baika no Jutsu’s X maximum is increased to 10.  When X is higher than
  -  You can not Hide; if Hidden when you perform Baika, you are automatically revealed.
  -  You may choose to automatically block any attack of C-rank or lower as a Speed 0 Interrupt; in essence, your size alone has most blows glancing off of you.  You can always do so against Basic Attacks.
  -  You gain +X to your PDB-based Grapple rolls.
+ -  You gain +X/2 to Resistance rolls against Elemental Ninjutsu status effects, rounded down.
  -  All Taijutsu increase their range by X.
  -  You increase the die size of all Taijutsu by one step ( d4 -> d6 -> d8 -> d10 -> d12 ), to a maximum of d12; Taijutsu already at d12 instead gain +2 damage per die rolled.
  -  You can no longer use Mounts, or ever be considered Mounted.
@@ -134,7 +137,7 @@ Even so, there’s a good reason they’re not widely used: They’re not gentle
  - Base Cost: 50
  - Limit: 1
 
-Effects: You gain access to three different, Akimichi-exclusive Pills, detailed below, gaining one of each Pill.  Eating a Pill is a Speed 8 action.  All Pills operate the same way: When you take a pill, you will gain some amount of Calorie Points, some amount of Stats, and are Poisoned for a certain number of IC.  The amount of CP you gain is based on your true maximum (10 per rank of Calorie Conversion), but can not take you above it.  While under the effects of the pills, you suffer no penalties of having too many CP, but when a pill’s effects end, you lose CP equal to how many it gave you, and must spend your own Hit Points to bring yourself up to 0 if you go into a negative amount, losing 2 HP per CP you’re short. This can take you into the negative of HP, and can be fatal.  While using any of the Pills, you can not access Natural Chakra or open any Gates, and any NC you had or any Gates that were opened when you take a Pill are lost, or closed, as appropriate.
+Effects: You gain access to three different, Akimichi-exclusive Pills, detailed below, gaining one of each Pill.  Eating a Pill is a Speed 8 action.  All Pills operate the same way: When you take a pill, you will gain some amount of Calorie Points, some amount of Stats, and are Poisoned for a certain number of IC.  The amount of CP you gain is based on your true maximum (10 per rank of Calorie Conversion), but can not take you above it.  While under the effects of the pills, you suffer no penalties of having too many CP, but when a pill’s effects end, you lose CP equal to how many it gave you, and must spend your own Hit Points to bring yourself up to 0 if you go into a negative amount, losing 2 HP per CP you’re short. This can take you into the negative of HP, and can be fatal.  While using any of the Pills, you can not access Natural Chakra or open any Gates, and any NC you had or any Gates that were opened when you take a Pill are lost, or closed, as appropriate. Because the Pills are a type of Poison, they compete with and temporarily suppress any other Poison's special effects not related to their Poison severity or duration, preventing them from affecting the Akimichi while their durations continue to expire normally; this is in lieu of the normal opposed toxicology roll to see which Poison affects the Akimichi (though if they are poisoned multiple times during a Pill's effect, you roll to see which suppressed effect is present). If the Akimichi is affected by any other Poison when the pill(s) expire, they are affected by them normally again.  Notably, this does not stop other Poison's damage from combining with the Pill's Poison severity, which are combined (rather than compared) as a single source of damage: Taking a Green Spinach Pill (Poison 4) when affected by a Poison 2 results in 6 damage taken per IC (as a single, Poison 6 source, for things which may counteract either poison based on their severity).  Curing the Poison from an Akimichi's pills ends their beneficial effects likewise.
 
 When under the effect of any pill, or when a pill’s effects expire, you can take a higher-strength pill as a Speed 8 Interrupt. If you use one while another is in effect (for example, you take the Green pill, and 20 IC later you take the Yellow pill) you overwrite all the effects (including the Poison) of the lower-strength pill, but you lose only the higher pill’s CP allotment when it’s full Duration expires and suffer Fatigue levels only when your new Pill’s effects (i.e., Poison) ends, meaning you only suffer the penalties of the highest, and most recent, Pill you have taken.
 
@@ -147,21 +150,21 @@ You gain half your normal maximum Calorie Points, and your Chakra Exhaustion pen
 
  - Duration: 50
  - Poison: 4
- - Special: When the Pill's duration expires, your Fatigue level is increased by 2.
+ - Special: When the Pill's duration expires, your Fatigue level is increased by 1.
 
 ###### --( Karengan - Yellow Curry Pill )--
 You gain half your true maximum Calorie Points, and your Stamina penalty is reset to 0. For the pill’s duration, you gain +10 to all stats.
 
  - Duration: 75
  - Poison: 6
- - Special: When the Pill’s duration expires, your Fatigue level is increased by 4.
+ - Special: When the Pill’s duration expires, your Fatigue level is increased by 3.
 
 ###### --( Red Chili Pill )--
 You gain your full true maximum’s worth of CP, and your Fatigue level is reduced by 1.  For the Pill’s duration, you gain +15 to all stats, and you gain access to a special jutsu, detailed below.
 
  - Duration: 100
  - Poison: 8
- - Special: When the Pill’s duration expires, your Fatigue level is increased by 6.
+ - Special: When the Pill’s duration expires, your Fatigue level is increased by 5.
 
 ###### --( Chodan Bakugeki - Butterfly Bullet Bomb )--
 This technique is only usable after an Akimichi has consumed a Red Chili Pill, due to its extreme chakra requirements; in fact, that's where it got its name. The amount of chakra produced from consuming it is so excessive that the Akimichi's body has to vent it off, resulting in visible plumes of chakra bursting from their shoulder blades in a display reminiscent of butterfly wings.
@@ -245,7 +248,7 @@ This technique is the signature fighting style of the Inuzuka, wherein they hunc
  - Speed: 10
  - Tags: Preparation
 
-Effects: Your movement speed is increased by 10% and your current and maximum Rank in Enhanced Hearing and Blind Fighting abilities are increased by 1. Every time you damage someone with a Taijutsu attack while maintaining this technique, you temporarily shred any sort of DR they might have, reducing their DR (after the damage is resolved) by (4 + AGI/30). Shredded DR can not be reduced below 0, and is restored at a rate of 1 per IC.  However, due to being on all fours and your hands becoming more animalistic, all Seal Speeds are increased by 3.
+Effects: Your movement speed is increased by 10% and your current and maximum Rank in Enhanced Hearing and Blind Fighting abilities are increased by 1. Every time you hit someone with a damaging unarmed attack while maintaining this technique, you temporarily shred any sort of DR they might have, reducing their DR (after the attack is resolved) by (4 + AGI/30; multiple damage rolls from clan jutsu apply this penalty per damage roll. Shredded DR can not be reduced below 0, and is restored at a rate of 1 per IC.  However, due to being on all fours and your hands becoming more animalistic, all Seal Speeds are increased by 3.
 
 #### --( Tsuga – Passing Fang )--
 The Inuzuka launches themselves forward toward an opponent while spinning at such rapid speeds that they almost appear to become an elongated vortex pointed toward their enemy.  It can be extremely damaging if an opponent is caught unaware, as the rotation involved allows the Inuzuka to tear right through most defenses.
@@ -1098,11 +1101,11 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) Your sword’s die size is increased by 2, to a maximum of _d20.  
 (1) Stun 1.  Can be taken twice.  
 (2) Your Sword's base Speed is increased by 1, it gains Delay 2, and your Sword Damage Bonus is increased by 2 when attacking. Can be taken twice.  
-(1) When you Block while holding your sword, you gain DR equal to your Sword Damage Bonus (unaffected by two-handing the weapon); this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times, but does not stack if wielding multiple weapons (use the highest amount between them).
+(1) When you Block with your sword, you gain DR equal to your Sword Damage Bonus (unaffected by two-handing the weapon); this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times.
 
 *Hilt Features*  
 (1) Stun 1.  Can be taken three times.  
-(2) While wielding your sword, you can Block as a Speed 4 Interrupt.  Taken a second time, your Block's effectiveness is not reduced by weapons, and any Damage Reduction you gain when blocking from the Yang Blade Feature is doubled.
+(2) Your sword allows you to block with it as a Speed 4 Interrupt.  Taken a second time, your Block's effectiveness is not reduced by weapons, and any Damage Reduction you gain when blocking from the Yang Blade Feature is doubled.
 
 *Tassel Features*  
 (3) Your sword's Stamina cost is increased by 2, and its damage is increased by +4d_.  

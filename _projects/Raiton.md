@@ -46,7 +46,7 @@ Effects: This technique may not have its Speed reduced below 4 by any means. It 
 Charging up electricity between two weapons, you harness it into a ball and then fire it at your enemies, the ball exploding out once it makes contact with anything.
 
  - Chakra: 8
- - Damage: 1d6*2d4
+ - Damage: 1d6 * 2d4
  - Accuracy: +1
  - Range: 10
  - Speed: 9
@@ -54,11 +54,24 @@ Charging up electricity between two weapons, you harness it into a ball and then
  - Tags: Energy, Projectile
 
 ## D-rank
+#### --( Kuwabara - Mulberry Field )--
+The name itself is derived from a superstition among civilians that its repetition is a way to ward off lightning by inciting the name of a type of tree that is commonly believed to do the same.  Shinobi, of course, have chosen to use it ironically for a basic but precise channeling of Raiton between one's hands before stretching one out to jolt it toward a target.
+
+ - Chakra: 13
+ - Damage: 2d4 * 4d4
+ - Accuracy: +4
+ - Range: 15
+ - Speed: 12
+ - Seal Speed: 7
+ - Tags: Energy, Projectile
+
+ Effects: This jutsu does not benefit from Raiton's normal block reduction.
+
 #### --( Shuurai - Lightning Strike )--
 You focus energy to the tips of your fingers on either hand, then point at an opponent, releasing a reasonably sized bolt of electricity. This is nothing like real lightning, but it looks similar!
 
  - Chakra: 14
- - Damage: 2d6*4d4
+ - Damage: 2d6 * 4d4
  - Range: 15
  - Speed: 11
  - Seal Speed: 10

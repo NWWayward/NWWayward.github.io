@@ -411,7 +411,7 @@ You've trained to improve your sheer physical prowess; even when resorting to si
 
 ##### 2. Mobility
 
-#### -=[ Nimble ]=-
+#### -=[ Evasion ]=-
 When targeted by an area-of-effect attack that gives you a dodge penalty based on its size, that penalty is reduced by 2 per rank, to a minimum of 0.
 
 - Base Cost: 4

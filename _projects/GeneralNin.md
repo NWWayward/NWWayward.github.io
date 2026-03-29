@@ -69,9 +69,9 @@ Effects: Performing this technique requires a surface to rest the cards on as th
 #### --( Uma Kuchibue no Jutsu - Horse Whistle Technique )--
 If you wish to ride a horse, you are required to know this jutsu in order to call it to you from anywhere.
 
-Chakra: 7
-Speed: 5 or 10
-SS: 6
+ - Chakra: 7
+ - Speed: 5 or 10
+ - SS: 6
 
 Effects: After forming handseals you use your hand to whistle loudly. Chakra alters the frequency of your whistle to call your horse from wherever it is. Typically your horse will be somewhere nearby, but it is trained by default not to get in your way until you use this jutsu.  Out of combat, this works to have your mount return after being separated (it being spooked and having fled a battle, exploring a cave it could not follow only to find it had wandered off to look for food, it being stolen, etc); it works flawlessly so long as it is alive and there is nothing physically restraining the mount that would keep it from returning to you (such as being in a cage).  
 
@@ -212,7 +212,7 @@ cloud.
  - Requires: 25 Chakra Control, 25 Medicine, 25 Research, 25 Toxicology
  - Tags: Area of Effect, Environmental
 
-Effects: When you create the mist, roll the second highest of your Chakra Control, Medicine, Research, or Toxicology skill rolls (all of those factor into creating the poison properly, and a deficiency in any of them will weaken it). This is the TN to avoid being poisoned while in the cloud. Anyone inside the mist when it's created, or who passes through it, must make a Resistance roll against that number, and another one every 10 IC that they spend inside the cloud, as well as one any time they make a Stamina roll inside it. 
+Effects: When you create the mist, roll the second highest of your Chakra Control, Medicine, Research, or Toxicology skill rolls (all of those factor into creating the poison properly, and a deficiency in any of them will weaken it). This is the TN to avoid being poisoned while in the cloud. Anyone who is not Poisoned by the cloud that makes a Stamina roll while inside it, or remains within the Cloud for 10 total IC (not consecutive) is exposed to the poison, and anyone with its Poison doesn't count time spent within the cloud towards its duration.
 
 The cloud is a poison with the following effects:
  - Poison: (Toxicology)/5

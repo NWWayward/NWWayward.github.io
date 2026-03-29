@@ -397,6 +397,9 @@ For example, at Paralysis 3 your Speed 8 Basic Attack would deal damage as if it
 
 Paralysis effects do not combine. If you are afflicted with two paralysis effects at once, the more potent one overwrites the less severe one. If they both have the same severity, the one with the longer duration overwrites the other.
 
+### Prone
+Some effects can knock you Prone; you can even be knocked prone while in the air, though if you are airborne (be it because you are flying, or because you've been knocked up in the air by Kage Buyou or a similar effect) when you are knocked Prone, you are immediately knocked down to the ground, losing any benefits related to them.  While Prone, you take a -3 to Accuracy, -2 to Defensive Rolls, and move at half speed until you stand up as a Speed 5 action.
+
 ### Poison
 When affected by a poison, you make a Resistance roll against some roll of the opponent's. Success means that you shrug off the effects of the poison. Failure means that you have been poisoned.
 
@@ -465,14 +468,14 @@ People get tired; it just happens, even to supernaturally empowered ninja. To re
 
 Whenever you use a move with a listed Stamina cost, you make a stamina roll: 1d20+RES/10. Regardless of the result, your attack is resolved normally. However, if you got less than the TN for your roll (that is, the move's Stamina rating) your Fatigue is raised by one category.
 
-Realistically, continued exertion even at the same level will tire people out. Every time you make a Stamina roll, you incur a penalty equal to (the Stamina cost)/5, rounded down, on all future Stamina rolls you make. You cannot reduce the Stamina cost of any action below 5, if its unmodified cost was 5 or higher. This penalty is reset to 0 every time you advance a Fatigue category, and at the end of battle. It can also be reduced by spending your time Resting in combat.
+Realistically, continued exertion even at the same level will tire people out. Every time you make a Stamina roll, you incur a penalty equal to (the Stamina cost)/5, rounded down, on all future Stamina rolls you make. You cannot reduce the Stamina cost of any action below 5, if its unmodified cost was 5 or higher, and can not reduce the penalty to future Stamina rolls below 1. This penalty is reset to 0 every time you advance a Fatigue category, and at the end of battle. It can also be reduced by spending your time Resting in combat.
 
 ### Chakra Exhaustion
 The counterpart to stamina. Shinobi have the ability to use all manner of fantastic abilities by drawing on the chakra within themselves and manipulating the environment. While very potent, this energy comes from their body, and it's easy for a shinobi, especially an inexperienced one, to overtax themselves.
 
 Ninjutsu and Genjutsu moves have a chakra cost, listed in a form such as "Chakra: 10." When you use these moves, you make a roll against Chakra Exhaustion; to pass, you must get equal to or greater than the technique's cost on a roll of 1d20+CHA/10. If you fail, your Fatigue is raised one category. Whether you pass or fail, your jutsu works normally.
 
-The more chakra a shinobi spends, the more strain they put on their body. Every time you make a Chakra Exhaustion roll, you incur a penalty equal to (the Chakra Exhaustion cost)/5, rounded down, on all future Chakra Exhaustion rolls you make. You cannot reduce the Chakra cost of any action below 5, if its unmodified cost was 5 or higher. This penalty is reset to 0 every time your Fatigue category increases, and at the end of battle.
+The more chakra a shinobi spends, the more strain they put on their body. Every time you make a Chakra Exhaustion roll, you incur a penalty equal to (the Chakra Exhaustion cost)/5, rounded down, on all future Chakra Exhaustion rolls you make. You cannot reduce the Chakra cost of any action below 5, if its unmodified cost was 5 or higher  and can not reduce the penalty to future Chakra Exhaustion rolls below 1. This penalty is reset to 0 every time your Fatigue category increases, and at the end of battle.
 
 ### Upkeep
 Some techniques require a constant expenditure of your energy to maintain; this is what upkeep represents. So long as you maintain these techniques (which typically can be done indefinitely) you suffer a penalty to all Stamina and Chakra Exhaustion rolls equal to that technique's Upkeep. If you're maintaining multiple techniques with Upkeeps, these penalties stack, however, you can not have multiple Upkeeps from the same source, to stack the same benefit: You could not use Chakra Strengthening multiple times to gain its benefit multiple times, for example, even though you could both have an Upkeep from using Chakra Strengthening and Rock Smashing Staff together, if you wished, combining their Upkeeps together to determine your total penalty to both Stamina and Chakra Exhaustion rolls.

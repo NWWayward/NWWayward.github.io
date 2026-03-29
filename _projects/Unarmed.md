@@ -20,7 +20,7 @@ You cause an opponent to fall down by knocking their legs out from under them. C
  - Accuracy: +2
  - Speed: 4
 
-Effects: If this hits, the target makes an Athletics roll against your Accuracy; if they fail the Athletics roll, they're knocked prone. While prone, you take a -3 to Accuracy, -2 to defensive rolls, and you move at half speed until standing up as a Speed 5 action. Targets gain a +3 to their Athletics roll for every time in the same combat they've had to make such a roll to avoid being tripped.
+Effects: If this hits, the target makes an Athletics roll against your Accuracy; if they fail the Athletics roll, they're knocked Prone.
 
 #### --( Feint )--
 A subtle trick that almost every ninja knows--and knows how to detect. Still, those that are particularly adept at it are often difficult to defend against properly.

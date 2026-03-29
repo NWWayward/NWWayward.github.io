@@ -40,6 +40,18 @@ The basic "manipulate the surrounding air to do what you want" technique, leadin
 Effects: This reduces any existing Environmental Visibility Penalties by 2.  Repeated uses of this jutsu will reduce them further, potentially eliminating them entirely.
 
 ## D-Rank
+#### --( Senkousai - Gust Iris )--
+A less technical and more direct 'punch'-ing of the air, it results in a gust of fuuton that lacks shape but is quick to reach its target.  It was named after a Kunoichi who used it almost exclusively as their signature ninjutsu, who did not opt to name her own invention.  Rather it was named by the people who she used it on, who could not help but look into her eyes when attacked: they were blue.
+
+ - Chakra: 13
+ - Damage: 4d4 * 5
+ - Accuracy: +4
+ - Range: 15
+ - Speed: 12
+ - Special: This technique may not have its seal speed removed with a fan
+ - Seal Speed: 7
+ - Tags: Energy, Projectile
+
 #### --( Kazekiri - Wind Cutter )--
 The user generates a narrow arc of wind and chakra, which is sent out to cut things like ropes, lines, and people.
 

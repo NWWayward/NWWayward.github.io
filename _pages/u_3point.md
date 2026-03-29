@@ -19,17 +19,19 @@ Additionally, you have an Elemental Shaping pool which dictates how much you can
 
  - 15 points: +1 Target/Projectile (for non-AoE jutsu)
  - 12 points: +1 Accuracy
+ - 10 points: Add an effect from your most recent elemental jutsu's type so long as it differs from your currently used element, based on your current jutsu's Rank (R): Stun R * 2 (Doton), Burns R * 2 (Katon), Shock R for 20 IC (Raiton), -R Chakra Cost (Suiton), Knockback R * 2 yards (Fuuton)
  - 8 points: +1 Ninjutsu Damage Bonus
- - 6 points: Add an effect from another element not its own: Stun 1 (Doton), Burns 1 (Katon), Shock 1 for 10 IC (Raiton), -1 Chakra Cost (Suiton), Knockback 1 yard (Fuuton)
  - 3 points: +1 Area
  - 2 points: +1 Range
  - 1 point: +1 Damage
 
-There are some exceptions to the above: jutsu which are Environmental, and/or do not have a " - Damage: " stat block can not have flat damage added to them.  Jutsu which do not have an Area, or have a Range of Touch, can not have an Area or Range added to them, and Area and Range increases can not add more than half the technique's original Area or Range, respectively.
+For Rank-based effects, E = 1, D =2, etc.
 
-The status effects added from Shaping (aside from Suiton's) do not require a Status roll, but do require you to hit with a damage-dealing ninjutsu attack, and accordingly do not apply to Environmental jutsu, though they can be added to jutsu which already have them, so long as they're a valid choice.  In the case of the Shock status, every 6 points past the first can increase the Shock by one, or increase its Duration by 10 IC.  Finally, Nintaijutsu can gain the benefits of only Suiton's cost reduction, and adding to your NDB; no other Shaping aspect can be utilized.
+There are some exceptions to the above: jutsu which are Environmental, and/or do not have a " - Damage: " stat block can not have flat damage added to them.  Jutsu which do not have an Area, or have a Range of Touch, can not have an Area or Range added to them, and Area and Range increases can not add more than half the technique's original Area or Range, respectively.  Additional targets/projectiles can not target the same person repeatedly unless the jutsu itself states it can, following its normal rules for doing so.
 
-You can pick any of the options multiple times, limited only by the size of your Shaping pool.  Shaping does not ‘combine elements’ in any sort of way (overt or otherwise), but rather modifies one element based off of properties of another: A Suiton that burns might be described as pressurized to tear away at the skin on contact, while a Raiton that knocks back a target might actually seem to crackle through the air and strike from below to lift someone off their feet. Just take care not to describe a knockback Suiton as Hyouton, for example, or a Fuuton that burns as Shakuton: advanced elements are a true combination of two different chakra nature types, while Shaping is modifying the base element in the style of another.
+The status effects added from Shaping (aside from Suiton's) do not require a Status roll, but do require you to hit with a damage-dealing ninjutsu attack, and accordingly do not apply to Environmental jutsu, though they can be added to jutsu which already have them, so long as they're a valid choice.  Finally, Nintaijutsu can gain the benefits of only Suiton's cost reduction, and adding to your NDB; no other Shaping aspect would benefit them.
+
+You can pick any of the options multiple times except for the added status effect, limited only by the size of your Shaping pool.  Shaping does not ‘combine elements’ in any sort of way (overt or otherwise), but rather modifies one element based off of properties of another: A Suiton that burns might be described as pressurized to tear away at the skin on contact, while a Raiton that knocks back a target might actually seem to crackle through the air and strike from below to lift someone off their feet. Just take care not to describe a knockback Suiton as Hyouton, for example, or a Fuuton that burns as Shakuton: advanced elements are a true combination of two different chakra nature types, while Shaping is modifying the base element in the style of another.  
 *Upgrades From: Elementalist*
 
 ##### Regenerative Chakra

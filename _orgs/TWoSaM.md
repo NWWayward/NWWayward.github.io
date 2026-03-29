@@ -17,155 +17,192 @@ toc:
 The longest lasting faithful followers of Indra and Ashura. Rather than their differences opposing themselves, they use their differences to create obtuse ninshu and explore just how deep one's connection to their heart and mind have with ninshu itself. To them, ethics was it’s own science, and they created bizarre experiments and spiritual beliefs to manipulate the evolution of their power.
 
 ## Aburame (Moon)
-With the advanced evolution of Ninshu came innovative ways to study it even further. The Insects of the Aburame were used to track, absorb, and destroy chakra, and was one of the first available ways of doing so. Along with the Yamanaka, these two clans would act as the major defensive line of the Way of Sun and Moon and it’s secrets. They are known as the Moon of Truth.
+Shortly after a member of the Aburame Clan is born they have their body sacrificed to the bugs. From that moment on, their flesh is host to thousands upon thousands of insects called Kikaichu. This is due to the family's sacred and ancient forbidden jutsu, and they did not just get bugs from poor hygiene.
+
+The Aburame have formed a symbiotic bond with their Kikaichu. The insects gain easy access to food from the host's chakra; and shelter inside the host's body. In return, the insects obey the Aburame's commands and serve as a potent ally.
 
 **Aburame begin with 1 less Unique Point.**
 
-#### --( Kikaichuu no Jutsu – Parasitic Destruction Insect Technique )—
-An ability exclusive to the Aburame, wherein they allow their own bodies to become a hive for the Kikaichuu.
+#### --( Hijutsu: Mushiyose - Secret Technique: Bug Gathering )--
+By simply touching a surface with their palm and fingers, the user releases a small web of chakra that draws bugs to that location. Since the Aburame member can communicate with insects, it can be useful to gain information by gathering local insects.
 
- - Type: Ability
- - Base Cost: 2
- - Scale: 0
- - Limit: 3+CHA/10
-
-Effects: You gain a Swarm the first time this is taken, and add one to it for every rank after the first. As part of the cost of being a host of the Kikaichuu, you gain RES * 2 less to your Vitality, and RES less to your Hit Points (making them RES * 6+STR * 4 and RES * 2+CHA, respectively, before any Uniques).
-
-Kikaichuu can be commanded out to a maximum range of CHA*2 yards. Any further than that and you can no longer communicate with them and can only send them to places you know, and can only give them a single, basic command (“Go home and find Ino” would work, but “Search the town for anything suspicious” would not). They will complete it to the best of their ability and then return to you, but for every day in which they are beyond the listed range, its Swarm Size is reduced by one.
-
-Every Swarm deployed must have one Female Kikai with it (see below for acquiring Female Kikai), and the Female Kikai is only considered killed when the entire Swarm is destroyed. For every additional Female Kikai you have in a swarm past the first, that Swarm gains +1 to its Accuracy and any d20 rolls it makes, but extra Female Kikai are destroyed earlier, requiring at least two Swarm Size per Female Kikai. If you had 3 Female Kikai in a Size 5 swarm, the third would be destroyed if it was reduced to Size 4, and the second would be destroyed if it was reduced to Size 2.
-
-For every one Swarm Size, the Swarm has effectively CHA in Vitality. They do not actually lose Vitality though, instead they lose 1 Swarm Size for every (CHA) in damage they take from an attack. There’s no limit to this, but you always round down. If Shino had a Swarm Size 5 and 60 CHA, and someone did 298 damage to the Swarm, the Swarm would be reduced to Size 1, and any future attacks would require doing 60 damage to destroy the remaining Swarm Size, not 2.
-
-#### -=[ Kikaichuu Swarms ]=-
- - They use your Stats, Abilities, Uniques and Skills, but their effective Vitality never changes based on any of them (it is solely determined by the Swarm’s Size).
- - They can’t block or parry; they dodge using CHA/10 (instead of AGI/10).
- - AoE’s don’t penalize them based on movement, but they take a (Swarm Size) penalty to their dodge roll.
- - They are immune to Burns, Bleeds, and Poisons.
- - They are immune to Stuns, but are Stunned anytime you are.
- - If the Aburame is ever Paralyzed or Shocked, their Swarm(s) are as well (but not vice-versa).
- - They are immune to all effects based on the terrain (aka 'Ground' effects), Grapples, Wounds, and ignore Immobilization effects which work by restraining the target.
- - For every 5 Ignite inflicted on the Swarm, they lose one Swarm Size immediately, but do not take damage over time from it (round down).
- - Taijutsu which are not AoE do half damage to the swarm, and all Small weapons and Arrows reduce the Swarm Size by 1 less than they would normally (to a minimum of 0).
- - They are immune to Genjutsu, but any Genjutsu affecting the Aburame affects their Swarms accordingly.
-
-Below are the basic ways in which you can use your swarm.  In all cases, X is equal to the size of the swarm.  If it ever becomes relevant, for every two Swarm Size, the Swarm’s effective rank increases (Size 1-2 is E, 3-4 is D, etc to a maximum of A), the Swarm uses your NDB when called for, and any Wounds the Swarm inflicts are considered Energy Wounds.
-
-*Deploy (Speed X)* – This creates a cloud of Kikaichuu around you that extends X yard(s) out from you. You gain an upkeep equal to X/3 (round up). You can have multiple different swarms active, adding the size of all swarms together to determine your total Upkeep.  
-Tags: Preparation
-
-*Return (Speed X/2 or +X/2, Interrupt)* – As long as you are within your swarm’s area, you can recall your deployed Kikaichuu.  An Aburame may do this as an Interrupt to have them return to their body as they dodge an attack; a successful dodge means they return without being hit, while a failure means they are hit, and any remaining Swarm Size after the attack is resolved is returned to the Aburame.
-
-*Dodge (Speed X/2, Interrupt)* – Your Swarm attempts to dodge an incoming attack. If you and the swarm must simultaneously dodge the same attack (from an Area of Effect attack, for example), then they dodge as part of your action, without having its own speed.
-
-*Move (Speed Variable)* – Your Swarm moves, using your CHA in place of your AGI to determine its speed.
-
-*Search (Speed 4)* – You use your bugs to assist you in finding something (or someone).  You make an Awareness roll, with a +X bonus to the roll, maximum of CHA/20.
-
-*Hide (Speed X or +X)* – You send your bugs out to hide, with a +5 bonus to their Stealth roll due to their size. You can choose to have your Swarm Hide when you first Deploy it by adding +X to the Speed of the Deploy action.  Even if you have multiple Swarms each hiding, your Kikaichuu have a singular penalty to their Stealth rolls for every time they Hide in the same battle, even amongst different Swarms, tracked separately from your own penalty.
-
-*Drain (Speed 10, Chakra 5+X)* – You send your Kikaichuu to bite and suck out the Chakra of someone. The target must be within the Swarm’s area or within the Swarm’s ability to move while attacking, as it is a melee range attack for the Swarm.  This is considered a Ninjutsu attack, but deals no damage; if the Swarm hits, the target makes a Chakra Exhaustion 10+X roll, and then takes a penalty to Chakra Exhaustion rolls equal to X/3. The penalty is cumulative with itself if the Swarm bites the same person, but is cleared when they advance a Fatigue Level as normal. Do note that the CE roll is made first, and any Fatigue advancement is done *before* applying the subsequent penalty to CE.
-
-*Guard (Speed 6+X/2, Interrupt)* – You can use your Swarm to defend yourself or others that are within its area. Make a Dodge roll, with a bonus of X/2 to the roll.  If you succeed, the attack is considered to have hit the Swarm instead, though the Swarm’s regular reduction for Taijutsu does not apply (non-AoE do not deal half damage and Small weapons and Arrows don’t reduce the Swarm by 1 less), as the Swarm is intentionally acting as a shield.  If the Swarm’s Size is reduced to 0 by the damage of the attack, then you subtract from its damage the effective Vitality the Swarm had, and anything left over is dealt to the intended target.  Partial Defense does not apply to the Swarm.
-
-#### --( Fujin Kikaichuu – Female Destruction Bugs )--
-A special type of Kikaichuu responsible for reproduction and signaling, Female Kikaichuu are precious to the Aburame, who rely upon them to coordinate the masses of ordinary Kikaichuu.
-
- - Type: Ability
- - Base cost: 0
- - Scale: 3
- - Limit: CHA/20, Special
-
-Effects: You gain one Female Kikai every time you take this ability. You can not have more ranks in this ability than you have ranks in Kikaichuu no Jutsu.
-
-Female Kikai are required to deploy swarms, and have many uses to them, but the most basic use is to simply be a tracking beacon for the Aburame, who can sense its presence from afar and by association, someone whom the Female Kikai is hidden upon.  To plant a Female Kikai outside of combat is typically an opposed Espionage roll, with a +5 bonus thanks to the bug’s size.
-
-In combat, you can attempt to plant a Female Kikai on someone anytime you make a melee-range attack, by increasing the attack’s speed by 4 (which does not increase its damage). If the action is successful, you also implant on the target a Female Kikai.  This can be done when a Swarm attacks as well, but if it was the only Female Kikai in the Swarm, then the Swarm dissipates and the bugs scatter; you can recover the Swarm Size with a Return action, but the Swarm can take no actions itself.
-They get an Awareness roll versus the normal Stealth roll for Kikai hiding when it's attached, but thereafter the female Kikai is considered to be in Stealth 3, and they typically have no reason to suspect its presence.  It is a Speed 2 action for someone to crush a female kikai that they've found on themselves.
-
-For as long as the Female Kikai is attached, the Aburame has a +5 Awareness bonus against the person it's attached to, any attacking Swarms have +3 Accuracy, and they're always considered to be 1 Stealth level lower than they really are.  If this would mean that they are not Stealthed at all, the Aburame can attack them with ranged attacks as normal, but can not attack with melee attacks (or have their clones do so), with the exception of using a Swarm's Drain ability and the Insect Sphere jutsu.
-
-You can only attach a single Female Kikai to a person (attaching more gives no added benefit), but can have multiple Female Kikai placed on different people simultaneously.  Deploying Female Kikai does not reduce the level of your Swarm Size, but it does limit how many Swarm Size you can recover via Insect Cocoon. Female Kikai are recovered naturally, at a rate of 1 + Max Willpower per day, so use them wisely.
-
-#### --( Hijutsu: Mushiyose – Secret Technique: Insect Gathering )--
-By touching the ground and sending their chakra out in a web-like pattern, they can attract the attention of nearby insects to follow the chakra signal and come to the Aburame, which allows them to gain some basic information about an area.
-
-  -  Type: Ninjutsu, Rank D
-  -  Chakra:  X
-  -  Speed: X
-  -  Seal Speed: 10
-  -  Area: X * 5
-
-Effects:  Any insects within (X * 5) yards are drawn to you, which you can then gather information from.  Most insects are generally only concerned with very primitive things (eating, survival, and reproduction), and therefore are limited in what they may know, but will communicate what they can.  Keep in mind this is not a capacity to *talk* to insects, merely communicate with them.  X has a maximum of 10.
-
-#### --( Hijutsu: Mushimayu – Secret Technique: Insect Cocoon )--
-Since the Kikaichuu use their bodies as a nest and feed on Chakra, the Aburame can feed them even in the midst of battle to force a rapid reproduction, allowing more Kikai to be used if a large number happen to be destroyed.
- - Type: Ninjutsu, Rank D
- - Chakra: 5 + X + Y * 5
- - Speed: 6 + X
- - Seal Speed: 11
-
-Effects: You restore 1 Swarm Size per X; Y is the number of times you’ve used this jutsu this battle.  As part of this jutsu you can also deploy (and hide, if you wish) the Swarm that you create.  X is limited by the number of Female Kikai you have left alive and undeployed.  You can not recover Female Kikai with this technique.
-
-#### --( Hijutsu: Mushidama – Secret Technique: Insect Sphere )--
-Using a Swarm that the Aburame has already spread out over an area in the battlefield and a Female Kikai’s trackability, the Aburame commands their Kikaichuu to harass and converge upon a single target. Unless they keep on the move, they will inevitably become swarmed by Kikaichuu that crawl up and all over their body, and attempts to run will have them continually chased by the Swarm.
-
- - Type: Ninjutsu, Rank C
- - Chakra: 15 + X
- - Upkeep: X/4
- - Speed: 12
- - Seal Speed: 8
- - Special: Deployed X Swarm Size, Female Kikai on target
-
-Effects: When you activate this jutsu, a deployed Swarm becomes single-mindedly focused on a singular enemy, and harasses them continuously. From then you track the Swarm individually, but the Swarm only takes a single action: Moving toward your designated target, which must have a Female Kikai upon them. If the Female Kikai is ever destroyed, this Jutsu ends automatically and the Swarm becomes a regular swarm on the battlefield.
-
-While this jutsu is active, the target takes X irreducible damage every IC as the swarm starts to consume them. Every time the target spends 10 consecutive IC inside the Swarm's area, you may spend 5 AP to apply the effects of a Leg Lock, Arm Lock, or Head Lock as described in the "Lock" Grapple Jutsu (D Rank). The Lock lasts until the target is no longer in the Swarm's area, instead of its usual duration. 
-
-Note that the Swarm is never "grappling" the target. However, if the target is suffering from the Ignite status, then the Swarm loses (Ignite Status)/5, rounded down Swarm Size every time it applies a lock.
-
-While this Jutsu is being maintained, the Swarm used in this Technique can not be used for any other action (drain, guard, creating clones, etc) until the technique is dismissed, though it can defend itself normally.
-
-#### --( Mushi Jamingu no Jutsu – Bug Jamming Technique )--
-The Aburame commands their Kikaichuu to disperse over a wide area of the battlefield and then transmits their Chakra to them, covering the field in chakra pathways.  Depending on the whims of the Aburame, they can produce a variety of effects, from sensor disruption to draining an entire enemy squadron simultaneously.
-
- - Type: Ninjutsu, Rank C
- - Chakra: 15 + X
- - Speed: 10 + X
- - Upkeep: X
- - Area: X * 5
+ - Type: General Ninjutsu, E Rank
+ - Chakra: 10
+ - Speed: 10
  - Seal Speed: 12
- - Requires: Deployed X Swarm Size
+
+Effect: This grants the Aburame a +5 bonus on relevant Survival and Research rolls, or +20 when the roll directly relates to finding or understanding insects. The Aburame may be able to get information not normally available by talking to bugs, but there is no guarantee a bug's perspective will be useful.
+
+
+#### --( Parasitic Destruction Insect Technique - Kikaichu no Jutsu )--
+Aburame have thousands of insects called Kikaichu living inside their body, that serve at their beck and call. 
+
+ - Type: General Ninjutsu, D-Rank
+ - Cost: None
+ - Range: CHA/10
+ - Area: (Swarm's Current Vitality)/30
+ - Speed: 11
  - Tags: Environmental
 
-Effects:  You create a cloud of Kikaichuu that turn into an Environmental effect, that can be used to do one of several things. You pick one from the list below when you first use this jutsu, and can switch between them as a Speed 4 + X action without repaying the cost, so long as the Upkeep is maintained.
+Effect: You create a cloud of Kikaichu that encompasses the listed Area. While this Cloud exists, you take a -CHA/20 penalty to Chakra rolls when using non-Aburame Clan Jutsu.
 
-The Swarm used for this technique can not be used for anything else (drain, guard, creating clones, etc) until the technique is dismissed, and can not be targeted or attacked, nor do they take damage from area of effect attacks. You are immune to the penalties of this technique, but can benefit from its effects (when using Disrupt Chakra Sensors, namely), and can specify (Chakra Control Ranks)/5 additional people to be immune to Bug Jamming's effects (chosen based on who is in the affected area at any given time).
+The Swarm has CHA*6 Vitality, only takes damage from Area of Effect attacks, and takes only half damage from them unless the Area of the attack completely encompasses the Swarm's Area. The Swarm is immune to non-damaging effects, except as specifically stated. Ignite affects the Swarm, using its Vitality and the Aburame's other Stats. Effects that push or move a target also work on the Swarm. If Swarm would logically be pushed in multiple directions (such as Wind God's Breath while inside the Swarm) then the user of that effect chooses the direction. If the attack is not an Area of Effect that fully encompasses the Swarm's Area, then they only suffer half of the Ignite or Knockback effect. At 0 Vitality the Swarm disperses, this Jutsu ends, and this Jutsu may not be used again until the Swarm recovers some Vitality.
 
- - *Disrupt Chakra Sensors* - While maintaining the field, you take no penalty for the upkeep of your Kikaichuu (or this technique) when someone tries to sense or spot you, and instead have a bonus to of X to disguise and/or hide yourself from attempts to detect you via Chakra (namely a Chakra Sensor's Scan, and a Natural Chakra user's A Dream of the World, though in the latter case, it does not prevent you from detecting your overall presence). Those able to identify individual chakra signaturs are unable to do so for anyone within the field.
+Kikaichu may be communicated with out to a range of CHA/5 yards through minor fluctuations in the Host's Chakra. Kikaichu can operate beyond that range, and are surprisingly intelligent; but they may not receive new orders and will die after 24 Hours away from their Host. Kikaichu always know the distance and direction to their Host.
 
- - *Obstruct Vision* - By constantly keeping in motion and following a synchronized pattern, the beetles can obstruct anyone’s vision who is within the field. While not an actual hindrance to movement, they impose a -X Visibility Penalty to anyone inside of it, or anyone attacking into the field, for as long as it’s maintained. If this technique has its visibility penalty reduced by other jutsu (such as by the E-rank Fuuton, Cleansing Winds) then it regains 1 point of its penalty every 5 IC that pass, so long as you maintain its Upkeep. On the other hand, effects which remove it entirely (such as the A-rank Fuuton, The North Wind) will, indeed, remove it (and end the Upkeep automatically).
+Bunshin, including Kage Bunshin, may not use this Jutsu. Only one Swarm can exist at a time, and this Jutsu can not be used again until the Swarm is back in the Aburame's Body (see Return, below). The Swarm's Vitality persists between uses, and recovers at a rate of CHA every hour outside of combat. If this jutsu ends before the Swarm is destroyed, the Kikaichuu are returned to the Aburame as per the Return action, and the Aburame suffers Stun 6.
 
- - *Chakra Drain* - Anyone inside of the field who makes a Chakra Exhaustion roll while within the field takes a penalty to their roll equal to X, which persists until they leave the field. Unlike normal penalties to Fatigue, it does not go away when you advance a Fatigue level: You must leave the area to get rid of the penalty.
+Aburame gain access to the following actions to utilize their Kikaichu:
 
-#### --( Mushi Bunshin – Bug Clone )--
-Using thousands of Kikaichuu, the Aburame creates a replica of themselves made out of their bugs. While it isn’t capable of taking damage well, the clone can utilize the Aburame’s chakra and jutsu, making it a powerful tool.
+**Drain**  
+*(Speed 0, 3 AP)*  
+Anyone inside the Swarm's area you choose to target must make a Chakra Exhaustion (10 + X/2). X is how many IC they have remained in the cloud since they last left it. This action may be used no more than once every 10 IC.
 
- - Type: Ninjutsu, Rank B
- - Chakra: 14 + Y * 3
- - Speed: 10
- - Seal Speed: 10
- - Special: X Swarm Size, Y Willpower, Y Female Kikai
+**Return**  
+*(Speed 6)*  
+Usable so long as the Swarm and Aburame are within CHA/5 yars from one another; the swarm re-enters the Aburame's body, allowing this technique to be used again at a later time.  Upon returning to the Aburame, any actions that modify the Swarm end, and any Ignite affecting the Swarm is turned into an equivalent amount of Burns, applied to the Aburame.
 
-Effects: You create Y clone(s) of yourself (Max 2), dedicating one or more ranks of your Swarm Size to each clone.  Your clones inherit all the properties of a normal swarm. X is equal to the Swarm Size dedicated to each clone (and thus can be different per clone), and has a minimum of Y, as each clone must have one Swarm Size.
+**Move Swarm**  
+*(Speed X or Speed 0, X AP)*  
+The Swarm moves up to CHA/40 Yards every IC for the next X IC.  The swarm can slip through tiny cracks and fly.
 
-Once the Swarm Size used to make a clone is reduced to 0, the clone is destroyed (as is the Female Kikai). You can voluntarily dismiss any clones as a Speed X + Y * 2 action to turn one or more clones back into regular Swarm(s), but you can never regain any Willpower spent on creating Mushi Bunshin. The Swarm Size used to create these clones reduces your current and maximum Swarm Size (you can’t ‘replace’ swarm size for this jutsu with Insect Cocoon).
 
-These clones can perform any jutsu you know, but have no chakra of their own, and you pay any costs (CE, Stamina, Upkeeps) associated with their actions.  They act only when you spend AP for them to do so, and can’t act again until an IC has passed equal to the speed of their action. You may hide amongst your clones (and others may Observe them) as normal, but if they act or react in a way that makes it obvious they’re bugs (such as taking less damage from a Taijutsu attack, or being immune to grapples or various status effects), it’s obvious they’re a clone.
+#### --( Hijutsu: Mushimayu - Hidden Technique: Bug Cocoon )--
+This unique technique allows the user to accelerate the growth of their insects. As the user's body is already a hive of sorts for the insects, the user will encase themselves in an actual cocoon of chakra to further aid the insects. This is an extremely useful move for Aburame clan members, since their attacks mainly focus on the usage of insects. However, using this in the midst of a battle can be potentially dangerous as it leaves the user static and vulnerable. As such, when this technique is being employed, the user generally finds a safe location or otherwise can be guarded by their teammate.
 
-Bug Clones can attempt basic dodges and parries, along with the following actions:
+ - Type: General Ninjutsu, D Rank
+ - Chakra: 10 + X * 2
+ - Speed: 10 + X * 2
+ - Delay: Special
+ - Seal Speed: 5
 
-**Basic Attack [Variable AP]** - The clone may make any basic unarmed or weapon attack, paying 1 AP per X speed of that action.  
-**Jutsu [Variable AP]** - The clone can perform any Jutsu you know, paying 1 AP per X speed of that action. It uses your DEX to determine Seal Speeds, which have to be paid for by AP as well.
+Effects: Your Swarm recovers (X * CHA/2) Vitality, up to its maximum. This Jutsu’ delay is equal to its final, modified Speed. You pay the Chakra Cost at the beginning of the delay, instead of the end. This jutsu occupies the user's hands and can be disrupted like Perform Hand Seals action normally is all the way up to the end of its Delay.
+
+
+#### --( Hijutsu: Mushidama - Hidden Technique: Bug Sphere )--
+The user sends their kikaichū to spread over a wide range, and the moment they locate the target, the insects gather at once, forming a sphere around the target. They then attach themselves to the target and begin eating away at their chakra. Even if the target manages to escape, the insects will immediately follow.
+   
+ - Type: General Ninjutsu, C Rank
+ - Cost: 18 Chakra
+ - Upkeep: 2
+ - Speed: 15
+ - Requires: Kikaichu no Jutsu active, Mush Bunshin *not* active
+ - Tags: Projectile
+
+Effect: Make a Ranged Ninjutsu attack against a single person inside your Swarm's area who has a Female Kikaichu planted on them. Although this only affects the one person, it is an AoE attack whose area equals the Swarm's area.
+
+If hit, the Swarm focuses on the target with single minded abandon. Its Area is reduced to (Current Vitality)/60. It will move CHA/40 yards per IC towards the target every IC. Other than Drain and Return, the Swarm may not be used for other actions, and any persistent effects (such as being in Stealth, or Bug Jamming) end. 
+
+Drain can only affect the target. However, when you use Drain you may choose to apply the effects of a Limb Lock (per the D Rank Grapple Taijutsu, Lock) instead of forcing a Chakra Exhaustion check. Neither the Swarm nor the target are actually grappled. Limb Locks applied this way last until the target leaves the Swarm's area.
+
+Whenever the target makes a Chakra Exhaustion roll while in Mushidama's area, they take damage equal to the TN of the Chakra Exhaustion roll. DR applies to this damage normally.
+
+
+#### --( Mushi Bunshin no Jutsu - Bug Clone Technique )--
+An Aburame has thousands of their kikaichū gather together until they've taken on the size and appearance of the Aburame, to be used either as a decoy or a diversion. The insect clone can be created anywhere that the kikaichū are positioned or sent to. When the insect clone is struck, it disperses back into a swarm of kikaichū.
+
+ - Type: Ninjutsu, B Rank
+ - Cost: 20 Chakra, 1 Willpower
+ - Speed: 18
+ - Seal Speed: 14
+ - Requires: Kikaichu no Jutsu active, Mushidama no Jutsu *not* active
+ - Tags: Clone
+
+Effect: The user creates a single Bunshin made of Bugs that is created within the Swarm's Area. The Aburame only counts as Hidden Among Clones while inside the Swarm's area, but they count as hidden among 3 Clones instead of 1. These “Clones” can protect against Area of Effect attacks that don't encompass the Swarm's entire area. When the Swarm moves, the Clone moves an equal distance so as to stay in the Swarm. When the clone is hit, it is not destroyed, but it is revealed to be a clone and does not provide a miss chance until the Aburame takes the Hides Among Clones action.
+
+The clone is created with exact copies of whatever items the user had, except for consumables, chakra-infused items (they just get a mundane replica), electronic items, and items with complex moving parts. The clone can not take damage. A clone that would be damaged is revealed as a Clone. If the Swarm is destroyed or returns to the Host, this jutsu ends.
+
+Using this Jutsu or having the Clone attack does not reveal a Swarm in Stealth, although the Clone is visible. Using Mushidama no Jutsu ends this Jutsu immediately.  The Aburame may spend AP to make the Clone take actions, as detailed below. The Host must pay all costs for the action, although these actions do not advance the user's IC. It can take the following actions:
+
+- **[X AP] Basic Attack** - Your Clone performs a Basic Unarmed Attack, a Basic Weapon attack, or a multithrow using any weapon(s) you have on your person. In addition to its normal effects, a person hit by the attack must make a TN 15 Chakra Exhaustion Roll. X is equal to 1/3 of the attack's Base Speed, rounded up.
+
+- **[X AP] Perform Jutsu** - Your Clone performs any non-clan Jutsu you know. X is equal to 1/3 of the Base Speed plus the modified Seal Speed of the action they will perform.
+
+- **[Speed 0, 0 AP] Relocate** - The clone moves to anywhere else in the Swarm's Area.
+
+- **[Speed 10] Masquerade** - With the Aburame’s direct help and guidance, the Swarm condenses down fully into a perfectly you-shaped area. It gains a +5 bonus on any rolls to convince other people that it is you--the Kikaichu have known you their entire lives, after all! Returning to the full Swarm requires a Speed 5 Interrupt action that may be used alongside another defense.
+
+
+#### -=[ Kikaichu Trainer ]=-
+In the beginning, the Aburame’s relationship with their Kikaichu is more one of the Host tapping into the Kikaichu’s natural instinct. Follow chakra here, sate your ravenous hunger, protect your home. Through discipline, an Aburame can train not only themselves but also their Kikaichu to perform more nuanced actions.
+
+ - Type: Ability
+ - Cost: 10
+ - Limit: 1
+
+Effects: The Aburame may now use their bugs to make skill checks through their Kikaichu at range. The normal rules for communicating with Kikaichu and how long they can survive apart from the Host apply. Storytellers may apply a penalty of up to -10 on checks Kikaichu are ill suited for, or even disallow checks that Kikaichu simply could not do (such as a vast majority of Research and Medicine Checks). The Aburame still performs any relevant actions (including paying the Speed) and any associated cost with the skillcheck. Many Aburame make Awareness, Stealth and/or Survival checks to spy, sneak a bug in, or track people. This does not meaningfully deplete the Aburame's Swarm, and Kikaichu no Jutsu does not need to be active to do this. A single Kikaichu can be trivially crushed by anyone who spots it.
+
+
+#### -=[ Female Kikaichu ]=-
+As a matter of practicality, all Aburame have female Kikaichu within their colonies, that’s how swarms recover. However, you have specially trained ninja Female Kikaichu that can go out on missions!
+
+ - Type: Ability
+ - Cost: 10
+ - Limit: 1
+ - Requires: Kikaichu Training, able to use D Rank General Ninjutsu
+
+Effect: You gain access to a number of Female Kikaichuu equal to your Maximum Willpower. They recover at a rate of 1 per IC Day or OOC Hour. You also gain access to the following action:
+
+**Plant Female Kikaichuu**  
+*(Speed +4)*  
+You plant a female kikaichuu on the target. Out of combat this can be done with an opposed espionage roll, which you get a +5 bonus to. In combat this is a Link that can be applied to any Melee attack or any attack performed by a Bug Clone. If the attack hits, spend 1 Female Kikaichuu to plant it on the opponent and roll Stealth opposed by their Awareness. If they meet or beat your Stealth, the Female Kikaichuu is crushed.
+
+If you win, you gain a +5 bonus to Awareness and Survival rolls against them for the next 24 Hours in character. You also treat them as being 1 Stealth Level lower. For people in Level 1 Stealth, you know their general location. This allows you to place AoE attacks, make ranged attacks against them, affect them with Drain, and use Mushidama against them.
+
+<!-- If you successfully plant the Female Kikai, for the next in-game day you have +5 Awareness and Survival against the person it's attached to, and they're always considered to be 1 Stealth level lower than they really are.  If this would mean that they are not Stealthed to you, the Aburame can attack them with ranged attacks and use clan jutsu against them as though they were not Stealthed. -->
+
+
+#### -=[ Crouching Mantis, Hidden Centipede ]=-
+The Aburame's bugs have been trained as professional ninja. There is a tiny ninja academy and tiny headbands and everything! At least there should be. There is someone probably working on that, anyways. Thankfully you are ahead of the infrastructure and trained to coax your Kikaichu into more subtle approaches to your goals.
+
+ - Type: Ability
+ - Cost: 15
+ - Limit: 1
+ - Requires: Kikaichu Training, able to use C Rank General Ninjutsu
+
+Effects: Kikaichu no Jutsu and actions involving the Swarm no longer break the Host’s Stealth. If the Aburame is in Stealth when they use Kikaichu no Jutsu, then the Swarm is also considered to be in the same Stealth Level with the same Stealth TN as the Aburame. From that point on, track the Swarm's Stealth separately. The Swarm may move while in Stealth 2 without breaking their Stealth. When the Swarm forces a Chakra Exhaustion Roll or when the Swarm is used in another Jutsu, it's Stealth is broken. The Swarm uses your modifiers to Stealth rolls and benefits from your Uniques and Abilities that modify Stealth. AoE attacks that encompass the entire swarm from people who have not found the Swarm only deal half their regular damage. The Swarm takes a penalty to its Stealth Rolls for multiple Stealth attempts in the same combat based on the higher of the number of times the Swarm or the Aburame have been in Stealth. While in Stealth, the X in Drain can not exceed half your Stealth TN. After leaving Stealth, the X value on Drain resets as though people left the area.
+
+Additionally, the Aburame gets access to the following actions:
+
+**Subtle Deployment**  
+*(Speed +10)*  
+This action modifies Kikaichu no Jutsu while the Aburame is not in Stealth. The Swarm is created in Stealth 2.
+
+**Hide, Improve Hiding**  
+*(Speed Varies)*  
+These function normally but may be performed on behalf of the Swarm rather than the Aburame.
+
+
+#### -=[ Tighter Flight Patterns ]=-
+You have trained your Kikaichu to work more closely together--literally. This has not unlocked the power of friendship, but the Kikaichu Swarm can go from a loose, chaotic mist to a fighting force flying in formation. These ominous, black buzzing shapes in the air confound your enemies and can even protect your allies. 
+
+ - Cost: 15
+ - Limit: 1
+ - Requires: Kikaichu Training, able to use C Rank General Ninjutsu
+
+Effects: You gain access to the following actions while Kikaichu no Jutsu is active.
+
+**Mushi Kame no Jutsu - Bug Jar Technique**  
+*(Variable Speed Action)*  
+This is a Variable Speed Action declared like a Block. You may declare another Variable Speed Action alongside it such as Block, Defensive Formation, etc. While active, the Aburame and any of their allies inside the Swarm may choose to let the swarm defend them when attacked. If they do, they may not apply another defense, but the Swarm takes the damage they would have first. The damage is dealt to the swarm as though it came from an attack with an AoE that encompassed the entire Swarm. Attacks that have their damage prevented are not considered to have hit their target. Non-damaging effects may not be prevented in this way. This action breaks the Swarm's Stealth. This action counts as C-Rank General Ninjutsu.
+
+**Bug Jamming Technique**  
+*(Chakra 16, Speed 10, Upkeep 4)*  
+You cause the Swarm to fly around in tighter, more confusing patterns that disrupt chakra. The Swarm's Area is reduced to (Current Vitality)/60, but it becomes a cloud that applies a (CHA/20) Visibility Penalty in addition to its other effects. It also applies a (CHA/20) penalty to any rolls based on sensing and seeing chakra (Chakra Sensor, Natural Chakra, Awareness Rolls using the Byakugan). Effects which Sense Chakra can not identify people inside the area, even if they successfully detect them. The host ignores these penalties. This breaks the Swarm's Stealth while active. Using this action again ends its effects. If this technique has its visibility penalty reduced by other jutsu (such as by the E-rank Fuuton, Cleansing Winds) then it regains 1 point of its penalty every 5 IC that pass, so long as you maintain its Upkeep. On the other hand, effects which remove it entirely (such as the A-rank Fuuton, The North Wind) will, indeed, remove it (and end the Upkeep automatically).
+
+#### -=[ Advanced Swarm Host ]=-
+You have cultivated your Kikaichuu Swarm beyond a regular Aburame. Kikaichuu have fully adapted your body to be their home, and have managed to grow beyond even that.
+
+ - Type: Ability
+ - Cost: 1 Talent Point
+ - Limit: 1
+ - Requires: +12 to your Chakra Exhaustion rolls, not including any temporary modifiers, such as Fatigue.
+
+Effects: You gain a Large Container, free of charge. One may think it has 8 Gallons of water in it, and they would be wrong. Surprise! It has 8 Gallons of Bugs. You have a second Kikaichuu Swarm with its own separate Vitality Pool. When you use Mushimayu, it replenishes the Vitality of both Swarms.
+
+You may deploy both Kikaichuu Swarms at the same time, although the penalty to your own Chakra Exhaustion rolls for non Aburame jutsu stacks. When you use Drain while two Kikaichuu Swarms are in the field, you may affect any number of targets who are in one or both Swarms, but you may not Drain more frequently. X for Drain is equal to the number of consecutive ICs they have spent in either Swarm since the last time they were not in one or more of your Swarms. When you take the Return or Swarm Move actions, it may affect one or both swarms.
+
+All other actions and effects treat each swarm as its own entity. Only one Swarm may be affected by Mushidama at a time. When you Drain while a Swarm is affected by Mushidama, that Swarm may apply a Lock in addition to the other Swarm using Drain normally.
 
 
 ## Hyuuga (Sun, Noble)
@@ -174,7 +211,7 @@ The first few who awakened the Byakugan down Hamura’s family tree, were the no
 **Hyuuga begin with 1 less Unique Point.**
 
 #### -=[ Byakugan – White Eye ]=-
-Activating Byakugan is a Speed 0, Seal Speed 6 action which, once you can reduce its Seal Speed to 0, you no longer need to perform handseals to activate it.  You can activate Byakugan when rolling Initiative with the Preparation ability. Byakugan has an Upkeep of 2, grants +5 to Awareness rolls, and while active, anyone Hidden (or who attempts to Hide) within Byakugan’s range is automatically spotted if their Stealth TN is lower than your total bonus to Awareness (without the normal 1d20, or anything in place of it).
+Activating and Deactivating Byakugan is a Speed 0, Seal Speed 6 action which, once you can reduce its Seal Speed to 0, you no longer need to perform handseals to activate it.  You can activate Byakugan when rolling Initiative with the Preparation ability. Byakugan has an Upkeep of 2, grants +5 to Awareness rolls, and while active, anyone Hidden (or who attempts to Hide) within Byakugan’s range is automatically spotted if their Stealth TN is lower than your total bonus to Awareness (without the normal 1d20, or anything in place of it).
 
 You can differentiate between people and clones (except for Kage Bunshin), and can tell if someone is using Henge (though this does not allow you to see their true form).
 
@@ -476,6 +513,7 @@ Wrapping a weapon or held object in your chakra-induced veil of invisibility is 
  - Type: Ninjutsu, Rank C
  - Chakra: Special
  - Requires: Genshin no Jutsu active
+ - Tags: Link
 
 Effects: This supplements a throwing or multi-throw attack by making it an automatic surprise attack. Its Chakra cost is equal to half of the technique’s Stamina cost.  If used while hidden, this reduces your Stealth TN by only 2 each time it’s used.
 
@@ -496,7 +534,7 @@ Unfortunately for the Uchiha, they are not inherently able to access this power.
 
 PC Uchiha are considered better than your average Uchiha and begin with Stage 1 unlocked at creation. Unfortunately, to unlock its higher stages requires training and persistence. A shinobi can unlock the Sharingan’s higher stages without the need for external stimulus, though it can take a while.  500 XP above your starting XP (the total amount you have when you get your character approved), you unlock Stage 2.  1500 XP above your starting XP, you unlock Stage 3.  Legends speak of a fourth, higher stage, but no one in recent memory has obtained it.
 
-Activating Sharingan is a Speed 0 action, and it has an Upkeep of 2. You can activate Sharingan when rolling Initiative with the Preparation ability.
+Activating and Deactivating Sharingan is a Speed 0 action, and it has an Upkeep of 2. You can activate Sharingan when rolling Initiative with the Preparation ability.
 
 Techniques unlocked at the various Sharingan levels (detailed in their respective Stage section, below) can be acquired automatically, as soon as you unlock the Stage that grants them.  They have no rank or skill requirements to learn, and you can go into ‘XP debt’ by acquiring them, though all XP you earn goes to paying the costs of such techniques before you can spend XP on anything else until they’re paid for.
 

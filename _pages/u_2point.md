@@ -32,7 +32,7 @@ Independent of all the above, you also receive the benefits of the 1-point uniqu
 ##### Boundless Chakra
 You have near-limitless reserves of chakra. Things that should tire people out simply don't have that effect on you. You have a +3 bonus to your Chakra Exhaustion rolls, and whenever you acquire a Chakra Exhaustion penalty from using a jutsu, that penalty is reduced by 1.
 
-Whenever you rest, your Chakra Exhaustion penalty is lowered by the same amount as your Stamina penalty. Finally, the Upkeeps of all your jutsu are reduced by 1.
+Whenever you Rest, your Chakra Exhaustion penalty is lowered by one more than your Stamina penalty is. Finally, the Upkeeps of all your jutsu are reduced by 1.
 
 *Upgrades From: Expansive Chakra*  
 *Upgrades Into: Regenerative Chakra, Surging Power*

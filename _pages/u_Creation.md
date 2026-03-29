@@ -29,7 +29,7 @@ Creation uniques cost 1 UP each, and may only be taken when you first create you
 ##### Analyst
 You like to study everything you can about people, their actions, their routines, as well as everything around you. This can be distracting at times, but usually it'll give you a good grasp of the situation and your surroundings.
 
-You have a +2 bonus to Awareness rolls, and whenever you take a Rest action you gain 2 AP. Whenever someone uses the same type of attack against you consecutively (Katon into Katon, Weapon Taijutsu into Weapon Taijutsu, etc), you gain 1 AP and get +1 to your defensive roll, up to a maximum of 2 AP and +2 to your defensive roll for being attacked the same way three times in a row. This is tracked separately per attacker.
+You have a +2 bonus to Awareness rolls, and whenever you take a Rest action you gain 2 AP. Whenever someone uses the same category of attack against you consecutively (Katon into Katon, Weapon Taijutsu into Weapon Taijutsu, etc), you gain 2 AP and get +2 to your defensive roll, which does not stack but is not lost until they use an attack of a different category. This is tracked separately per attacker.
 
 Lastly, you begin with 5 Ranks in the Research Skill, and gain another Rank in that skill for every 200 XP you have.
 
@@ -60,11 +60,11 @@ Make an opposed Chakra Control roll of everyone present, with everyone but you g
 Your attunement to Chakra can make it more difficult to handle debilitations, however, and you take a -4 to Resistance rolls.
 
 ##### Competitive
-You always want to win every race, hit the bull's-eye first, and beat everyone in every game you play. In fights, winning is your everything; that can be good, since losing a fight as a ninja may have fatal consequences.
+You always want to win every race, hit the bull’s-eye first, and beat everyone in every game you play. In fights, winning is your everything; that can be good, since losing a fight as a ninja may have fatal consequences.
 
-You gain 3 bonus XP for every spar or fight you participate in (Events do not count), all your attacks do an extra 5% damage, and you gain a +2 to all d20 rolls.
+You gain 3 bonus XP for every spar or fight you participate in (Events do not count), all your attacks do an extra 5% damage, and you gain a +1 to all d20 rolls.
 
-Whenever you miss with an attack, you become increasingly frustrated and driven to land a solid blow on your enemy. This gives you a -1 penalty to all your d20 rolls, but also a +1 bonus to Accuracy, up to a maximum of -5 and +5 respectively (attacks with accuracy rolls use the accuracy bonus, not the d20 roll penalty). These both reset to 0 when you hit someone.
+Whenever you miss with an attack, you become increasingly frustrated and driven to land a solid blow on your enemy. This gives you a cumulative -1 penalty to all your d20 rolls. However, your attacks gain +1 Accuracy, and +3% damage, to a maximum of -5, +5, and +15% after missing 5 attacks in a row. These bonuses reset when you hit someone.
 
 ##### Defender
 Throwing solid blocks, you've honed your reflexes and worked your bones and tendons hard so that your twitch reflex is all you need to keep yourself safe.
@@ -144,15 +144,15 @@ However, you have a -1 Accuracy penalty.
 ##### Specialist
 You excel in a particular style of ninja combat, and since noticing that strength you have focused on what you are best at. Be it extraordinary kicks, incredible lightning bolts, or masterful illusions, you are a cut above the rest.
 
-Choose either Taijutsu, Ninjutsu, or Genjutsu: Whichever one you chose has +2 Accuracy (or in the case of Genjutsu, +3 to your Genjutsu rolls), -2 to its Stamina and/or CE costs, and a 10% bonus to its damage.
+Choose either Taijutsu, Ninjutsu, or Genjutsu: Whichever one you chose has +2 Accuracy (or in the case of Genjutsu, +3 to your Genjutsu rolls), -2 to its Stamina and/or CE costs (or in the case of Genjutsu, -3), and a 10% bonus to its damage.
 
-Next, choose one of the two that you didn't pick. It has -2 Accuracy (or -3 to all Genjutsu rolls), +2 to its Stamina and/or CE costs, and does 10% less damage.
+Next, choose one of the two that you didn't pick. It has -2 Accuracy (or -3 to all Genjutsu rolls), +2 to its Stamina and/or CE costs (or +3 if Genjutsu), and does 10% less damage.
 
 
 ##### Strong-Willed
 When the going gets tough, you keep on going. You have a strong, virtually unbreakable will, and can power through anything standing in your way.
 
-You reduce the temporary penalty to any Accuracy, Fatigue, or d20 roll you make by 1 per roll (not per penalty: If you had -2 Accuracy from Wounds, -1 Accuracy from Fatigue, and -2 accuracy from a Visibility Penalty, your total penalty is -4, rather than -5).  Penalties inherent to the action you're performing (such as a weapon or jutsu's Accuracy penalty) are not reduced by this, nor does it negate negatives from other Uniques. You can ignore the effects of one wound you are suffering from; any time you're wounded you may continue to ignore the current wound, or change to the newly-inflicted one. This lasts until the end of combat, at which point the Wound's penalties return. Finally, you have +2 to all Genjutsu rolls, and you can spend a point of willpower as a Speed 0 interrupt after you fail a Genjutsu Defense to immediately end the Genjutsu you were affected by, so long as you managed to recognize that a Genjutsu was used on you.
+You reduce the penalty to any Accuracy, Fatigue, or d20 roll from any Status Effect you suffer by 1 per roll (not per penalty: If you had -2 Accuracy from Immobilization and -3 Accuracy from a Visibility Penalty, your total penalty is -4, rather than -5). You can ignore the effects of one wound you are suffering from; any time you're wounded you may continue to ignore the current wound, or change to the newly-inflicted one. This lasts until the end of combat, at which point the Wound's penalties return. Finally, you have +2 to all Genjutsu rolls, and you can spend a point of willpower as a Speed 0 interrupt after you fail a Genjutsu Defense to immediately end the Genjutsu you were affected by, so long as you managed to recognize that a Genjutsu was used on you.
 
 ##### Surgeon  
 You are a master of the biological machine, viewing the body as a complex map of pressure points, arteries, and vital nodes. Your deep understanding of anatomy allows you to mend shattered bone with the same ease that you dismantle an opponent’s nervous system. While your hands are capable of miraculous restoration, there is an unsettling detachment in your eyes.  
