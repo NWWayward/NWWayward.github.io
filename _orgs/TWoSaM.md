@@ -46,7 +46,7 @@ Aburame have thousands of insects called Kikaichu living inside their body, that
 
 Effect: You create a cloud of Kikaichu that encompasses the listed Area. While this Cloud exists, you take a -CHA/20 penalty to Chakra rolls when using non-Aburame Clan Jutsu.
 
-The Swarm has CHA*6 Vitality, only takes damage from Area of Effect attacks, and takes only half damage from them unless the Area of the attack completely encompasses the Swarm's Area. The Swarm is immune to non-damaging effects, except as specifically stated. Ignite affects the Swarm, using its Vitality and the Aburame's other Stats. Effects that push or move a target also work on the Swarm. If Swarm would logically be pushed in multiple directions (such as Wind God's Breath while inside the Swarm) then the user of that effect chooses the direction. If the attack is not an Area of Effect that fully encompasses the Swarm's Area, then they only suffer half of the Ignite or Knockback effect. At 0 Vitality the Swarm disperses, this Jutsu ends, and this Jutsu may not be used again until the Swarm recovers some Vitality.
+The Swarm has CHA*6 Vitality and takes only half damage from Single Target attacks and Area of Effect attacks that do not fully encompass the Swarm's Area. The Swarm is immune to non-damaging effects, except as specifically stated. Ignite affects the Swarm, using its Vitality and the Aburame's other Stats. Effects that push or move a target also work on the Swarm. If Swarm would logically be pushed in multiple directions (such as Wind God's Breath while inside the Swarm) then the user of that effect chooses the direction. If the attack is not an Area of Effect that fully encompasses the Swarm's Area, then they only suffer half of the Ignite or Knockback effect. At 0 Vitality the Swarm disperses, this Jutsu ends, and this Jutsu may not be used again until the Swarm recovers some Vitality.
 
 Kikaichu may be communicated with out to a range of CHA/5 yards through minor fluctuations in the Host's Chakra. Kikaichu can operate beyond that range, and are surprisingly intelligent; but they may not receive new orders and will die after 24 Hours away from their Host. Kikaichu always know the distance and direction to their Host.
 
@@ -71,12 +71,12 @@ The Swarm moves up to CHA/40 Yards every IC for the next X IC.  The swarm can sl
 This unique technique allows the user to accelerate the growth of their insects. As the user's body is already a hive of sorts for the insects, the user will encase themselves in an actual cocoon of chakra to further aid the insects. This is an extremely useful move for Aburame clan members, since their attacks mainly focus on the usage of insects. However, using this in the midst of a battle can be potentially dangerous as it leaves the user static and vulnerable. As such, when this technique is being employed, the user generally finds a safe location or otherwise can be guarded by their teammate.
 
  - Type: General Ninjutsu, D Rank
- - Chakra: 10 + X * 2
+ - Chakra: 10 + X * 2 + Y * 3
  - Speed: 10 + X * 2
  - Delay: Special
  - Seal Speed: 5
 
-Effects: Your Swarm recovers (X * CHA/2) Vitality, up to its maximum. This Jutsu’ delay is equal to its final, modified Speed. You pay the Chakra Cost at the beginning of the delay, instead of the end. This jutsu occupies the user's hands and can be disrupted like Perform Hand Seals action normally is all the way up to the end of its Delay.
+Effects: Your Swarm recovers (X * CHA/2) Vitality, up to its maximum; Y is the number of times this technique has been used previously in the battle. This Jutsu’ delay is equal to its final, modified Speed. You pay the Chakra Cost at the beginning of the delay, instead of the end. This jutsu occupies the user's hands and can be disrupted like Perform Hand Seals action normally is all the way up to the end of its Delay.
 
 
 #### --( Hijutsu: Mushidama - Hidden Technique: Bug Sphere )--

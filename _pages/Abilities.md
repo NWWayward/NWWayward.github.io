@@ -186,7 +186,7 @@ You've trained yourself specifically with a single type of weapon. Choose one of
 - Limit: (DEX-30) /30, max 3
 
 #### -=[ Blunt: Stun ]=-
-Your attacks stagger an opponent, club them upside the head, knock the wind out of them, or otherwise keeping them from recovering. Your blunt weapon attacks gain Stun 1 per rank, or increase their existing Stun by 1 per rank.
+Your attacks stagger an opponent, club them upside the head, knock the wind out of them, or otherwise keeping them from recovering. Your blunt weapon attacks gain Stun 1 per rank, or increase their existing Stun by 1 per rank.  This applies only to damaging attacks which you have to hit your opponent.
 
 - Base Cost: 5
 - Scale: 2
