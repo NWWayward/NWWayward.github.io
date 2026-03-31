@@ -219,7 +219,7 @@ You attack with a weapon in each hand! Impractical, but awesome. As might be exp
 - Requires: 40 DEX
 
 #### -=[ Monkey Grip ]=-
-By using extreme strength, chakra-based powers, and a cheerful disregard for physics, you are able to use two-handed weapons in one hand!  Changing your grip (from one to two hands and vice-versa) is a non-action. Notably, when wielded with one hand they no longer benefit from the two-handed 25% increase to your Damage Bonus.
+By using extreme strength, chakra-based powers, and a cheerful disregard for physics, you are able to use two-handed weapons in one hand!  Changing your grip (from one to two hands and vice-versa) is a non-action; this IS required to be able to take a hand off of a two-handed weapon for, say, using items while wielding a two-handed weapon.  Notably, when wielded with one hand they no longer benefit from the two-handed 25% increase to your Damage Bonus.
 
 At the second rank you can, if you have the Dual Wield ability, even dual wield two-handed weapons.
 

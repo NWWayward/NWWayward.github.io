@@ -49,7 +49,7 @@ You put a weapon you're holding away, in some secure fashion. If you're holding 
 
 ###### Discard Weapon
 *(Speed 1, or Speed +2)*  
-You drop or toss aside a weapon. Done normally, this is a Speed 1 action. However, it may also be used alongside an Interrupt (such as a defensive ninjutsu technique) by increasing that action's Speed (after AP reductions) by 2.
+You drop or toss aside one or more weapons you are holding in your hands. Done normally, this is a Speed 1 action. However, it may also be used alongside a defensive interrupt by increasing that action's Speed by 2.
 
 ###### Retrieve Weapon
 *(Speed 5)*  
@@ -115,7 +115,7 @@ A martial arts weapon, the sai consists of a single main, dagger-like spike, wit
 - Damage: 4d8
 - Accuracy: +1
 - Speed: 9
-- Special: +2 Parry. After you successfully parry any non-Large weapon with your sai, you may elect to perform the Disarm action as an Interrupt against your opponent as a Stamina 12 action, using your parry roll as your attack roll for the disarm. If you successfully Disarm your opponent in this way, you can elect to catch their weapon in your other hand rather than send it flying, so long as you aren't holding anything in it already.
+- Special: +2 Parry. After you successfully parry any non-Large weapon with your sai, you may elect to perform the Disarm action as an Interrupt against your opponent as a Stamina 12 action, using your parry roll as your attack roll for the disarm. If you successfully Disarm your opponent in this way, you can elect to catch their weapon in your other hand rather than send it flying, so long as you aren't holding anything in it already; if you wish to drop a weapon to catch theirs, you must use the Discard Weapon link alongside your Parry prior to the disarm attempt to free a hand.
 
 ###### Tetsubo (Large, Blunt, Polearm, Two-Handed)
 Rarely used among ninja, except ones who want to demonstrate how overpoweringly strong they are, the tetsubo is a large wooden pole, often with iron studs on the business end.
