@@ -78,7 +78,7 @@ Effects: This attack is modified by Baika no Jutsu, as normal for Taijutsu, and 
 
 However, if you miss someone with this attack, you can not target them again with it for double the speed of the Bowl attack you missed with, as you must make wide turns (though you can always elect to target someone else in that time).  You lose all bonuses from successive hits of Bowl when you stop Rolling.
 
-#### --( Partial Multi-Size Technique )--
+#### --( Bubun Baika No Jutsu - Partial Multi-Size Technique )--
 A more exhausting but wieldy version of Baika no Jutsu, this jutsu quickly enlarges only a single part of the Akimichi’s body, usually an arm or leg, in order to enhance a Taijutsu attack’s force and reach and take their opponents by surprise.
 
  - Type: Taijutsu, Rank C
