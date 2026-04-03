@@ -46,7 +46,7 @@ Aburame have thousands of insects called Kikaichu living inside their body, that
 
 Effect: You create a cloud of Kikaichu that encompasses the listed Area. While this Cloud exists, you take a -CHA/20 penalty to Chakra rolls when using non-Aburame Clan Jutsu.
 
-The Swarm has CHA*6 Vitality and takes only half damage from Single Target attacks and Area of Effect attacks that do not fully encompass the Swarm's Area. The Swarm is immune to non-damaging effects, except as specifically stated. Ignite affects the Swarm, using its Vitality and the Aburame's other Stats. Effects that push or move a target also work on the Swarm. If Swarm would logically be pushed in multiple directions (such as Wind God's Breath while inside the Swarm) then the user of that effect chooses the direction. If the attack is not an Area of Effect that fully encompasses the Swarm's Area, then they only suffer half of the Ignite or Knockback effect. At 0 Vitality the Swarm disperses, this Jutsu ends, and this Jutsu may not be used again until the Swarm recovers some Vitality.
+The Swarm has CHA*6 Vitality and takes only half damage from Single Target attacks, which are treated the same as if the swarm had blocked for interactions (though they do not get block's damage reduction); Area of Effect attacks that do not fully encompass the Swarm's Area are also halved. The Swarm is immune to non-damaging effects, except as specifically stated. Ignite affects the Swarm, using its Vitality and the Aburame's other Stats. Effects that push or move a target also work on the Swarm. If Swarm would logically be pushed in multiple directions (such as Wind God's Breath while inside the Swarm) then the user of that effect chooses the direction. If the attack is not an Area of Effect that fully encompasses the Swarm's Area, then they only suffer half of the Ignite or Knockback effect. At 0 Vitality the Swarm disperses, this Jutsu ends, and this Jutsu may not be used again until the Swarm recovers some Vitality.
 
 Kikaichu may be communicated with out to a range of CHA/5 yards through minor fluctuations in the Host's Chakra. Kikaichu can operate beyond that range, and are surprisingly intelligent; but they may not receive new orders and will die after 24 Hours away from their Host. Kikaichu always know the distance and direction to their Host.
 
@@ -56,7 +56,7 @@ Aburame gain access to the following actions to utilize their Kikaichu:
 
 **Drain**  
 *(Speed 0, 3 AP)*  
-Anyone inside the Swarm's area you choose to target must make a Chakra Exhaustion (10 + X/2). X is how many IC they have remained in the cloud since they last left it. This action may be used no more than once every 10 IC.
+Anyone inside the Swarm’s area you choose to target must make a Chakra Exhaustion (15 + X/5). X is the lower of how many IC they have remained in the cloud since they last left it and the Aburame's CHA/2. This action may be used no more than once every 10 IC.
 
 **Return**  
 *(Speed 6)*  
@@ -160,7 +160,7 @@ The Aburame's bugs have been trained as professional ninja. There is a tiny ninj
  - Limit: 1
  - Requires: Kikaichu Training, able to use C Rank General Ninjutsu
 
-Effects: Kikaichu no Jutsu and actions involving the Swarm no longer break the Host’s Stealth. If the Aburame is in Stealth when they use Kikaichu no Jutsu, then the Swarm is also considered to be in the same Stealth Level with the same Stealth TN as the Aburame. From that point on, track the Swarm's Stealth separately. The Swarm may move while in Stealth 2 without breaking their Stealth. When the Swarm forces a Chakra Exhaustion Roll or when the Swarm is used in another Jutsu, it's Stealth is broken. The Swarm uses your modifiers to Stealth rolls and benefits from your Uniques and Abilities that modify Stealth. AoE attacks that encompass the entire swarm from people who have not found the Swarm only deal half their regular damage. The Swarm takes a penalty to its Stealth Rolls for multiple Stealth attempts in the same combat based on the higher of the number of times the Swarm or the Aburame have been in Stealth. While in Stealth, the X in Drain can not exceed half your Stealth TN. After leaving Stealth, the X value on Drain resets as though people left the area.
+Effects: Kikaichu no Jutsu and actions involving the Swarm no longer break the Host’s Stealth. If the Aburame is in Stealth when they use Kikaichu no Jutsu, then the Swarm is also considered to be in the same Stealth Level with the same Stealth TN as the Aburame. From that point on, track the Swarm's Stealth separately. The Swarm may move while in Stealth 2 without breaking their Stealth. When the Swarm forces a Chakra Exhaustion Roll or when the Swarm is used in another Jutsu, it's Stealth is broken. The Swarm uses your modifiers to Stealth rolls and benefits from your Uniques and Abilities that modify Stealth. AoE attacks that encompass the entire swarm from people who have not found the Swarm only deal half their regular damage. The Swarm takes a penalty to its Stealth Rolls for multiple Stealth attempts in the same combat based on the higher of the number of times the Swarm or the Aburame have been in Stealth. After leaving Stealth, the X value on Drain resets as though people left the area.
 
 Additionally, the Aburame gets access to the following actions:
 
