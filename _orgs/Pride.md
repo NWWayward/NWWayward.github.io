@@ -1075,7 +1075,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) (Requires CHA-based SDB Feature) You use your CHA in place of your DEX for the Blademaster ability with your sword.
 
 *Tassel Features*  
-(4) While using Chakra Flow (either version) with your sword, you can parry attacks from your current Chakra Flow element and elemental strength in the same way you can parry Taijutsu.  
+(4) While using Chakra Flow (either version) with your sword, you can parry Elemental Ninjutsu attacks from your current Chakra Flow element and the element it is strong to in the same way you can parry Taijutsu.  
 (4) As a Chakra +5, Speed +3 link you can replace your sword's 'Sword' tag with any of the following: Polearm, Fan, Chain, by forming chakra over your blade to take the shape of another type of weapon, allowing you to potentially use different jutsu dependent upon other weapon types (which does not prevent you from using your clan abilities with it).  Using Polearm, your weapon avoids on-contact effects; Using Fan, you can utilize Fuuton with your sword, as described under Jutsu Rules; Using Chain, your weapon gains a Range of 5, though it is still considered a melee weapon, not a ranged weapon.
 
 ###### b. Balance

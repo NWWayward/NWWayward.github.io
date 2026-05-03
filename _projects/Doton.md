@@ -56,7 +56,7 @@ Often placing a hand to the ground after the seals to feel the vibrations, this 
 
 Effects: Make a Chakra Control roll against anyone touching the ground or any rock surfance (including worked stone, such as brick walls) to locate anyone and everyone within range (i.e., it opposed their Stealth TN). Anyone not hidden is located automatically; if you find someone you locate them just as if you'd used the Search action, though you do not retain 'sight' of them. This cannot be used to identify someone who is hidden amongst clones, and in fact means you cannot use the Observe action to differentiate someone from their clones if this technique is your only way of perceiving your opponent (from being temporarily blinded, etc).
 
-You can use Yurokensei without breaking your stealth.
+You can use Yurokensei without breaking your Stealth, but repeat uses of Yurokensei grant no consecutive bonus.
 
 #### --( Shindou - Tremor )--
 Extra earth-elemental chakra is infused another Doton technique. When the technique hits the ground, or somebody touching the ground, it causes the earth itself to shake violently in that exact spot. The property damage potential's pretty impressive, but nothing compared to serious offensive jutsu.
@@ -115,7 +115,7 @@ After thoroughly concealing yourself, this technique allows you to move through 
  - Seal Speed: 8
  - Tags: Melee, Ground
 
-Effects: This technique can only be used if you are hidden from your target or underground, and uses your melee Taijutsu accuracy (rather than Ninjutsu). If used when hidden (but not underground), you briefly submerge underground and then move to melee range with your target to grab and pull them into the earth as you pop up from underneath them.
+Effects: This technique can only be used if you are hidden from your target or underground, and uses your melee Taijutsu accuracy (rather than Ninjutsu). If used when hidden (but not underground), you briefly submerge underground and then move to melee range with your target to grab and pull them into the earth as you pop up from underneath them.  If used while underground, you gain +3 to your Accuracy in exchange for ending your submerged state.
 
 If you hit, you inflict them with a -1 Immobilization Penalty per point your Accuracy beats their defense, to a maximum of -6. They can dig themselves out from underground as a Speed 10 action which removes the penalty entirely. Until they get rid of the Immobilization penalty from this technique they can not move (as they are stuck to the spot), but can otherwise attack and defend themselves.
 
@@ -128,7 +128,7 @@ An advanced variation of Bunshin no Jutsu, this jutsu creates solid clones made 
  - Requires: Bunshin no Jutsu
  - Tags: Clone
 
-Effects: These follow all the rules for regular bunshin, with the following exceptions: If a mud clone is hit by an unarmed attack, their attacker suffers a -4 immobilization penalty. If they are struck by a melee weapon, their attacker must make a grapple roll (as the defender), with your clone using NDB in place of PDB; if they fail, the weapon is stuck in the clone (which is exposed as a clone), and it must be wrested free from the clone's mud body as a Speed 5 action which allows another grapple roll with a +2 bonus for each prior attempt. 
+Effects: These follow all the rules for regular bunshin, with the following exceptions: If a mud clone is hit by an unarmed attack, their attacker suffers a -4 immobilization penalty. If they are struck by a melee weapon, the weapon becomes suck in the clone (which is exposed as a clone and destroyed), and it must be wrested free from the clone's mud body as a Speed 5 action which allows a grapple roll (with them as the defender) against your clone, using your NDB in place of your PDB; if they fail, they get +2 to future attempts to free the weapon until they manage to successfully do so. 
 
 Against ranged attacks, these clones can take 50 points of damage before being destroyed (and revealed as clones).
 
@@ -136,12 +136,12 @@ Against ranged attacks, these clones can take 50 points of damage before being d
 By surrounding your arm or leg in a coat of solidified earth, you can attack an opponent while being protected from direct contact with them.
 
  - Chakra: 12
- - Upkeep: 2 + X
+ - Upkeep: 1 + X
  - Speed: 6
  - Seal Speed: 12
  - Tags: Nintaijutsu, Preparation
 
-Effects: So long as this technique is maintained, your unarmed attacks are enhanced: You suffer no 'on-contact' effects (such as damage from punching a foe covered in spikes, or the immobilization of punching a Mud Clone), and gain +X to your Physical Damage Bonus. Additionally, unarmed parries against you take a -X penalty. X has a maximum of one-fourth your Ninjutsu Damage Bonus, rounded up.
+Effects: So long as this technique is maintained, your unarmed attacks are enhanced: You suffer no 'on-contact' effects (such as damage from punching a foe covered in spikes, or the immobilization of punching a Mud Clone), and gain +X to your Physical Damage Bonus. X has a minimum of one, and a maximum of one-third your Ninjutsu Damage Bonus, rounded up.
 
 #### --( Chigeshi - Earth Poppy )--
 The user quickly surges chakra into the ground at their feet, using it to launch earthen shrapnel toward a target.  It is less concentrated and shaped than Earthen Skewer, resulting in fresh dirt and debris surrounding darker bits that are pulled from deeper below ground, giving it its resulting namesake.
@@ -215,9 +215,13 @@ Channeling your chakra into the ground below you, you turn the dirt or earth or 
  - Speed: 12
  - Seal Speed: 12
 
-Effects: You dive down a yard underground, but are afflicted with a with Stun 12. If used as an Interrupt, this requires a dodge roll with a +5 bonus; success, even partial, will allow you to trigger the second half of this jutsu.
+Effects: You dive down a yard underground. If used as an Interrupt, this requires a dodge roll with a +5 bonus; success, even partial, will allow you to trigger the second half of this jutsu.
 
-Next, roll Espionage +5 vs. Awareness. If you are successful, the opponents can't tell how you left, or that there's a hole in the ground: They think you simply vanished, or died (if used as an interrupt against a sufficiently impressive attack). You are hidden at Stealth 2 against anyone whose Awareness you beat, but cannot move, aside from resurfacing (a simple, Speed 0 action once you can move again). For every time you use this jutsu in the same combat after the first, you take a cumulative -5 to your Espionage roll. While underground, you have an additional +5 Stealth and attempts to Track you take a -5 penalty, but anyone can attack you while you are under the ground, and any defensive roll you take while submerged takes a -6 penalty. An attack which deals at least 100 damage will break through the surface of the earth above you, ending your submerged state forcefully, but the actual damage dealt to you will be reduced by half (after seeing if it does enough to break the earth above you).
+You immediately attempt to Hide, with a +5 bonus to your Stealth roll, with opponents getting an opposed Awareness roll.  You are then placed in Stealth level 2 against anyone whose Awareness you beat, but can not move from where you are at, aside from resurfacing (a Speed 0 action).  Repeat uses in the same combat of this technique reduce the bonus to Dodge (when used as an interrupt) by 1, to a minimum of 0, and adds to (and suffers from) the normal repeat attempts to Hide in combat.
+
+While underground, attempts to track you take a take a -5 penalty (if fleeing and being chased, etc), but anyone can attack you while you are under the ground so long as they are aware of you (i.e., you are not hidden in Stealth from them).  While underground you become immmune to non-ground Area of Effect attacks (as if you were simply not in the area), but take a -6 penalty to defensive rolls made while underground.  When attacked while underground, any attack which deals at least 100 damage will break through the earth above you, forcibly ending your submerged state.  
+
+You can attack (but again, can not move from where you are at) while underground, but only with taijutsu and doton ninjutsu with a range of 1 or more, which will lower (or break) your Stealth normally; any attack which ends your Stealth automatically ends your submerged state, but those which only lower it allow you the choice to end it or not as part of your attack.
 
 #### --( Dochuu Eigyo no Jutsu - Moving Underground as if Swimming Technique )--
 This technique reduces the consistency of earth into less than that of fine sand by channeling chakra into it, allowing the user to dig through it with ease. This affects the entire body, and the earth returns to its normal consistency after they've passed.
@@ -228,9 +232,11 @@ This technique reduces the consistency of earth into less than that of fine sand
  - Seal Speed: 12
  - Tags: Preparation
 
-Effects: This may only be used while underground, such as from the effects of Moguragakure no Jutsu, to burrow through solid rock, and can be used while Stealthed without revealing you. It works only on earth and unworked stone (you could burst out from under stone tiles, but not tunnel through a wall). While you maintain this technique's upkeep, you can move underground up to a yard deep (any deeper any you would begin to be crushed by the pressure of the earth around you), using CHA/2 in place of AGI for determining your movement speed. 
+Effects: This may be used while underground, such as from the effects of Moguragakure no Jutsu, or used to enable you to submerge underground up to a yard below the surface.  It can also be used to burrow through solid rock, and can be used while Stealthed without revealing you.  It only works on earth and unworked stone (you could burst out from under stone tiles, but not tunnel through a wall).  You use your CHA/2 in plage of AGI for determining your movement speed while underground.
 
-Anyone can attack you while you are under the ground, and any defensive roll you take while submerged takes a -6 penalty. An attack which deals at least 100 damage will break through the surface of the earth above you, ending this jutsu forcibly, but the actual damage dealt to you will be reduced by half (after seeing if it does enough to break the earth above you).
+While underground, attempts to Track you take a take a -5 penalty (if fleeing and being chased, etc), but anyone can attack you while you are under the ground so long as they are aware of you (i.e., you are not hidden in Stealth from them).  While underground you become immmune to non-ground Area of Effect attacks (as if you were simply not in the area), but take a -6 penalty to defensive rolls made while underground.  When attacked while underground, any attack which deals at least 100 damage will break through the earth above you, forcibly ending your submerged state.
+
+You can attack while underground, but only with taijutsu and doton ninjutsu with a range of 1 or more, which will lower (or break) your Stealth normally; any attack made while submerged automatically removes your submerged state unless you are in Stealth and attacking in such a way to not break your Stealth, in which case you can choose whether to end your submerged state as part of your attack or not.
 
 ## B-Rank
 #### --( Doryou Dango - Earth Mausoleum Dumpling )--
@@ -269,14 +275,14 @@ This creates a dome chamber around a small group of enemies, which you enlace in
 
 Effects: This creates a dome of earth directly in front of you, with you at the edge of its area. Anyone who fails to avoid it is trapped inside the dome; those that succeed in their defense are allowed to move to any side of it, or to simply be on top of it.
 
-The dome has 400 + (Ninjutsu damage bonus)*10 HP; anyone who can see or sense Chakra can target the dome's weak spot to deal +50% damage to it. Every 10 IC which pass, the following effects occur:
+The dome has 400 + (Ninjutsu damage bonus)*10 HP, and is considered to be Blocking for when it is relevant (such as against a Large Thrown weapon), which does not reduce the damage it takes; anyone who can see or sense Chakra can target the dome's weak spot to deal +50% damage to it. Every 10 IC which pass, the following effects occur:
  - Everyone inside the dome has their Chakra Exhaustion penalty increased by 1.
  - You have your Chakra penalty reduced by 1 per person inside the dome.
  - The dome regains (Ninjutsu damage bonus)*10 HP, up to its maximum.
 
 You must keep one hand on the dome at all times, and accordingly can not move; if you break contact the above effects end (and cannot be reestablished), but the dome retains any HP it had at that point.
 
-Attempts to go underground will be prevented and automatically fail while the Dome retains hit points, such as through Moguragakure no Jutsu.  Earth Shaping, similarly, will not work to damage the dome, as it is constantly reinforced with Chakra.  Similarly, other area of effect upkeeps (such as Grudge Rain) will not work on anyone within Dorou Domu, as the dome protects them from its effects while it's retained (though the person outside of the dome is certainly effected). Effects which are not upkeeps (such as Dokugiri), if already present when this technique is used, continue to persist within the dome and affect everyone within the dome normally.
+Attempts to go underground will be prevented and automatically fail while the Dome retains hit points, such as through Moguragakure no Jutsu.  Earth Shaping, similarly, will not work to damage the dome, as it is constantly reinforced with Chakra.  Similarly, area of effect upkeeps (such as Grudge Rain) will not apply to anyone within the prison, as it protects them from its effects while it exists; non-upkeep environmental effects (such as Dokugiri, or Mist Blaze Dance), on the other hand, if already present when the technique is used, continue to persist within its area both within and outside the dome.  New effects can not be placed inside it, however.
 
 If the Dome is broken by an area of effect attack, any overflow damage remaining from the attack which broke the dome carries through to affect everyone outside of the dome according to its normal area, though they can then defend against it as normal.
 

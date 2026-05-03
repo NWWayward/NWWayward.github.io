@@ -156,7 +156,7 @@ Movement: 4 yards per IC
 Athletics: +15  
 Awareness: +15  
 Espionage: +10  
-Resistance: +15
+Resistance: +15  
 Stealth: +15  
 Survival: +10  
 

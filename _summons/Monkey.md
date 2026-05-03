@@ -115,16 +115,17 @@ The staff can be summoned for up to four hours, once every two weeks (2 OOC days
 #### --( Migawarizaru - Substitution Monkey )--
 Migawarizaru is summoned in response to an attack, the monkey taking the hit for the shinobi. Or, rather, one of his many clones does; a puff of smoke engulfs the 'ninja' who was just hit, revealing them to be a monkey, before that monkey vanishes in another puff of smoke. Moments later duplicates of the summoner begin appearing across the battlefield, each of them cloned monkeys disguised as the summoner via Henge no Jutsu. One of them is the summoned monkey himself, indistinguishable from the rest. In the ensuing confusion the summoner is free to either escape the battle, or take advantage of the situation to strike.
 
- - Chakra: 32
+ - Chakra: 20
  - Special: Interrupt
  - Speed: +6
  - Seal Speed: 10
+ - Tags: Clone
 
 Effects: Migawizaru functions similarly to Kawarimi. You may use it after failing to dodge a technique, so long as partial defense applies. So long as the dodge's new total Speed (including the +6 from Migawizaru, and its Seal Speed) would allow it to be used as a valid Interrupt, you may pay 10 AP to fully dodge the attack and use this technique. As a reminder, while you could use AP to reduce the final Speed of Dodge + Migawarizaru to 4 (2+6 = 8, to a minimum of half that with AP), the modified Seal Speed, if above 0, cannot be reduced this way.
 
 After the substitution is used, the monkey himself appears along with seven more clones on the battlefield, each of them disguised as the summoner and carrying on with some form of obnoxious antics. The summoner may choose to either immediately attempt to enter stealth (with their opponent(s) receiving an immediate Awareness roll against their Stealth roll), or automatically hide among clones as with a normal Bunshin technique.
 
-When the clones are targeted, roll 1dX; X is equal to the number of clones remaining, plus 1 for Migawizaru, plus 1 more if the summoner is hidden among them. On a roll of 1, the Migawizaru is hit and they all vanish. If the summoner is hidden among the clones, 1 hits the summoner (and all the clones vanish, along with Migawizaru) and 2 hits Migawizaru.
+When the clones are targeted, roll 1dX; X is equal to the number of clones remaining, plus 1 for Migawizaru, plus 1 more if the summoner is hidden among them. On a roll of 1, the Migawizaru is hit and they all vanish. If the summoner is hidden among the clones, 1 hits the summoner (and all the clones vanish, along with Migawizaru) and 2 hits Migawizaru.  Area of Effect attacks that include one or more clones. the summoner, and/or Migawizaru cause only one of the clones to vanish, regadless of how many are 'hit', due to monkey trickery; if no clones are left besides Migawizaru, however, he is hit and unsummoned.  Attacks which target multiple people at once (which are not, themselves, area of effect) remove a clone per projectile, and function normally.
 
 #### --( Daisan Enchouzou - Three Great Monkey Statues )--
 Technically a trio of separate summoning techniques, each one calling a separate giant stone monkey statue. The story behind these statues varies depending upon who you ask, but in the case of the actual summoning contract they serve as a conduit for the summoning of the Handsome Monkey Prince (or maybe he's just too vain to show up until the summoner's gone through the effort of calling the statues; really, it could be either one).
@@ -190,8 +191,8 @@ AGI: 80
 
 Accuracy: 27  
 Dodge: +16  
-Damage Bonus: 2.6
-Genjutsu Defense: +20    
+Damage Bonus: 2.6  
+Genjutsu Defense: +20  
 Movement Speed 3.0 per IC  
 
 Athletics: +25  

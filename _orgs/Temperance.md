@@ -245,7 +245,7 @@ This technique takes advantage of mokuton's ability to accelerate plant growth b
 - Speed: 10, +3 per clone
 - Tags: Clone
 
-Effects: These function like regular bunshin, but have CHA*2 HP, and your attributes. They do not suffer wounds and you may only ever have up to three at once in existence. They may dodge, parry, and perform any other action you normally could, by spending 1 AP per 2 Speed of that action; however, after reaching Fatigue 3 they decay into lifeless wood pulp and fall apart. Wood clones may not take actions with a chakra or stamina cost greater than 18+(RES for Taijutsu, or CHA for Ninjutsu or Genjutsu)/10.
+Effects: These function like regular bunshin, but have CHA*2 HP, and your attributes. They copy over wounds you might have when created as normal for clones, but do not take wounds from any damage taken to their HP. You may only ever have up to three at once in existence. They may perform the basic Dodge and Parry actions for free (as is normal for clones), and perform any other action you normally could by spending 1 AP per 2 Speed of that action; however, after reaching Fatigue 3 they decay into lifeless wood pulp and fall apart. Wood clones may not take actions with a chakra or stamina cost greater than 18+(RES for Taijutsu, or CHA for Ninjutsu or Genjutsu)/10.
 
 Wood clones have your mind, and can act independently. You are aware of their location, and they yours, though your senses are not linked. You may reabsorb a 'living' wood clone by touching it, in which case you 'download' all its memories.
 
@@ -264,6 +264,10 @@ Effects: This is the Mokuton 'version' of the Water Prison and/or Water Drowning
 
 It creates a wooden cage around anyone who can't escape its area, which has 200+(damage bonus)*15 HP, and reduces all damage it takes by your CHA. People inside cannot attack people outside, and vice versa.
 
+Environmental effects can pass through the cage unhindered (so long as their area can reach the person inside it), but can not be centered or directly placed within the cage; rather, they can only be placed at the outer edges of the cage (including things such as Smoke Bombs), though that includes its roof.  Likewise because of its gaps, things which can slip through gaps (such as a Hozuki in Hydration, or an Aburame's Kikaichuu) can enter and exit the prison freely unhindered, though as above, attacks (even with small weapons) can not pass through it, including using the usage of Genjutsu on someone inside of it.
+
+You can not layer Wood Prisons over each other, even if you modify its area accordingly.
+
 #### --( Mokuton: Jukai Koutan - Wood Release: Nativity of a Sea of Trees )--
 This technique uses chakra to cause trees and tree roots to grow rapidly, bursting from any surface. It's too unrefined to be used as a direct method of offense, but can be useful for altering the landscape of a battlefield.
 
@@ -273,7 +277,7 @@ This technique uses chakra to cause trees and tree roots to grow rapidly, bursti
 - Area: X*2
 - Speed: 8
 - Seal Speed: 16
-- Tags: Area of Effect
+- Tags: Area of Effect 
 
 Effects: This overwrites any ground effects on the area it's used on. By changing the cost to 5 + X*2, it can be used to create a one-story building. The complexity of this building is determined by your Chakra Control.
 
@@ -475,7 +479,7 @@ The cornerstone of the Yotsuki Clan's power, this cloak absorbs elemental energy
 
 Effects:  Select one element you have Aptitude for when you activate this technique. Your body becomes attuned to that element while you maintain it, causing an aura of that element to wreathe their body, protecting and empowering them.  You become immune to all non-environmental Status Effects from that element (though any existing status effects from that element before Kiryu's activation continue to apply normally), reduce damage taken from that element by 25%, and cause your unarmed attacks to be considered the element chosen for the purposes of elemental interactions, as well as a bonus based on your chosen element:  
 
- - **Doton**:   You gain (8 + NDB) * (1 + X) Damage Reduction. If you hit someone who is Prone with a damaging unarmed attack, you gain the Damage Reduction from this feature as added damage to your attack.
+ - **Doton**:   You gain (8 + NDB) * (1 + X) Damage Reduction. If you hit someone who is Prone with a damaging, non-grapple unarmed attack, you gain the Damage Reduction from this feature as added damage to your attack.
  - **Fuuton**:  Whenever you succeed on an unarmed parry, you deal your NDB * (Parry’s final Speed + X) damage back to the attacker automatically, and can elect to knock them away from, or pull them toward, you (NDB + X)/2 yards.
  - **Katon**:   unarmed attacks apply Burns 3, while all Combo Counter and Combo Bonus lines gain “+0.2 * (1 + X) PDB”, with a maximums bonus of your PDB.
  - **Raiton**:  Unarmed Taijutsu reduce their speeds by (1 + X), which does not reduce their damage, and bypass half of an opponent’s DR.

@@ -101,11 +101,11 @@ Effects: You acquire a naginata or yari made out of fire. It uses your NDB +33% 
 This technique wreathes part of your body--generally a forearm and hand, but it can vary depending on the needs of the technique--with chakra-based flames! It's quite flashy, and could be considered low-grade nintaijutsu, as it then combined those flames with a physical attack of your choice.
 
  - Chakra: +8
- - Seal Speed: +5
+ - Speed: +2
  - Status: Burns 4
- - Tags: Nintaijutsu
+ - Tags: Nintaijutsu, Link
 
-Effects: After completing the seals, you perform any non-grapple unarmed attack. The technique uses your ninjutsu, rather than physical damage bonus, and increases it by 25%, unless the technique itself increases it further in which case, you use whichever is preferable.
+Effects: This can be added to any non-grapple unarmed attack. The technique uses your ninjutsu, rather than physical damage bonus, and increases it by 25%, unless the technique itself increases it further in which case, you use whichever is preferable.
 
 #### --( Ryuuseiu no Jutsu - Meteor Shower Technique )--
 The user gathers intense fire chakra in their palms or fingertips before throwing several weapons which ignite in mid-air. Aside from being painful, being hit by flaming bits of metal carries other risks.

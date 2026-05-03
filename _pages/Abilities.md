@@ -361,11 +361,11 @@ All this ninja work has left you well beyond what peak physical condition would 
 - Limit: RES /80
 
 #### -=[ Hard to Kill ]=-
-You prove distressingly difficult to make dead. Your max Vitality and HP are increased by 10% per rank. However, Wounds are calculated off your unmodified ("true") maximums. For example, if you had 1000 Vitality and 3 ranks of Hard to Kill, you'd have 1300 Vitality. However, your "true" maximum would still be 1000, and wounds would be determined based off what percent of 1000 Vitality their damage was.
+You prove distressingly difficult to make dead. Your max Vitality and HP are increased by 3%, and you gain 2 Damage Reduction, per rank. However, Wounds are calculated off your unmodified ("true") maximums. For example, if you had 1000 Vitality and 3 ranks of Hard to Kill, you'd have 1090 Vitality. However, your "true" maximum would still be 1000, and wounds would be determined based off what percent of 1000 Vitality their damage was.
 
-- Base Cost: 6
+- Base Cost: 1
 - Scale: 1
-- Limit: RES /20
+- Limit: RES /10
 - Requires: 80 RES
 
 #### -=[ Healthy ]=-
@@ -494,7 +494,7 @@ Ninja really do seem to have one, and no experienced shinobi will deny it, not o
 #### -=[ Bravado ]=-
 This allows your Instrument to also be capable of converting (some) General Ninjutsu the same way you could Genjutsu, allowing you to convert their normal Chakra costs into Stamina costs, following the normal rules for Instruments. Additionally, you can apply Illusion Multi-targetting to them by paying its normal cost (of 1 Willpower), affecting multiple people with those techniques at once who are within the techninique's normal Range, or NDB * 2 if it does not have a listed Range.  
 
- - Base Cost: 20
+ - Base Cost: 15
  - Requires: Instrumental Mastery, Chakra Control 15
 
 *The General Ninjutsu this can be used on:*
@@ -514,13 +514,13 @@ When you opt to utilize the Genjutsu Iron Curtain not as an interrupt (or can re
 #### -=[ Crescendo ]=-
 You can now convert Area of Effect Fuuton ninjutsu with an Instrument.
 
- - Base cost: 20
+ - Base cost: 10
  - Requires: Bravado
 
 #### -=[ Instrumental Mastery ]=-
 You can use an Instrument to convert all types of Genjutsu, rather than just Area of Effect Genjutsu.  Single-target Genjutsu require you to utilize Illusion Multi-Targetting (and paying 1 Willpower as normal) to affect more than one person with them, though . Those that do not have an Area instead gain one equal to their Range.
 
- - Base Cost: 20
+ - Base Cost: 10
  - Requires: Illusion Multi-Targetting
 
 #### -=[ Maestro ]=-
@@ -539,9 +539,13 @@ You're an expert at misdirection; you know the signs people look for and pick up
 - Limit: Espionage /5
 
 #### -=[ Cunning Blow ]=-
-If you attack an opponent within 10 IC after you've successfully defended against an attack they made which targeted you, you have a +4 bonus to Accuracy. 
+After you have successfully defended against an attack, the first attack you make against the person who attacked you gains +4 to its Accuracy.
 
-Passive defenses (such as DR, or Crossroads of Heaven, or Genjutsu defense rolls) do not trigger Cunning Blow, nor does any form of Blocking. Defensive Interrupts which stop a set amount of damage (i.e., Earth Shore Return) are considered successful only if they completely stop the attack. Defensive interrupts which become attacks do not gain the benefit from the successful defense which triggered them.
+For a defense to be considered successful, you must avoid being hit by the attack in question. Additionally, Cunning Blow only triggers in response to active defenses (such as dodging), not passive ones (such as the automatic deflection of incoming attacks by Crossroads of heaven)--you must actually take an action to defend yourself. For this reason, genjutsu defenses do not activate Cunning Blow either (even if you use Iron Curtain to bolster them).
+
+As such, Blocking is never considered a successful defense, nor is negating all of the damage with DR. Neither is the Berserker unique's "no defense" option.
+
+Dodge, parry, and similar ninjutsu defenses are all capable of qualifying as "successful" for this purpose. Active defenses which stop a set amount of damage (i.e. Earth Shore Return) are considered successful if they stop the attack from affecting you in any way. Defensive interrupts which become attacks do not gain the benefit from the successful defense which triggered them, though they also do not 'use up' Cunning Blow's bonus.
 
 - Base Cost: 50
 - Requires: 20 Espionage
@@ -684,7 +688,9 @@ You get a lot done in combat. Whether it's quickly assessing the battlefield, ex
 - Limit: AGI /20
 
 #### -=[ Principle of Motion ]=-
-You're able to act blindingly fast, beyond what all reason suggests should be possible. You may at any time after your first non-interrupt action in combat cause your next action to come 1 IC earlier for every 2 AP you spend. For example, say it's initiative count 200, and you just took a speed 12 action. Your action ends that IC, moving the battle onto IC 201; normally your next action would occur on IC (200+12) = 212. By spending 22 AP, you could act on (IC 212 - 11) 201, in other words, immediately. This only allows your next action to come sooner; it does not let you finish an ongoing action sooner. As such, Principle of Motion can't be used to make you finish Handseals early, or while you are in the process of using any action with a Delay, or any Variable Speed Action (including the Move action). Similarly, you can not use Principle of Motion to reverse time. You may use Principle of Motion only to bring your next action to what the current initiative count is. This means that if you take an action on IC 16, once it is resolved IC 17 begins--and that is the earliest you could activate Principle of Motion, meaning you would be unable to act twice on the same initiative count. After using Principle of Motion, you may not use it again until 10 IC have passed. You may not use Principle of Motion while Stunned. 
+You're able to act blindingly fast, beyond what all reason suggests should be possible. You may at any time after your first non-interrupt action in combat cause your next action to come 1 IC earlier for every 2 AP you spend, with a minimum of 8 AP spent; You may only use Principle of Motion to bring your next action to what the current initiative count is, and may not use it on an IC in which you take an action (not including defensive interrupts).  Thus, if you acted on IC 200 and took a Speed 3 action, it would cost you 8 AP to, on IC 201, reduce your IC from 203 to 201--allowing you to act immediately.
+
+This only allows your next action to come sooner; it does not let you finish an ongoing action sooner. As such, Principle of Motion can't be used to make you finish Handseals early, or while you are in the process of using any action with a Delay, or any Variable Speed Action (including the Move action). Similarly, you can not use Principle of Motion to reverse time. You may use Principle of Motion only to bring your next action to what the current initiative count is. This means that if you take an action on IC 16, once it is resolved IC 17 begins--and that is the earliest you could activate Principle of Motion, meaning you would be unable to act twice on the same initiative count. After using Principle of Motion, you may not use it again until 10 IC have passed. You may not use Principle of Motion while Stunned. 
 
 - Base Cost: 60
 - Requires: 100 DEX, 100 AGI

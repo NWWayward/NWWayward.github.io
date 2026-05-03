@@ -40,13 +40,13 @@ Summoning all 8 of their Ninken team, the shinobi uses a bit of their own blood 
  - Speed: 10
  - Seal Speed: 15
 
-Effects: Before this technique can be used, you need to get some of your own blood onto the target. This can be accomplished one of two ways. The first, if your opponent has damaged you with a piercing or slashing weapon and is still carrying it, there will be enough blood on it. Alternately, you can cut your hand with a slashing weapon as a Speed 4 action that deals 10 points of damage (which cannot be reduced) to yourself. After doing so, you have 25 IC to hit your target with a basic unarmed attack; if it takes longer than that, you need to cut yourself again.
+Effects: Before this technique can be used, you need to get some of your own blood onto the target. This can be accomplished one of two ways. The first, if your opponent has damaged you with a piercing or slashing weapon and is still carrying it, there will be enough blood on it. Alternatively, you can cut your hand with a slashing weapon as a Speed 4 action that deals 10 points of damage (which cannot be reduced) to yourself. After doing so, you have 25 IC to hit your target with a basic unarmed attack; if it takes longer than that, you need to cut yourself again.
 
-Once an enemy has blood on them, Tracking Fang can be used; your ninken team appears by you and dives underground. They will attack your target X/2 IC later, where X is the number of yards that target is from you; if they move away, the time until the dogs attack is increased, but no matter what the ninken team will eventually find them. No penalties other than Fatigue are applied to your Accuracy with this technique. Similarly, you can use this against someone who you can't see (because they're in stealth) as long as they've been marked. Being hit by Tracking Fang will immediately remove a stealthed individual from stealth.
+Once an enemy has blood on them, Tracking Fang can be used; your ninken team appears by you and dives underground. They will attack your target X/2 IC later, where X is the number of yards that target is from you; if they move away, the time until the dogs attack is increased, but no matter what the ninken team will eventually find them.  This technique automatically hits once the dogs reach the target, even if they are in stealthed or hidden among clones, so long as they can be attacked, and they are automatically removed from stealth and considered distinguished from their clones for as long your ninken remain latched onto them.
 
-When the dogs do attack, it is defended against as if it was whatever Speed this technique was when you performed it. If it hits, the target suffers a -8 immobilization penalty, and you and they both roll Survival. The penalty lasts for 2 IC for every point you beat their Survival roll by, with a minimum of 10 IC.
+The target suffers an X Immobilization penalty equal to the number of ninken you wish to utilize, from one to eight, and you both roll Survival; you can use the higher of your actual Survival ranks or 3 + XP/200.  The immobilization penalty lasts for 2 IC for every point you beat their Survival by, with a minimum of 10 IC.
 
-If the victim takes a total of 300 or more points of area-of-effect damage (before reductions), the effect ends immediately, and all of your ninken are unable to be summoned for four weeks (as discussed in Summons -> Ninken -> Terms of Contract).
+If the victim takes a total of 400 or more points of area-of-effect damage (before reductions), the effect ends immediately, and the amount of ninken you can summon for the next four weeks is reduced by the amount of Immobilization you had applied to them (with 8 meaning you can not summon any of them). X is limited by the amount of ninken you have available to summon when you use it.
 
 #### --( Kuchiyose: Inugami - Summoning: Dog Spirit )--
 The Inugami is said to be created by the death of a starving dog buried up to its neck and left to die with food just out of reach. As the myth goes, the spirit will then serve its former master, but at times will remember how its life ended and turn upon whoever bound it to that fate.
@@ -124,7 +124,7 @@ Despite not having enough Chakra Control, each of the Ninken has the equivalent 
 Ninken do not need to make Stamina or Chakra Exhaustion rolls when they act. If forced to by an outside force (such as Suffocation), they have +5 to their rolls.
 
 **Tracking Fang Technique**  
-If the shinobi uses the Tracking Fang Technique jutsu while one or more ninken are present on the battlefield, they will all burrow underground. They are effectively removed from combat until the end of that technique's duration, at which point they return to fight normally. Rather than immediately un-summoning themselves after taking 300 damage (as would be normal for Tracking Fang), they take damage normally (though taking that much damage will still end Tracking Fang, as discussed in its effects).
+If the shinobi uses the Tracking Fang Technique jutsu while one or more ninken are present on the battlefield, they will all burrow underground. They are effectively removed from combat until the end of that technique's duration, at which point they return to fight normally. Rather than immediately un-summoning themselves after taking damage (as would be normal for Tracking Fang), they take damage normally (though taking that much damage will still end Tracking Fang, as discussed in its effects).
 
 **Might of the Meek**  
 Ninken are loyal followers of their summoners (even if they most loyal when given something to eat), and are in fact capable of learning from them (no matter what people say) to perform adequately beside their summoners throughout their lives.  Whenever you summon a Ninken, subtract the minimum XP required to summon it (1000 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 4000.  
@@ -184,7 +184,7 @@ That said, regardless of village affiliations the ninken will have nothing to do
 
 Unlike most summons, you can also summon ninken repeatedly in the same week (OOC day).
 
-If a dog has all its Vitality depleted, that particular ninken cannot be summoned for four weeks. The Tracking Fang Technique cannot be used if one or more of your dogs are recovering after such an event.
+If a dog has all its Vitality depleted, that particular ninken cannot be summoned for four weeks. The Tracking Fang Technique's maximum Immobility penalty is reduced by the number of dogs that are recovering and unable to be summoned.
 
 ##### Mountain Dogs
 ###### 1. Summoning

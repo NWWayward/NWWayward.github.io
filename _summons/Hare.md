@@ -46,7 +46,6 @@ However, whenever there is someone hidden within 10+X yards who the summoner doe
 Attempting to negotiate as a ninja is a risky prospect, because as often as not the people you try to talk to really don't care that you have a white flag, and would rather jump and murder you than listen to you explaining why violence really isn't necessary.
 
 This technique creates a wooden pendant, a circle with three carved hares inside it forming a triskelion of sorts, which can only be worn by the summoner (and, if not put on within a minute, crumbles to dust). So long as it's worn, they have significant protections against hostility, though in exchange must live up to their own set of standards.
-The pendant's design looks something like this.
 
  - Chakra: 30
  - Speed: 20

@@ -85,7 +85,7 @@ In a fashion similar to how ninja knead chakra into their palms and feet to stic
  - Special: This technique may not have its seal speed removed with a fan
  - Tags: Nintaijutsu, Preparation
 
-Effects: While this technique's upkeep is maintained, all your non-grapple unarmed attacks inflict a Knockback of (NDB/2, rounding down) yards, and allow you the option to 'chase' (and remain at range 0) with the primary target of your attack (if it's an AoE, pick one target to chase) after knocking them back, ignoring ground effects as you do so.  Additionally, parries against such attacks take a -2 to their roll.
+Effects: While this technique's upkeep is maintained, all your non-grapple unarmed attacks inflict a Knockback of (NDB/2, rounding down) yards, and allow you the option to 'chase' (and remain at range 0) with the primary target of your attack (if it's an AoE, pick one target to chase) after knocking them back, ignoring ground effects as you do so.  Additionally, parries against such attacks take a -3 to their roll.
 
 #### --( Hagitoru Aori no Jutsu - Tearing Gust Technique )--
 Generally performed with a fan as a matter of practicality, this technique unleashes a burst of wind that will not only deflect projectiles, but also strip them of any chakra they may be infused with.

@@ -187,9 +187,11 @@ Being able to interrupt is a special quality certain abilities and techniques ha
 
 You may use an interrupt if the Speed of the interrupt (and in the case of ninjutsu, Speed + modified Seal Speed) is half or less that of the action you're interrupting. This is one instance where you may use a ninjutsu with handseals without having performed the handseals as a prior action.
 
-The total Speed of the interrupt is added to your next action on the IC. Unlike normal Actions, the base Speed of Interrupts can start below 3, and be reduced by half (rounded up), going lower than 3, though in such a case they can never be reduced below Speed 1.
+The total Speed of the interrupt is added to your next action on the IC. Unlike normal Actions, the base Speed of Defensive Interrupts can start below 3, and be reduced by half (rounded up), going lower than 3, though in such a case they can never be reduced below Speed 1.
 
-In the rare instance that you perform a defensive interrupt which then goes on to become an attack, the total Speed of the interrupt is what is used to determine the Speed of the associated attack, which then has a minimum Speed of 3 (like all attacks). 
+Likewise, Defensive Interrupts that have their Speeds increased by Wounds (such as Bruised Ribs) or Status Effects (Such as Shock) can have speed increases applied from debuffs fully cancelled out by AP, and do not affect how low the Defensive Interrupt can go.  i.e., a Dodge is normally Speed 2.  If you had Bruised Ribs (+1 to all Speeds), and Shock 4 (+2 to defensive interrupt speeds), your dodge then becomes Speed 5.  However, you can still decrease it as low as Speed 1 (rather than 3), using 4 AP.  This allowance does not apply to Links, which increase your defensive interrupt's speed, and its minimum speed, accordingly: a Dodge (Spd 2) with Mizuhane (+3 Spd) is still a Speed 5 dodge, reducable only to Speed 3.
+
+In the rare instance that you perform a defensive interrupt which then goes on to become an attack, the total Speed of the interrupt is what is used to determine the Speed of the associated attack, which then has a minimum Speed of 3.
 
 ### Delay
 Delay is not, properly speaking, an action in and of itself, but rather a quality certain actions have. For an example of how this might be written, an attack could have "Speed 12, Delay 4". This means that while it would be declared normally on your turn, its effects would take place 4 initiative counts later. The action may be aborted any time up to the last IC of the delay.
@@ -375,11 +377,9 @@ You can suffer from multiple burn effects at the same time, though only the stro
 ### Ignite
 You are on fire. Literally, you are burning. This is probably one of the most excruciatingly painful experiences of your life.
 
-Ignite's effects are somewhat complicated. Like most statuses, it has a severity. You suffer a penalty to your Stealth checks equal to its severity, and every 5 IC you take damage equal to its severity, plus its severity in percent of your current Vitality.
+Ignite's effects are somewhat complicated. Like most statuses, it has a severity. You suffer a penalty to your Stealth rolls (and any existing Stealth TN you may have) equal to its severity, and every 5 IC you take damage equal to two times its severity, plus its severity in percent of your current Vitality. Thus, an Ignite 10 would give you -10 to Stealth and would deal 20 damage, plus 10% of your current Vitality. This damage can Wound, and wounds from Ignite are Energy Wounds. Each time it does damage, you subtract (RES/30, minimum 1) from its severity.
 
-Thus, an Ignite 10 would give you -10 to your Stealth and would deal 10 damage, plus 10% of your current Vitality. This damage can Wound, and wounds from Ignite are Energy Wounds. Each time it does damage, you subtract (RES/30, minimum 1) from its severity.
-
-If you have no Vitality remaining, it instead does damage equal to its severity in percent of your maximum HP. The above Ignite 10 effect would deal 10% of your maximum HP in damage.
+If you have no Vitality remaining, it instead does damage equal to its severity in percent of your maximum HP, without any flat amount added from its Severity (the Stealth penalty still applies): The above Ignite 10 effect would deal 10% of your maximum HP in damage.
 
 If someone ignites you again while you are already on fire (seriously, what kind of people are you fighting?), the more severe effect replaces the less severe one.
 

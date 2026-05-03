@@ -81,7 +81,6 @@ Large fans with reinforced wooden slats, these were originally used by generals 
  - Cost: 200 Ryo
  - Stamina: 12
  - Damage: 8d12
- - Accuracy: -2
  - Speed: 12
  - Special: Blocking weapons with a Gunbai reduces their damage by 50%, rather than 25%.
 
@@ -122,7 +121,7 @@ Rarely used among ninja, except ones who want to demonstrate how overpoweringly 
 
 - Cost: 250 Ryo
 - Stamina: 18
-- Damage: 12d12
+- Damage: 15d12
 - Accuracy: -3
 - Speed: 16, Delay 8
 - Special: Stun 6. Attacks from a Tetsubo do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects). Anyone attempting to parry this weapon takes a -3 to their parry roll, and this weapon reduces blocking by an additional 25% (which means, normally, that blocking does not reduce its damage at all).
@@ -151,7 +150,7 @@ This complicated weapon looks like a lance with a sail attached to it. In a slic
 
  While falling, you can deploy the sail as a Speed 6 action which will allow you to slow your fall sufficiently to avoid taking any damage or injuries from it, regardless of height. 
 
-###### Umbrella (Blunt)
+###### Umbrella (Umbrella, Blunt)
 Yes, umbrellas. Ones used in combat are reinforced with metal or hard wood, making them semi-decent bludgeoning weapons, and most have a sharp, pointed tip added at the end.
 
 - Cost: 100 Ryo
@@ -166,7 +165,7 @@ Farming tools used by the ninja of old, back before they had awesome chakra-powe
 
 - Cost: 25 Ryo
 - Stamina: 10
-- Damage: 3d8
+- Damage: 4d8
 - Accuracy: +2
 - Speed: 11
 
@@ -194,7 +193,7 @@ An infantry weapon among mundane armies, the Yari is about as simple as a polear
 
 - Cost: 125 Ryo
 - Stamina: 14
-- Damage: 8d12
+- Damage: 10d12
 - Speed: 14
 - Special: This weapon's damage is considered 20% higher for the purpose of inflicting wounds. Attacks from a Yari do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects).
 
@@ -262,7 +261,7 @@ Zanbato were created as a result of the nodachi's historied lack of specificity;
 
 - Cost: 400 Ryo
 - Stamina: 20
-- Damage: 15d12
+- Damage: 20d12
 - Accuracy: -4
 - Speed: 18
 - Special: A Zanbato's base parry speed is increased by 2. This weapon can not be wielded with one hand under any circumstances (i.e., Monkey Grip does not apply to this weapon).
@@ -355,7 +354,7 @@ Technically, it's called a hankyu, and kyudo practitioners would be horridly off
 - Range: STR /2
 - Speed: 14
 - Accuracy: -6
-- Special: You gain +25% to your damage bonus. Using a bow always takes two hands (even with Monkey Grip). You may use a Speed 8 Aim action which gives the attack +4 Accuracy. You may Aim up to twice for a single attack. You may dodge while Aiming, though this increases the Speed of your Dodge action by 3.
+- Special: You gain +50% to your damage bonus. Using a bow always takes two hands (even with Monkey Grip). You may use a Speed 8 Aim action which gives the attack +4 Accuracy. You may Aim up to twice for a single attack. You may dodge while Aiming, though this increases the Speed of your Dodge action by 3.
 
 ##### Arrow (Piercing)
 These are necessary to use a bow in combat! Specifically, arrows are the ammunition for bows, and each attack you make with a bow requires you to use an arrow. Arrows can usually be retrieved after battle. Arrows are expensive not because of their construction, but because ones of the quality that chakra-using ninja need are hard to come by; shuriken and kunai are competitively mass produced, arrows are not.
@@ -704,7 +703,7 @@ While mounted, the following rules apply:
    - When you perform any action on a Mount that is not yours
 
 #### Dismounting Attack
-While mounted, you can as part of an attack (even those you couldn't normally perform on a Mount, such as an Unarmed Taijutsu) opt to Dismount as a Speed +2 Link to your attack, granting that attack +2 to Accuracy; you can direct your mount to move as you dismount it without issue, and can include your own attack-move distance along side that of your mount's, though you do not get the damage bonus from being mounted and attack-moving when using a Dismounting Attack.
+While mounted, you can as part of an attack (even those you couldn't normally perform on a Mount, such as an Unarmed Taijutsu) opt to Dismount as a Speed +2 Link to your attack, granting that attack +2 to Accuracy (in lieu of the normal benefits and/or penalties for Mounted attacks); you can direct your mount to move as you dismount it without issue, and can include your own attack-move distance along side that of your mount's, though you do not get the damage bonus from being mounted and attack-moving when using a Dismounting Attack.
 
 #### Types of Mounts
 There are various breeds and qualities of mounts, which are in and of themselves status symbols as much as they are tools of war by shinobi. Below is a list of common and purchasable types, though there are some that may be more rare to find or see.

@@ -140,12 +140,12 @@ The final Speed and Accuracy of the technique is used for every aspect, and is n
 #### --( Mukadesuto - Centipede Strike )--
 Using two weapons in conjunction with one another, the user strikes repeatedly, flowing from one strike to the next in a barrage of attacks that can quickly overwhelm most opponents.
 
- - Stamina: +(2 + X)
+ - Stamina: +X
  - Speed: +(2 - X)
  - Type: Dual
  - Tags: Link
 
-Effects: This is added onto the Dual-Wield attack action; X is the number of times this technique has been used consecutively (even if it misses!).  Both weapons gain +Xd*, to a maximum of double their damage dice. These benefits end if you make a non-Interrupt action other than a dual-wield attack with your weapons, or if you go more than 20 IC without using this jutsu.
+Effects: This is added onto the Dual-Wield attack action; X is 1, plus the number of times this technique has been used consecutively (even if it misses!).  Both weapons gain +Xd*, to a maximum of double their damage dice. These benefits end if you make a non-Interrupt action other than a dual-wield attack with your weapons, or if you go more than 20 IC without using this jutsu.
 
 #### --( Omo Hoshiga - Double Star Fang )--
 Several enemies running at an archer and getting in close could mean the end for an archer, but luckily you can fend them off! Quickly drawing several arrows out, you load them all into your bow and fire them off in different directions. This would be hard for most people, but luckily you're a ninja.
@@ -240,28 +240,20 @@ Effects: Every 10 yards you are from the opponent when firing adds +1 to the Acc
 #### --( Jouro Senbon - Raining Needles )--
 This technique requires an umbrella and a plethora of needles! Filling them all into tiny spring-loaded compartments, they all fire out as the umbrella is thrown into the air, spinning. The user helps direct the needles with their chakra, though only enough to make sure the needles spread out well or hit their targets.
 
- - Chakra: 24
+ - Chakra: 30
  - Damage: (Senbon Multi-throw)
  - Area: (NDB + PDB) * 2
- - Speed: 25
- - Type: Senbon, Umbrella (Set up beforehand)
+ - Speed: 20
+ - Type: Senbon, Umbrella
  - Tags: Area of Effect
 
-Effects: Your umbrella is launched into the air, where it remains stationary. When first launched, and every 10 IC afterwards, for 50 IC, the umbrella showers the area with needles. You may selectively choose who's targeted by this technique with each volley, allowing you to exclude your allies.
+Effects: Your umbrella is launched into the air, where it remains stationary. When first launched, and every 10 IC afterwards, for 50 IC, the umbrella showers the area with needles. You may selectively choose who's targeted by this technique with each volley, allowing you to exclude your allies. Each 'needle shower' is a senbon multi-throw, up to the max number of senbon you can multi-throw (which is 1 without the appropriate ability). You need not have Senbon requisitioned for this technique: the needles are summoned from the Umbrella for each volley, but you may only have one instance of this technique going at once, and the Umbrella is (for what should be obvious reasons) unable to be used for its duration.
 
-Each 'needle shower' is a senbon multi-throw, up to the max number of senbon you can multi-throw (which is 1 without the appropriate ability). You must load the full number of senbon this technique will use into it ahead of time; if it runs out of needles early, it stops.
+Targets may defend against these attacks as if they're Speed 12, and despite the area, they are considered single-target attacks against each target. For the purpose of damage calculations, however, they multiply your damage bonus by (the Speed you performed Jouro Senbon at)/2, rounded down, and gain no damage bonus for each Senbon 'thrown' (i.e., they do not gain the normal +0.5 per weapon).
 
-For example, if the umbrella was firing 5 needles per 'shower', at 4 targets, you'd need a total of (5 * 4 * 6) = 120 needles loaded in the umbrella to make the full 6 attacks (one inititally, then 5 over the next 50 IC).
+This selectively targets all your enemies in range. The senbon from this technique do 20% more damage for every previous volley from that umbrella the victim was hit by. Thus, if you hit with the initial rain of needles, then twice more, then missed once, if the volley on IC 40 would deal +60% damage if it hit that same target.
 
-Targets may defend against these attacks as if they're Speed 12, and despite the area, they are considered single-target attacks against each target. For the purpose of damage calculations, however, they multiply your damage bonus by (the Speed you performed Jouro Senbon at)/5, rounded down.
-
-This selectively targets all your enemies in range. The senbon from this technique do 20% more damage for every previous volley from that umbrella the victim was hit by.
-
-Thus, if you hit with the initial rain of needles, then twice more, then missed once, if the volley on IC 40 would deal +60% damage if it hit that same target.
-
-This technique uses your base Accuracy for an C-rank Weapon Taijutsu, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply.
-
-It uses your physical damage bonus at the time you initially launched the umbrella. You can receive the benefits of your Weapon Focus: Umbrella or Weapon Focus: Senbon, but not both. Because the attacks are made by the umbrella, and not you, you cannot modify them further (such as with Willpower or AP).
+This technique uses your base Accuracy for a C-rank Weapon Taijutsu, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply. It uses your physical damage bonus at the time you initially launched the umbrella. You can receive the benefits of your Weapon Focus: Umbrella or Weapon Focus: Senbon, but not both, which increases its Chakra cost an amount equal to its normal Stamina increase. Because the attacks are made by the umbrella, and not you, you cannot modify them further (such as with Willpower or AP), nor may you utilize Surgical Precision or Combat Acupuncture with them.
 
 #### --( Kashiwa no Hishou - Oak Flight )--
 After twirling your weapon dramatically over your head to build momentum, you slam it into your opponent and completely daze them. A powerful enough strike put in the right place makes it hard for the enemy to focus on you, or even gives them a bit of double-vision.
@@ -361,11 +353,11 @@ Effects: This is used alongside any other attack with the weapon, including othe
 A highly effective maneuver, the user deflects an opponent's weapon with their blade and then follows through with the motion, using their existing momentum to launch a swift slash or jab at their assailant.
 
  - Stamina: 10 + (Weapon)
- - Damage: (Weapon)
+ - Damage: (Weapon) + Special
  - Speed: (Weapon)/3, rounded down
  - Type: Sword
 
-Effects: This is activated after successfully parrying a weapon with your sword. You may immediately make a basic weapon attack against the person whose attack you parried, using your normal Accuracy. This uses a third of your weapon's normal Speed, rounded down; before AP and similar effects, Retaliation's Speed may not go below 4.
+Effects: This is activated after successfully parrying a weapon with your sword. You may immediately make a basic weapon attack against the person whose attack you parried, using your normal Accuracy. This uses a third of your weapon's normal Speed, rounded down; before AP and similar effects, Retaliation's Speed may not go below 4.  You gain +1d_ to your attack for every point your Parry roll was above the Accuracy of the attack you just parried, to a maximum of double its base dice.
 
 Due to their speed, Retaliation attacks cannot benefit from the damage bonus multiplication of holding a weapon twohanded. Attempting to parry an attack made with Retaliation has a -4 penalty. You may not move as part of this attack.
 

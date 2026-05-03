@@ -57,14 +57,21 @@ Concentrating chakra into your fingertip, this allows you to 'write' on any surf
 Effects: You can write on any surface. With chakra!
 
 ## C-Rank
-#### --( Fuukoku Houin - Dark Sealing Method )--
-A once-specialized technique that's been adapted to see broader use, the Dark Sealing Method is used when a simple lock just isn't reliable enough. The user takes several paper tags, writes the appropriate seals on them in their own blood, and then applies them to the edge of the doorframe, lid, or other appropriate edge of what's being sealed. After that, the handseals are performed and chakra is applied.
+#### --( Tsuyome Fuuin - Strengthening Seal )--
+A simple and reliable seal, useful for when conventional locks and physical walls aren't sturdy enough, or when one wants to obscur certain areas from those that can otherwise see or sense chakra from a distance.  The user takes several paper tags, writes the appropriate seals on them in their own blood, and then applies them to the edges of the surface of what is being sealed.  After that, handseals are performed and chakra is applied to them, reinforcing the structure they were placed on in order to ensure simple ninjutsu can not overcome them.
 
-- Chakra: 20
-- Speed: 15
-- Seal Speed: 30
+ - Chakra: 30
+ - Speed: 16
+ - Seal Speed: 25
+ - Special: Exclusive
 
-Effects: The door or container the paper tags are placed upon cannot be opened so long as this seal is in place; no amount of physical force can overcome it. That said, it gives no special properties to what has been sealed; if you apply Fuukoku Houin to a rickety wooden door, most people would have minimal trouble breaking a hole in the center of that door. The tags themselves are virtually indestructible until the technique ends. When you apply this seal, you may specify a certain time for it to end, such as "two days from now". The seal will last until the designated time arrives, or it's removed by some method (such as the A-rank Five Elements Unseal). The person who placed this seal can simply peel the tags away from the sealed surface, destroying the seal in the process.
+Effects: This may be applied to any surface up to (CHA /10) square yards, and no thicker than (CHA /10) inches. You may divide the area by any whole number to multiply the thickness limitation by that much. For example, you could make it (CHA /10)/2 square yards, and in exchange apply the seal to a surface (CHA /10) * 2 inches thick. The seal is visible, though only on the side it’s applied to (so if it’s on the inside of a wall, you would not see it on the outside). Similarly, it can only be removed from that side. The surface this seal (including the tags themselves) is on is virtually indestructible - it gains (user’s CHA) * 10 HP, and has a damage reduction of (user’s CHA), which cannot be bypassed or reduced. 
+
+This seal can only be applied to flat, stationary surfaces, such as walls, floors, and ceilings. A stationary container such as a safe, lockbox, or chest is also a valid target. When you apply this seal, you may specify a certain time for it to end, such as "two days from now". The seal will last until the designated time arrives, or until it is removed by some method (such as the A-rank Five Elements Unseal). The person who placed this seal can simply peel the tags away from the sealed surface, destroying the seal in the process.
+
+If the surface in which the seal is applied includes a closable door, hatch, window, or similar, this strengthening effect is passed onto those surfaces as well. Additionally, any entryway or container sealed in this way cannot be opened - no amount of physical force or lockpicking can overcome the locks or hinges, and the hinges cannot be dismantled.
+
+Chakra Sensors can not detect any one or thing within an area enclosed by a Strengthening Seal unless they are within that same area (which likewise would keep them from sensing outside of it); Byakugan can not see through a Strengthening Seal applied to an area, as the chakra dispersed throughout blocks their vision (both into and out of it).  The Sensor, or Byakugan, can sense the location of the tags, if they are on the same 'side' as them, however, which makes the technique obvious for what it is.
 
 #### --( Sougu: Tensasai - Manipulated Tools: Heavenly Chain of Destruction )--
 An advanced form of Twin Rising Dragons, the user throws a scroll into the air and leaps after it. In midair the weapons inside the scroll are released and projected by the user's chakra, allowing them to guide far more weapons than they would be able to by hand. It gets its name from the speed of its most proficient practitioners, who can propel their weapons so fast they appear as rays of light.
@@ -149,16 +156,6 @@ Implemented on a summoner, this removes any control the summoner has over their 
  - Special: Exclusive
 
 Effects: Any summoning contracts the victim possesses are considered null and void until this seal is removed. In most cases, this will forcibly de-summon anything they've already summoned. Defensive Summoning techniques used against this automatically fail.
-
-#### --( Tsuyome Fuuin - Strengthening Seal )--
-An advanced and demanding seal, this applies a resilient lattice of chakra to enhance the physical integrity of walls, floors, ceilings, and the like.
-
-- Chakra: 30
-- Speed: 16
-- Seal Speed: 25
-- Special: Exclusive
-
-Effects: This may be applied to any surface up to (CHA /10) square yards, and no thicker than (CHA /10) inches. You may divide the area by any whole number to multiply the thickness limitation by that much. For example, you could make it (CHA /10)/2 square yards, and in exchange apply the seal to a surface (CHA /10) * 2 inches thick. The seal is visible, though only on the side it's applied to (so if it's on the inside of a wall, you would not see it on the outside). Similarly, it can only be removed from that side. It may only be applied to a contiguous object: if you wanted to apply Strengthening Seal to a boat, each plank would require a separate seal. The surface this seal is on is virtually indestructible. It gains (user's CHA) * 10 HP, and has a damage reduction of (user's CHA), which cannot be bypassed or reduced. This seal can only be applied to flat surfaces, such as walls. The blade of a weapon, just as an example, would not be a valid target.
 
 #### --( Shinsei Chinmoku Fuuin - Sacred Silence Seal )--
 Often used as a form of so-called 'loyalty seal', this has seen moderate popularity among various clandestine and/or extremist organizations within the ninja villages, as well as a means of helping ensure that double agents don't turn into triple agents.

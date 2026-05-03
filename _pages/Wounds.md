@@ -254,7 +254,7 @@ Something managed to slice right across your chest, hacking your armor right off
 This is what happens when you can't make your body concave enough.  You get cut right across the belly.  Fortunately it isn't that bad, it's just in a bad spot.  Your Stamina and Chakra costs are all increased by 2.
 
 ###### (81 - 100) Lacerated (Leg)
-You got a nasty gash running along your leg.  It's not life-threatening, but it is staining your clothes and oozing down your leg.  You have a -1 immobilization penalty that will fade after 20 IC, but anytime you take a move action (moving as part of an attack action is fine, but using Shunshin is not), the wound will reopen, applying another -1 immobilization penalty with +5 IC in duration.
+You got a nasty gash running along your leg.  It's not life-threatening, but it is staining your clothes and oozing down your leg.  You have a -2 immobilization penalty that will fade after 20 IC, but anytime you take a move action (moving as part of an attack action is fine, but using Shunshin is not), the wound will reopen, reapplying its Immobility penalty with +5 IC in duration; multiple instances of this wound reopen the wound similarly, and reset its duration (with the newly-increased value) accordingly.
 
 ## Slashing (Major)
 ###### (1 - 10) Blood in the Eyes (Head)

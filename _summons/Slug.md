@@ -151,7 +151,7 @@ Leeches crawl up onto the victim's body and begin draining their blood! The targ
 This Bleed status does not decrease normally, and ignores effects that prevent, remove, or reduce the severity of the Bleed status effect. There are two ways to get rid of it! The first, every 50 damage the victim takes from area-of-effect attacks, before reductions are applied, will reduce the Bleed by 1. Secondly, the swarm leaving the battlefield will cause the Bleed to end immediately.
 
 ###### 5. Terms of Contract
-Knowingly ordering the leeches to attack civilians constitutes a breach of contract, as does attempting to use them to torture captives.
+Knowingly ordering the leeches to attack civilians constitutes a breach of contract, as does attempting to use them to torture captives; this includes usages where they are commanded to apply or have Hemophagy maintained on someone who can not take actions (which is different than on someone who *chooses* not to act); Stun, Kagemane, Water Prison and similar circumstances all count for this.  If Hemophagy applies damage to someone ten or more times without that person having been capable of taking actions, they automatically unsummon themselves (in addition to the breach of contract).
 
 ##### Slug Swarm
 ###### 1. Summoning

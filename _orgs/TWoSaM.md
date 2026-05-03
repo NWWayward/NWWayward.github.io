@@ -394,8 +394,8 @@ While caught, the following effects apply:
  - You can not use Ninjutsu or Genjutsu while you maintain Kagemane's upkeep, but can use Taijutsu and any clan jutsu you know, though if they know the same technique, they perform it as well, directed at you.
  - You can also attack someone else and make them attack the same target as you, at the same time, with a -3 to their Accuracy.
  - Anytime you make them perform an action, your IC is advanced by the appropriate amount, and theirs is not.
- - Anytime someone you’re controlling is attacked, you can partially relax the technique long enough for them to defend themselves at a -2 to their defensive roll, or hold them in place as they are attacked: while they still get to defend against the attack, they instead take a -10 to their defensive roll, and have block's effectiveness reduced by 50%, in addition to being anchored to the spot, unable to move (As it relates to area of effect penalties). If held in place, after the attack is resolved they automatically break free of this technique.
- - Anyone caught by this technique can, as a Speed 10, Stamina 5 action, attempt to break free as a Grapple Check, rolling as the defender in a Grapple.  You use your NDB in place of PDB, with a +X bonus; X has a maximum of your NDB rounded down.  Every attempt by someone caught to break free grants a cumulative +1 bonus, which is reset whenever Kagemane ends.
+ - Anytime someone you’re controlling is attacked, you can partially relax the technique long enough for them to defend themselves, in which case they gain +1 to their break attempts (see below) and take a -2 to their defensive roll, or hold them in place as they are attacked: while they still get to defend against the attack, they instead take a -10 to their defensive roll, and have block's effectiveness reduced by 50%, in addition to being anchored to the spot, unable to move (As it relates to area of effect penalties). If held in place, after the attack is resolved they automatically break free of this technique; if attacked multiple times on the same IC, you can choose to relax the technique (allowing them to defend at -2) against all techniques, or choose one technique to hold them in place for, but could not opt to hold them in place for multiple attacks.
+ - Anyone caught by this technique can, as a Speed 10, Stamina 5 action, attempt to break free as a Grapple Check, rolling as the defender in a Grapple; every attempt made to break free grants a cumulative +1 bonus to their future attempts, which is reset after they are freed. You (the Nara!) use your NDB in place of PDB, with a +X bonus; X has a maximum of your NDB rounded down.
 
 #### --( Kagemane Shuriken no Jutsu - Shadow Imitation Shuriken Technique )--
 By infusing a weapon with their Chakra before throwing it, a Nara can take control of the weapon’s shadow and manipulate it from a distance, allowing them to attach the weapon’s shadow to an enemy’s, who is then anchored to the weapon.  While not very useful in melee, it makes for excellent battlefield control that can turn a failed attack into a window of opportunity.
@@ -422,11 +422,9 @@ Using the Nara’s connection to someone else’s shadow, they use their shadow 
 
 Effects:  This technique does not require an Accuracy roll, and its target does not get any defense against it, nor does it provoke a free escape roll from Kagemane.  Consecutive use of this Jutsu (i.e., taking no non-interrupt actions between uses) reduces its Chakra Cost and Speed by 1, to a minimum of Chakra 10 and Speed 7.
 
-Each time you use this Jutsu, roll 1d100+CHA/4+Any % bonuses to Wounds you might have as a flat addition. (i.e., Killer’s +20% wounding would turn into a flat +20 to the roll).  Rolling higher than 100 inflicts a Minor Blunt Head Wound; Higher than 200 a Major Blunt Head Wound/etc. You get a +10 to the roll for each consecutive use after the first.
+When you use this technique, you can choose to either attempt to Wound your target, or simply apply Suffocation 1 to them, which does not end until Kagemane itself does.
 
-Every consecutive use of this jutsu (With no other non-interrupt actions between uses), you gain 10% of the previous roll(s) added to your roll, to a minimum of +10 per consecutive use.  (e.g., If you rolled 89 the first usage, you inflict no wound; you would add +10 to your second roll from the minimum 10.  If you then got 159, your third Shadow-Neck Bind would have 10+15 = 25 added to its roll.)
-
-Alternatively to attempting to wound someone with this jutsu, you can simply apply Suffocation 1 to your target each time it is used; the Suffocation applied from this technique does not end until Kagemane does.
+If you choose instead to Wound, you roll 1d100 + CHA/4 + Wounding % bonuses (added, rather than multiplying as they would for damage; +20% = +20 to the roll).  Rolling 100 or higher inflicts a Minor Blunt Head wound; 200 or higher turns it into a Major, 300 a Severe, etc.  You get +10 to the roll for each consecutive usage of this technique (regardless of which option you have chosen from previous uses), which resets when Kagemane itself ends.
 
 Take the Hit can not be used against this attack.
 
@@ -450,6 +448,7 @@ The Nara materializes shadows into several thin, needle-tipped tendrils and atta
  - Range: CHA/5
  - Speed: 12
  - Special: X Immobilization Penalty
+ - Tags: Projectile
 
 Effects:  X has a maximum of 6. This technique deals Piercing damage. You may use Kagemane on anyone affected by your own Shadow Sewing’s Immobilization Penalty, ending said penalty and automatically gaining control of them via Kagemane, without requiring an Accuracy or allowing a defensive interrupt response, though you still pay Kagemane’s cost and take its Upkeep, and taking control of someone this way counts as a ‘use’ in determining Kagemane’s Chakra cost and how easy it is to break out of.
 

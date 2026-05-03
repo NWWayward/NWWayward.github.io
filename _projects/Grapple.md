@@ -63,7 +63,7 @@ You use your head to hit someone else's head. Really, honestly, it's a highly te
 
 Effects: This attack may be used by either the attacker or the defender in the grapple, but only against the other person, and can be used regardless of whether your hands are free. It automatically hits. If it causes a wound, that wound is automatically a head wound.
 
-Although the attacker does not take damage from doing this, compare the damage dealt after all of the target's reductions: if the final damage dealt would be enough for them to have wounded themselves, they will suffer that wound. For example, if you have 500 Vitality and Headbutt someone for 60 damage (after all reductions), you would take 0 damage and suffer a minor wound (for taking more than 10% of your Vitality in one hit).  The attacker's own reductions (from Resilient, or DR) do not affect whether they are wounded this way, nor do any of the attacker's own changes to wound severity (both percentage and severity changes) affect the wound they inflict on themselves.
+Take the final damage inflicted on your target, and then apply your own Resilient reduction (if any) to the effective damage (not including things such as Damage Reduction): if the final damage would be enough to wound you (including Wounding modifiers), then you suffer a head wound of the appropriate severity.  For example, if you have 500 Vitality and Headbutt someone for 60 damage (after all reductions), you would take 0 damage and suffer a minor wound (for taking more than 10% of your Vitality in one hit).
 
 ## D-Rank
 #### --( Throw )--
@@ -75,7 +75,7 @@ You use leverage, brute force, or a combination of the two to physically throw a
 
 Effects: This immediately ends the grapple, and Stuns the enemy, severity 4 + (damage taken after reductions)/50, along with a 'knockback' (as they are thrown) of up to (STR/20) yards; you can not throw someone into someone else this way, no matter how cool it might be.  Throw can not be Blocked.
 
-This can also be declared as part of (and linked to) a Grab attack, as a Speed +4, Stamina +8 link which then uses Grab's base Speed for its damage (and is reduced by spending AP as normal for Links), along with Throw's damage for Grab's base damage (in lieu of none, notably). Used in this way, Grab does not establish a grapple.
+This can also be declared as part of (and linked to) a Grab attack, as a Speed +4, Stamina +4 link which then uses Grab's base Speed for its damage (and is reduced by spending AP as normal for Links), along with Throw's damage for Grab's base damage (in lieu of none, notably). Used in this way, Grab does not establish a grapple.
 
 #### --( Lock )--
 While there are almost countless ways to perform it, Locks are an essential part of grappling that one uses to disable some part of their opponent's body to inhibit them further than a simple grapple imparts, and enables access to more advanced grapple techniques.  Though easy to perform, grapples as a whole are harder to maintain with most ninja, who are often flexible and squirrelly.
@@ -160,7 +160,7 @@ http://en.wikipedia.org/wiki/Suplex Just... read that, okay? That's what you do 
  - Damage: (3 + STR/8)d12
  - Speed: 10
 
-Effects: If Suplex inflicts a wound, it is dealt to the opponent's head.  Suplex can not be blocked.  Both you and your opponent are automatically knocked prone.  You may stand up at any time (as a Speed 5 action), but your opponent may not stand up from prone until the grapple ends.  
+Effects: If Suplex inflicts a wound, it is dealt to the opponent's head.  Suplex can not be blocked.  Both you and your opponent are automatically knocked prone.  You may stand up at any time, but your opponent may not stand up from prone until the grapple ends or you lose control of the grapple.  You can not perform Suplex while you are Prone, however.
 
 ## B-rank
 #### --( Kurokumaken - Black Bear Strength )--

@@ -84,7 +84,7 @@ Effects: If you target someone who is affected by a Raiton-based Paralysis statu
 By charging oneself with Raiton chakra, the user can exploit the lingering charge on an opponent and use the aligned chakra to gravitate toward their target, making their next attack harder to evade.
 
  - Chakra: 13
- - Upkeep: 4
+ - Upkeep: 3
  - Speed: 6
  - Seal Speed: 10
  - Tags: Nintaijutsu, Preparation
