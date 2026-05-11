@@ -517,9 +517,9 @@ You recycle scraps of materials for use later, allowing you to gain 10 Scrap.
 #### Crafting
 By spending a Training Day crafting, you can use scrap equal to the Ryo cost of an item to craft that item using Scrap instead of Ryo.  You can only create up to (XP/10 + Infamy)'s Ryo worth of items in a single Training Day, rounding down.  Likewise, you are limited by your Rank what you can craft using scrap.  All items created with Scrap will not be replaced if they are lost, consumed, or damaged.
 
-By default, anyone can craft Kunai, Shuriken, Arrows, Senbon, First Aid Kits, Lockpicks, and Spice Pouches.
+By default, anyone can craft Kunai, Shuriken, Arrows, Senbon, First Aid Kits, Lockpicks, Spice Pouches, Gourds (large and small), Caltrops, and Lanterns.
 
-Upon reaching Chuunin, you unlock the ability to craft Camouflage Kits, Flash Bombs, Smoke Bombs, Rope, and Ninja Wire.  You can additionally craft any Melee or Ranged weapon.
+Upon reaching Chuunin, you unlock the ability to craft Camouflage Kits, Flash Bombs, Smoke Bombs, Rope, Ninja Wire, Telescopes and Grappling Hooks.  You can additionally craft any Melee or Ranged weapon.
 
 Upon reaching Jounin, you can craft Exploding Tags, Blank Scrolls, Antidotes, and Poisons.  You can also craft Armor (but must have access to the armor type you wish to craft).
 
