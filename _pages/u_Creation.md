@@ -92,7 +92,7 @@ Reaching beyond your grasp has a cost: Any jutsu you couldn't perform without Ge
 ##### Juggernaut
 You are a solid, hulking brute. You aren't necessarily tall, but you condition yourself hard and have always had a natural gift at receiving pain: Thick, solid forearm muscles and tendons, strong shins, you are a rough opponent to face and an even harder one to stop.
 
-You use STR/12, rather than STR/15, to calculate your Physical Damage Bonus, you gain STR/4 Damage Reduction, and reduce the severity of any Stun you receive by STR/20.
+You use STR/12, rather than STR/15, to calculate your base Physical Damage Bonus, you gain STR/4 Damage Reduction, and reduce the severity of any Stun you receive by STR/20.
 
 All your movement is reduced by 10%. This applies to your normal movement speed based on AGI, jutsu which allow you to travel (such as Vaulting Leap or Exploding Water Shockwave), and even knockback effects from your enemies.
 
@@ -114,7 +114,7 @@ When you have no rerolls left, you take a -2 penalty to Accuracy and d20 rolls.
 ##### Naturalist
 You are at one with nature! Animals like you more, you understand nature like one of them, and your energy is naturally powerful. You also can forage well, notice slight differences in the environment to follow footprints, or even see the handiwork ninja leave with their traps! Perhaps it's because of your attunement, or that you are tempted by your primal urges, either way you are still a great asset.
 
-Your maximum ranks in Survival are increased by 3, and you gain a +3 bonus to detect, disarm, or avoid any part of a trap. Your ninjutsu damage bonus is CHA/12, rather than CHA/15. You have a +1 bonus to your Chakra Control rolls per rank of the jutsu you're using (+1 for E-rank, +2 for D-rank, etc.). Finally, you can use your ranks in the Survival skill in place of the Research skill to meet any Elemental Ninjutsu prerequisites.
+Your maximum ranks in Survival are increased by 3, and you gain a +3 bonus to detect, disarm, or avoid any part of a trap. Your base ninjutsu damage bonus is CHA/12, rather than CHA/15. You have a +1 bonus to your Chakra Control rolls per rank of the jutsu you're using (+1 for E-rank, +2 for D-rank, etc.). Finally, you can use your ranks in the Survival skill in place of the Research skill to meet any Elemental Ninjutsu prerequisites.
 
 However, your maximum Research rank is reduced by 3.
 

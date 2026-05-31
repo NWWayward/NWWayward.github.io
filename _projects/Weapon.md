@@ -53,7 +53,7 @@ Using the principles of Iaijutsu, the user takes up a neutral stance and, using 
 - Type: Sword
 - Tags: Link
 
-Effects: Make an Initiative roll, opposed by your opponent's; they have a cumulative +2 bonus for each time you've used this (successfully or not) in this battle. If you succeed, your attack receives the benefits of the Iaijutsu ability, even if you have used it earlier in battle.  If you fail, you perform your attack normally.  You may not spend AP after Flash Blade's initiative roll. If you fail, you perform your attack normally. If you succeed, your attack receives the benefits of the Iaijutsu ability, even if you've used it earlier in battle.
+Effects: Make an Initiative roll, opposed by your opponent's; they have a cumulative +2 bonus for each time you've used this (successfully or not) in this battle. If you succeed, your attack receives the benefits of the Iaijutsu ability, even if you have used it earlier in battle.  If you fail, you perform your attack normally.  You may not spend AP after Flash Blade's initiative roll.
 
 #### --( Mezuchi - First Blood )--
 Popularized by an Amegakure ANBU who liked to toy with their targets, injuring them quick and then slowly breaking them as they tried to fight back, it is an attack all about deception and timing: Pulling your hidden blade right as they move into a fighting stance, before they can even finish planning how they're going to kill you.

@@ -74,7 +74,7 @@ You're able to keep your chakra coherent for longer; the further it can travel b
 
 #### -=[ Potent Chakra ]=-
 You're able to increase your chakra's density, and in turn preserve some of the energy that would dissipate into the atmosphere around you in whatever sort of attack you're using.
-But all you really care about is that it makes your ninjutsu hurt more! Each rank increases your ninjutsu damage bonus by 0.2.
+But all you really care about is that it makes your ninjutsu hurt more! Each rank increases your base ninjutsu damage bonus by 0.2.
 
 - Base Cost: 1
 - Scale: 1
@@ -325,7 +325,7 @@ When you wound an enemy with a senbon attack, you have a 10% chance per rank for
 
 ##### 1. Vigor
 #### -=[ Brute Force ]=-
-You're good at... well, exactly what it sounds like: applying a lot of force all at once. It might be sheer physical strength, or you could just know how to strike properly. Each rank increases your physical damage bonus by 0.2.
+You're good at... well, exactly what it sounds like: applying a lot of force all at once. It might be sheer physical strength, or you could just know how to strike properly. Each rank increases your base physical damage bonus by 0.2.
 
 - Base Cost: 1
 - Scale: 1
