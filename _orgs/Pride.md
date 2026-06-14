@@ -1067,7 +1067,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) (Small Only) +1 Accuracy, -1 Damage Bonus.  Can be taken twice.  
 (2) -1 Stamina Cost.  Can be taken three times.  
 (1) +1 Bleed.  Can be taken twice.  
-(1) If you spend AP on an attack with this weapon and miss, you get back 1 of the AP you spent.  Can be taken three times.
+(1) If you spend AP on an attack with this weapon and miss, you get back 1 of the AP you spent.  Can be taken three times.  
 (1) When you Parry with your sword, you gain (SDB) Damage Reduction (which is typically only relevant if you fail); Can be taken four times.
 
 *Hilt Features*  
