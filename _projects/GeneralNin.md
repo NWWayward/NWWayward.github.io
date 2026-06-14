@@ -91,9 +91,12 @@ Effects: This can be done on yourself, or another willing person.  You must be a
 A high-speed movement technique which allows the user to travel incredibly distances in the blink of eye; used by a sufficiently powerful ninja, this can be mistaken for teleportation by an untrained observer.
 
  - Chakra: 10
- - Speed: 2
+ - Speed: 2 or +2
+ - Link
 
-Effects: You move as far as you could in a Speed X move action, where X is how many AP you choose to spend on this technique. There is no limit on how many AP you may spend. You may use this in place of normal movement to help dodge an Area of Effect technique. Use your AP spent, rather than the Speed of the attack and your normal movement speed, to determine how close to the edge of the effect you can get. This increases the Speed of your dodge by 2.
+Effects: You move as far as you could in a Speed X move action, where X is how many AP you choose to spend on this technique. There is no limit on how many AP you may spend. You may also use this as a link to a Dodge action against an Area of Effect attack. Use your AP spent, rather than the Speed of the attack and your normal movement speed, to determine how close to the edge of the effect you can get.
+
+Lastly, you can also utilize it as a Link to the Take the Hit action, allowing you use your AP spent to determine how many yards you can move (rather than the speed of your Take the Hit action itself) to reach someone you wish to protect.
 
 #### --( Kanashibari no Jutsu - Temporary Paralysis Technique )--
 This technique temporarily restrains the victim with chakra by disrupting their chakra flow throughout the body, causing temporary spasms that inhibit normal function. Used effectively, it can temporarily debilitate a target for a short period of time.

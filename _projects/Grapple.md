@@ -23,7 +23,7 @@ You grab onto an opponent, with the intent to not let go! It's not a preferred m
 Effects: You are grappling your opponent. This is not inherently a huge advantage, but leads in to multiple other possibilities for attack. When grappled, the following effects apply to both participants:
  - Movement speed is halved, and moves the other person along with them.
  - If you try to move, the other person may attempt to restrain you; if they do, your AGI is reduced by half their STR when calculating how far you can move.
- - The Dodge and Parry interrupt both have their Speed increased by 2.
+ - The Dodge and Parry actions both have their Speed increased by 2.
  - Other Grapple jutsu may be used. Grapple jutsu automatically hit unless they say they are used from outside of a grapple, or explicitly that they require you to hit your target, and accordingly can not be defended against via dodging or parrying (though you can certainly Block them, unless they say otherwise). Ordinary attacks, such as punching or stabbing the other grappler, can be defended against normally.
  - The attacker must keep one hand on the defender to maintain the grapple, and cannot use handseals without the Single-Handed Seals unique, or use any two-handed weapon.
  - If either person is suffering from the Ignite status, both people take damage from it. If both are on fire, only the more severe Ignite deals damage.
@@ -42,7 +42,7 @@ The attacker and defender both roll grapple checks; if the defender exceeds the 
 
 ###### Break Grapple
 *(Speed 4)*  
-The attacker and defender both roll grapple checks; if the defender matches or exceeds the attacker's roll, the grapple ends immediately. When this is done, the attacker must make a Stamina 5 fatigue roll, or choose to simply let go.
+Roll a grapple check against everyone you are in a grapple with. If you match or exceed the attacker's(') roll, the grapple ends immediately. When this is done, the attacker(s) must make a Stamina 5 fatigue roll, or choose to simply let go.
 
 #### --( Escape Grapple )--
 Being held in place by one person and then punched into submission by all their friends is a pretty exceptionally undignified way for a ninja to go down. Accordingly, ninja are usually taught the basics of how to writhe their way out of all manner of holds.
@@ -51,7 +51,7 @@ Being held in place by one person and then punched into submission by all their 
  - Speed: 4 + X, Delay X
  - Special: Grapple-only; Can only be used by the defender in a grapple.
 
-Effects: Roll a grapple check against your opponent. The "X" in this jutsu's cost and speed is the amount you fail your grapple check by. Thus, if you rolled a 12 against your opponent's 16, Escape Grapple would be a Stamina 8 check and have a Speed of 8. On the other hand, if you passed your check by 36 points, it would be only Stamina 4 and Speed 4. This ends all grapples you're currently in. This technique cannot be Aborted, despite its Delay.
+Effects: Roll a grapple check against everyone you are in a grapple with. The "X" in this jutsu's cost and speed is the amount you fail your grapple check by (or the highest amount failed by, if in multiple grapples). Thus, if you rolled a 12 against your opponent's 16, Escape Grapple would be a Stamina 8 check and have a Speed of 8. On the other hand, if you passed your check by 36 points, it would be only Stamina 4 and Speed 4. This ends all grapples you're currently in. This technique cannot be Aborted, despite its Delay.
 
 #### --( Headbutt )--
 You use your head to hit someone else's head. Really, honestly, it's a highly technical process. You just don't understand because you're not a ninja.
@@ -127,8 +127,11 @@ You throw an enemy who's grabbing you off, freeing yourself from them and injuri
  - Damage: (3 + STR/10)d10
  - Speed: 4 + X, Delay X
  - Requires: Throw
+ - Special: May only be used by the defender
 
-Effects: This ends a grapple when used, but may only be used by the defender. The attacker is Thrown (as per the D-rank Throw move, including the stun). Counter Throw always deals damage as if it was Speed 10, regardless of the actual speed. When you declare use of Counter Throw, make an opposed Grapple check. The amount you fail by is the "X" in this move's Stamina cost and Speed. If you pass, it's Stamina 12 / Speed 4 / Delay 0. This technique cannot be Aborted, despite its Delay.
+Effects: Roll a grapple check against everyone you are in a grapple with. The amount you fail by is the "X" in this move's Stamina cost and Speed. If you pass, it's Stamina 12 / Speed 4 / Delay 0. This technique cannot be Aborted, despite its Delay.
+
+This ends all grapples you are in. The attacker(s) are Thrown (as per the D-rank Throw move, including the Stun). Counter Throw always deals damage as if it was Speed 10, regardless of the actual speed. 
 
 #### --( Pressure Point )--
 You find, grab, and press down on an opponent's pressure point, temporarily immobilizing them; these are painful while maintained, but more to the point (ahaha, get it, because they're... never mind) it prevents the nerves you're isolating from working properly while the pressure is maintained.
@@ -147,10 +150,11 @@ Against Escape Grapple or Counter Throw (or any techniques with similar variable
 #### --( Compression Hold )--
 A less brutal alternative to joint locking (which has this nasty tendency to tear people apart), a compression hold is still exceptionally painful--that's the point. You twist the victim's body in such a way that their own joints are being used to hurt them--forcing their elbow to press against their sternum is a popular one.
 
- - Stamina: 8
+ - Stamina: 15
  - Speed: 6
+ - Requires: Opponent already be in a Lock.
 
-Effects: This requires the opponent already be in a Lock. Each time you use this technique applies a -1 penalty to their grapple checks, so long as that Lock is maintained (though is not itself doubled by having two arm or leg locks).
+Effects: You improve a current Lock you have on someone, applying a further -1 penalty to their grapple rolls, and increasing the Speed of any Dodge or Parry actions they take by 1 more.  You can apply Compression hold at most twice to someone, but must apply it to a different lock each time you use it.
 
 #### --( Suplex )--
 

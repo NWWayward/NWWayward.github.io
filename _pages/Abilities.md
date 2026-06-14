@@ -219,7 +219,7 @@ You attack with a weapon in each hand! Impractical, but awesome. As might be exp
 - Requires: 40 DEX
 
 #### -=[ Monkey Grip ]=-
-By using extreme strength, chakra-based powers, and a cheerful disregard for physics, you are able to use two-handed weapons in one hand!  Changing your grip (from one to two hands and vice-versa) is a non-action; this IS required to be able to take a hand off of a two-handed weapon for, say, using items while wielding a two-handed weapon.  Notably, when wielded with one hand they no longer benefit from the two-handed 25% increase to your Damage Bonus.
+By using extreme strength, chakra-based powers, and a cheerful disregard for physics, you are able to use two-handed weapons in one hand!  Changing your grip (from one to two hands and vice-versa) is a non-action; this IS required to be able to take a hand off of a two-handed weapon for, say, using items while wielding a two-handed weapon.  Notably, when wielded with one hand they no longer benefit from the two-handed increase to your base Damage Bonus.
 
 At the second rank you can, if you have the Dual Wield ability, even dual wield two-handed weapons.
 
@@ -674,7 +674,7 @@ You don't waste time doing things like getting warmed up and taking stock of the
 - Limiting Attribute: AGI /20, max 5
 
 #### -=[ Preparation ]=-
-You may, as part of your Initiative roll, activate one or more techniques with Upkeeps that affect only yourself. You must pay their Chakra or Stamina costs normally. The total of the (Speed + modified Seal Speed) of all the techniques you use cannot exceed whatever you rolled for your initiative.
+You may, as part of your Initiative roll, activate one or more techniques with Upkeeps that affect only yourself. You must pay their Chakra or Stamina costs normally. The total of the (Speed + modified Seal Speed) of all the techniques you use cannot exceed whatever you rolled for your initiative.  You can not spend AP to reduce the effective Speed of techniques used this way, nor do modifiers to Speed (such as Celerity, or Seal Master) apply to them. 
 
 - Base Cost: 40
 - Requires: 60 DEX

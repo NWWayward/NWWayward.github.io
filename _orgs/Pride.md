@@ -1063,20 +1063,20 @@ Not something you spend points on, this time! Of the three primary feature sets 
 #### -=[ 2. Features ]=-
 
 ###### a. Yin
-*Blade Features*   
+*Blade Features*  
 (2) (Small Only) +1 Accuracy, -1 Damage Bonus.  Can be taken twice.  
 (2) -1 Stamina Cost.  Can be taken three times.  
 (1) +1 Bleed.  Can be taken twice.  
-(2) You use CHA/15 to determine your Sword Damage Bonus, instead of normal, with your sword. You can take this feature a second time, lowering the divisor by the Precision ability (to a minimum of CHA/12).  
+(1) If you spend AP on an attack with this weapon and miss, you get back 1 of the AP you spent.  Can be taken three times.
 (1) When you Parry with your sword, you gain (SDB) Damage Reduction (which is typically only relevant if you fail); Can be taken four times.
 
 *Hilt Features*  
 (1) +1 Bleed.  Can be taken three times.  
-(2) (Requires CHA-based SDB Feature) You use your CHA in place of your DEX for the Blademaster ability with your sword.
+(2) -1 base Speed.  Can be taken two times.
 
 *Tassel Features*  
 (4) While using Chakra Flow (either version) with your sword, you can parry Elemental Ninjutsu attacks from your current Chakra Flow element and the element it is strong to in the same way you can parry Taijutsu.  
-(4) As a Chakra +5, Speed +3 link you can replace your sword's 'Sword' tag with any of the following: Polearm, Fan, Chain, by forming chakra over your blade to take the shape of another type of weapon, allowing you to potentially use different jutsu dependent upon other weapon types (which does not prevent you from using your clan abilities with it).  Using Polearm, your weapon avoids on-contact effects; Using Fan, you can utilize Fuuton with your sword, as described under Jutsu Rules; Using Chain, your weapon gains a Range of 5, though it is still considered a melee weapon, not a ranged weapon.
+(4) As a Stamina +5, Speed +3 link you can replace your sword's 'Sword' tag with any of the following: Polearm, Fan, Chain, by forming chakra over your blade to take the shape of another type of weapon, allowing you to potentially use different jutsu dependent upon other weapon types (which does not prevent you from using your clan abilities with it).  Using Polearm, your weapon avoids on-contact effects; Using Fan, you can utilize Fuuton with your sword, as described under Jutsu Rules; Using Chain, your weapon gains a Range of 5, though it is still considered a melee weapon, not a ranged weapon.  The tag change lasts only for that attack, unless the attack itself has some effect which persists (such as a grapple started from changing it to Chain), in which case it lasts until that effect ends.  If you are disaramed, it reverts back to its normal state automatically.
 
 ###### b. Balance
 *Blade Features*  
@@ -1093,19 +1093,19 @@ Not something you spend points on, this time! Of the three primary feature sets 
 
 *Tassel Features*  
 (4) The sword may be held with one less hand than normal. This allows a two-handed sword to be one-handed without difficulty (though does mean it loses its two-handed damage bonus). A sword that requires "no hands" can be strapped to your body somehow.  
-(4) Parrying with this sword hase its base Speed reduced by 1, and you may parry any disarm attempts with this sword with a +3 bonus, which replaces the normal penalty for parrying a disarm attempt.
+(3) Anytime you are disarmed of this sword, it is left to hang down from part of your body (typically the wrist via a string-loop), retrievable as a Speed 1 action.  While it is hanging from your arm, it is not able to be picked up or otherwise retrieved by anyone else.  
 
 ###### c. Yang
 *Blade Features*  
 (2) (Large Only) +2 Range; attacks with this weapon don't trigger on-contact effects.  
 (2) Your sword’s die size is increased by 2, to a maximum of _d20.  
-(1) Stun 1.  Can be taken twice.  
+(1) Stun 1. Can be taken twice.  
 (2) Your Sword's base Speed is increased by 1, it gains Delay 2, and your Sword Damage Bonus is increased by 2 when attacking. Can be taken twice.  
 (1) When you Block with your sword, you gain DR equal to your Sword Damage Bonus (unaffected by two-handing the weapon); this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times.
 
 *Hilt Features*  
 (1) Stun 1.  Can be taken three times.  
-(2) Your sword allows you to block with it as a Speed 4 Interrupt.  Taken a second time, your Block's effectiveness is not reduced by weapons, and any Damage Reduction you gain when blocking from the Yang Blade Feature is doubled.
+(2) Your sword allows you to block with it as a Speed 6 Interrupt.  Taken a second time, your Block's effectiveness is not reduced by weapons, and any Damage Reduction you gain when blocking from the Yang Blade Feature is doubled.
 
 *Tassel Features*  
 (3) Your sword's Stamina cost is increased by 2, and its damage is increased by +4d_.  

@@ -88,7 +88,7 @@ These tags indicate which category of Wound a jutsu inflicts, if it happens to d
 ##### Clone
 By default, all Bunshin follow the same basic rules listed in the Bunshin no Jutsu technique (see [here](https://nwwayward.github.io/projects/GeneralNin/#e-rank)). More advanced types of Bunshin than that exist, however, and changes to how they operate are clarified here:
 
- - Bunshin (of any type) can never make Bunshin (of any type).
+ - Bunshin (of any type) can never make Bunshin (of any type). Bunshin that can take actions (such as through the use of AP, or being independent) can talk, Bunshin that can not take actions cannot.
 
  - Bunshin, unless stated otherwise, can act on the IC which they were created. If they were created before the initiative, then they use your initiative roll to determine when they can first act.  The Clone miss chance, however, still does not apply on a simultaneous action.
 
@@ -96,19 +96,21 @@ By default, all Bunshin follow the same basic rules listed in the Bunshin no Jut
 
  - Bunshin copy over all status effects affecting their creator (except for Kage Bunshin) at the time they were created, along with all Wounds their creator had.  Bunshin that do not have their own fatigue, if forced to make a Fatigue roll (through Suffocation, or some similar effect), are destroyed as if struck.  Bunshin that have their own fatigue rolls suffer from such effects normally.
 
- - Bunshin can only perform actions listed in their action options (which means only Moku and Kage Bunshin could perform actions such as Meditation), though you can spend AP to reduce their speeds. Bunshin act on their own IC, separate from their creator, and using them does not increase the user's IC unless explicitly mentioned. 
+ - Bunshin can only perform actions listed in their action options (which means only Moku and Kage Bunshin could perform actions such as Meditation), though you can spend AP to reduce their speeds. Bunshin act on their own IC, separate from their creator, and using them does not increase the user's IC unless explicitly mentioned.
 
- - Bunshin do not benefit from any jutsu you use that designates you. They also count as individual entities for jutsu that can target/avoid a set number of targets. Bunshin share all per-combat limitations of effects (such as a Jutsu that can be used as a surprise attack once per combat: If you acted simultaneously with them to perform it, you'd pick which one of you gets that effect).
+ - Bunshin do not benefit (or suffer from) from any jutsu you use that designates (or discludes) you: they would not gain any bonus from you Chakra Strengthening, but would also not be affected by your own Grudge Rain (without having to be counted as one of the people it can disclude). Bunshin share all per-combat limitations of effects, such as a Jutsu that can be used as a surprise attack once per combat: even if you act simultaneously with them to perform it, you'd have to pick which of you gets that effect.  
  
- - Bunshin that can take actions (such as through the use of AP, or being independent) can talk, Bunshin that can not take actions cannot.
+ - Likewise, Bunshin are 'you' and therefore can not be used to stack the same effect upon any enemy in which you do, unless the effect or technique states it stacks with itself (such as Thundering Strike).  Using Multiple Incarnations of Desert, however, would not have you applying its Dehydrate any faster (or per-clone).  Similarly with Grudge Rain, you would simply pick which of 'you' (between yourself and as many clones are using Grudge Rain) gain its benefits (if you have a limited number of targets you happen to be all affecting).
+
+ - Bonuses based on consecutive actions (such as Tsuga, or Relentless, or Combo Counters) are shared between you and all your clones.
+ 
+ - Bunshin count as individual entites when targetted or otherwise affected by enemies.
 
  - All Bunshin that state they can dodge or parry can do so without you having to pay AP for them to defend themselves, though doing so advances their IC like normal (and may require AP be spent to reduce their Dodge or Parry speed against particularly low-speed attacks). Anything beyond either of those two actions incurs their normal costs (both with appropriate Fatigue rolls and AP costs depending on the Speed and the type of Bunshin used).
  
  - Bunshin do not generate AP on their own or from other effects that would ordinarily generate AP (such as opening Gates) under any circumstance, though you may spend AP to pay for any costs associated with any action they take (such as Kawarimi).
  
- - Bunshin which can act independently (Wood and Shadow) can be used outside of combat, can last up to an hour (after which they are destroyed as though struck) and can fight without their creator, and in such instances, do not generate or require AP to be spent for their actions, but can otherwise act normally.  If their creator ever joins a combat they are in (or vice versa), they revert to their normal behavior (of requiring AP for their actions, but also then having AP to spend, from their creator's pool).
- 
- - Bonuses based upon consecutive actions (such as Tsuga, or Relentless, or Combo Counters) are tracked separately for each bunshin (and accordingly, separately from you); you do not gain any bonuses (or penalties) associated with their actions.  On the other hand, Status Effects which can be stacked (such as a Hitori or Touu's status effects) or techniques which state their status effects stack with repeated uses (such as Oak Flight, or Thundering Strike) stack as a single status effect (and source) from you and your clones.
+ - Bunshin which can act independently can be used outside of combat, can last up to an hour (after which they are destroyed as though struck) and can fight without their creator, and in such instances, do not generate or require AP to be spent for their actions, but can otherwise act normally.  If their creator ever joins a combat they are in (or vice versa), they revert to their normal behavior (of requiring AP for their actions, but also then having AP to spend, from their creator's pool).
 
  - Bunshin which have their own Fatigue are created as a Fatigue 1 version of you, with all the normal benefits and penalties.  Bunshin which specify they have their own Fatigue and pay their own costs accordingly can take on their own Upkeeps, otherwise, you pay all their Fatigue costs (all Stamina and Chakra Exhaustion rolls they make, or are forced to make), and take on any Upkeeps from actions they perform. Bunshin which have their own Fatigue can never use medical ninjutsu, except for Chakra Scalpel and Nervous System Derangement, and never gain the benefits of effects which passively reduce fatigue penalties over time (from Endless Energy, Regenerative Chakra, or similar effects); Upkeeps which allow for such (such as Grudge Rain) do work normally, however.
  

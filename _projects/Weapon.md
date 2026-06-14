@@ -338,6 +338,23 @@ Despite being a fairly simple technique in concept, the precision necessary to p
 
 Effects: Your weapons deal +Xd*, to a maximum of double their base dice, but their damage is reduced by (5 * X)% for the purpose of determining wounds. X has a maximum of (your Chakra Control skill ranks)/3. Any weapon you pick up or draw automatically benefits from Blade Honing while you maintain its Upkeep.
 
+#### --( Tentai-ite no Jutsu - Celestial Archer Technique )--
+Every once in a while a shinobi gets it into their head that it would be a good idea to use a bow as their primary method of fighting. This rarely ends well, but the shinobi flair for the dramatic is often powerful enough to override both their good judgement, and any good advice they may receive. This technique was developed by those sorts of shinobi, in an attempt to make their weapon of choice less painfully impractical.
+
+The user concentrates chakra in their arms, speeding up their draw speed and allowing them to subconsciously correct their aim in an instant. The downside is that they sacrifice a great deal of power when doing this--but, as many users of it will assert, the technique is "way too awesome" for that to be a serious concern.
+
+ - Stamina: 15
+ - Upkeep: 2 + X/2
+ - Speed: 8
+ - Type: Bow
+ - Tags: Preparation
+
+Effects: While you maintain this technique's Upkeep, your bow's Accuracy penalty is reduced by X. If X is set higher than the value of your bow's Accuracy penalty (for example, you set X = 10 and are using a Yumi), consider X to be just enough to eliminate the penalty for this technique's other effects.
+
+The base Speed of your bow is reduced by X/2, and the number of dice of damage it rolls is reduced by X/2. Your damage bonus when using your bow, after being multiplied as appropriate for the weapon you're using, is also reduced by X/2.
+
+Your damage bonus or number of dice cannot be reduced to 0 or lower; if they would, you are incapable of maintaining Celestial Archer at that level.
+
 ## B-Rank
 #### --( Hashadan - Blade Breaker )--
 You deliver an overwhelmingly powerful blow, often an overhead strike, with all the force you can muster behind it; what it gains in force it loses in precision, but its real purpose is to destroy any weapons used by the victim for defense.
@@ -357,7 +374,7 @@ A highly effective maneuver, the user deflects an opponent's weapon with their b
  - Speed: (Weapon)/3, rounded down
  - Type: Sword
 
-Effects: This is activated after successfully parrying a weapon with your sword. You may immediately make a basic weapon attack against the person whose attack you parried, using your normal Accuracy. This uses a third of your weapon's normal Speed, rounded down; before AP and similar effects, Retaliation's Speed may not go below 4.  You gain +1d_ to your attack for every point your Parry roll was above the Accuracy of the attack you just parried, to a maximum of double its base dice.
+Effects: This is activated after successfully parrying a weapon with your sword. You may immediately make a basic weapon attack against the person whose attack you parried, using your normal Accuracy. This uses a third of your weapon's normal Speed, rounded down; before AP and similar effects, Retaliation's Speed may not go below 4.  You gain +1d_ to your attack for every point your Parry roll was above the Accuracy of the attack you just parried, to a maximum of its base dice.
 
 Due to their speed, Retaliation attacks cannot benefit from the damage bonus multiplication of holding a weapon twohanded. Attempting to parry an attack made with Retaliation has a -4 penalty. You may not move as part of this attack.
 
@@ -419,24 +436,6 @@ If Haruichiban misses, lower X by 1, its Speed by an additional 4, and raise its
 This effect does not alter Haruichiban's Stamina cost, or what its Speed is for determining when your next action comes (in other words: it lowers the number of dice rolled, and the Speed for damage calculations, only).
 
 Partial defense is less effective than normal against Haruichiban; for each point it hits by, it deals 25% of its full damage.
-
-#### --( Tentai-ite no Jutsu - Celestial Archer Technique )--
-Every once in a while a shinobi gets it into their head that it would be a good idea to use a bow as their primary method of fighting. This rarely ends well, but the shinobi flair for the dramatic is often powerful enough to override both their good judgement, and any good advice they may receive. This technique was developed by those sorts of shinobi, in an attempt to make their weapon of choice less painfully impractical.
-
-The user concentrates chakra in their arms, speeding up their draw speed and allowing them to subconsciously correct their aim in an instant. The downside is that they sacrifice a great deal of power when doing this--but, as many users of it will assert, the technique is "way too awesome" for that to be a serious concern.
-
- - Stamina: 15
- - Upkeep: 2 + X/3
- - Speed: 6
- - Requires: 2 ranks in Weapon Focus: Bow
- - Type: Bow
- - Tags: Preparation
-
-Effects: While you maintain this technique's Upkeep, your bow's Accuracy penalty is reduced by X. If X is set higher than the value of your bow's Accuracy penalty (for example, you set X = 10 and are using a Yumi), consider X to be just enough to eliminate the penalty for this technique's other effects.
-
-The base Speed of your bow is reduced by X/2, and the number of dice of damage it rolls is reduced by X/2. Your damage bonus when using your bow, after being multiplied as appropriate for the weapon you're using, is also reduced by X.
-
-Your damage bonus or number of dice cannot be reduced to 0 or lower; if they would, you are incapable of maintaining Celestial Archer at that level.
 
 #### --( Gen'ei Tousekiki - Phantom Ballista )--
 A distant derivative of the ubiquitous chakra flow technique, this concentrates chakra around the user's wrists and forearms. When an arrow is drawn back in a bow that chakra extends to wrap around it, and lingers long enough after being fired to strengthen the impact. More ambitious users can even form arrows out of pure chakra, though doing so rapidly puts a strain on their reserves.

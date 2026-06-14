@@ -97,7 +97,7 @@ When you sense someone using A Dream of the World, you can identify their chakra
 
 ## Sage
 ###### Path to Inner Peace (30 XP)
-*Requires: One With Nature, Basic Training 5, Hold Back 5*  
+*Requires: One With Nature, Hold Back 5*  
 Before, your meditation was almost childish: what you thought was perfection was in truth a tribute to its own flawed nature. What you thought was a deep understanding of the world was an immature attempt to define something which no words could hope to describe. What you thought was control of your own body was only ignorance of your own lack of discipline.
 
 You're not sure when you realized how wrong you've been-- it was simply... apparent, one day, an epiphany. Understanding your flaws, you have not overcome them, but rather accepted them, absorbed them into yourself, and in doing so let them dissolve like shadows in the light.
@@ -107,12 +107,12 @@ All meditation effects take place twice as quickly: you gain 1 NC every 1 IC spe
 Additionally, you can at this point talk to others without breaking your meditation, and the End Meditation action is now Speed 0 for you.  Once per battle, you can spent a point of Willpower to add the Interrupt quality to your End Meditation action, allowing you to do it as part of a defensive response, preventing you from taking the normal penalties to having your meditation disrupted as you act (and allowing its benefits to apply to that defnse).
 
 ###### Sage Mode (30 XP)
-*Requires: Path to Inner Peace*  
+*Requires: Path to Inner Peace, Basic Training 5*  
 The pinnacle of senjutsu--"sage techniques"--is, appropriately enough, referred to as "sage mode". Activating sage mode requires flawless self-control.
 
 Sage mode requires perfectly balancing sage chakra with one's own "yin and "yang" chakra--two things that most ninja never even need to concern themselves with. By drawing in enough nature chakra and maintaining it in perfect harmony, a heightened state of superhuman performance, the eponymous sage mode, can be reached.
 
-You may activate sage mode as a Speed 5 action, which may not have its Speed reduced, once you have at least 50 NC stored, and only if you are Meditating. Doing so immediately ends your meditation, and you may not meditate again until Sage Mode has ended.
+You may activate sage mode as a Speed 5 action, which may not have its Speed reduced, once you have at least 25 NC stored, and only if you are Meditating. Doing so immediately ends your meditation, and you may not meditate again until Sage Mode has ended.
 
 Sage Mode lasts until you run out of NC; however, while it is active you lose 2 NC every 5 IC (instead of 1), beginning the first time you take a non-interrupt action. While in Sage Mode, your current NC (for the purpose of determining benefits from nature chakra's passive effects, such as Body of Earth and Body of Metal) is always considered to be the amount you had when you entered Sage Mode.
 

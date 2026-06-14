@@ -45,7 +45,7 @@ Be aware: While holding one or more weapons, you can still make basic unarmed at
 
 ###### Sheathe Weapon
 *(Speed 6)*  
-You put a weapon you're holding away, in some secure fashion. If you're holding two weapons, you can put them both away at the same time.
+You put a weapon you're holding away, in some secure fashion. If you're holding two weapons, you can put them both away at the same time.  You can only sheath weapons which you entered the scene with: any weapons you acquire in a scene (such as from disarming someone) must be held in hand and can not be 'stowed' in any way, unless they are small ranged thrown weapoons, or you have some special means to stow the weapon, such as Confinement Seal Scroll.
 
 ###### Discard Weapon
 *(Speed 1, or Speed +2)*  
@@ -62,7 +62,7 @@ If two people decide to be stubborn and attempt to retrieve the same weapon on t
 You use a weapon you're holding to knock an enemy's out of their grasp, usually by hitting it at such an angle, and with enough force, that it becomes physically impossible for them to hold onto it. This is a basic weapon attack that does no damage, but if it hits you knock their weapon STR/10 yards in any direction (if straight up, the weapon lands at their feet but cannot be retrieved for STR/10 IC). Trying to Parry a Disarm attempt has a -3 penalty. Small weapons cannot disarm Large weapons, and Large weapons lack the finesse to be used to disarm at all.
 
 ## Melee Weapons
-Next to a weapon's name are various characteristics of the weapon, useful for determining what kind of wounds it inflicts and what jutsu it may be used with. Of particular note is the “Two-Handed” descriptor, meaning the weapon in question may only be used by holding it in both hands; this will lock you out of using items or otherwise using either hand (even when not actively swinging the weapon) unless you have the Monkey Grip ability. When being used two-handed, the weapon increases its user’s base STR/15 Damage Bonus by 33%. This multiplication only applies to the STR/15 (or similar stat-derived divisor, if it’s somehow changed), and does not apply to abilities or jutsu which add to or subtract from your damage bonus.
+Next to a weapon's name are various characteristics of the weapon, useful for determining what kind of wounds it inflicts and what jutsu it may be used with. Of particular note is the “Two-Handed” descriptor, meaning the weapon in question may only be used by holding it in both hands; this will lock you out of using items or otherwise using either hand (even when not actively swinging the weapon) unless you have the Monkey Grip ability. When being used two-handed, the weapon increases its user’s base Damage Bonus by 33%.
 
 ##### Blunt Weapons
 ###### Bo Staff (Blunt, Polearm, Two-Handed)

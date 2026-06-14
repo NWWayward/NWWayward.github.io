@@ -227,12 +227,12 @@ You divert your chakra to surge across your skin, building up something akin to 
  - Speed: 8
  - Seal Speed: 14
  - Special: This technique receives only half your damage bonus.
- - Status: Paralysis 1 for 40 IC, Special
+ - Status: Paralysis 1 for 30 IC, Special
  - Tags: Energy, Contact, Preparation
 
 Effects: Any time you are struck by an unarmed attack or melee weapon attack, this technique 'discharges', dealing its damage to them automatically (which can't wound), along with the above status roll.  In the case of weapon attacks, the damage is halved.
 
-If they hit you again while still suffering from the Paralysis of this technique, its severity is increased by 1, but its duration is not refreshed.
+If they hit you again while still suffering from the Paralysis of this technique, its severity is increased by 1 and its duration is increased by 10 IC, to a maximum of 30.
 
 This technique can be negated by effects which state they prevent on-contact effects, but will counter (and is not stopped by) Doryu Ken.
 

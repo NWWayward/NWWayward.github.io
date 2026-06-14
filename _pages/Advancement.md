@@ -490,9 +490,9 @@ Total + Bonus is your Total XP, plus your XP Bonus.
 ## Second Characters
 By default, you can only create and play one character at a time, as we want to encourage you to build up a character that is both mechanically and aesthetically complex and attached to both other characters, and plots, to engage in the world more with a character you'll stick with and grow to enjoy alongside others.  That said, once you've hit the cap of how much XP you're allowed to have spent, it can be demoralizing to be waiting for day rollovers to have XP to spent and to feel like you can't really engage with the game as much as you'd like, so second characters are allowed to be made--with some restrictions.
 
-Firstly, to create a second character, your first character must not just be at the XP Cap, but be **100 XP past it** in order to create a second character.  At present, third characters are not allowed to be created, though this may at some point change.
+Firstly, to create a second character, your first character must not just be at the XP Cap, but be **100 XP past it** in order to create a second character.  At present, third characters are not allowed to be created.
 
-Next, your second character can not be from the same village as your first: This both helps to create more diversity and increase player population within each village, and also helps protect against the next thing..
+Next, your second character can not be from the same clan or kyosha as your first: This both helps to create more diversity and increase player population within each village, and also helps protect against the next thing..
 
 .. Which is that your second character can't be related to or meaningfully know about, your first character.  Being 'aware of their existence' is fine, but your characters should never be said to, and are not allowed to, 'meet'.  Neither of your characters can aid or give or receive help from the other, be it Doctoring, Savings, items of any kind, Mentoring, or *any* other mechanical benefit. If you're found to be using one of your characters to aid another, you will lose your second character.
 
