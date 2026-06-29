@@ -48,31 +48,16 @@ Effects: You make a Ranged Taijutsu Attack. If you hit, this deals no damage but
 
 The chains themselves are still attached to the scroll, and therefore sufficient movement on the part of the victim will reduce this penalty, lowering it by 1 per four yards moved. Alternately, they can try to just wrestle free as a Speed 6 action, rolling as the defender in a Grapple with a penalty equal to their Immobility penalty from this technique, while you use your NDB in place of PDB.
 
-#### --( Shikoku Fuuin - Finger Engraving Seal )--
-Concentrating chakra into your fingertip, this allows you to 'write' on any surface you please. On solid objects, this will cause a slight depression on the surface and stain it black. On flesh, this will cause slight discomfort and leave a scar, which is initially ink-black and lightens over the next few weeks to regular scar tissue.
+#### -–( Shikoku Fuuin - Finger Engraving Seal )--
+Concentrating chakra into your fingertip, this allows you to ‘write’ on any surface you please. On solid objects, this will cause a slight depression on the surface and stain it black. On flesh, this will cause slight discomfort and form a ‘burn’ on the skin which is initially inky-black, but heals and goes away over the next month, leaving no scar.
 
-- Chakra: 15
-- Speed: 1 per word
+ - Cost: none
+ - Speed: 1 per (Chakra Control Ranks/5) words
 
-Effects: You can write on any surface. With chakra!
+Effects: You can write on any surface.  With Chakra!
+
 
 ## C-Rank
-#### --( Tsuyome Fuuin - Strengthening Seal )--
-A simple and reliable seal, useful for when conventional locks and physical walls aren't sturdy enough, or when one wants to obscur certain areas from those that can otherwise see or sense chakra from a distance.  The user takes several paper tags, writes the appropriate seals on them in their own blood, and then applies them to the edges of the surface of what is being sealed.  After that, handseals are performed and chakra is applied to them, reinforcing the structure they were placed on in order to ensure simple ninjutsu can not overcome them.
-
- - Chakra: 30
- - Speed: 16
- - Seal Speed: 25
- - Special: Exclusive
-
-Effects: This may be applied to any surface up to (CHA /10) square yards, and no thicker than (CHA /10) inches. You may divide the area by any whole number to multiply the thickness limitation by that much. For example, you could make it (CHA /10)/2 square yards, and in exchange apply the seal to a surface (CHA /10) * 2 inches thick. The seal is visible, though only on the side it’s applied to (so if it’s on the inside of a wall, you would not see it on the outside). Similarly, it can only be removed from that side. The surface this seal (including the tags themselves) is on is virtually indestructible - it gains (user’s CHA) * 10 HP, and has a damage reduction of (user’s CHA), which cannot be bypassed or reduced. 
-
-This seal can only be applied to flat, stationary surfaces, such as walls, floors, and ceilings. A stationary container such as a safe, lockbox, or chest is also a valid target. When you apply this seal, you may specify a certain time for it to end, such as "two days from now". The seal will last until the designated time arrives, or until it is removed by some method (such as the A-rank Five Elements Unseal). The person who placed this seal can simply peel the tags away from the sealed surface, destroying the seal in the process.
-
-If the surface in which the seal is applied includes a closable door, hatch, window, or similar, this strengthening effect is passed onto those surfaces as well. Additionally, any entryway or container sealed in this way cannot be opened - no amount of physical force or lockpicking can overcome the locks or hinges, and the hinges cannot be dismantled.
-
-Chakra Sensors can not detect any one or thing within an area enclosed by a Strengthening Seal unless they are within that same area (which likewise would keep them from sensing outside of it); Byakugan can not see through a Strengthening Seal applied to an area, as the chakra dispersed throughout blocks their vision (both into and out of it).  The Sensor, or Byakugan, can sense the location of the tags, if they are on the same 'side' as them, however, which makes the technique obvious for what it is.
-
 #### --( Sougu: Tensasai - Manipulated Tools: Heavenly Chain of Destruction )--
 An advanced form of Twin Rising Dragons, the user throws a scroll into the air and leaps after it. In midair the weapons inside the scroll are released and projected by the user's chakra, allowing them to guide far more weapons than they would be able to by hand. It gets its name from the speed of its most proficient practitioners, who can propel their weapons so fast they appear as rays of light.
 
@@ -106,6 +91,32 @@ Effects: This is used to supplement another sealing technique of rank C or highe
 
 If keyed to touch-activation or -deactivation by specific people, you can specify up to X people, where X is (Research ranks)/5, who the seal will recognize by chakra signature; all of those people must be present when you apply the seal. When the activation condition occurs, the seal is activated. When the deactivation condition occurs, the seal becomes dormant; none of its effects apply until it's reactivated, though it remains visible. Removing the seal augmented by Sleeping Moon Technique also removes this portion of the seal. Alternately, the Sleeping Moon seal could be removed, leaving the original seal in place but uncontrollable.
 
+#### -–( Raikou Kenka - Lightning Blade Creation )–-
+A special ninja tool summoning technique, this allows weapons or other ninja tools to be sealed with a single symbol in a scroll or, more commonly, clothes. Touching this symbol and willing it active is all it takes to summon these tools.
+
+ - Chakra: 28
+ - Speed: 10
+ - Seal Speed: 45
+ - Special: Exclusive; Self only
+
+Effects: This seals up to (CHA /5) items in a seal, which is applied to the target item.
+
+You may summon weapons sealed with this technique as a Speed 0 action. In the case of melee weapons, this also replaces the regular action to draw the weapon. For thrown weapons, the first time you use this technique to unseal and then immediately attack with a thrown weapon it counts as a surprise attack. Any weapon or item in Equipment may be stored in these seals, though each seal may store only a single type of item (such as kunai, wakizashi, or smoke bombs).
+
+#### -–( Torii Fuuin - Sacred Gate Seal )--
+Utilizing a seal placed on the user’s body (typically on the palm or back of the hand, but it can be placed anywhere), the user can generate a temporary but powerful defensive lattice of chakra with which to protect themselves. The stronger the technique it is used against, the more taxing it becomes on the user.
+
+ - Chakra: 25
+ - Speed: 10
+ - Seal Speed: 30
+ - Special: Exclusive; Self only
+
+Effects: You seal your own chakra somewhere on your own body, primed to form a defensive barrier when called upon later.
+
+Using this seal, you can Block as a Chakra 10 + X * 4, Speed 6, Seal Speed 8 Interrupt.  This can be used against any attack which you could ordinarily Block; if used against a technique of D-rank or below (or basic attacks), X is zero.  Else, X equals however many ranks the attack is above D (C = 1, B = 2, A = 3).  This technique negates 25% block reduction (such as from Weapons, or Raiton), but you must increase X by 1 to utilize the Endurance ability with it.
+
+Netetsuki no Jutsu can not be placed on this seal.
+
 #### --( Tsuiseki Fuuin - Tracking Seal )--
 A very useful seal, though one which suffers from a number of limitations. When applied to a person, the seal vanishes almost immediately, becoming invisible and virtually undetectable, even to shinobi capable of seeing chakra (such as the Hyuuga and Uchiha). Afterwards, whoever applied the seal will be able to get a vague idea of the location of the sealed individual, allowing them to be tracked across any distance.
 
@@ -120,32 +131,38 @@ Once applied, the seal is invisible and undetectable. It will only be discovered
 
 By forming a handseal and concentrating for several seconds you know the direction and approximate distance from your current location of the person(s) you're tracking. This does not provide any bonuses in combat; while it lets you know your target is nearby, it lacks enough precision at such short distances to help you discover an opponent hidden in stealth. There is no limit on how often you may activate a Tracking Seal, though you have to stop and concentrate each time (and so cannot do it while moving).
 
+#### --( Tsuyome Fuuin - Strengthening Seal )--
+A simple and reliable seal, useful for when conventional locks and physical walls aren't sturdy enough, or when one wants to obscur certain areas from those that can otherwise see or sense chakra from a distance.  The user takes several paper tags, writes the appropriate seals on them in their own blood, and then applies them to the edges of the surface of what is being sealed.  After that, handseals are performed and chakra is applied to them, reinforcing the structure they were placed on in order to ensure simple ninjutsu can not overcome them.
+
+ - Chakra: 30
+ - Speed: 16
+ - Seal Speed: 25
+ - Special: Exclusive
+
+Effects: This may be applied to any surface up to (CHA /10) square yards, and no thicker than (CHA /10) inches. You may divide the area by any whole number to multiply the thickness limitation by that much. For example, you could make it (CHA /10)/2 square yards, and in exchange apply the seal to a surface (CHA /10) * 2 inches thick. The seal is visible, though only on the side it’s applied to (so if it’s on the inside of a wall, you would not see it on the outside). Similarly, it can only be removed from that side. The surface this seal (including the tags themselves) is on is virtually indestructible - it gains (user’s CHA) * 10 HP, and has a damage reduction of (user’s CHA), which cannot be bypassed or reduced. 
+
+This seal can only be applied to flat, stationary surfaces, such as walls, floors, and ceilings. A stationary container such as a safe, lockbox, or chest is also a valid target. When you apply this seal, you may specify a certain time for it to end, such as "two days from now". The seal will last until the designated time arrives, or until it is removed by some method (such as the A-rank Five Elements Unseal). The person who placed this seal can simply peel the tags away from the sealed surface, destroying the seal in the process.
+
+If the surface in which the seal is applied includes a closable door, hatch, window, or similar, this strengthening effect is passed onto those surfaces as well. Additionally, any entryway or container sealed in this way cannot be opened - no amount of physical force or lockpicking can overcome the locks or hinges, and the hinges cannot be dismantled.
+
+Chakra Sensors can not detect any one or thing within an area enclosed by a Strengthening Seal unless they are within that same area (which likewise would keep them from sensing outside of it); Byakugan can not see through a Strengthening Seal applied to an area, as the chakra dispersed throughout blocks their vision (both into and out of it).  The Sensor, or Byakugan, can sense the location of the tags, if they are on the same 'side' as them, however, which makes the technique obvious for what it is.
+
 ## B-Rank
-#### –( Fuuyoso Houin - Element Sealing Method )–
+#### -–( Fuuyoso Houin - Element Sealing Method )–-
 Named because being able to put out fires is its primary use, this sealing technique actually allows for the retrieval of elemental matter of all kinds–-it just so happens that out of control fires are some of the most deadly disasters in human history. The proper seals must be written on the scroll, followed by the correct handseals. Once the technique is complete the element of the user’s choice will vanish entirely and be sealed within the scroll; the kanji for “seal” will appear on said scroll.
 
  - Chakra: 20 + X * 2
  - Range: 30
  - Speed: 10
- - Seal Speed: 25
+ - Seal Speed: 20
 
-Effects: You can seal any of the five basic elements inside of scrolls! Up to (CHA) gallons or (CHA/5) square yards of elemental matter can be sealed this way. This works just as well with chakra-based instances of the element as with natural-made ones, but lacks any offensive capacity: If you try to remove ‘wind’ from an enclosed area, you do not create a vacuum, you simply still the air and thin it out. Similarly, you can’t remove earth from underneath someone to suck them up into it or trip them (though they might be in a hole). If you have to ask if you could use the jutsu in some sort of offensive capacity, assume the answer is ‘no’.
+Effects: You seal any of the five basic elements inside of scrolls! Up to (CHA) gallons or (CHA/5) square yards of elemental matter can be sealed this way. This works just as well with chakra-based instances of the element as with natural-made ones, but lacks any offensive capacity: If you try to remove ‘wind’ from an enclosed area, you do not create a vacuum, you simply still the air and thin it out. Similarly, you can’t remove earth from underneath someone to suck them up into it or trip them (though they might be in a hole). If you have to ask if you could use the jutsu in some sort of offensive capacity, assume the answer is ‘no’.
 
-You can also use this technique to immediately end any status effect based on an element being physically upon someone (so, mostly just Immobilize and Ignite), with X being the number of people you can do this do, to a maximum of (1 + Chakra Control Ranks/5).
+You can also use this technique to immediately end any status effect based on an element being physically upon someone (so, mostly just Immobilize and Ignite), with X being the number of people you can do this to, to a maximum of (1 + Chakra Control Ranks/5).
 
-Each use of this technique requires a blank scroll for the element to be sealed in. Once sealed, the elemental matter is effectively destroyed: it cannot be released, and the scroll cannot be reused.
+Alternatively, this jutsu may end an Upkeep or other persistent effect created by any element you have aptitude for which affects people other than the user;  X is equal to the higher of effect’s Rank (E = 1, D = 2, C = 3, etc) or Upkeep cost. Each use of this jutsu may only end one effect, and nothing prevents someone from activating that jutsu again.
 
-#### --( Raikou Kenka - Lightning Blade Creation )--
-A special ninja tool summoning technique, this allows weapons or other ninja tools to be sealed with a single symbol in a scroll or, more commonly, clothes. Touching this symbol and willing it active is all it takes to summon these tools.
-
- - Chakra: 28
- - Speed: 10
- - Seal Speed: 45
- - Special: Exclusive
-
-Effects: This seals up to (CHA /5) items in a seal, which is applied to the target item. 
-
-You may summon weapons sealed with this technique as a Speed 0 Interrupt. In the case of melee weapons, this also replaces the regular action to draw the weapon. For thrown weapons, the first time you use this technique to unseal and then immediately attack with a thrown weapon it counts as a surprise attack. Any weapon or item in Equipment may be stored in these seals, though each seal may store only a single type of item (such as kunai, wakizashi, or smoke bombs).
+Each use of this technique requires a blank scroll for the element to be sealed in. Once sealed, the elemental matter is effectively destroyed: it cannot be released, and the scroll cannot be reused.  Netetsuki no Jutsu can not be used with this technique.
 
 #### --( Keiyaku Fuuin - Contract Seal )--
 Implemented on a summoner, this removes any control the summoner has over their summoned creature, and in most cases will temporarily nullify the contract altogether.
@@ -156,6 +173,18 @@ Implemented on a summoner, this removes any control the summoner has over their 
  - Special: Exclusive
 
 Effects: Any summoning contracts the victim possesses are considered null and void until this seal is removed. In most cases, this will forcibly de-summon anything they've already summoned. Defensive Summoning techniques used against this automatically fail.
+
+#### -–( Ketsumei no Tsurugi - Sword of Blood Oath )–-
+This seal creates what is essentially a modified version of the blood pacts many shinobi form with summoned creatures. Rather than a powerful and intelligent animal, however, this ‘contract’ is made with a favored weapon.
+
+ - Chakra: 40
+ - Speed: 20
+ - Seal Speed: 40
+ - Special: Exclusive; Self only
+
+Effects: You can seal a single weapon with this technique. The weapon vanishes, and the seal for this technique manifests somewhere of your choosing on your body–usually the user’s forearms. You can summon the sealed weapon as a Speed 0 Interrupt, already ‘drawn’. As a Speed 0 action, you may return it to the seal, in which case it vanishes in a puff of smoke; you must actually have the weapon in hand to do so.
+
+If the weapon is broken, or taken more than a mile away from you, it vanishes in a puff of smoke. In this case it will not be available for summoning for one hour. However, it is, for most intents and purposes, indestructible and impossible to lose in any permanent sense. The seal is invisible while the weapon is stored within it, but becomes (and remains) visible on your body so long as the weapon is withdrawn.
 
 #### --( Shinsei Chinmoku Fuuin - Sacred Silence Seal )--
 Often used as a form of so-called 'loyalty seal', this has seen moderate popularity among various clandestine and/or extremist organizations within the ninja villages, as well as a means of helping ensure that double agents don't turn into triple agents.
@@ -173,43 +202,53 @@ You may, when applying this seal, also specify one exception to its restrictions
 
 This seal trumps any genjutsu short of the Poison Truth Technique.
 
-#### --( Moji Hyouki no Jutsu - Rune Inscribing Technique )--
-A tricky seal, this allows the user to mold the chakra necessary for any ninjutsu technique they know and then 'freeze' it, holding it primed but inactive inside of a seal. Once a trigger condition occurs, the jutsu is released. Use of this technique to prepare explosive Katon techniques and leaving them around as a practical joke is strongly discouraged.
+#### -–( Moji Hyouki no Jutsu - Rune Inscribing Technique )–-
+A tricky seal, this allows the user to mold the chakra necessary for any ninjutsu technique they know and then ‘freeze’ it, holding it primed but inactive inside of a seal. Once a trigger condition occurs, the jutsu is released. Use of this technique to prepare explosive Katon techniques and leaving them around as a practical joke is strongly discouraged.
 
- - Chakra: 25 + X/2
- - Speed: 20 
- - Seal Speed: 30 + X
+ - Chakra: 15 + X/2
+ - Speed: 10, Delay 5
+ - Seal Speed: Special
  - Special: Exclusive
 
-Effects: When you use Moji Hyouki, select another ninjutsu which you are able to perform, specifying all its variable parameters at that time. The "X" for Moji Hyouki refers to the ninjutsu you choose, which can not have a cost other than Chakra Exhaustion (such as Willpower, or Stamina).
+Effects: When you use Moji Hyouki, select another ninjutsu which you are able to perform, specifying all its variable parameters at that time. The “X” for Moji Hyouki refers to the chakra cost of the ninjutsu you choose, which can not have a cost other than Chakra Exhaustion (such as Willpower, or Stamina). The seal can draw on ambient gallons of water to fuel sealed Suiton techniques, and both stores the necessary weapons for and foregoes the need for scrolls when used with other Fuinjutsu techniques (namely Twin Rising Dragons, Heavenly Chain of Destruction, and Attached Meteor).
 
-Moji Hyouki can be placed on any reasonably flat, solid surface that's at least one foot across in each direction, such as a floor or a box (notably, this can't be placed on any item found in Equipment, nor may it be placed on anything you could bring into combat with you). Once applied, the seal will either vanish (making a potentially effective trap) or remain visible as an elaborate set of seals that can be identified by anyone familiar with the technique (as a warning of sorts). Even if Moji Hyouki is identified, the technique placed in it will not be. When the seal is placed, an activation condition is specified. The three possible activation conditions are:
+Moji Hyouki’s seal speed is equal to the chosen jutsu’s modified seal speed plus 1/2th of the technique’s base speed. The seal begins to prime upon its completion, but is not able to be activated until the end of Moji Hyouki’s delay.
 
- - Someone comes within five feet of the seal.
- - Someone touches the seal.
+Moji Hyouki can be placed on any reasonably flat, solid surface that’s at least one foot across in each direction, such as a floor, box, or reasonably flat and solid ground. Notably, it explicitly cannot be placed on any object listed in the Equipment section. Attempts to store an object inscribed with Moji Hyouki inside a confinement scroll or other sealing technique will immediately activate it. Likewise, any object with Moji Hyouki inscribed on it cannot be safely carried into or wielded in combat - jostling the seal in this way will immediately activate it.
+
+If you are hidden when you use Moji Hyouki, Moji Hyouki itself is hidden at the same Stealth TN as you; you yourself are revealed from its use (as normal), but you are not revealed until the end of its Delay (unlike normal). If you are not hidden when you use Moji Hyouki, anyone who sees you use it will know you have placed some sort of seal; anyone who knows this technique will recognize it for what it is, and be capable of identifying the activation condition for it, but not the technique placed in it.  Regardless, you can choose whether the seal vanishes or remains visible after it is placed.  When it is placed, an activation condition is specified. The four possible activation conditions are:
+
+ - Someone comes within five yards of the seal.
+ - Someone touches the seal. (The A-rank Five Elements Unseal will not trigger a touch  activated Moji Hyouki.)
  - If the seal is on a door or container, it may be set to activate when said door or container is opened.
+ - Upon command - As a Speed 2, chakra 5 action, or a speed +2, chakra +5 link to any other action, you may spend AP equal to half the sealed jutsu’s base speed to activate it. Activated this way, you may set a delay between 0 and (Chakra Control Ranks/5) before the seal takes effect.
 
-When the seal activates, the jutsu in question will immediately take effect. If this is an offensive technique it will be aimed at the person who set it off (unless it's an AoE, in which case it will be centered on the seal). Offensive techniques used this way use your Accuracy at the time of its creation, unmodified by things such as status effects, wounds, fatigue, or temporary bonuses or penalties, and have a -2 Accuracy penalty per rank of the Technique. The A-rank Five Elements Unseal will not trigger a touch activated Moji Hyouki.
+When the seal activates, the jutsu in question will immediately take effect unless it itself has a delay, in which case its normal Delay begins. If this is an offensive technique it will be aimed at the person who set it off (unless it’s an AoE, in which case it will be centered on the seal), or at a specified target if triggered by the command action. Offensive techniques used this way use your Accuracy at the time of its creation, unmodified by things such as status effects, wounds, or temporary bonuses or penalties, though fatigue penalties do still apply.
 
-Jutsu which are upkeeps will have no chakra source from which to draw from (given it is on an object), and will therefore immediately end after activation.  Similarly, Jutsu with a range or an effect that only applies to oneself will then only apply to, and work on, the object it was placed on.
+Jutsu with an upkeep can not be placed within Moji Hyouki. Jutsu with a range or an effect that only applies to oneself will then only apply to, and work on, the object it was placed on.
 
-Attempting to move or seal an object with Moji Hyouki on it (such as inside a Confinement Seal Scroll, or Lightning Blade Creation) causes Moji Houki to immediately activate.
 
 ## A-Rank
-#### --( Tensha Fuuin - Transcription Seal )--
-A rarely-seen technique, this seals the necessary chakra patterns for a specific jutsu inside a person, and keeps it perpetually ready within this seal. When a certain condition is met the seal activated and the technique is triggered.
+#### -–( Tensha Fuuin - Transcription Seal )–-
+A rarely-seen technique, this seals the necessary chakra patterns for a specific jutsu inside a person, and keeps it perpetually ready within this seal. When a certain condition is met the seal is activated and the technique is triggered.
 
-- Chakra: 30
-- Range: Touch
-- Speed: 20
-- Seal Speed: 35
-- Special: Exclusive
+ - 
+ - Chakra: 30
+ - Range: Touch
+ - Speed: 20
+ - Seal Speed: 35
+ - Special: Exclusive
 
-Effects: When used, declare another technique which you know, pay its cost, and specify a condition. The technique immediately and involuntarily activates when that condition is met. Possible conditions include "when you see the daimyo" and "when you hear the word 'orange' ". A target can be specified within reason (such as "the daimyo", or "whoever said that word").
+Effects: When used, declare another technique which you know, pay its cost, and specify a condition. The technique immediately and involuntarily activates when that condition is met. Possible conditions include “when you see the daimyo” and “when you hear the word ‘orange’ “. A target can be specified within reason (such as “the daimyo”, or “whoever said that word”), but must be keyed to a sight or sound.
 
-The technique stored inside a Transciption Seal may not be a Taijutsu, and techniques which use your Taijutsu Accuracy may only target the person the seal is applied to, not anyone else.  It may not have a cost of any kind other than Chakra Exhaustion (such as Willpower, or Stamina), and if it has a variable CE Cost (such as Inugami Possession), you consider all variables to be equal to (1 + current fatigue level) of the person they are placed on when they activate (Inugami Possession activating at Fatigue 3 has X = 4), or X's maximum, whichever is lower.  If the technique has material components (a scroll, a weapon, etc), you must have those material components and they are considered stored within the seal until it is released; requisition spent on them is considered locked and can not be reallocated for other purposes while the seal remains.  Elemental ninjutsu with material components (Ice, Sand, Water, etc) require enough material at the time of the seal's placing, and accordingly are contained within the seal until its activation, but the seal can only use an amount equal to the limitations of the person the seal is used on when it is triggered; any excess stored into the seal are added to the battlefield harmlessly.  Clan techniques placed inside of transcription seals only work if the person they are placed on has the appropriate kekkai genkai (Transcribing Shadow Bind onto non-nara results in it simply failing to activate), with the sole exception of elemental ninjutsu.
+The technique stored inside a Transcription Seal may not be a Taijutsu or have an Upkeep.  Techniques which use your Taijutsu Accuracy may only target the person the seal is applied to, not anyone else.  It may not have a cost of any kind other than Chakra Exhaustion, and if it has a variable CE cost, you can set the variable to a maximum of your bonus to Chakra Exhaustion rolls unmodified by fatigue or temporary/conditional modifiers; if you had a base bonus of +13, you could set X = 13, or to X’s maximum, whichever is lower.
 
-If it is a Genjutsu or Sealing technique, it can apply to the person the Seal was placed on or the preson who triggered it, as you prefer. If the technique in question has an Upkeep, the person the Seal was placed on immediately takes on the Upkeep, and can accordingly dismiss it at any time. A person may only have one Transcription Seal on them at a time. This seal is invisible and undetectable except for by a Fuuinjutsu expert who knows to look for it.
+If the technique has material components (a scroll, a weapon, etc), you must have those material components when placing the seal and they are stored in it until the seal is released; requisition spent on them is considered locked and can not be reallocated for other purposes while the seal remains.  Elemental Ninjutsu with material components (Ice, Sand, Water, etc) require enough material at the time of the seal’s placement, likewise, but the seal can only use an amount equal to the limitations of the person the seal is placed on; excess stored into the seal is added to the battlefield harmlessly.
+
+Clan techniques require the person they are placed on to be of the clan they are from, or else they fail to activate, with the exception of Elemental Ninjutsu.
+
+If it is a Genjutsu or Sealing technique, it can apply to the person the Seal was placed on or the person who triggered it, as you prefer.  Sealing Techniques which are Self Only can not be placed on others with Transcription. A person may only have one Transcription Seal on them at a time. This seal is invisible and undetectable except for by a Fuuinjutsu expert who knows to look for it.
+
 
 #### --( Gogyou Fuuin - Five Elements Seal )--
 This jutsu produces a powerful seal that disrupts the flow of chakra in the target. In most cases this is crippling.
@@ -255,16 +294,6 @@ Effects: If you hit, make an opposed Espionage roll: If you succeed, the seal is
 The seal is inactive by default, but as a Speed 4, Chakra 10 + X interrupt in response to any non-interrupt action they take, you can create a temporary form of paralysis which turns their own Chakra against them, preventing the action they were going to perform, and forcing them to make a Chakra (X * 2) roll. If they fail, they are not fatigued, and they do not roll the Chakra or Stamina rolls associated with their action, as they are prevented from performing it. Their IC is not advanced by the action's Speed, and instead they suffer a Stun 5. X has a maximum value of your Chakra Control Ranks. 
 
 Every time that a victim has previously had to roll against this seal's effects, they gain a +3 to their Chakra Exhaustion roll to overcome its effects. After they've succeeded on one such roll, the seal is forced into remission, and will not affect them temporarily; it cannot be reapplied or reactivated for the rest of that fight. Once the seal is subdued, it is, as far as the victim can tell, gone entirely, its effects having been broken. However, after 24 hours have passed the seal can be reactivated by its user, per the normal rules, with the cumulative bonus to resist it reset. A Fuuinjutsu expert will be able to, if they know someone has had this seal applied to them, find and remove it using the A-rank Five Elements Unseal technique.
-
-#### --( Ketsumei no Tsurugi - Sword of Blood Oath )--
-This seal creates what is essentially a modified version of the blood pacts many shinobi form with summoned creatures. Rather than a powerful and intelligent animal, however, this 'contract' is made with a favored weapon.
-
-- Chakra: 40
-- Speed: 20
-- Seal Speed: 40
-- Special: Exclusive
-
-Effects: You can seal a single weapon with this technique. The weapon vanishes, and the seal for this technique manifests somewhere of your choosing on your body--usually the user's forearms. You can summon the sealed weapon as a Speed 0 Interrupt, already 'drawn'. As a Speed 0 action, you may return it to the seal, in which case it vanishes in a puff of smoke; you must actually have the weapon with you to do this. If the weapon is broken, or taken more than a mile away from you, it vanishes in a puff of smoke. In this case it will not be available for summoning for one hour. However, it is, for most intents and purposes, indestructible and impossible to lose in any permanent sense. The seal is invisible while the weapon is stored within it, but becomes (and remains) visible on your body so long as the weapon is withdrawn.
 
 #### --( Nenshou Fuuin - Burning Seal )--
 A highly-specialized, highly-effective sealing technique used to prevent an individual from handling weapons. Though it's applied as a single seal, it appears on both the recipient's (or rather, victim's) hands, clearly recognizable as some form of ninja sealing technique or tattoo meant to emulate one. Whenever the recipient holds a weapon, the seal activates. As the lines of the seal begin glowing a dark, heated red, the victim's skin will start to burn and smolder. Within seconds their flesh will start to smoke as they're baked alive; if one is willful or self-destructive enough to not drop the weapon they're holding, they'll soon have their arms reduced into charred, blackened husks.

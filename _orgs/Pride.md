@@ -1109,4 +1109,4 @@ Not something you spend points on, this time! Of the three primary feature sets 
 
 *Tassel Features*  
 (3) Your sword's Stamina cost is increased by 2, and its damage is increased by +4d_.  
-(4) Anyone who successfully parries your sword still takes half damage (but no secondary effects); Your sword's Stun value is increased by 50% against anyone who blocks your sword.
+(4) Anyone who successfully parries your sword still takes half damage (but no secondary effects), which does not stack with Chakra flow: Fuuton (or other, similar effects); Your sword's Stun value is increased by 50% against anyone who Blocks your sword.

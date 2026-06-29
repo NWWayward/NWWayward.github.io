@@ -514,6 +514,9 @@ Nah, just stick to the bones.  You use your downtime for the day to gain another
 #### Scavenging
 You recycle scraps of materials for use later, allowing you to gain 10 Scrap.
 
+#### Reconstruction
+Used with Housing; by spending 8 days doing Reconstruction and 
+
 #### Crafting
 By spending a Training Day crafting, you can use scrap equal to the Ryo cost of an item to craft that item using Scrap instead of Ryo.  You can only create up to (XP/10 + Infamy)'s Ryo worth of items in a single Training Day, rounding down.  Likewise, you are limited by your Rank what you can craft using scrap.  All items created with Scrap will not be replaced if they are lost, consumed, or damaged.
 
@@ -527,3 +530,69 @@ Upon reaching ANBU, you can craft Soldier and Blood Pills.
 
 ### Logging Scrap gains and Spends
 You can gain Scrap from missions (determined and awarded by the ST alongside Infamy and XP), and gain Scrap equal to 50% of the XP earned in all Spars (round down).  When you purchase something with Scrap, be sure to note it as such in the Equipment log (in the same way you would indicate whether it was bought with Savings or Requisition).  
+
+## [Player Housing](https://docs.google.com/spreadsheets/d/1JTBHxEGUOFiUIFoxwmfuCX3r_N6wItI2s_bxxcEi4X0/edit?usp=sharing)
+
+As an alternative sort of advancement for characters which have hit and exceeded the current Experience Cap, you may thereafter begin to work on creating your very own hideaway!  Like Second Characters, you must have reached 100 XP beyond the current XP Cap at some point to qualify for Player Housing; check The Log to see if you qualify.
+
+By default it is considered to be a static spot located somewhere within your Kyosha's territory (most commonly within or around their main city); Vagabonds can have it set within any Kyosha's territory or in some other place, as they prefer.  Every house is considered 'hidden' and not publicly known or accessible, though anyone you bring to your house accordingly knows of its location, and your Kyosha are assumed to know about it unless you intend for it to be hidden from them likewise; inform your ST if that is your intent.
+
+Following the google sheet link above (via the category header), you will see the legend for housing, Plot Types, an Example Dwelling, and Room Modules that are Small, Medium, and Large.
+
+First you choose a Plot Type; once chosen, it can not be changed.  Once chosen, right-click the sheet tab and copy it to your character sheet.
+
+Next, roll a number of dice (use the channel dedicated to rolling, please) to determine what cells begin as 'Blocked', going from left to right and top to bottom to determine their placement based on your rolls; using Plot Type A, B2 would be 1, and O15 would be 196, on a d196.
+
+Any duplicates you roll you can choose to reroll once, or not, as you prefer; the same cell blocked multiple times is no different from one blocked once.  Blocked cells must be cleared (by utilizing a Downtime day to Scavenge) before you can place anything on them, but award +10 Scrap for that Downtime Day for doing so.  Any Blocked cell which is outside the bold border boundary is considered inaccessible and can not be scavenged (or otherwise interacted with) until you first expand your house to include those cells (see Expansion, below).
+
+Your house begins with all unblocked rooms within the **bold** border boundary accessible.
+
+There are at its core three components of a House: Hallways, Rooms, and Room Modules, each with a Scrap cost, an Overcap cost, and an Energy cost.
+
+#### Overcap
+Overcap costs vary by which Room Module you wish to acquire, and are limited by the highest amount of Experience Points you've had that's exceeded the cap; the sheet tracks this automatically, so if you ever go inactive, it will not ever decrease your highest amount (for Housing, second character appplicability, etc), but it will make it more difficult to add on further to your house until you catch back up to your highest overcap experience point total again.  Likewise, Overcap is not 'spent' — if you have used 150 out of 170 Overcap on Housing, and then take a week off and the cap increases by 70, you are not 50 underneath the cap (as you would be if that Experience was spent), but only reduced by the 70 the cap was raised to be then at 100 Overcap.  In such a case you would still ahve 20 overcap to spend on housing (as it is based on your highest achieved), but you would have to work your way back up to 170 overcap to begin earning more for your house again.
+
+#### Scrap
+Scrap costs should be self-explanatory; Hallways cost 5 Scrap (and no Overcap or Energy) each, while Rooms cost 10 Scrap (and no Overcap or Energy) each, and you can freely 'rebuild' your base with each as you please: If you've bought 10 Hallways, you can rearrange them at any time, but have only 10 hallway 'cells' (1x1) to utilize until you purchase more.  You can not, however, refund Hallways and Rooms; once you've spent the Scrap for them, it is spent.
+
+#### Energy
+Room Modules have both Overcap and Scrap costs and, aside from Generators, also have an Energy cost: an amount of Energy required to make use of the room.  This is a largely abstracted resource that is less 1:1 "fuel" in the way of electricity or chakra, and moreso a constant accumulation of resources by which all other aspects of your base are supplied and maintained: If you lack the Energy for a Scroll Cabinet, it could just as well be explained by you lacking proper oil for lantern lighting as it could be for the paper itself, until you get enough Energy to maintain the room, at which point you do.  Convenient!  On the sheet you should list your total Energy from Generators and what it is being used on accordingly; you can 'turn off' certain rooms as necessary for the instances in which you can't power all rooms you have at once.
+
+Generators which provide energy must be connected (but need not be adjacent) to rooms which require energy in order to supply them with it; you can not have all your generators in an otherwise-inaccessible part of your house, notably.  Generators have no affiliation, but small generators are necessary for utiliation of a medium, medium necessary for a large.
+
+#### Hallways
+Hallways are used to connect rooms to one another, both directly (aka, 'Adjacent'), and in chains (aka connections), and cost 5 Scrap each.  Rooms exist to allow the placement of Room Modules, which vary in their size and shape.  Because Room Modules can not be placed in the same room, you must separate rooms, using hallways, to fit multiple Room Modules within your house.
+
+Hallways can lead only from one room to one other room (or house exit/entrance), and can not be used to connect multiple rooms to multiple other rooms.  They can be as small as 1x1, or as large and as long as you like.
+
+The first thing you must build is an entrance and an exit; hallways which are on the boundary of your plot can freely be turned into exits/entrances, and you must have at least two. Rooms can not have entrances/exits to the outside. If you have only one room, both entrances/exits can lead to the same room, but when you have two or more rooms, your exits/entrances must lead to different rooms.
+
+Stairways are a special type of hallway for Plot Types B and C that function as a hallway, costing 10 Scrap. They can be placed inside of a room cell; once placed, they lead directly up or down one level to the equivalent cell placement on that level (purchased once to apply to both levels), and count as one of the three hallways for a rooms maximum amount.  If connected to a hallway (rather than a room), like a hallway it can only connect to one other room.
+
+#### Rooms 
+Rooms can house at most one Room Module, regardless of the Room's actual size, and cost 5 Scrap each. Rooms can have up to three hallways leading to/from them, which must be done on a side; Rooms can not directly connect to other Rooms without a Hallway to do so.
+
+#### Room Modules 
+Room Modules have a listed Overcap, Scrap, and Energy cost, Affiliations (except for Generators), and a given Size.  Their Size is the amount of cells (indicated in white within the grid for that room) that it takes up in your House, and accordingly the number and arrangement of Room Cells necessary to place that Room Module.  You can freely rotate rooms in 90-degree turns to fit them, but can not 'flip' or otherwise change their orientation.
+
+Regardless of your character's Kyosha, they can purchase and make use of Rooms of any Affiliation; Affiliations of Room Modules determine what, if any, adjacency bonuses they can give to rooms they are directly leading to or from with a Hallway. Accordingly, no room can give or receive adjacency bonuses to more than three other rooms.  
+
+Additionally, all rooms with an Affiliation also have one opposing affiliation they can never be adjacent to; you simply can not build those rooms to directly connect to each other.  If you happen to do so, both rooms fail to provide any benefit of their own, and neither grants adjacency bonuses to any other rooms they are adjacent to.
+
+Medium and Large Rooms have Tiers, and when built always begin at Tier 1. In order to increase their Tier, you must have a Room of the listed Affiliation adjacent to it, reminding that adjacency means that they are connected via hallway leading directly from one room to the next, not based on what rooms are physically touching it (see the Example Dwelling for details).  Each Adjacency Affiliation can only increase a Room's Tier by one: a Dojo (Pride-affiliated) which is adjacent to three Sun and Moon rooms is still Tier 2, while a Dojo adjacent to one Sun and Moon and on Ikerukazi affiliated room is Tier 3.  a Dojo adjacent to an Asura/Yokai room would provide no benefit at all, however.
+
+#### Expansion
+Plots have bold boundaries and double-line boundaries which show the maximum limit to which they can be expanded; by default your base is only the cells within the bold boundary, but by expanding it, you can increase it to the double-line boundary.
+
+In order to Expand your house's size, pick a row or column you wish to expand, starting from your base's current bold boundary; using Plot Type A, C4:C13 would be a boundary you could expand upon, which is itself 10 cells.  Multiply the number of cells times five; that is the cost to make the expansion of those cells.  You can not 'partially' expand your house along a row or column, and must expand it fully in the direction chosen.  Thus, after expanding to the C column, expanding Row 3 would begin at C (instead of D), and extend to column M, resulting in 11 cells and a Scrap cost of 55.  
+
+once you have expanded your house to the double-line boundary, you can not expand it further.
+
+You can only have one house.  Once you run out of room, it's time to consider how to fit everything you wish to have in it! Likewise, 'group bases' are not available at this time, but may be an option in a future update.
+
+#### Reconstruction
+Inevitably, you will wish to redesign your house.  Not to fear, shinobi construction workers are in fact the best in the business.  Because all of their competition goes missing. ..
+
+You can freely rearrange hallways, rooms, and room modules you've purchased as you please.  However,you can not 'refund' anything once purchased: once you have a Room Module, whether you decide to use it or not, you can not 'sell it back' to regain the Overcap or Scrap spent on it. Energy, however, is required only for rooms actually placed and in use.
+
+For rooms which grant a bonus to a specific thing chosen when they are placed, you must spend eight downtime days taking a "Reconstruction" Downtime activity; on the last day, you repay the Scrap cost of the room in question, and can then change what its bonus applies to.  If you wish to change the elemental ninjutsu that The Pulse room module grants a bonus to, you'd have to use eight downtime days and pay 225 Scrap.
