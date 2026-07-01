@@ -564,9 +564,9 @@ Generators which provide energy must be connected (but need not be adjacent) to 
 #### Hallways
 Hallways are used to connect rooms to one another, both directly (aka, 'Adjacent'), and in chains (aka connections), and cost 5 Scrap each.  Rooms exist to allow the placement of Room Modules, which vary in their size and shape.  Because Room Modules can not be placed in the same room, you must separate rooms, using hallways, to fit multiple Room Modules within your house.
 
-Hallways can lead only from one room to one other room (or house exit/entrance), and can not be used to connect multiple rooms to multiple other rooms.  They can be as small as 1x1, or as large and as long as you like.
+Hallways can only have two connections, going to one cell from one other cell. They can be as small as 1x1, or as large and as long as you like.
 
-The first thing you must build is an entrance and an exit; hallways which are on the boundary of your plot can freely be turned into exits/entrances, and you must have at least two. Rooms can not have entrances/exits to the outside. If you have only one room, both entrances/exits can lead to the same room, but when you have two or more rooms, your exits/entrances must lead to different rooms.
+The first thing you must build is an entrance and an exit; hallways and rooms which are on the boundary of your plot can freely be turned into exits/entrances, and you must have at least two. If you have only one room, both entrances/exits can lead to the same room, but when you have two or more rooms, your exits/entrances must lead to different rooms.
 
 Stairways are a special type of hallway for Plot Types B and C that function as a hallway, costing 10 Scrap. They can be placed inside of a room cell; once placed, they lead directly up or down one level to the equivalent cell placement on that level (purchased once to apply to both levels), and count as one of the three hallways for a rooms maximum amount.  If connected to a hallway (rather than a room), like a hallway it can only connect to one other room.
 
